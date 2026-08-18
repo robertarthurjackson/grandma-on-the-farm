@@ -1,0 +1,593 @@
+[
+  {
+    "photo": 580,
+    "kind": "recipe",
+    "title": "Chicken Broth",
+    "attribution": "Ukrainian cook book",
+    "category": "Soups & Salads",
+    "ingredients": [
+      "1 lg. fowl",
+      "2 1/2 - 3 qts cold water",
+      "1 tbsp. salt",
+      "1 sm. onion, sliced & browned",
+      "1 sm. carrot sliced",
+      "2\" pc celery if desired",
+      "2 sprigs parsley",
+      "salt"
+    ],
+    "directions": [
+      "Wash chicken - Cover chicken with water, add salt.",
+      "Bring slowly to boil - skim. Cover & simmer for about 2 hours.",
+      "Add the vegetables & simmer till meat is tender. Season to taste with salt. Strain broth, add meat."
+    ],
+    "notes": [
+      "(Ukrainian cook book)",
+      "good - added 1 tin chicken broth (pencil note at top)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "good - added 1 tin chicken\nChicken Broth!   (Ukrainian cook book)   broth\n1 lg. fowl.                        1 sm. carrot sliced\n2 1/2 - 3 qts cold water           2\" pc celery if desired\n1 tbsp. salt.                      2 sprigs parsley\n1 sm. onion, sliced & browned.     salt.\n\nWash chicken - Cover chicken c̄ water, add salt.\nBring slowly to boil - skim. Cover & simmer for\nabout 2 hours. add the vegetables & simmer till\nmeat is tender. season to taste c̄ salt. strain broth\nadd meat,",
+    "confidence": "high"
+  },
+  {
+    "photo": 581,
+    "kind": "recipe",
+    "title": "Crab Soup",
+    "attribution": "Helen S. Cookbook",
+    "category": "Soups & Salads",
+    "ingredients": [
+      "1 qt milk",
+      "1 can celery soup",
+      "1 can green pea soup",
+      "1 can mushroom soup",
+      "1 can tomato soup",
+      "1 tin crab meat",
+      "2 tbsp. minced onion",
+      "sprinkle with parsley"
+    ],
+    "directions": [
+      "NB: Heat all above, stir constant - do not boil."
+    ],
+    "notes": [
+      "(re Helen S. Cookbook)",
+      "\"do not boil\" underlined twice"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Crab Soup.   (re Helen S. Cookbook)\n1 qt milk\n1 can celery soup\n1 \" green pea \"\n1 \" mushroom \"\n1 \" tomato \"\n1 tin crab meat.\n2 tbsp. minced onion.\nsprinkle c̄ parsley.\nNB  Heat all above stir constant - do not boil.",
+    "confidence": "high"
+  },
+  {
+    "photo": 582,
+    "kind": "clipping",
+    "title": "Onion and Potato Soup",
+    "attribution": null,
+    "category": "Soups & Salads",
+    "ingredients": [
+      "3 medium onions, chopped (3)",
+      "2 Tbsp. butter (25 mL)",
+      "4 medium potatoes, peeled and cubed (4)",
+      "2 cans (10 oz./284 mL) chicken stock (2)",
+      "3 cups milk (750 mL)",
+      "1 cup shredded old Cheddar cheese (250 mL)",
+      "1/2 tsp. celery seed (2 mL)"
+    ],
+    "directions": [
+      "In a large Dutch oven, add onions and butter and saute for 5 minutes, or until onions are tender.",
+      "Add potatoes and broth. Bring to a boil, then simmer for 15 minutes.",
+      "Remove from heat and puree soup in a blender or food processor until smooth.",
+      "Return hot soup to Dutch oven and add milk, cheese and celery seed. Gently reheat until cheese melts. Do not boil.",
+      "Makes 6 - 8 servings."
+    ],
+    "notes": [
+      "The celery seed adds an unusual but tasty flavour to this soup.",
+      "Check mark in pen at top right",
+      "Makes 6 - 8 servings"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "ONION AND POTATO SOUP\nThe celery seed adds an unusual but tasty flavour to this soup.   ✓\n3          medium onions, chopped                    3\n2 Tbsp.    butter                                    25 mL\n4          medium potatoes, peeled and cubed         4\n2          cans (10 oz./284 mL) chicken stock        2\n3 cups     milk                                      750 mL\n1 cup      shredded old Cheddar cheese               250 mL\n1/2 tsp.   celery seed                               2 mL\nIn a large Dutch oven, add onions and butter and saute for 5 minutes, or\nuntil onions are tender. Add potatoes and broth. Bring to a boil, then\nsimmer for 15 minutes. Remove from heat and puree soup in a blender or\nfood processor until smooth. Return hot soup to Dutch oven and add\nmilk, cheese and celery seed. Gently reheat until cheese melts. Do not\nboil.\nMakes 6 - 8 servings.",
+    "confidence": "high"
+  },
+  {
+    "photo": 583,
+    "kind": "clipping",
+    "title": "Hearty Alberta Chowder",
+    "attribution": "Alberta Pork",
+    "category": "Soups & Salads",
+    "ingredients": [
+      "1 lb. (500 g) Chorizo, Italian or your favourite fresh Pork sausage",
+      "1 tsp. (5 ml) vegetable oil",
+      "1 (1) onion, chopped",
+      "3 (3) cloves garlic, minced",
+      "1 (1) celery stalk, diced",
+      "1/2 cup (125 ml) chopped green pepper",
+      "1/4 cup (50 ml) all-purpose flour",
+      "2 (2) large potatoes, peeled and diced",
+      "3/4 cup (175 ml) diced carrots",
+      "12 fl oz (341 ml) kernel corn, undrained",
+      "5 cups (1.25 l) beef broth and water*",
+      "19 oz (540 ml) diced tomatoes",
+      "1 tsp. (5 ml) Worcestershire sauce",
+      "2 (2) bay leaves",
+      "1/4 tsp. (1 ml) each thyme, salt and pepper",
+      "chopped parsley"
+    ],
+    "directions": [
+      "*2 (10 fl oz/284 ml) cans beef broth with 2 cans water makes 5 cups/1.25 ml.",
+      "1. In a large heavy saucepan, saute Pork sausage over medium heat 10 to 11 minutes, until sausage browned; remove from pan; drain; slice thinly and keep warm.",
+      "2. Heat oil in soup pot; add onion, garlic, celery and green pepper; stir and cook 4 minutes or until vegetables are softened. Stir in flour; cook 1 minute. Add potatoes, carrots, corn and liquid, broth, tomatoes, 1 cup (250 ml) water, Worcestershire sauce, bay leaves, thyme, salt and pepper; bring to a boil; cover and simmer 6 minutes.",
+      "3. Add cooked sausage and continue cooking until vegetables are tender, about 6 minutes. Sprinkle with parsley."
+    ],
+    "notes": [
+      "\"good\" written in pen at top right",
+      "Preparation time: 15 minutes. Cooking time: 26 minutes. Makes 13 cups (3.25 l).",
+      "One serving: 205 Calories (858 kJ); 13 g Fat; 8.5 g Protein; 15 g Carbohydrates",
+      "Reprinted with permission from Alberta Pork. For more recipes visit www.albertapork.com",
+      "Print in the middle of the clipping is doubled/ghosted (offset printing), but legible"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Hearty Alberta Chowder          good\nPreparation time: 15 minutes.\nCooking time: 26 minutes.\nMakes 13 cups (3.25 l).\ningredients\n1 lb.      (500 g)    Chorizo, Italian or your favourite fresh Pork sausage\n1 tsp.     (5 ml)     vegetable oil\n1          (1)        onion, chopped\n3          (3)        cloves garlic, minced\n1          (1)        celery stalk, diced\n1/2 cup    (125 ml)   chopped green pepper\n1/4 cup    (50 ml)    all-purpose flour\n2          (2)        large potatoes, peeled and diced\n3/4 cup    (175 ml)   diced carrots\n12 fl oz   (341 ml)   kernel corn, undrained\n5 cups     (1.25 l)   beef broth and water*\n19 oz      (540 ml)   diced tomatoes\n1 tsp.     (5 ml)     Worcestershire sauce\n2          (2)        bay leaves\n1/4 tsp.   (1 ml)     each thyme, salt and pepper\n                      chopped parsley\n*2 (10 fl oz/284 ml) cans beef broth with 2 cans water makes 5 cups/1.25 ml.\n1. In a large heavy saucepan, saute Pork sausage over medium heat 10 to 11 minutes, until sausage browned; remove from pan; drain; slice thinly and keep warm.\n2. Heat oil in soup pot; add onion, garlic, celery and green pepper; stir and cook 4 minutes or until vegetables are softened. Stir in flour; cook 1 minute. Add potatoes, carrots, corn and liquid, broth, tomatoes, 1 cup (250 ml) water, Worcestershire sauce, bay leaves, thyme, salt and pepper; bring to a boil; cover and simmer 6 minutes.\n3. Add cooked sausage and continue cooking until vegetables are tender, about 6 minutes. Sprinkle with parsley.\nOne serving: 205 Calories (858 kJ); 13 g Fat; 8.5 g Protein; 15 g Carbohydrates\nReprinted with permission from Alberta Pork. For more recipes visit www.albertapork.com",
+    "confidence": "high"
+  },
+  {
+    "photo": 584,
+    "kind": "clipping",
+    "title": "Country Beef Ragout",
+    "attribution": "Beef Information Centre (foodforthought, fall 2002)",
+    "category": "Main Dishes",
+    "ingredients": [
+      "1 lb. (500 g) stewing cubes",
+      "1 (1) large onion, cut in wedges",
+      "1 (1) clove garlic, crushed",
+      "2 (2) large celery stalks, cut in 1\" (2.5 cm) pieces",
+      "1 (1) can (28 oz/796 ml) whole seasoned tomatoes",
+      "1/2 tsp. (2 ml) dried thyme",
+      "1/2 cup (125 ml) dry red wine",
+      "1 tsp. (5 ml) concentrated liquid beef stock (i.e. Bovril)",
+      "1 cup (250 ml) mushrooms, quartered"
+    ],
+    "directions": [
+      "1. Brown beef cubes on all sides in lightly oiled skillet. Remove and place in oven-proof casserole.",
+      "2. In the skillet, cook onions, garlic and celery for 2 - 3 minutes and stir in remaining ingredients, except mushrooms. Bring to boil, stirring constantly. Season with salt and pepper and pour over beef.",
+      "3. Cover casserole and place in preheated 350°F (180°C) oven. After 1 hour, add mushrooms and cook for another 1-1/2 hours, removing lid for last 15 minutes. Serve over noodles or garlic mashed potatoes.",
+      "Time Saver Tip: To make this stew in a hurry, mix 1 pouch (approx. 56 g) quick stew mix with water according to package directions. Add beef and marinate in pot for 30 minutes. Bring to a boil, add remaining ingredients (using a 14 oz/398 ml) can of tomatoes instead) and simmer covered for 20 - 30 minutes."
+    ],
+    "notes": [
+      "This delicious stew can also be made in the slow cooker, just combine all ingredients and cook covered for 5 - 6 hours on High, or 10 - 12 hours on Low.",
+      "Preparation time: 15 minutes. Cooking time: 2-1/2 hours. Makes 4 servings.",
+      "One serving: 249 Calories; 29 g Protein; 8.7 g Fat; 14 g Carbohydrates",
+      "Reprinted with permission from the Beef Information Centre. For more recipes visit www.beefinfo.org",
+      "Handwritten note: NB use real wine instead of wine vinegar",
+      "Page 12, foodforthought, fall 2002; photo of ragout over noodles below",
+      "Corner of the page folded/torn at top right (fragment of text on the back: '...gian ...siness is')"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Country Beef Ragout\nThis delicious stew can also be made in the slow cooker, just combine all ingredients and cook covered for 5 - 6 hours on High, or 10 - 12 hours on Low.\nPreparation time: 15 minutes.\nCooking time: 2-1/2 hours.\nMakes 4 servings.\ningredients\n1 lb.     (500 g)    stewing cubes\n1         (1)        large onion, cut in wedges\n1         (1)        clove garlic, crushed\n2         (2)        large celery stalks, cut in 1\" (2.5 cm) pieces\n1         (1)        can (28 oz/796 ml) whole seasoned tomatoes\n1/2 tsp.  (2 ml)     dried thyme\n1/2 cup   (125 ml)   dry red wine\n1 tsp.    (5 ml)     concentrated liquid beef stock (i.e. Bovril)\n1 cup     (250 ml)   mushrooms, quartered\n1. Brown beef cubes on all sides [in] lightly oiled skillet. Remove and plac[e in] oven-proof casserole.\n2. In the skillet, cook onions, garlic and celery for 2 - 3 minutes and stir in remaining ingredients, except mushrooms. Bring to boil, stirring constantly. Season with salt and pepper and pour over beef.\n3. Cover casserole and place in preheated 350°F (180°C) oven. After 1 hour, add mushrooms and cook for another 1-1/2 hours, removing lid for last 15 minutes. Serve over noodles or garlic mashed potatoes.\nTime Saver Tip: To make this stew in a hurry, mix 1 pouch (approx. 56 g) quick stew mix with water according to package directions. Add beef and marinate in pot for 30 minutes. Bring to a boil, add remaining ingredients (using a 14 oz/398 ml) can of tomatoes instead) and simmer covered for 20 - 30 minutes.\nOne serving: 249 Calories; 29 g Protein; 8.7 g Fat; 14 g Carbohydrates\nReprinted with permission from the Beef Information Centre. For more recipes visit www.beefinfo.org\nNB use real wine instead of wine vinegar   (handwritten)\n[photo of beef ragout over egg noodles]\n12   foodforthought   fall 2002",
+    "confidence": "high"
+  },
+  {
+    "photo": 585,
+    "kind": "recipe",
+    "title": "Cream of Tomato Soup",
+    "attribution": "Mary Ann",
+    "category": "Soups & Salads",
+    "ingredients": [
+      "2 - 19 oz. can tomatoes (crushed)",
+      "1 lg. onion finely chopped",
+      "1 c chopped celery",
+      "10 oz can chicken broth",
+      "1/2 c spicy clamato juice",
+      "1 tsp. dill",
+      "1/4 c butter or marg.",
+      "1/2 c flour",
+      "4 c milk",
+      "1 c cheese whiz",
+      "parsley (sprinkle)"
+    ],
+    "directions": [],
+    "notes": [
+      "V.G.",
+      "re Mary Ann - Bud & Bridg[?] (attribution note at top right, partly unclear)",
+      "Directions continue on back (photo 586)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "                                          V.G.\nCream of Tomato Soup.        re Mary Ann\n                                  Bud & Bridg[?]\n2 - 19 oz. can tomatoes (crushed)\n1 lg. onion finely chopped.\n1 c chopped celery.\n10 oz can chicken broth\n1/2 c spicy clamato juice\n1 tsp. dill\n1/4 c butter or marg.\n1/2 c flour.                1 c cheeze whiz\n4 c milk                    parsley. (sprinkle)   (...[?])",
+    "confidence": "medium"
+  },
+  {
+    "photo": 586,
+    "kind": "continuation",
+    "title": "Cream of Tomato Soup",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Simmer tomatoes, onion, celery, broth, clamato juice & dill until veggies are cooked, about 20 min.",
+      "In a med. sized pan, melt butter & blend in flour to make a paste. Add milk slowly, stirring constantly, to make a thick white sauce.",
+      "Stir in vegetable mixture. Fold in cheese whiz & garnish with parsley.",
+      "Serves 4-6."
+    ],
+    "notes": [
+      "Serves 4-6 (the 4 appears crossed out / written over with 6)",
+      "Ink scribble in the middle of the card"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "[Simmer?] tomatoes, onion, celery, broth, clamato\njuice & dill until veggies are cooked, about\n20 min. In a med. sized pan, melt butter & blend in\nflour to make a paste. add milk slowly, stirring\nconstantly, to make a thick white sauce.\nstir in vegetable mixture. Fold in [scribble] cheeze whiz\n& garnish c̄ parsley. serves 4/6.",
+    "confidence": "high"
+  },
+  {
+    "photo": 587,
+    "kind": "clipping",
+    "title": null,
+    "attribution": null,
+    "category": "Soups & Salads",
+    "ingredients": [
+      "2 Tbsp. butter (25 mL)",
+      "1 cup diced cooked ham (250 mL)",
+      "1 cup chopped onion (250 mL)",
+      "2 Tbsp. flour (25 mL)",
+      "1 cup water (250 mL)",
+      "1 cup cereal cream (250 mL)",
+      "3 cups corn kernels (fresh, frozen or canned) (750 mL)",
+      "1 can (14 oz/398 mL) red kidney beans, drained (1)",
+      "1 tsp. curry powder (5 mL)",
+      "1/2 tsp. salt (2 mL)"
+    ],
+    "directions": [
+      "In a heavy bottomed Dutch Oven or large saucepan, melt butter over medium heat and saute ham and onions until onions are soft but not browned.",
+      "Stir in flour and cook 1 minute. Stir in water and continue stirring until mixture has thickened.",
+      "Slowly stir in cream, add corn, beans and seasoning. Continue to heat, but do not boil until corn has cooked, about 15 minutes.",
+      "Makes 4 - 6 servings."
+    ],
+    "notes": [
+      "Title is cut off the top of the clipping; appears to be a ham, corn and kidney bean chowder/soup",
+      "Fragment of intro line visible at top: '...make wonderful comforting meals.'",
+      "Makes 4 - 6 servings"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "[...]s make wonderful comforting meals.\n2 Tbsp.   butter                                        25 mL\n1 cup     diced cooked ham                              250 mL\n1 cup     chopped onion                                 250 mL\n2 Tbsp.   flour                                         25 mL\n1 cup     water                                         250 mL\n1 cup     cereal cream                                  250 mL\n3 cups    corn kernels (fresh, frozen or canned)        750 mL\n1         can (14 oz/398 mL) red kidney beans, drained  1\n1 tsp.    curry powder                                  5 mL\n1/2 tsp.  salt                                          2 mL\nIn a heavy bottomed Dutch Oven or large saucepan, melt butter over medium heat and saute ham and onions until onions are soft but not browned. Stir in flour and cook 1 minute. Stir in water and continue stirring until mixture has thickened. Slowly stir in cream, add corn, beans and seasoning. Continue to heat, but do not boil until corn has cooked, about 15 minutes.\nMakes 4 - 6 servings.",
+    "confidence": "high"
+  },
+  {
+    "photo": 588,
+    "kind": "non-recipe",
+    "title": "VEGETABLES",
+    "attribution": null,
+    "category": "Other",
+    "ingredients": [],
+    "directions": [],
+    "notes": [
+      "Recipe box divider card with orange tab labelled VEGETABLES; otherwise blank"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "VEGETABLES",
+    "confidence": "high"
+  },
+  {
+    "photo": 589,
+    "kind": "recipe",
+    "title": "Mushrooms",
+    "attribution": "M.A. Ukrainian cook book",
+    "category": "Vegetables & Sides",
+    "ingredients": [
+      "1/2 sm onion - chopped fine } cook tog.",
+      "2 tbsp. butter } cook tog.",
+      "1 tbsp. flour",
+      "1 c sliced mushrooms",
+      "1/2 c meat or chicken stock",
+      "1/2 c sour cream",
+      "1 tsp dill or parsley",
+      "salt & pepper"
+    ],
+    "directions": [],
+    "notes": [
+      "re M.A. Ukrainian cook book",
+      "Onion and butter bracketed: 'cook tog.'",
+      "No directions written beyond the bracket note"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Mushrooms.  re M.A. Ukrainian cook book.\n1/2 sm onion - chopped fine }\n2 tbsp. butter               } cook tog.\n1 tbsp. flour.\n1 c sliced mushrooms.\n1/2 c meat or chicken stock.\n1/2 c sour cream\n1 tsp dill or parsley\nsalt & pepper. -",
+    "confidence": "high"
+  },
+  {
+    "photo": 590,
+    "kind": "recipe",
+    "title": "Parmesan Potatoes",
+    "attribution": "Kerby News",
+    "category": "Vegetables & Sides",
+    "ingredients": [
+      "6 med. potatoes (russet)",
+      "4 tbsp olive oil",
+      "1 tsp. salt",
+      "1/2 tsp garlic powder",
+      "1/4 tsp oregano",
+      "1/4 tsp basil",
+      "1/4 tsp parsley flakes",
+      "1/2 tsp pepper",
+      "1/2 tsp chili pwd.",
+      "1/2 sm. onion diced",
+      "6 tbsp grated parmesan cheese"
+    ],
+    "directions": [
+      "Cut potatoes into 1\" cubes. In a bowl combine oil & spices. Add potatoes & onions. Toss to cover thoroughly.",
+      "Place mixture into centre of a lg pc aluminum foil - fold in sides - seal.",
+      "Place pkg on barbecue - flipping q 7 min until cooked, about 1/2 hr. - (√ potatoes pc 15 min.)",
+      "Variations: swiss or mozzarella cheese can be substituted"
+    ],
+    "notes": [
+      "re: Kerby News",
+      "over (continues on back, photo 591)",
+      "Variations underlined"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Parmesan Potatoes                    re: Kerby News.\n6 med. potatoes (russet)    6 tbsp grated parmesan cheese.\n4 tbsp olive oil            -\n1 tsp. salt.                Cut potatoes into 1\" cubes. In a bowl\n1/2 \" garlic powder.        combine oil & spices. add potatoes &\n1/4 \" oregano               onions. Toss to cover thoroughly. Place\n1/4 \" basil                 mixture into centre of a lg pc aluminum\n1/4 \" parsley flakes.       foil - fold in sides - seal. - Place pkg on\n1/2 \" pepper.               barbecue. - flipping q 7 min until cooked.\n1/2 \" chili pwd.            about 1/2 hr. - (√ potatoes pc 15 min.)        over\n1/2 sm. onion diced   Variations  swiss or mozzarella cheese can be substituted",
+    "confidence": "high"
+  },
+  {
+    "photo": 591,
+    "kind": "continuation",
+    "title": "Parmesan Potatoes",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Changing the cheese - changes the flavor."
+    ],
+    "notes": [
+      "Back of Parmesan Potatoes card; single line at top, rest blank"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "changing the cheese - changes the flavor.",
+    "confidence": "high"
+  },
+  {
+    "photo": 592,
+    "kind": "clipping",
+    "title": "Beatrice Stuffed Mushrooms",
+    "attribution": "Beatrice / Heritage",
+    "category": "Vegetables & Sides",
+    "ingredients": [
+      "12 fairly large domestic mushroom caps",
+      "2 strips bacon, chopped",
+      "1 tablespoon shallots, chopped fine",
+      "2 tablespoons melted butter",
+      "1 cup chopped stems and pieces from domestic mushrooms",
+      "3 tablespoons softened cream cheese or sour cream",
+      "1/4 cup fine, dry bread crumbs, seasoned with pinch of salt and pepper",
+      "1/4 teaspoon chopped parsley",
+      "Salt and pepper to taste"
+    ],
+    "directions": [
+      "1. Clean the mushroom caps with a brush.",
+      "2. Sauté the bacon with the shallots until the bacon fat liquefies.",
+      "3. Pour off most of the bacon fat, and replace with a little of the melted butter.",
+      "4. Mix in the chopped stems and pieces, cream cheese or sour cream, bread crumbs, parsley, and salt and pepper.",
+      "5. Place the cleaned mushrooms, stem side up, on a buttered broiler pan, and fill with the mixture, heaping into rounds.",
+      "6. Drizzle a little melted butter on them, and broil until heated through and lightly browned, about 1 to 2 minutes.",
+      "LOW CALORIE RECIPE: For a lighter filling use Beatrice Light Cream Cheese and Yogurt in place of Beatrice Regular Cream Cheese and Sour Cream."
+    ],
+    "notes": [
+      "Printed promotional sheet headed HERITAGE with mushroom drawings; section header FIRST COURSES",
+      "Low calorie variation given"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "HERITAGE\nBEATRICE STUFFED MUSHROOMS\n12 fairly large domestic mushroom caps\n2 strips bacon, chopped\n1 tablespoon shallots, chopped fine\n2 tablespoons melted butter\n1 cup chopped stems and pieces from domestic mushrooms\n3 tablespoons softened cream cheese or sour cream\n1/4 cup fine, dry bread crumbs, seasoned with pinch of salt and pepper\n1/4 teaspoon chopped parsley\nSalt and pepper to taste\nFIRST COURSES\n1. Clean the mushroom caps with a brush.\n2. Sauté the bacon with the shallots until the bacon fat liquefies.\n3. Pour off most of the bacon fat, and replace with a little of the melted butter.\n4. Mix in the chopped stems and pieces, cream cheese or sour cream, bread crumbs, parsley, and salt and pepper.\n5. Place the cleaned mushrooms, stem side up, on a buttered broiler pan, and fill with the mixture, heaping into rounds.\n6. Drizzle a little melted butter on them, and broil until heated through and lightly browned, about 1 to 2 minutes.\nLOW CALORIE RECIPE\nFor a lighter filling use Beatrice Light Cream Cheese and Yogurt in place of Beatrice Regular Cream Cheese and Sour Cream.",
+    "confidence": "high"
+  },
+  {
+    "photo": 593,
+    "kind": "recipe",
+    "title": "Rita's Zuccini",
+    "attribution": "Rita",
+    "category": "Vegetables & Sides",
+    "ingredients": [
+      "onion } marg.",
+      "zuccini } marg.",
+      "cheese ritz crackers",
+      "veg. salt, pepper, seas. salt",
+      "Broth from chicken soup or lamb broth"
+    ],
+    "directions": [
+      "Saute onion, add sliced zuccini (unpeeled) - cook till crispy.",
+      "Add crushed crackers, seasoning, mix well - add broth, stir & simmer till done."
+    ],
+    "notes": [
+      "good.",
+      "No quantities given; onion and zuccini bracketed with 'marg.' (sauteed in margarine)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Rita's Zuccini                              good.\nonion   }           cheese ritz crackers\nzuccini } marg.,    veg. salt, pepper, seas. salt.\nBroth from chicken soup or lamb broth.\n\nSaute onion, add sliced zuccini (unpeeled) -\ncook till crispy. - add crushed crackers, seasoning\nmix well - add broth, stir & simmer till done.",
+    "confidence": "high"
+  },
+  {
+    "photo": 594,
+    "kind": "recipe",
+    "title": "Schwartie's Hash Browns",
+    "attribution": "Mary Ann",
+    "category": "Vegetables & Sides",
+    "ingredients": [
+      "2 lbs. frozen hash browns",
+      "1 - 500 ml sour cream",
+      "2 tins mushroom soup",
+      "1/2 c melted butter",
+      "grated onion & salt to taste",
+      "2 c grated cheddar cheese",
+      "Parmesan cheese"
+    ],
+    "directions": [
+      "Thaw potatoes slightly for easier mixing. Mix 1st 6 ingred. in a 9 x 13\" pan.",
+      "Sprinkle with Parmesan on top.",
+      "Bake @ 350° for 1 - 1 1/2 hrs."
+    ],
+    "notes": [
+      "(Mary Ann)",
+      "First 6 ingredients bracketed together"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Schwartie's Hash Browns. (Mary Ann)\n2 lbs. frozen hash browns      }\n1 - 500 ml. sour cream         }\n2 tins mushroom soup           }\n1/2 c melted butter            }\ngrated onion & salt to taste   }\n2 c grated cheddar cheese.     }\nParmesan cheese.\nthaw potatoes slightly for easier mixing. Mix 1st 6\ningred. in a 9 x 13\" pan. Sprinkle c̄ Parmesan on top.\n                        Bake @ 350° for 1 - 1 1/2 hrs.",
+    "confidence": "high"
+  },
+  {
+    "photo": 595,
+    "kind": "recipe",
+    "title": "Lentils",
+    "attribution": null,
+    "category": "Vegetables & Sides",
+    "ingredients": [
+      "onion & red pepper",
+      "1 1/2 c green lentils (rinse)",
+      "1 can tomatoes",
+      "1 pkg frozen spinach",
+      "curry pwd."
+    ],
+    "directions": [
+      "Simmer 30-40 min."
+    ],
+    "notes": [
+      "Written on lined notepaper, not a card",
+      "'30-40' crossed out after 'rinse' and rewritten as the last line"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Lentils\nonion & red pepper.\n1 1/2 c green lentils. (rinse) ~~30-40~~.\n1 can tomatoes\n1 pkg frozen spinach\ncurry pwd.\nsimmer 30-40 min.",
+    "confidence": "high"
+  },
+  {
+    "photo": 596,
+    "kind": "recipe",
+    "title": "Yammy Apples",
+    "attribution": null,
+    "category": "Vegetables & Sides",
+    "ingredients": [
+      "2 - 19 oz cans yams - sliced into thin slices",
+      "4 juicy red apples peeled & sliced",
+      "3 tbsp lemon juice",
+      "3 tbsp brown sugar",
+      "1 1/2 tsp cinnamon",
+      "3 tbsp butter",
+      "mini marshmallows (optional)"
+    ],
+    "directions": [
+      "(May be made in layers). Start with 2 1/2 quart buttered casserole & make"
+    ],
+    "notes": [
+      "Different handwriting (printed, brown ink) from most cards",
+      "Continues on back (photo 597)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Yammy Apples\n2 - 19 oz cans yams - sliced into\n          thin slices\n4 juicy red apples peeled & sliced\n3 tbsp lemon juice\n3 tbsp brown sugar\n1 1/2 tsp cinamon\n3 tbsp butter\nmini marshmellows (optional)\n(May be made in layers). Start c̄\n2 1/2 quart buttered casserole & make",
+    "confidence": "high"
+  },
+  {
+    "photo": 597,
+    "kind": "continuation",
+    "title": "Yammy Apples",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "1\" layer of sliced yams. Cover completely with 1/2 of sliced apples. Sprinkle with 1/2 of brown sugar, 1/2 lemon juice & 1/2 cinnamon. Then dab with 1/2 butter.",
+      "Repeat layers. Bake 350° x 30 mins.",
+      "If desired, 10 mins. before cooking time ended, cover with layer of miniature marshmallows & bake til turn golden brown."
+    ],
+    "notes": [
+      "'yams' crossed out and replaced with 'apples' in second line"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "1\" layer of sliced yams. Cover completely\nc̄ 1/2 of sliced ~~yams~~ apples. Sprinkle\nc̄ 1/2 of brown sugar, 1/2 lemon juice\n& 1/2 cinamon. then dab c̄ 1/2 butter.\nRepeat layers. Bake 350° x 30 mins.\nIf desired, 10 mins. before cooking\ntime ended, cover c̄ layer of\nminiature marshmellows - & bake\ntil turn golden brown.",
+    "confidence": "high"
+  },
+  {
+    "photo": 598,
+    "kind": "clipping",
+    "title": "Colcannon",
+    "attribution": null,
+    "category": "Vegetables & Sides",
+    "ingredients": [
+      "6 medium potatoes, peeled (6)",
+      "1/2 small head of cabbage, shredded (1/2)",
+      "3 stalks green onion, finely chopped (3)",
+      "1/4 cup water (50 mL)",
+      "1/2 cup milk (125 mL)",
+      "2 Tbsp. butter or margarine (25 mL)",
+      "1/2 tsp. salt (2 mL)",
+      "Dash pepper (Dash)"
+    ],
+    "directions": [
+      "Boil potatoes in water until tender. Drain and set potatoes aside.",
+      "In a pan, add cabbage, green onions and 1/4 cup (50 mL) water. Bring to a boil, reduce heat, cover and simmer for 5 minutes or until cabbage is tender crisp.",
+      "Meanwhile, mash potatoes and add in milk, butter, salt and pepper. Beat until potatoes are fluffy. Stir in cabbage mixture. Serve hot.",
+      "Makes 6 servings."
+    ],
+    "notes": [
+      "Potatoes play an essential part in the Irish diet.",
+      "Makes 6 servings",
+      "Clipping glued to a lined index card"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "COLCANNON\nPotatoes play an essential part in the Irish diet.\n6          medium potatoes, peeled              6\n1/2        small head of cabbage, shredded      1/2\n3          stalks green onion, finely chopped   3\n1/4 cup    water                                50 mL\n1/2 cup    milk                                 125 mL\n2 Tbsp.    butter or margarine                  25 mL\n1/2 tsp.   salt                                 2 mL\nDash       pepper                               Dash\nBoil potatoes in water until tender. Drain and set potatoes aside. In a pan, add cabbage, green onions and 1/4 cup (50 mL) water. Bring to a boil, reduce heat, cover and simmer for 5 minutes or until cabbage is tender crisp.\nMeanwhile, mash potatoes and add in milk, butter, salt and pepper. Beat until potatoes are fluffy. Stir in cabbage mixture. Serve hot.\nMakes 6 servings.",
+    "confidence": "high"
+  },
+  {
+    "photo": 599,
+    "kind": "recipe",
+    "title": "Beans (Baked)",
+    "attribution": null,
+    "category": "Vegetables & Sides",
+    "ingredients": [
+      "2 - 24 oz pork & beans",
+      "1/2 c br. sugar",
+      "1/4 c molasses",
+      "1 tbsp ketchup",
+      "2 tbsp vinegar",
+      "2 onions diced",
+      "1 tbsp mustard",
+      "1 tbsp Worcestershire sauce"
+    ],
+    "directions": [],
+    "notes": [
+      "No directions written on the card; ingredients only",
+      "'Worchestershire' as spelled on the card"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Beans (Baked)\n2 - 24 oz pork & beans\n1/2 c br. sugar.\n1/4 c molasses.\n1 tbsp ketchup\n2 \" vinegar\n2 onions diced\n1 tbsp mustard\n1 \" Worchestershire sauce",
+    "confidence": "high"
+  }
+]

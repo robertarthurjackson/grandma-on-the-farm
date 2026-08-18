@@ -1,0 +1,512 @@
+[
+  {
+    "photo": 320,
+    "kind": "continuation",
+    "title": "Individual Cheesecake",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "smooth. Line muffin tin c paper cup cake liner. Put 1 vanilla wafer in bottom of each. Spoon mixture over - 3/4 full.",
+      "Bake 18-20 min cool. - when sinks - put in pie filling."
+    ],
+    "notes": ["Back of the Individual Cheesecake card (photo 319); text starts mid-sentence: '...until smooth.'"],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "smooth. Line muffin tin c paper cup cake\nliner. Put 1 vanilla wafer in bottom of each.\nSpoon mixture over - 3/4 full.\nBake 18-20 min cool. - when sinks - put\nin pie filling.",
+    "confidence": "high"
+  },
+  {
+    "photo": 321,
+    "kind": "recipe",
+    "title": "Lemon Snow Pudding",
+    "attribution": null,
+    "category": "Desserts & Sweets",
+    "ingredients": [
+      "1 pkg. lemon jello",
+      "2 egg whites",
+      "— Soft custard —",
+      "2 c milk",
+      "2 egg yolks",
+      "1/4 c sugar",
+      "1 tbsp corn starch",
+      "1 tsp. vanilla"
+    ],
+    "directions": [
+      "Dissolve jello as directed on pkg. Cool & when quite thick beat until foamy. Add whites of eggs beaten stiff & continue beating till it holds its shape. Put aside to set again. Serve c soft custard.",
+      "Soft custard: 2 c milk, 2 egg yolks, 1/4 c sugar, 1 tbsp corn starch, 1 tsp. vanilla. Make like any pudding & cool. Pour over jello & serve - serves six."
+    ],
+    "notes": ["Serves six", "'soft custard' written sideways in the left margin beside the custard ingredients"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Lemon Snow Pudding.\n1 pkg. lemon jello.          2 egg whites\nDissolve jello as directed on pkg. Cool & when quite\nthick beat until foamy. Add whites of eggs beaten\nstiff & continue beating till it holds its shape.\nPut aside to set again. Serve c soft custard.\n[soft custard, sideways in margin] 2c milk, 2 egg yolks, 1/4 c sugar 1 tbsp corn starch\n1 tsp. vanilla. Make like any pudding & cool. Pour over\njello & serve - serves six.",
+    "confidence": "high"
+  },
+  {
+    "photo": 322,
+    "kind": "recipe",
+    "title": "Fruit Pizza",
+    "attribution": "re Ruth",
+    "category": "Desserts & Sweets",
+    "ingredients": [
+      "— Bottom crust — (dbl for cookie sheet) crust & cream",
+      "1/2 c butter",
+      "1/4 c icing sugar",
+      "1 c flour",
+      "— Cream —",
+      "4 oz cream cheese",
+      "1/3 c white sugar",
+      "1 tsp vanilla",
+      "sliced fruit - kiwi, strawberries, mandarins, bananas etc.",
+      "— Sauce — (don't double)"
+    ],
+    "directions": [
+      "Bottom crust: mix & pat onto cookie sheet - bake @ 350° - for 10 min - cool.",
+      "Cream: spread over cooled crust.",
+      "Cover c sliced fruit - kiwi, strawberries, mandarins, bananas etc.",
+      "Sauce - don't double - lightly cover fruit"
+    ],
+    "notes": ["(dbl for cookie sheet) crust & cream", "Sauce section continues on the back (photo 323)"],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Fruit Pizza    - re Ruth -\nBottom crust -    (dbl for cookie sheet) crust & cream\n1/2 c butter          1 c flour.\n1/4 c icing sugar        mix & pat onto cookie\nsheet - bake @ 350° - for 10 min - cool.\nCream\n4 oz cream cheese.      1 tsp vanilla -\n1/3 c white sugar   - spread over cooled crust\nCover c sliced fruit - kiwi, strawberries\nmandarins, bananas etc.\nSauce  don't double  [crossed out] - lightly cover fruit",
+    "confidence": "high"
+  },
+  {
+    "photo": 323,
+    "kind": "continuation",
+    "title": "Fruit Pizza",
+    "attribution": null,
+    "category": null,
+    "ingredients": [
+      "— Sauce —",
+      "1 c pineapple juice",
+      "1/2 c sugar",
+      "2 tbsp corn starch",
+      "1 tsp. lemon juice"
+    ],
+    "directions": [
+      "Cook till thick - cool & pour over fruit - enjoy."
+    ],
+    "notes": ["Back of the Fruit Pizza card (photo 322): the Sauce section"],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Sauce\n1 c pineapple juice        2 tbsp corn starch\n1/2 c sugar                1 tsp. lemon juice\nCook till thick - cool & pour over fruit -\n                              enjoy.",
+    "confidence": "high"
+  },
+  {
+    "photo": 324,
+    "kind": "recipe",
+    "title": "Ice Cream Plum Pudding",
+    "attribution": null,
+    "category": "Desserts & Sweets",
+    "ingredients": [
+      "1 c ch. raisins",
+      "1 c ch. sultanas",
+      "2 oz toasted almonds",
+      "2 oz ch. cherries (maraschino)",
+      "1 dessertspoon cocoa",
+      "1 dessertspoon cinnamon",
+      "1 tsp. mixed spice (cinnamon, allspice, nutmeg)",
+      "1 tsp. nutmeg",
+      "1/2 c rum, brandy, or marsalla (sherry) (try peach, cherry or apricot brandy)",
+      "1 pt. whip cream - whipped c 3 oz of icing sugar",
+      "4 egg whites - beat c 3 oz. of icing sugar",
+      "pinch of salt"
+    ],
+    "directions": [
+      "marinate for 12 hours",
+      "1 pt. whip cream - whipped c 3 oz of icing sugar.",
+      "4 egg whites - beat c 3 oz. of icing sugar add pinch of salt.",
+      "Fold cream & egg whites tog. - add fruit - place in ice cream container - freeze."
+    ],
+    "notes": [
+      "Written on folded, creased lined notepaper; several ingredients have check marks in the right margin",
+      "Something scribbled/underlined at top right, possibly initials [Meg?]/[M.A.?]",
+      "Marginal note by mixed spice: 'cinnamon, allspice, nutmeg' in a brace",
+      "'try peach, cherry or apricot brandy' squeezed in above 'marinate'",
+      "Same recipe recopied neatly on the card in photos 326-327 (Australia - re M.A.)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Ice Cream Plum Pudding.        [Meg?]\n1 c ch. raisins.\n1 c \" sultanas                    ✓\n2 oz toasted almonds\n2 oz ch cherries (maraschino).    ✓\n1 dessertspoon cocoa              ✓\n1 \" cinnamon           cinnamon }\n1 tsp. mixed spice     allspice }\n1 \" nutmeg.            nutmeg   }\n1/2 c rum, brandy, or marsalla (sherry)   ✓\n        try peach, cherry or apricot brandy\nmarinate for 12 hours\n1 pt. whip cream - whipped c            ✓\n3 oz of icing sugar.\n4 egg whites - beat c\n3 oz. of icing sugar add\npinch of salt.\nFold cream & egg whites tog. -\nadd fruit -\nplace in ice cream container - freeze.",
+    "confidence": "medium"
+  },
+  {
+    "photo": 325,
+    "kind": "clipping",
+    "title": "Lemon Snow",
+    "attribution": null,
+    "category": "Desserts & Sweets",
+    "ingredients": [
+      "2 pkgs (113 g) lemon pie filling powder",
+      "1 cup (250 mL) sugar",
+      "2 eggs, separated",
+      "2 lemons",
+      "2 tsp. (10 mL) grated lemon rind",
+      "1 1/2 cups (375 mL) warm water",
+      "2 Tbsp. (25 mL) butter"
+    ],
+    "directions": [
+      "In a saucepan combine pie filling, sugar, 2 egg yolks and juice of 2 lemons, (grate rind before juicing lemon). Add warm water. Cook and stir over medium until mixture boils and has thickened. Remove from heat. Stir in butter. Cool.",
+      "In a mixing bowl whip egg whites until stiff. Fold into cooled lemon mixture. Spoon into serving dishes.",
+      "Makes 4 cups (1 L)."
+    ],
+    "notes": ["Printed clipping (magazine/package style, red header)", "Slightly tart and refreshing. This is an easy make ahead dessert to follow a rich meal.", "Makes 4 cups (1 L)"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "LEMON SNOW\nSlightly tart and refreshing. This is an easy make ahead dessert to follow a rich meal.\n2          pkgs (113 g) lemon pie filling powder          2\n1 cup      sugar                                          250 mL\n2          eggs, separated                                2\n2          lemons                                         2\n2 tsp.     grated lemon rind                              10 mL\n1 1/2 cups warm water                                     375 mL\n2 Tbsp.    butter                                         25 mL\nIn a saucepan combine pie filling, sugar, 2 egg yolks and juice of 2 lemons, (grate rind before juicing lemon). Add warm water. Cook and stir over medium until mixture boils and has thickened. Remove from heat. Stir in butter. Cool.\nIn a mixing bowl whip egg whites until stiff. Fold into cooled lemon mixture. Spoon into serving dishes.\nMakes 4 cups (1 L).",
+    "confidence": "high"
+  },
+  {
+    "photo": 326,
+    "kind": "recipe",
+    "title": "Ice Cream Plum Pudding",
+    "attribution": "Australia - re M.A.",
+    "category": "Desserts & Sweets",
+    "ingredients": [
+      "1 c. chopped raisins",
+      "1 c. chopped sultanas",
+      "2 oz. toasted almonds",
+      "2 oz. chopped cherries (maraschino)",
+      "1 dessert spoon cocoa",
+      "1 dessert spoon cinnamon",
+      "1 tsp. mixed spice (cinnamon, allspice, nutmeg)",
+      "1 tsp. nutmeg",
+      "1/2 c rum, brandy or marsalla (sherry) (try peach, cherry or apricot brandy)"
+    ],
+    "directions": [],
+    "notes": ["Neat recopy of the folded-paper version in photo 324", "Marginal brace beside mixed spice: cinnamon, allspice, nutmeg", "'(sherry)' written above marsalla with an arrow", "Continues on back (photo 327)"],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Ice Cream Plum Pudding - (Australia - re M.A.)\n1 c. chopped raisins\n1 \"  \"  sultanas\n2 oz. toasted almonds\n2 oz. chopped cherries (maraschino)\n1 dessert spoon cocoa\n1 \" \" cinnamon\n1 tsp. mixed spice.     cinnamon }\n                        allspice }\n                        nutmeg   }\n1 \" nutmeg\n1/2 c rum, brandy or marsalla (sherry)\n(try peach, cherry or apricot brandy)",
+    "confidence": "high"
+  },
+  {
+    "photo": 327,
+    "kind": "continuation",
+    "title": "Ice Cream Plum Pudding",
+    "attribution": null,
+    "category": null,
+    "ingredients": [
+      "1 pt. whip cream - whipped c 3 oz of icing sugar",
+      "4 egg whites beaten c 3 oz of icing sugar",
+      "pinch of salt"
+    ],
+    "directions": [
+      "marinate for 12 hours - (reverse)",
+      "1 pt. whip cream - whipped c 3 oz of icing sugar.",
+      "4 egg whites beaten c 3 oz of icing sugar add pinch of salt.",
+      "Fold cream & egg whites together add fruit place in ice cream container - freeze."
+    ],
+    "notes": ["Back of the Ice Cream Plum Pudding card (photo 326)", "'(reverse)' written after 'marinate for 12 hours'"],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "marinate for 12 hours - (reverse)\n1 pt. whip cream - whipped c\n3 oz of icing sugar.\n4 egg whites beaten c\n3 oz of icing sugar add\npinch of salt.\nFold cream & egg whites together\nadd fruit\nplace in ice cream container - freeze.",
+    "confidence": "high"
+  },
+  {
+    "photo": 328,
+    "kind": "recipe",
+    "title": "Banana Boats (Quick Dessert)",
+    "attribution": null,
+    "category": "Desserts & Sweets",
+    "ingredients": [
+      "Bananas",
+      "graham biscuits",
+      "marshmallows",
+      "Chocolate bar"
+    ],
+    "directions": [
+      "slice banana lengthwise - place on dbl. graham wafer - place 2-3 marshmallows on banana, top c another dbl graham wafer - place chocolate bar on top for ex. score or"
+    ],
+    "notes": ["Continues on back (photo 329)"],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Banana Boats - (Quick Dessert)\nBananas\ngraham biscuits\nmarshmallows\nChocolate bar.\nslice banana lengthwise - place on dbl.\ngraham wafer - place 2-3 marshmallows\non banana, top c another dbl graham\nwafer - place chocolate bar on top for ex. score or",
+    "confidence": "high"
+  },
+  {
+    "photo": 329,
+    "kind": "continuation",
+    "title": "Banana Boats (Quick Dessert)",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "dairy milk bar - Wrap in foil - place near bonfire - delicious"
+    ],
+    "notes": ["Back of the Banana Boats card (photo 328); text written at the bottom of an otherwise blank side", "- delicious"],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "dairy milk bar -\nWrap in foil - place near bonfire\n                    - delicious",
+    "confidence": "high"
+  },
+  {
+    "photo": 330,
+    "kind": "non-recipe",
+    "title": "SLICES - BARS",
+    "attribution": null,
+    "category": "Other",
+    "ingredients": [],
+    "directions": [],
+    "notes": ["Recipe box divider/tab card labeled 'SLICES - BARS' (blue ink on tab) with 'Easy slices' written in pencil below"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "SLICES - BARS\nEasy slices",
+    "confidence": "high"
+  },
+  {
+    "photo": 331,
+    "kind": "recipe",
+    "title": "Nanaimo Bars - Special Icing",
+    "attribution": null,
+    "category": "Cookies & Bars",
+    "ingredients": [
+      "— Special Icing —",
+      "1/4 cup butter",
+      "3 T milk",
+      "2 T vanilla custard powder",
+      "2 cups sifted icing sugar",
+      "— Chocolate topping —",
+      "[4?] squares semi-sweet chocolate",
+      "[1 T?] butter"
+    ],
+    "directions": [
+      "Do not melt butter. Cream 1/4 cup butter, add 3T milk which has been combined with 2T vanilla custard powder, blend in 2 cups sifted icing sugar, spread over chocolate base, let stand for [15?] minutes to harden.",
+      "Melt [4?] squares semi-sweet chocolate c [1 T?] butter, spread over custard.",
+      "When set - cut in bars. Nuts may be arranged in chocolate icing."
+    ],
+    "notes": [
+      "This is the icing/back side of the Nanaimo Bars card whose front (base) is photo 332 (Mrs. Donaleshen); the back was photographed first",
+      "Left edge of the photo shows a ghosted double image, so the first word or number of each line is partly obscured; readings in brackets are inferred"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "[Spe]cial Icing --   Do not melt butter.\n[Cre]am 1/4 cup butter, add 3T milk which\n[has] been combined with 2T vanilla custard\n[powder] blend in 2 cups sifted icing sugar,\n[spread] over chocolate base, let stand, for\n[15?] minutes to harden.\nMelt [4?] squares semi-sweet chocolate c\n[1 T?] butter, spread over custard.\nWhen set - cut in bars. Nuts may be\narranged in chocolate icing.",
+    "confidence": "medium"
+  },
+  {
+    "photo": 332,
+    "kind": "recipe",
+    "title": "Nanaimo Bars",
+    "attribution": "Mrs. Donaleshen",
+    "category": "Cookies & Bars",
+    "ingredients": [
+      "1/2 cup butter",
+      "1/4 c [brown?] sugar",
+      "5 T cocoa",
+      "1 t vanilla",
+      "1 egg",
+      "2 cups graham crumbs (28 wafers)",
+      "1 cup cocoanut",
+      "1/2 cup chopped walnuts"
+    ],
+    "directions": [
+      "Method: Place softened butter, sugar, cocoa, vanilla & egg in bowl. Set bowl in dish of boiling H2O. Stir until butter has melted & mixture resembles custard. Combine graham wafer crumbs, cocoanut, & nuts - blending well. Add to the cooked mixture - Pack evenly in 9x9\" pan. Spread c icing."
+    ],
+    "notes": [
+      "Icing is on the back of this card, photographed as photo 331",
+      "Left column of ingredients is doubled/ghosted in the photo (creased paper), so quantities were read from the clearer overlay: 1/2 cup butter, 1/4 c sugar, 5 T cocoa, 1 t vanilla",
+      "(28 wafers) noted beside graham crumbs",
+      "9x9\" pan"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Nanaimo Bars        - Mrs. Donaleshen\n1/2 cup butter              1 egg        (28 wafers)\n1/4 c [brown?] sugar        2 cups graham crumbs\n5 T cocoa                   1 cup cocoanut\n1 t vanilla                 1/2 cup chopped walnuts\nMethod:  Place softened butter, sugar, cocoa,\nvanilla & egg in bowl. Set bowl in dish\nof boiling H2O. Stir until butter has melted\n& mixture resembles custard. Combine graham\nwafer crumbs, cocoanut, & nuts - blending well.\nadd to the cooked mixture - Pack evenly in 9x9\"\npan. Spread c icing.",
+    "confidence": "medium"
+  },
+  {
+    "photo": 333,
+    "kind": "recipe",
+    "title": "Fudge Brownies",
+    "attribution": null,
+    "category": "Cookies & Bars",
+    "ingredients": [
+      "1 1/2 cups flour",
+      "1 tsp salt",
+      "2 cups sugar",
+      "1/2 cup cocoa",
+      "2 tsp vanilla",
+      "1 cup oil",
+      "4 eggs",
+      "1/4 cup cold water",
+      "1/2 cup walnuts chopped"
+    ],
+    "directions": [
+      "Put all ingredients in beater bowl in order given & beat on low speed, scraping sides of bowl or by hand until smooth. Do not"
+    ],
+    "notes": ["Typewritten card, stained and creased", "Continues on back (photo 334)"],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Fudge Brownies\n1 1/2 cups flour            2 tsp vanilla\n1 tsp salt                  1 cup oil\n2 cups sugar                4 eggs\n1/2 cup cocoa               1/4 cup cold water\n                            1/2 cup walnuts chopped\nPut all ingredients in beater bowl in order\ngiven & beat on low speed, scraping sides of\n   bowl or by hand until smooth.  Do not",
+    "confidence": "high"
+  },
+  {
+    "photo": 334,
+    "kind": "continuation",
+    "title": "Fudge Brownies",
+    "attribution": null,
+    "category": null,
+    "ingredients": [
+      "— Icing —",
+      "2 squares unsweetened choc.",
+      "one cup icing sugar",
+      "one egg (beaten)",
+      "two tablespoons butter",
+      "one tsp vanilla"
+    ],
+    "directions": [
+      "beat too long",
+      "Butter a large 13 X 9 X 2 inch pan & turn in batter and push into corners & smooth top. Bake at 350° 30 minutes - no longer.",
+      "Icing: Ice in pan & put walnuts on top. Melt 2 squares unsweetened choc. in top of double boiler & stir into it one cup icing sugar, one egg (beaten) two tablespoons butter one tsp vanilla. Remove from heat at once and stir and cool a little before spreading on the brownies."
+    ],
+    "notes": ["Back of the typed Fudge Brownies card (photo 333); begins '...Do not beat too long'", "Green pen mark at top right", "13 X 9 X 2 inch pan, 350° 30 minutes - no longer"],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "beat too long\nButter a large 13 X 9 X 2 inch pan & turn in\nbatter and push into corners & smooth top.\nBake at 350° 30 minutes - no longer.\n        Icing\nIce in pan & put walnuts on top.\nMelt 2 squares unsweetened choc. in top of\ndouble boiler & stir into it one cup icing\nsugar, one egg (beaten) two tablespoons butter\none tsp vanilla.  Remove from heat at once and\nstir and cool a little before spreading on\nthe brownies.",
+    "confidence": "high"
+  },
+  {
+    "photo": 335,
+    "kind": "recipe",
+    "title": "Pineapple Squares",
+    "attribution": null,
+    "category": "Cookies & Bars",
+    "ingredients": [
+      "1 cup flour",
+      "1 teasp bk. powder",
+      "1/4 teasp salt",
+      "2 Tbps. sugar",
+      "2 Tbps. butter",
+      "1 egg"
+    ],
+    "directions": [
+      "Sift flour bk. powder & salt. Cream butter add sugar. Beat & add egg. Mix with flour mixture & spread evenly on greased cake pan. Bake in mod. oven until lightly browned. (over)"
+    ],
+    "notes": ["(over) - Filling & Topping on back (photo 336)", "A crossed-out note in blue ink after 'lightly browned' - illegible [20 min?]"],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Pineapple Squares.\n1 cup flour                2 Tbps. sugar.\n1 teasp bk. powder.        2  \"  butter\n1/4  \"  salt.              1 egg\nSift flour bk. powder & salt. Cream\nbutter add sugar. Beat & add egg. Mix\nwith flour mixture & spread evenly on\ngreased cake pan. Bake in mod. oven\nuntil lightly browned. ([crossed out?])\n            (over)",
+    "confidence": "high"
+  },
+  {
+    "photo": 336,
+    "kind": "continuation",
+    "title": "Pineapple Squares",
+    "attribution": null,
+    "category": null,
+    "ingredients": [
+      "— Filling & Topping —",
+      "1 can crushed pineapple",
+      "1 egg",
+      "1 cup sugar (gran.)",
+      "1 cup coconut",
+      "2 tbsps. melted butter"
+    ],
+    "directions": [
+      "Spread pineapple on baked shell. Mix together other ingredients & spread on top of pineapple - Cook till lightly brown & set."
+    ],
+    "notes": ["Back of the Pineapple Squares card (photo 335)"],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Filling & Topping.\n1 can crushed pineapple    1 cup coconut\n1 egg                      2 tbsps. melted\n1 cup sugar (gran.)        butter.\nSpread pineapple on baked shell.\nMix together other ingredients & spread\non top of pineapple - Cook till lightly\nbrown & set.",
+    "confidence": "high"
+  },
+  {
+    "photo": 337,
+    "kind": "recipe",
+    "title": "Walnut Slice",
+    "attribution": null,
+    "category": "Cookies & Bars",
+    "ingredients": [
+      "1 c flour",
+      "1/3 c. butter",
+      "— Filling —",
+      "1 1/4 c brown sugar",
+      "2 eggs beaten",
+      "1/2 c coconut",
+      "1 c chopped walnuts",
+      "2 tbsp flour",
+      "1/2 tsp. baking powder"
+    ],
+    "directions": [
+      "Mix well & press into cake pan to form shell.",
+      "Filling: Pour this mixture on the pastry in the"
+    ],
+    "notes": ["good & also when made c dried cranberries in place of nuts.", "Continues on back (photo 338)"],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Walnut slice\n1 c flour              good & also when made\n1/3 c. butter          c dried cranberries in\n                       place of nuts.\nMix well & press into cake pan to form\nshell.\nFilling:\n1 1/4 c brown sugar        1 c chopped walnuts\n2 eggs beaten              2 tbsp flour\n1/2 c coconut              1/2 tsp. baking powder\nPour this mixture on the pastry in the",
+    "confidence": "high"
+  },
+  {
+    "photo": 338,
+    "kind": "continuation",
+    "title": "Walnut Slice",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "baking dish. Bake in moderate oven for about 30 min. at 375°. May be iced with thin butter icing."
+    ],
+    "notes": ["Back of the Walnut Slice card (photo 337)"],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "baking dish. Bake in moderate oven for\nabout 30 min. at 375°. May be iced\nwith thin butter icing.",
+    "confidence": "high"
+  },
+  {
+    "photo": 339,
+    "kind": "recipe",
+    "title": "Grandma's Brownies",
+    "attribution": "Suzanne M.",
+    "category": "Cookies & Bars",
+    "ingredients": [
+      "4 sqs. unsweetened chocolate",
+      "1 c butter or marg.",
+      "4 eggs",
+      "2 c sugar",
+      "1 tsp vanilla",
+      "1/4 tsp. salt",
+      "1 c flour",
+      "1 1/2 c unsweetened coconut",
+      "— Glossy Chocolate Frosting for Brownies —",
+      "3 sqs. unsweetened chocolate",
+      "1 1/2 c icing sugar",
+      "3 tbsp. boiling water",
+      "4 tbsp. butter",
+      "1 tsp. vanilla"
+    ],
+    "directions": [
+      "Melt 4 sqs. unsweetened chocolate c 1 c butter or marg. Beat 4 eggs until foamy. Gradually add 2 c sugar, mix well. Add 1 tsp vanilla to chocolate mixture. Fold in 1/4 tsp. salt & 1 c flour. Stir in 1 1/2 c unsweetened coconut just to blend.",
+      "Pour into greased 9x13 pan. Bake @ 350° - 30 min. until shiny. - Do not overbake.",
+      "Glossy Chocolate Frosting for Brownies: Melt 3 sqs. unsweetened chocolate in dbl. boiler. Add to 1 1/2 c icing sugar, 3 tbsp. boiling water, 4 tbsp. butter & 1 tsp. vanilla. Mix until glossy."
+    ],
+    "notes": ["Top right: 'Suzanne M.' and '9 A.M. Music group.'", "9x13 pan, 350° 30 min - Do not overbake"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Grandma's Brownies -          Suzanne M.\n                              9 A.M. Music group.\nMelt 4 sqs. unsweetened chocolate c 1 c butter or marg.\nBeat 4 eggs until foamy. Gradually add 2 c sugar, mix well.\nAdd 1 tsp vanilla to chocolate mixture. Fold in 1/4 tsp. salt &\n1 c flour. Stir in 1 1/2 c unsweetened coconut just to blend.\nPour into greased 9x13 pan. Bake @ 350° - 30 min. until\nshiny. - Do not overbake.\nGlossy Chocolate frosting for Brownies.\nMelt 3 sqs. unsweetened chocolate in dbl. boiler. Add to\n1 1/2 c icing sugar, 3 tbsp. boiling water, 4 tbsp. butter & 1 tsp.\nvanilla. Mix until glossy.",
+    "confidence": "high"
+  }
+]

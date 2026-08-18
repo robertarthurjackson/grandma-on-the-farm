@@ -1,0 +1,479 @@
+[
+  {
+    "photo": 300,
+    "kind": "continuation",
+    "title": "Mom's Easy Bean Bake",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "...or until beans are tender. Stir occasionally. Add additional reserved liquid if needed."
+    ],
+    "notes": ["8-10 servings"],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "or until beans are tender. stir occasionally. add.\nadditional reserved liquid if needed.   8-10 servings",
+    "confidence": "high"
+  },
+  {
+    "photo": 301,
+    "kind": "recipe",
+    "title": "Cauliflower-Cheese Pasta",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "4 oz lg. pasta shells (not jumbo)",
+      "2 1/2 qts. boiling water",
+      "1 tbsp cooking oil - optional",
+      "2 tsp salt",
+      "3 tbsp butter or marg.",
+      "3 tbsp flour",
+      "1 tsp salt",
+      "1/8 tsp pepper",
+      "1 1/2 c milk",
+      "1 c cheese - medium - grated",
+      "2 c cauliflower - coarsely chopped",
+      "salted water",
+      "1/2 c dry bread crumbs",
+      "2 tbsp butter or marg., melted"
+    ],
+    "directions": [],
+    "notes": ["Company's coming", "directions over"],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Cauliflower-Cheese Pasta.          Company's coming.\nlg. pasta shells - (not jumbo)      4 oz.    salted water\nboiling water                        2 1/2 qts.  dry bread crumbs. 1/2 c\ncooking oil - optional -             1 tbsp.  butter or marg. melt. 2 tbsp\nsalt                                 2 tsp.\nbutter or marg.                      3 tbsp.\nflour                                3 tbsp.\nsalt 1 tsp. pepper. 1/8 tsp.         1 tsp\nmilk 1 1/2 c                         1 1/2 c\ncheese - medium - grated             1 c\ncauliflower - coarsely chopped.      2 c\n(written diagonally:) directions over",
+    "confidence": "high"
+  },
+  {
+    "photo": 302,
+    "kind": "continuation",
+    "title": "Cauliflower-Cheese Pasta",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Cook shells in boiling water, cooking oil & 1st. amt. salt until tender but firm - about 13-16 min.",
+      "Meanwhile melt butter in pan, mix in flour, second amt. of salt & pepper. Stir in milk until it boils & thickens. Stir in cheese.",
+      "Cook cauliflower in salted water until tender crisp. Drain. Add to sauce. Drain shells & add. Mix tog. Put into 2 qt greased casserole.",
+      "Mix bread crumbs & melted butter. Spread on top. Bake @ 350° for about 25 min. until browned & hot."
+    ],
+    "notes": ["serves 4"],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Cook shells in boiling water, cooking oil & 1st. amt. salt.\nuntil tender but firm - about 13-16 min.\nmeanwhile melt butter in pan, mix in flour, second amt.\nof salt & pepper. Stir in milk until it boils & thickens. Stir\nin cheese.\nCook cauliflower in salted water until tender crisp.\nDrain. add to sauce. Drain shells & add. Mix tog. Put into\n2 qt greased casserole. Mix bread crumbs & melted butter. Spread\non top. Bake @ 350° f. about 25 min. until browned & hot.\n                                          serves 4.",
+    "confidence": "high"
+  },
+  {
+    "photo": 303,
+    "kind": "recipe",
+    "title": "Cheesy Ham Casserole",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "1/2 c Miracle Whip salad dressing",
+      "2 c fresh or frozen broccoli flowerets, thawed",
+      "1 1/2 c sharp cheddar cheese",
+      "1 1/2 c chopped ham",
+      "1 1/2 c corkscrew noodles, cooked, drained",
+      "1/2 c chopped red or green pepper",
+      "1/4 c milk",
+      "3/4 c seasoned croutons (optional)"
+    ],
+    "directions": [
+      "Mix all ingred. except 1/2 c cheese & croutons. Spoon into 1 1/2 qt. casserole. Sprinkle c̄ remaining cheese & croutons."
+    ],
+    "notes": ["over"],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Cheesy Ham Casserole.\n1/2 c miracle whip salad dressing.\n2 c fresh or frozen broccoli flowerets, thawed.\n1 1/2 c sharp cheddar cheese.\n1 1/2 c chopped ham.\n1 1/2 c corkscrew noodles, cooked, drained.\n1/2 c chopped red or green pepper\n1/4 c milk.\n3/4 c seasoned croutons (optional)\nMix all ingred. except 1/2 c cheese & croutons. spoon into\n1 1/2 qt. casserole. sprinkle c̄ remaining cheese & croutons. over",
+    "confidence": "high"
+  },
+  {
+    "photo": 304,
+    "kind": "continuation",
+    "title": "Cheesy Ham Casserole",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Bake @ 350° - 30 min or microwave - high 8-10 min or until heated through."
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Bake @ 350° - 30 min or microwave - high 8-10 min\n                  — or until heated through.",
+    "confidence": "high"
+  },
+  {
+    "photo": 305,
+    "kind": "recipe",
+    "title": "Celery Casserole",
+    "attribution": null,
+    "category": "Vegetables & Sides",
+    "ingredients": [
+      "3 cups celery, cut up",
+      "1 tin mushroom soup",
+      "1/2 cup melted butter",
+      "1/2 cup cashews - optional",
+      "3/4 cup cheese cracker crumbs (Ritz)"
+    ],
+    "directions": [
+      "Cook celery for 3 min in pan with water. Drain.",
+      "Combine in dish celery, soup, nuts. Mix butter with crumbs & spread over top.",
+      "Bake 350° for 25 min."
+    ],
+    "notes": ["Written in printed (block) handwriting, different hand from most cards"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "CELERY CASSEROLE\n3 cups celery, cut up.\n1 tin mushroom soup\n1/2 cup melted butter\n1/2 cup cashews - optional\n3/4 cup cheese cracker crumbs. (Ritz)\nCook celery for 3 min in pan with water\nDrain\nCombine in dish celery, soup, nuts, mix\nbutter with crumbs & spread over top. Bake 350° for 25 min.",
+    "confidence": "high"
+  },
+  {
+    "photo": 306,
+    "kind": "recipe",
+    "title": "Curried Fruit",
+    "attribution": "Joyce Cave",
+    "category": "Vegetables & Sides",
+    "ingredients": [
+      "1 c brown sugar",
+      "1/2 c butter",
+      "1/4 tsp salt",
+      "1 tbsp curry powder",
+      "3-4 - 14 oz cans drained fruit: cherries (mandarin oranges) peaches, pears, pineapple, oranges"
+    ],
+    "directions": [
+      "Put 1st 4 ingred. into saucepan. Heat to boiling & cook 5 mins.",
+      "Pour over fruit in buttered casserole. Heat @ 300° F for 25-30 mins."
+    ],
+    "notes": ["V.G.", "Eaten c̄ meal - chicken or... (note at top, cut off at edge)", "re Joyce Cave"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "                    Eaten c̄ meal - chicken or\nCurried Fruit  * V.G.    re Joyce Cave.\n1 c brown sugar.\n1/2 c butter\n1/4 tsp. salt.\n1 tbsp. curry powder.\n3-4 - 14 oz. cans drained fruit, cherries\n(mandarin oranges) peaches, pears, pineapple, oranges.\nPut 1st 4 ingred. into saucepan. Heat to boiling &\ncook 5 mins. Pour over fruit in buttered\ncasserole. Heat @ 300° F for 25-30 mins.",
+    "confidence": "high"
+  },
+  {
+    "photo": 307,
+    "kind": "recipe",
+    "title": "Pizza Casserole",
+    "attribution": "Kraft Country Farm",
+    "category": "Main Dishes",
+    "ingredients": [
+      "4 c cooked pasta (shell macaroni)",
+      "750 ml pizza sauce",
+      "250 ml parmesan cheese (1 cup)",
+      "227 g mozzarella cheese - grated",
+      "pepperoni, green pepper, or favorite pizza topping"
+    ],
+    "directions": [
+      "Combine pasta, 1/2 sauce, all parmesan cheese, in round casserole dish. Pour remaining sauce over. Place pizza topping on. Top c̄ cheese.",
+      "Bake @ 350° - 35 min. or micro high 10 min. turning twice."
+    ],
+    "notes": ["(from Kraft Country Farm)", "serves 6-8", "Last line runs to edge of card: 'turning twi[ce]'"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Pizza Casserole. (from Kraft Country Farm) serves 6-8\n4 c cooked pasta (shell macaroni)\n750 ml. pizza sauce.\n250 \" parmesan cheese (1 cup)\n227 g. mozarella cheese - grated\n  pepperoni, green pepper, or favorite pizza topping\nCombine pasta, 1/2 sauce, all parmesan cheese, in round\ncasserole dish. Pour remaining sauce over. Place pizza\ntopping on.   Top c̄ cheese.\nBake @ 350° - 35 min. or micro high 10 min. turning twi[ce]",
+    "confidence": "high"
+  },
+  {
+    "photo": 308,
+    "kind": "non-recipe",
+    "title": "DESSERTS & PUDDINGS (divider card)",
+    "attribution": null,
+    "category": "Other",
+    "ingredients": [],
+    "directions": [],
+    "notes": ["Blank manila index divider card with yellow tab printed 'DESSERTS & PUDDINGS' - marks start of desserts section of the box"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "DESSERTS &\nPUDDINGS",
+    "confidence": "high"
+  },
+  {
+    "photo": 309,
+    "kind": "recipe",
+    "title": "Blueberry Crisp",
+    "attribution": "Jennifer G.",
+    "category": "Desserts & Sweets",
+    "ingredients": [
+      "— base —",
+      "4 tbsp sugar",
+      "3 tbsp flour",
+      "5 c blueberries (thaw)",
+      "— topping —",
+      "1/2 c reg oats",
+      "1/2 c br sugar",
+      "1/4 c flour",
+      "1/4 tsp nutmeg, ginger or only 1 of the[?] cinn.",
+      "1/4 marg.",
+      "1/4 chop nuts or coconut"
+    ],
+    "directions": [
+      "Base: Combine 4 tbsp sugar & 3 tbsp flour, toss c̄ 5 c blueberries (thaw). Place in 8 x 1 1/2 round baking dish.",
+      "Topping: Combine dry ingred - cut in marg like course crumbs - in nuts. Sprinkle over filling.",
+      "Bake @ 375 30-35 min"
+    ],
+    "notes": ["re Jennifer G. (written in blue ink, top right)", "Bake @ 375 30-35 min (written sideways in left margin)", "Makes ab[out?] 6 servings (written sideways in right margin)", "Written in red ink on pink folded paper"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "base  Blueberry Crisp          re Jennifer G.\nCombine 4 tbsp sugar &\n        3 \" flour toss c̄\n  5 c blueberries (thaw)\nplace - in 8 x 1 1/2 round baking\n                          dish\ntopping - 1/2 c reg oats.\n          1/2 c br sugar\n(sideways left: Bake @375 30-35 min)\n          1/4 c flour\n          1/4 tsp nutmeg, ginger or\n               only 1 of the[?] Cinn\n          1/4 marg.\n          1/4 chop nuts or coconut\nCombine dry ingred - cut in\nmarg like course crumbs - in\nin nuts sprinkle over filling\n(sideways right: Makes ab[out?] 6 servings)",
+    "confidence": "medium"
+  },
+  {
+    "photo": 310,
+    "kind": "recipe",
+    "title": "Fluffy Lemon Dessert",
+    "attribution": null,
+    "category": "Desserts & Sweets",
+    "ingredients": [
+      "1 - 3 oz pkg lemon jello",
+      "1 cup hot water",
+      "1 - 15 oz can chilled Pacific milk",
+      "juice & grated rind of 1 lemon",
+      "3/4 c sugar",
+      "— base —",
+      "1 1/2 c crushed graham wafers",
+      "1/2 c sugar",
+      "1/4 c melted butter"
+    ],
+    "directions": [
+      "Dissolve jello in water & cool.",
+      "Combine crumbs, 1/2 c sugar & melted butter. Press into 9x13 pan - saving 1/2 c crumbs for top.",
+      "Beat milk, lemon juice & rind til stiff. Gradually..."
+    ],
+    "notes": ["Card is heavily stained"],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Fluffy Lemon Dessert\n1 - 3 oz. pkg lemon jello          juice & grated rind of\n1 - cup hot water                       1 lemon\n1 - 15 oz can chilled Pacific milk  3/4 c sugar.\n  base.\n1 1/2 c crushed graham wafers.     1/2 c sugar\n                                   1/4 c melted butter\nDissolve jello in water & cool. Combine crumbs 1/2 c sugar\n& melted butter. Press into 9x13 pan - saving 1/2 c crumbs for top.\nBeat milk, lemon juice & rind til stiff. Gradually ove[r]",
+    "confidence": "high"
+  },
+  {
+    "photo": 311,
+    "kind": "continuation",
+    "title": "Fluffy Lemon Dessert",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "...beat in 3/4 c sugar. Beat in cooled jello mixture.",
+      "Pour over wafers & sprinkle remaining crumbs on top. Store in fridge."
+    ],
+    "notes": ["(This dessert sets quickly & doesn't need to be made too far ahead)"],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "beat in 3/4 c sugar. Beat in cooled jello\nmixture. Pour over wafers & sprinkle remaining\ncrumbs on top. store in fridge.\n(This desert sets quickly & doesn't need to be ma[de]\ntoo far ahead)",
+    "confidence": "high"
+  },
+  {
+    "photo": 312,
+    "kind": "recipe",
+    "title": "Rhubarb Strawberry Cobbler",
+    "attribution": "Mrs Cowell",
+    "category": "Desserts & Sweets",
+    "ingredients": [
+      "5 cups cut rhubarb",
+      "1 strawberry jello",
+      "3/4 c sugar",
+      "1 white cake mix",
+      "1 1/2 c very hot water (add 3 drops red food col.)"
+    ],
+    "directions": [
+      "Mix rhubarb, jello & sugar tog & place in dish - (spray c̄ Pam).",
+      "Sprinkle over 1 white cake mix.",
+      "1 1/2 c very hot water - (add 3 drops red food col.) pour over all.",
+      "Bake @ 350° for 45 min - 50 min."
+    ],
+    "notes": ["V.G.", "serve hot or cold c̄ [ice?] cream (note at bottom right, cut off)"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Rhubarb Strawberry Cobbler (Mrs Cowell)\n                                        V.G.\n5 cups cut rhubarb.   }\n1 strawberry jello.   } mix tog & place in\n3/4 c sugar.          } dish - (spray c̄ pam)\nsprinkle over 1 white cake mix.\n1 1/2 c very hot water - (add 3 drops red food col)\n  pour over all                        { serve hot\nBake @ 350° for 45 min - 50 min        { or cold c̄\n                                       { [ice?] cream",
+    "confidence": "high"
+  },
+  {
+    "photo": 313,
+    "kind": "recipe",
+    "title": "Apple Crisp",
+    "attribution": "M.A.",
+    "category": "Desserts & Sweets",
+    "ingredients": [
+      "6 lg. apples",
+      "1/8 tsp salt",
+      "1 tbsp lemon juice",
+      "1 c flour",
+      "1 c br. sugar",
+      "1/2 c marg.",
+      "1 tsp cinnamon"
+    ],
+    "directions": [
+      "Slice apples - sprinkle c̄ salt & lemon juice - put in bk. dish.",
+      "Blend rest of ingredients till crumbly - put on top of apples.",
+      "Bake @ 375° 30-35 min."
+    ],
+    "notes": ["Written on folded piece of paper, not a card", "Left edge cut off; quantities of salt and lemon juice partly obscured"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Apple Crisp.                    M.A.\n6 lg. apples              1 c flour\n[1/8?] tsp salt           1 c br. sugar\n[1?] tbsp lemon juice     1/2 c marg.\n                          [1?] tsp cinnamon\nslice apples - sprinkle c̄ salt & lemon juice - put in\nbk. dish.\nBlend rest of ingredients till crumbly. - put on top\nof apples -\nBake @ 375° 30-35 min.",
+    "confidence": "medium"
+  },
+  {
+    "photo": 314,
+    "kind": "recipe",
+    "title": "Apple Crisp",
+    "attribution": "Jennifer Pashula",
+    "category": "Desserts & Sweets",
+    "ingredients": [
+      "5 c apples",
+      "2-4 tbsp sugar",
+      "1/2 c oats",
+      "1/2 c br sugar",
+      "1/4 c flour",
+      "1/4 tsp nutm., cinnamon or ginger",
+      "1/4 c butter",
+      "1/4 c nuts or coconut"
+    ],
+    "directions": [
+      "Apples in dish, stir in sugar.",
+      "Topping: oats, br sugar, flour & nutmeg, cut in butter - course crumbs - stir in coconut - sprinkle over fruit.",
+      "Bake 375 - 30-35 min."
+    ],
+    "notes": ["Yellow card"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Apple Crisp\n5 c apples          1/4 tsp nutm, cinnamon or ginger\n2-4 tbsp sugar      1/4 c butter                 Jennifer\n1/2 c oats          1/4 c nuts or coconut         Pashula\n1/2 c br sugar\n1/4 c flour.\n- apples in dish stir in sugar -\nTopping oats br sugar, flour & nutmeg cut in\nbutter - course crumbs - stir in coconut -\nsprinkle over fruit   Bake 375 - 30-35 min.",
+    "confidence": "high"
+  },
+  {
+    "photo": 315,
+    "kind": "recipe",
+    "title": "Trifle",
+    "attribution": null,
+    "category": "Desserts & Sweets",
+    "ingredients": [
+      "3 tbsp sugar",
+      "Few grains of salt",
+      "1 tbsp cornstarch",
+      "1 1/2 cups milk",
+      "3 egg yolks",
+      "1/2 tsp vanilla",
+      "cake slices",
+      "jam or jelly",
+      "whipped cream"
+    ],
+    "directions": [
+      "Mix sugar, salt and cornstarch thoroughly. Add milk and cook over boiling water until mixture is thickened, stirring constantly about..."
+    ],
+    "notes": ["Older-style handwriting, pencil/dark ink, different hand"],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Trifle.\n3 tbsp. sugar.            1/2 tsp. vanilla.\nFew grains of salt.       cake slices.\n1 tbsp. cornstarch        jam or jelly.\n1 1/2 cups milk           whipped cream.\n3 egg yolks.\n\nMix sugar, salt and cornstarch\nthoroughly. Add milk and cook over\nboiling water until mixture is\nthickened, stirring constantly about",
+    "confidence": "high"
+  },
+  {
+    "photo": 316,
+    "kind": "continuation",
+    "title": "Trifle",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "...10 min. Beat egg yolks slightly. Add some of the hot mixture, then return to double boiler. Cook, stirring constantly 3 min.",
+      "Cut cake in narrow oblong pieces. Spread with jam or jelly. Arrange in sherbert glasses. Pour in cooled custard.",
+      "Serve with garnish of whipped cream or pouring cream."
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "10 min. Beat egg yolks slightly. Add\nsome of the hot mixture, then return\nto double boiler. Cook, stirring constantly\n3 min. Cut cake in narrow oblong pieces.\nSpread with jam or jelly. Arrange in\nsherbert glasses. Pour in cooled custard.\nServe with garnish of whipped cream\nor pouring cream.",
+    "confidence": "high"
+  },
+  {
+    "photo": 317,
+    "kind": "recipe",
+    "title": "\"Chocolate Mousse\"",
+    "attribution": "Bernadette",
+    "category": "Desserts & Sweets",
+    "ingredients": [
+      "125 gr. baking chocolate (semi sweet) (5 blocks?)",
+      "4 eggs",
+      "1 tbsp Brandy (ordinary)",
+      "1 c whipping cream"
+    ],
+    "directions": [
+      "Melt chocolate - while still warm - add 4 beaten egg yolks & brandy.",
+      "Whip cream - add chocolate to cream.",
+      "Whip egg whites & fold into above."
+    ],
+    "notes": ["re Bernadette"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "\"Chocolate Mousse\" - re Bernadette:\n125 gr. baking chocolate (semi sweet) (5 blocks?)\n4 eggs\n1 tbsp. Brandy. (ordinary)\n1 c. whipping cream.\n\nMelt chocolate - while still warm - add 4\nbeaten egg yolks & brandy.\nWhip cream. - add chocolate to cream.\nwhip egg whites & fold into above.",
+    "confidence": "high"
+  },
+  {
+    "photo": 318,
+    "kind": "recipe",
+    "title": "Easy Chocolate Dessert",
+    "attribution": "Marilyn Blackall",
+    "category": "Desserts & Sweets",
+    "ingredients": [
+      "1 chocolate cake mix",
+      "500 ml whipping cream",
+      "2 boxes chocolate mousse (near Jello's)",
+      "5 Skor bars or Skor pcs. (near choc chips)",
+      "shaved chocolate"
+    ],
+    "directions": [
+      "Bake choc. cake mixes - when cool break into pieces.",
+      "Layer - 1st cake - choc. mousse - Skor pcs. - whipping cream - & layer again.",
+      "Can place shaved chocolate on top. Keep in fridge till ready to serve."
+    ],
+    "notes": ["re Marilyn Blackall", "Gr XII OLQP - Airdrie (Grade 12, Our Lady Queen of Peace, Airdrie)"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Easy Chocolate Dessert - re Marilyn Blackall.\n                                Gr XII OLQP - Airdrie\nchocolate cake mix. (1)\n500 ml. whipping cream.\nchocolate mousse - 2 boxes - near Jello's\nskor bars - (5) or skor pcs. (near choc chips)\nshaved chocolate\nBake choc. cake mixes - when cool break into pieces -\nlayer - 1st cake - choc. mousse - skor pcs. - whipping\ncream - & layer again. - Can place shaved chocolate\non top. - kep in fridge - till ready to serve.",
+    "confidence": "high"
+  },
+  {
+    "photo": 319,
+    "kind": "recipe",
+    "title": "Individual Cheesecake",
+    "attribution": null,
+    "category": "Desserts & Sweets",
+    "ingredients": [
+      "1 pkg. vanilla wafers",
+      "1 cup sugar",
+      "3 - 8 oz pkg. cream cheese",
+      "4 eggs",
+      "2 tsp lemon juice",
+      "cherry pie filling"
+    ],
+    "directions": [
+      "Heat oven to 350°.",
+      "Mix sugar, cheese, eggs, lemon juice until..."
+    ],
+    "notes": ["Printed handwriting, different hand"],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Individual Cheesecake\n1 pkg. vanilla wafers\n1 cup sugar\n3 - 8 oz. pkg. cream cheese.\n4 eggs\n2 tsp. lemon juice\ncherry pie filling.\nHeat oven to 350°\nMix sugar, cheese, eggs, lemon juice until",
+    "confidence": "high"
+  }
+]

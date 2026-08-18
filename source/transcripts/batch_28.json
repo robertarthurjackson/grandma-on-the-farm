@@ -1,0 +1,555 @@
+[
+  {
+    "photo": 560,
+    "kind": "recipe",
+    "title": "Dip for Vegetables (raw)",
+    "attribution": null,
+    "category": "Vegetables & Sides",
+    "ingredients": [
+      "Mayonnaise",
+      "Ketchup",
+      "Bit of Curry Pwd"
+    ],
+    "directions": [
+      "Mix tog."
+    ],
+    "notes": [],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Dip for Vegetables (raw)\nMayonnaise\nKetchup       } mix. tog.\nBit of Curry Pwd",
+    "confidence": "high"
+  },
+  {
+    "photo": 561,
+    "kind": "non-recipe",
+    "title": "SOUPS & STEWS (divider card)",
+    "attribution": null,
+    "category": "Other",
+    "ingredients": [],
+    "directions": [],
+    "notes": [
+      "Yellow tabbed divider card labelled SOUPS & STEWS",
+      "Pencil note: Fr. onion Pg 134 - Dedsbury C.B. (French onion soup, page 134, Didsbury cookbook)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "SOUPS & STEWS\nFr. onion Pg 134 - Dedsbury [Didsbury?] C.B.",
+    "confidence": "high"
+  },
+  {
+    "photo": 562,
+    "kind": "recipe",
+    "title": "Cream of Tomato Soup",
+    "attribution": "Best of Bridge - Aces",
+    "category": "Soups & Salads",
+    "ingredients": [
+      "2 - 19 oz cans tomatoes",
+      "1 lg. onion - finely chopped",
+      "1 c chopped celery",
+      "10 oz can chicken broth",
+      "1/2 c spicy Clamato juice",
+      "1 tsp. dill",
+      "1/4 c butter or marg.",
+      "1/2 c flour",
+      "4 c milk",
+      "1 c Cheese Whiz",
+      "parsley"
+    ],
+    "directions": [
+      "Simmer tomatoes, onion, celery, broth, Clamato juice & dill until veggies are cooked about 20 min. in a med. sized pan.",
+      "Melt butter & blend in flour to make a paste, add milk slowly. Stir constantly to make a thick white sauce.",
+      "Stir in vegetable mixture. Fold"
+    ],
+    "notes": [
+      "V.G.",
+      "Best - bridge - Aces",
+      "continues on back (photo 563)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "V.G.   Best - bridge - Aces -\nCream of Tomato Soup.\n2 - 19 oz cans tomatoes          1 c cheese whiz.\n1 lg. onion - finely chopped.    parsley.\n1 c chopped celery.\n10 oz can chicken broth.         simmer tomatoes, onion,\n1/2 c spicy Clamato juice        celery, broth, Clamato juice &\n1 tsp. dill                      dill until veggies are cooked\n1/4 c butter or marg.            about 20 min. in a med. sized\n1/2 c flour                      pan. melt butter & blend in flour\n4 c milk                         to make a paste, add milk slowly.\n                                 stir constantly to make a thick white\n                                 sauce. stir in vegetable mixture. fold",
+    "confidence": "high"
+  },
+  {
+    "photo": 563,
+    "kind": "continuation",
+    "title": "Cream of Tomato Soup",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "(fold in) Cheese Whiz & garnish with parsley."
+    ],
+    "notes": [
+      "serves 4-6"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "cheese whiz. & garnish c̄ parsley.\nserves 4-6.",
+    "confidence": "high"
+  },
+  {
+    "photo": 564,
+    "kind": "recipe",
+    "title": "French Onion Soup",
+    "attribution": null,
+    "category": "Soups & Salads",
+    "ingredients": [
+      "6 slices bacon",
+      "5 large onions diced",
+      "2 tbsps flour",
+      "1/2 tsp. salt",
+      "2 cloves garlic crushed",
+      "1 tsp. minced parsley",
+      "1/4 tsp thyme",
+      "6 c chicken stock",
+      "1 1/2 c red dry wine",
+      "2 tbsps brandy",
+      "8 slices toasted French bread",
+      "grated mozzarella or Swiss gruyere",
+      "2 tbsp. melted butter"
+    ],
+    "directions": [
+      "Cut bacon small (with scissors) - Fry in lg saucepan till brown.",
+      "Add onions, saute till yellow. Add flour, salt, garlic, parsley & thyme. Cook till bubbly. Add"
+    ],
+    "notes": [
+      "continues on back (photo 565)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "French onion soup.\n6 slices bacon               6 c chicken stock.\n5 large onions diced         1 1/2 c red dry wine\n2 tbsps flour                2 tbsps brandy.\n1/2 tsp. salt                8 slices toasted French bread\n2 cloves garlic crushed.     grated [?] mozzarella or Swiss\n1 tsp. minced parsley        gruyere\n1/4 \" thyme                  2 tbsp. melted butter.\nCut bacon small. (c̄ scissors) - Fry in lg saucepan\ntill brown. Add onions, saute till yellow. add flour,\nsalt, garlic, parsley & thyme. Cook till bubbly. add",
+    "confidence": "high"
+  },
+  {
+    "photo": 565,
+    "kind": "continuation",
+    "title": "French Onion Soup",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "(add) chicken stock. (you may use instant soup for this). Wine & brandy - simmer covered 1 hour.",
+      "When ready to serve fill French onion soup bowls 3/4 full, place toasted bread on top of soup. Cover generously with grated cheese, drizzle 1 tsp. melted butter over cheese. - Place under broiler until cheese melts & is lightly brown."
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "chicken stock. (you may use instant soup for this).\nwine & brandy - simmer covered 1 hour.\nWhen ready to serve fill french onion soup\nbowls 3/4 full, place toasted bread on top of soup.\nCover generously c̄ grated cheese, drizzle 1 tsp.\nmelted butter over cheese. - Place under broiler\nuntil cheese melts & is lightly brown.",
+    "confidence": "high"
+  },
+  {
+    "photo": 566,
+    "kind": "clipping",
+    "title": "Cream of Cauliflower & Cheese Soup",
+    "attribution": "Marie Hohtanz, CFCN",
+    "category": "Soups & Salads",
+    "ingredients": [
+      "1 cauliflower (approximately 1 kg)",
+      "50 mL (1/4 cup) butter",
+      "1 medium onion, chopped",
+      "50 mL (1/4 cup) flour",
+      "450 mL (2 cups) chicken broth",
+      "500 mL (2 cups) light cream or milk",
+      "few drops Tabasco sauce",
+      "2 mL (1/2 tsp) paprika",
+      "3 mL (1/2 tsp) dry mustard",
+      "1 mL (1/4 tsp) salt",
+      "3 mL (1/2 tsp) Worcestershire sauce",
+      "250 mL (1 cup) grated Alberta Old Cheddar"
+    ],
+    "directions": [
+      "Cut cauliflower into flowerettes. Boil in 500 mL (2 cups) water till soft. Drain, reserving liquid.",
+      "Melt butter, add onion, simmer until soft. Blend in flour then add chicken broth, stirring over medium heat till creamy. Stir in 250 mL (1 cup) cauliflower liquid, milk or cream, seasonings. Add cauliflower and bring to boil, stirring constantly. Remove from heat, stir in cheddar. Sprinkle with freshly chopped parsley.",
+      "(If smooth consistency desired whip in blender or food processor). Serves: 6."
+    ],
+    "notes": [
+      "Newspaper clipping; intro paragraph suggests serving with crusty rolls, zucchini loaf, fruit and nuts"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "60 grams (2 oz.) of meat, fish or poultry.\nSteaming bowls of Cream of Cauliflower and Cheddar Cheese Soup provide a quick and palatable warm-up after outdoor activities. This hearty meal-in-a-bowl served with crusty rolls can be the main attraction for lunch or dinner. Complete the menu with Zucchini loaf, fruit and nuts.\nCream of Cauliflower & Cheese Soup\nMarie Hohtanz, CFCN\n1        cauliflower (approximately 1 kg)    1\n50 mL    butter                              1/4 cup\n1        medium onion, chopped               1\n50 mL    flour                               1/4 cup\n450 mL   chicken broth                       2 cups\n500 mL   light cream or milk                 2 cups\n         few drops Tabasco sauce\n2 mL     paprika                             1/2 tsp\n3 mL     dry mustard                         1/2 tsp\n1 mL     salt                                1/4 tsp\n3 mL     Worcestershire sauce                1/2 tsp\n250 mL   grated Alberta Old Cheddar          1 cup\nCut cauliflower into flowerettes. Boil in 500 mL (2 cups) water till soft. Drain, reserving liquid.\nMelt butter, add onion, simmer until soft. Blend in flour then add chicken broth, stirring over medium heat till creamy. Stir in 250 mL (1 cup) cauliflower liquid, milk or cream, seasonings. Add cauliflower and bring to boil, stirring constantly. Remove from heat, stir in cheddar. Sprinkle with freshly chopped parsley. (If smooth consistency desired whip in blender or food processor). Serves: 6.",
+    "confidence": "high"
+  },
+  {
+    "photo": 567,
+    "kind": "clipping",
+    "title": "Basil & Zucchini Soup",
+    "attribution": "Lily Burak, Calgary",
+    "category": "Soups & Salads",
+    "ingredients": [
+      "15 g butter",
+      "1 T oil",
+      "1 med onion chopped",
+      "2 cloves garlic, crushed",
+      "6 med zucchini, finely chopped",
+      "3 cups water",
+      "2 small chicken stock cubes, crushed",
+      "2 t sugar",
+      "1 T lemon juice",
+      "1/3 c chopped fresh basil"
+    ],
+    "directions": [
+      "Heat butter & oil in medium sauce pan. Add onion & garlic stir over med heat 2 min. or microwave high for 3 min. or until onion is soft.",
+      "Stir in zucchini, water, stock cubes, sugar & juice. Bring to boil, reduce heat, simmer uncovered - 20 min. or microwave high - 20 min., or until zucchini is tender.",
+      "Stir in basil. Blend or process mixture in several batches until smooth, return mixture to pan & reheat.",
+      "Serve topped with sour cream, paprika & extra basil leaves. Serves 4"
+    ],
+    "notes": [
+      "Soup can be made a day ahead, keep covered in fridge. Recipe can be frozen for 2 months.",
+      "WINNER APRIL 1 - Herb Starter Kit And Blue Flame Cookbook - LILY BURAK, Calgary"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Basil & Zucchini Soup\nSoup can be made a day ahead, keep covered in fridge.\nRecipe can be frozen for 2 months.\n15 g butter                        3 cups water\n1 T oil                            2 small chicken stock cubes, crushed\n1 med onion chopped                2 t sugar\n2 cloves garlic, crushed           1 T Lemon juice\n6 med zucchini, finely chopped     1/3 c chopped fresh basil\nHeat butter & oil in medium sauce pan. Add onion & garlic stir over med heat 2 min. or microwave high for 3 min. or until onion is soft. Stir in zucchini, water, stock cubes, sugar & juice. Bring to boil, reduce heat, simmer uncovered - 20 min. or microwave high - 20 min., or until zucchini is tender. Stir in basil. Blend or process mixture in several batches until smooth, return mixture to pan & reheat. Serve topped with sour cream, paprika & extra basil leaves. Serves 4\nWINNER APRIL 1\nHerb Starter Kit And Blue Flame Cookbook\nLILY BURAK, Calgary",
+    "confidence": "high"
+  },
+  {
+    "photo": 568,
+    "kind": "recipe",
+    "title": "Beet + Bacon Soup (Australian)",
+    "attribution": null,
+    "category": "Soups & Salads",
+    "ingredients": [
+      "3 large beets",
+      "2 l water (8 cups)",
+      "1 ham bone",
+      "15 g butter",
+      "1 large onion chopped",
+      "1 med potato, chopped",
+      "1 med carrot, chopped",
+      "2 med tomatoes, chopped",
+      "1/4 sm cabbage chopped",
+      "4 slices bacon chopped",
+      "1 T lemon juice",
+      "1/2 c sour cream"
+    ],
+    "directions": [
+      "Put beets in pan, cover with water, bring to"
+    ],
+    "notes": [
+      "Written in a different (younger) hand, blue ballpoint",
+      "continues on back (photo 569)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Beet + Bacon Soup          (Austrailian)\n- 3 large beets\n2 l water (8 cups)\n1 ham bone\n15 g butter\n1 large onion chopped        - 1/4 sm cabbage chopped\n1 med potato, chopped        - 4 slices bacon chopped\n1 med carrot, chopped        - 1 T lemon juice\n2 med tomatoes, chopped      - 1/2 c sour cream\nPut beets in pan, cover with water, bring to",
+    "confidence": "high"
+  },
+  {
+    "photo": 569,
+    "kind": "continuation",
+    "title": "Beet + Bacon Soup (Australian)",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "(bring to) boil, reduce heat, simmer covered for about 30 mins or until tender; drain; cool. Peel beets, slice thinly.",
+      "Combine the 8 cups water & ham bone in large saucepan, cover, bring to boil, reduce heat, simmer 20 mins, strain, discard bone.",
+      "Combine butter & onion in large saucepan, cook, stirring until onion is soft. Add ham stock, potato, carrot, tomatoes, cabbage, bacon & lemon juice, bring to boil, reduce heat & simmer uncovered 30 mins.",
+      "Blend or process soup in several batches until smooth. Served topped with sour cream."
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "boil, reduce heat, simmer covered for\nabout 30 mins or until tender; drain; cool.\nPeel beets, slice thinly. Combine the\n8 cups water & ham bone in large saucepan\ncover, bring to boil, reduce heat, simmer 20\nmins, strain, discard bone.\nCombine butter & onion in large saucepan.\ncook, stirring until onion is soft. Add ham\nstock, potato, carrot, tomatoes, cabbage, bacon\n& lemon juice bring to boil, reduce heat & simmer\nuncovered 30 mins.\nBlend or process soup in several batches until\nsmooth. Served topped with sour cream.",
+    "confidence": "high"
+  },
+  {
+    "photo": 570,
+    "kind": "recipe",
+    "title": "Minestrone Soup (veg)",
+    "attribution": null,
+    "category": "Soups & Salads",
+    "ingredients": [
+      "3/4 c dried kidney beans",
+      "8 c soup stock",
+      "1 ham bone",
+      "1 sm. clove garlic",
+      "1/4 c chopped parsley",
+      "1 sm. onion",
+      "3 carrots",
+      "1 c shredded cabbage",
+      "2 stalks celery, sliced",
+      "1/2 c tomato paste",
+      "1 tsp. salt",
+      "pepper",
+      "1 c vermicelli"
+    ],
+    "directions": [],
+    "notes": [
+      "\"Italy\" written in top corner",
+      "over (continues on back, photo 571)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Italy\nMinestrone Soup. (veg)\n3/4 c dried kidney beans.      1 tsp. salt.\n8 c soup stock                 pepper\n1 ham bone                     1 c vermicelli.\n1 sm. clove garlic\n1/4 c chopped parsley.\n1 sm. onion\n3 carrots\n1 c shredded cabbage.\n2 stalks celery, sliced\n1/2 c tomato paste\n                               over",
+    "confidence": "high"
+  },
+  {
+    "photo": 571,
+    "kind": "continuation",
+    "title": "Minestrone Soup (veg)",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Soak beans overnight in cold H2O. Trim fat from ham & render it in skillet. Drain beans & put in stock with ham bone.",
+      "Brown garlic & onion in the fat. Add other vegies until they are just wilted. Add all boiling bean mixture, salt & pepper to taste & simmer tightly covered for 1 1/2 hrs.",
+      "Add vermicelli & tomato paste & cook another 1/2 hr. If soup too thick add more stock or H2O.",
+      "Parmesan cheese can be sprinkled on top."
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "soak beans overnight in cold H2O. Trim fat from\nham & render it in skillet. Drain beans & put in stock\nc̄ ham bone. Brown garlic & onion in the fat. add other\nvegies until they are just wilted. Add all boiling bean\nmixture, salt & pepper to taste & simmer tightly covered\nfor 1 1/2 hrs. add vermicelli & tomato paste & cook another\n1/2 hr. If soup too thick add more stock or H2O.\nParmesan cheese can be sprinkled on top -",
+    "confidence": "high"
+  },
+  {
+    "photo": 572,
+    "kind": "recipe",
+    "title": "Hamburger Soup",
+    "attribution": "Best o' Bridge",
+    "category": "Soups & Salads",
+    "ingredients": [
+      "1 1/2 lbs ground beef",
+      "1 med. onion chopped",
+      "1 - 28 oz tomatoes",
+      "2 c. water",
+      "3 c consomme",
+      "1 c tomato soup",
+      "4 carrots chopped",
+      "3 sticks celery chopped",
+      "1 bay leaf",
+      "Parsley",
+      "1/2 tsp. thyme",
+      "pepper to taste (salt)",
+      "8 tbsps barley"
+    ],
+    "directions": [
+      "Brown meat & onion - drain well. Combine all ingredients. Simmer covered @ least 2 hrs. or all day."
+    ],
+    "notes": [
+      "serves 10"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Hamburger Soup -        Best o' Bridge\n1 1/2 lbs ground beef      4 carrots chopped\n1 med. onion chopped.      3 sticks celery \"\n1 - 28 oz tomatoes         1 bay leaf\n2 - c. water               Parsley.\n3 c consomme               1/2 tsp. thyme\n1 c tomato soup.           pepper to taste (salt)\n                           8 tbsps barley.\nBrown meat & onion - drain well. Combine all\ningredients. simmer covered @ least 2 hrs. or all day.\n                                        serves 10.",
+    "confidence": "high"
+  },
+  {
+    "photo": 573,
+    "kind": "recipe",
+    "title": "Tomato Rice, Veggie Soup",
+    "attribution": "Rita",
+    "category": "Soups & Salads",
+    "ingredients": [
+      "1 tin tomato soup",
+      "cooked rice - left over",
+      "part of pkg. Knorr vegetable soup mix"
+    ],
+    "directions": [
+      "Add part of pkg. Knorr vegetable soup mix."
+    ],
+    "notes": [
+      "good & easy (circled)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Tomato rice, veggie soup.          Rita\n1 tin tomato soup.\ncooked rice - left over [Co?]\nadd\npart of pkg. Knorr. vegetable soup mix\n                              (good) & easy",
+    "confidence": "high"
+  },
+  {
+    "photo": 574,
+    "kind": "clipping",
+    "title": "Turkey Noodle Soup",
+    "attribution": "Alberta Turkey Producers",
+    "category": "Soups & Salads",
+    "ingredients": [
+      "750 g (1 1/2 lb) Alberta turkey wings, tips removed",
+      "2 bay leaves",
+      "1 onion, quartered",
+      "500 mL (2 cups) chopped celery",
+      "250 mL (1 cup) chopped carrot",
+      "250 mL (1 cup) chopped turnip",
+      "125 mL (1/2 cup) chopped onion",
+      "1 tomato, skinned & chopped or 150 mL (2/3 cup) canned",
+      "175 mL (3/4 cup) fine egg noodles",
+      "7 mL (1 1/2 tsp) dried thyme",
+      "5 mL (1 tsp) salt",
+      "2 mL (1/2 tsp) pepper and basil",
+      "25 mL (2 tbsp) chopped fresh parsley (10 mL/2 tsp dried)"
+    ],
+    "directions": [
+      "Place turkey wings in a large saucepan and cover with water; add bay leaves and quartered onion.",
+      "Cover and bring to boil",
+      "Cook 1 1/2 to 2 hours or until wings are tender. Remove wings and strain broth.",
+      "Return broth to saucepan and add remaining ingredients.",
+      "Bring to boil, cover and cook about 30 minutes or until vegetables are tender. Meanwhile, remove turkey from bones and discard skin and bones.",
+      "Return meat to broth and cook 4 to 5 minutes or until hot."
+    ],
+    "notes": [
+      "Makes 2 L (8 cups)",
+      "Nutritional Analysis Per 250 mL (1 cup) Serving: 195 Cal., 19 g Protein, 5.8 g Fat, 17.48 g Carbohydrates",
+      "Printed promotional recipe card, Alberta Turkey Producers, 212, 8711A - 50 Street, Edmonton, Alberta T6B 1E7, Tel: (403) 465-5755, Fax: (403) 465-5528; Alberta Made"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "TURKEY NOODLE SOUP\nTurkey wings in everyone's favourite hearty turkey soup.\n750 g    Alberta turkey wings, tips removed    1 1/2 lb\n2        bay leaves                            2\n1        onion, quartered                      1\n500 mL   chopped celery                        2 cups\n250 mL   chopped carrot                        1 cup\n250 mL   chopped turnip                        1 cup\n125 mL   chopped onion                         1/2 cup\n1        tomato, skinned & chopped or          1\n         150 mL (2/3 cup) canned\n175 mL   fine egg noodles                      3/4 cup\n7 mL     dried thyme                           1 1/2 tsp\n5 mL     salt                                  1 tsp\n2 mL     pepper and basil                      1/2 tsp\n25 mL    chopped fresh parsley (10 mL/2 tsp dried)   2 tbsp\n• Place turkey wings in a large saucepan and cover with water; add bay leaves and quartered onion.\n• Cover and bring to boil\n• Cook 1 1/2 to 2 hours or until wings are tender. Remove wings and strain broth.\n• Return broth to saucepan and add remaining ingredients.\n• Bring to boil, cover and cook about 30 minutes or until vegetables are tender. Meanwhile, remove turkey from bones and discard skin and bones.\n• Return meat to broth and cook 4 to 5 minutes or until hot.\nMakes 2 L (8 cups)\nNutritional Analysis Per 250 mL (1 cup) Serving: 195 Cal., 19 g Protein, 5.8 g Fat, 17.48 g Carbohydrates.\nFor more information and recipes contact:\nALBERTA TURKEY PRODUCERS\n212, 8711A - 50 Street, Edmonton, Alberta T6B 1E7 • Tel: (403) 465-5755 • Fax: (403) 465-5528\nAlberta Made",
+    "confidence": "high"
+  },
+  {
+    "photo": 575,
+    "kind": "recipe",
+    "title": "Borscht (Beet Soup)",
+    "attribution": "Anne Pender",
+    "category": "Soups & Salads",
+    "ingredients": [
+      "beets & stems (no leaves)",
+      "ribs",
+      "white beans (soak)",
+      "onion",
+      "cabbage - shred",
+      "potatoes",
+      "tomatoes - fresh, canned",
+      "vinegar (sm. amt) to preserve color",
+      "salt, pepper",
+      "bay leaf",
+      "dill",
+      "pinch garlic",
+      "carrots (opt.)",
+      "parsley",
+      "cream, sweet or sour"
+    ],
+    "directions": [
+      "Cook ribs, save broth. Cook beans. Fry onion & cabbage in bit butter.",
+      "Grate beets & chop stems, place in pot with broth, add sm. amt vinegar, bay leaf & salt, parsley - cook till soft - add garlic,"
+    ],
+    "notes": [
+      "(very good)",
+      "pencil marginalia: omit white beans",
+      "pencil marginalia: Cream, sweet or sour (a word crossed out below)",
+      "continues on back (photo 576)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Borscht (Beet Soup) - Anne Pender. (very good)\nbeets & stems (no leaves)     vinegar (sm. amt) to preserve color.\nribs                          salt, pepper.          omit\nwhite beans. (soak)           bay leaf.              white beans\nonion                         dill                   Cream\ncabbage. shred.               pinch garlic           sweet or sour\npotatoes                      carrots (opt.)         [crossed out]\ntomatoes - fresh, canned.     parsley.\nCook ribs, save broth. Cook beans. Fry onion & cabbage\nin bit butter. Grate beets & chop stems place in pot c̄\nbroth, add sm. amt vinegar + bay leaf & salt + parsley - cook till soft - add garlic",
+    "confidence": "high"
+  },
+  {
+    "photo": 576,
+    "kind": "continuation",
+    "title": "Borscht (Beet Soup)",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "(add garlic,) potatoes, carrots, tomatoes, dill."
+    ],
+    "notes": [
+      "Anne uses sweet cream & adds just at end."
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "potatoes, carrots, tomatoes, dill,\nAnne uses sweet cream & adds just at end.",
+    "confidence": "high"
+  },
+  {
+    "photo": 577,
+    "kind": "recipe",
+    "title": "Cream Barley Soup",
+    "attribution": "Salmon Arm - paper",
+    "category": "Soups & Salads",
+    "ingredients": [
+      "1 lg. onion",
+      "3 cloves",
+      "4 oz pearl barley (125 g)",
+      "1 calf's foot",
+      "3 pts water (1.7 l)",
+      "salt/pepper to taste",
+      "12 oz carrots (diced) (350 g)",
+      "4 stalks celery (chopped)",
+      "3 oz bacon chopped (100 g)",
+      "2 oz lard (50 g)",
+      "2 egg yolks",
+      "1/2 leek",
+      "1/4 lb single cream (150 ml)"
+    ],
+    "directions": [
+      "Place 1/2 onion, cloves, calves ft., barley & water in pot, simmer 2 hrs.",
+      "Fry onion, carrots, celery, leek & bacon till golden brown. Strain stock - take meat & dice - add vegies & meat to stock, simmer 10-15 min.",
+      "Beat"
+    ],
+    "notes": [
+      "(Salmon Arm - paper)",
+      "continues on back (photo 578)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Cream Barley Soup.                    (Salmon Arm - paper).\n1 lg. onion                    4 stalks celery. (chopped)\n3 cloves                       3 oz. bacon chopped. 100 g.\n4 oz pearl barley. 125 g.      2 \" lard. 50 g.\n1 calf's foot.                 2 egg yolks.\n3 pts water 1.7 l.             1/2 leek\nsalt/pepper to taste           1/4 lb. single cream. 150 ml.\n- 12 oz carrots (diced) 350 g.\nPlace 1/2 onion, cloves, calves ft. barley & water in pot simmer 2 hrs.\nFry onion, carrots, celery, leek & bacon till golden brown. Strain stock,\n- take meat & dice - add vegies & meat to stock. simmer 10-15 min. Beat",
+    "confidence": "high"
+  },
+  {
+    "photo": 578,
+    "kind": "continuation",
+    "title": "Cream Barley Soup",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "(Beat) egg & cream tog. & pour slowly into soup - serve."
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "egg & cream tog. & pour slowly into soup - serve.",
+    "confidence": "high"
+  },
+  {
+    "photo": 579,
+    "kind": "clipping",
+    "title": "Minute Minestrone",
+    "attribution": null,
+    "category": "Soups & Salads",
+    "ingredients": [
+      "1 795-mL/28-oz. can of tomatoes",
+      "1 540-mL/19-oz. can kidney beans, well drained",
+      "1 finely chopped green onion or chopped chives",
+      "pinch of dried thyme",
+      "salt and pepper to taste",
+      "grated cheese, about 30 g/1 oz. per serving"
+    ],
+    "directions": [
+      "Pour tomatoes into a pot, crush with a fork, or cut with two knives. Add green onion or chives and thyme. Simmer for a few minutes. Add kidney beans and heat. Pour into a soup bowl and sprinkle generously with grated cheese",
+      "Serve with a slice of toast or whole-wheat roll."
+    ],
+    "notes": [
+      "This recipe is easy to make and leftovers can be frozen. It makes three or four meals.",
+      "Newspaper clipping taped to a lined card"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Minute minestrone\nThis recipe is easy to make and leftovers can be frozen. It makes three or four meals.\n1 795-mL/28-oz. can of tomatoes\n1 540-mL/19-oz. can kidney beans, well drained\n1 finely chopped green onion or chopped chives\npinch of dried thyme\nsalt and pepper to taste\ngrated cheese, about 30 g/1 oz. per serving\nPour tomatoes into a pot, crush with a fork, or cut with two knives. Add green onion or chives and thyme. Simmer for a few minutes. Add kidney beans and heat. Pour into a soup bowl and sprinkle generously with grated cheese\nServe with a slice of toast or whole-wheat roll.",
+    "confidence": "high"
+  }
+]

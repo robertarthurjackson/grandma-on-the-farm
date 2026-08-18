@@ -1,0 +1,525 @@
+[
+  {
+    "photo": 260,
+    "kind": "recipe",
+    "title": "Rhubarb Pie",
+    "attribution": "Mrs. Krebis'",
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "2 c. rhubarb",
+      "1 c. sugar",
+      "2 tbsp. butter",
+      "2 tbsp. cornstarch",
+      "2 egg yolks",
+      "1/4 c. cream (cereal)"
+    ],
+    "directions": [
+      "Put 1/2 c. sugar & butter in pan with rhubarb, cook till soft.",
+      "Mix 1/2 c. sugar with cornstarch - add beaten egg yolk with cream - add to first mixture & cook till thick. (Cool.)",
+      "Pour into baked pastry shell.",
+      "For top - make meringue (add icing sugar)."
+    ],
+    "notes": [
+      "\"good\" written in margin",
+      "Large \"R\" written over the title in darker ink"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "R Rhubarb Pie   (Mrs. Krebis')\n2 c. Rhubarb.        2 tbsp. cornstarch\n1 \" sugar.           2 egg yolks              good\n2 tbsp. butter       1/4 c. cream (cereal).\n\nPut 1/2 c. sugar & butter in pan with rhubarb\ncook till soft. - Mix 1/2 c sugar with corn-\nstarch - add beaten egg yolk with cream -\nadd to first mixture & cook till thick (Cool)\nPour into baked pastry shell. -\nFor Top - Make meringue (add icing sugar).",
+    "confidence": "high"
+  },
+  {
+    "photo": 261,
+    "kind": "recipe",
+    "title": "Maids of Honor - Tarts",
+    "attribution": null,
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "1 1/2 c rasp. jam",
+      "1/2 c blanched chopped almonds",
+      "whipping cream"
+    ],
+    "directions": [
+      "Mix jam & almonds. Place spoonfuls in each pastry shell.",
+      "Bake @ 400° for 10-15 min.",
+      "When cool, serve with whipped cream, sweetened with honey."
+    ],
+    "notes": [],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Maids of Honor - Tarts\n\n1 1/2 c rasp jam\n1/2 c blanched chopped almonds\nwhipping cream.\n\nMix jam & almonds. Place spoonfuls in each\npastry shell. Bake @ 400° for 10-15 min.\nWhen cool. serve c̄ whipped cream, sweetened\nc̄ honey.",
+    "confidence": "high"
+  },
+  {
+    "photo": 262,
+    "kind": "recipe",
+    "title": "Yogurt Pie",
+    "attribution": null,
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "2 sm. containers flavored yogurt (200 gms each)",
+      "1/2 lg (1 litre) Cool Whip",
+      "— Graham cracker crust —",
+      "1 1/4 c. crumbs",
+      "1/2 c. butter",
+      "1/4 c. sugar"
+    ],
+    "directions": [
+      "Graham cracker crust: 1 1/4 c. crumbs - 1/2 c. butter - 1/4 c. sugar. Cook or freeze.",
+      "Mix yogurt & Cool Whip & fill pie shell, saving some crumbs for top.",
+      "Set in fridge or freezer."
+    ],
+    "notes": [
+      "Printed card: \"From the kitchen of...\" with verse \"Every day will I bless thee.\" — Psalm 145:2"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Yogurt Pie\nFrom the kitchen of...\n2 sm. containers flavored yogurt (200 gms each)\n1/2 lg (1 litre) cool whip\nGraham Cracker crust\n{ 1 1/4 c. crumbs - 1/2 c. butter - 1/4 c. sugar }\n{ Cook or freeze }\n\nMix yogurt & cool whip & fill pie\nshell saving some crumbs\n\"Every day will I bless thee.\" —Psalm 145:2   for top.\nSet in fridge or freezer.",
+    "confidence": "high"
+  },
+  {
+    "photo": 263,
+    "kind": "recipe",
+    "title": "Pizza Crust",
+    "attribution": null,
+    "category": "Breads & Buns",
+    "ingredients": [
+      "1/2 c. warm water",
+      "1 pkg. active dry yeast",
+      "1/2 t. sugar",
+      "1 T. cooking oil or shortening",
+      "1 1/2 c. sifted flour",
+      "1/2 t. salt"
+    ],
+    "directions": [
+      "1. Dissolve yeast & sugar in warm H2O & let stand 5 min.",
+      "2. Place flour & salt in bowl, make hole"
+    ],
+    "notes": [],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Pizza Crust\n1/2 c. warm water\n1 pkg. active dry yeast\n1/2 t. sugar\n1 T. cooking oil or shortening\n1 1/2 c. sifted flour\n1/2 t. salt\n\n1. Dissolve yeast & sugar in warm H2O & let\nstand 5 min.\n2. Place flour & salt in bowl, make hole",
+    "confidence": "high"
+  },
+  {
+    "photo": 264,
+    "kind": "continuation",
+    "title": "Pizza Crust",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "& put in oil. Add yeast and knead until it forms a smooth ball.",
+      "Let rise in a greased covered bowl in warm place until doubled.",
+      "3. Pat dough in greased 12 inch pizza pan pressing dough on sides.",
+      "Put on pizza sauce etc.",
+      "Bake 20-30 min @ 400°."
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "& put in oil. Add yeast and knead\nuntil it forms a smooth ball.\nLet rise in a greased covered bowl\nin warm [crossed out] place until doubled.\n3. Pat dough in greased 12 inch pizza\npan pressing dough on sides.\nPut on pizza sauce etc.\nBake 20-30 min @ 400°",
+    "confidence": "high"
+  },
+  {
+    "photo": 265,
+    "kind": "recipe",
+    "title": "Millionaire Tarts",
+    "attribution": "Betty Mc.",
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "1 can of Eagle Brand milk",
+      "2/3 cup sugar",
+      "6 tbsp. corn syrup",
+      "1 cup margarine"
+    ],
+    "directions": [
+      "Cook on stove on med. stirring constantly (about 10 minutes).",
+      "Place above (hot) into cooked pastry shells - add 1 chocolate wafer on top of ea. - (nice effect as it cools + tastes good)"
+    ],
+    "notes": [
+      "Last two lines written in pencil"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Millionaire Tarts - Betty Mc.\n1 can of eagle brand milk\n2/3 cup sugar\n6 tbsp. corn syrup\n1 cup margarine\nCook on stove on med. stirring constantly\n(about 10 minutes)\n\n      above (hot)\nPlace ^ into cooked - pastry shells - add 1 chocolate\nwafer - on top of ea. - (nice effect as it cools + tastes\n                                                    good)",
+    "confidence": "high"
+  },
+  {
+    "photo": 266,
+    "kind": "recipe",
+    "title": "Choc Swirl Cheese Pie",
+    "attribution": null,
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "1 c sugar",
+      "3 pkg (8 oz each) cream cheese (softened)",
+      "5 eggs",
+      "1 tbsp vanilla",
+      "1 pkg (4 oz) sweet or semi-sweet choc. (melted + cooled)"
+    ],
+    "directions": [
+      "Beat sugar + cheese, add eggs beating, add vanilla, add choc. to 1 1/2 cups (recipe 2 c. - too much!)",
+      "Pour"
+    ],
+    "notes": [],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "CHOC SWIRL CHEESE PIE\n1 C sugar\n3 pkg (8 oz each) cream cheese (softened)\n5 eggs\n1 tbsp vanilla\n1 pkg (4 oz) Sweet - or Semi-sweet Choc. (melted + cooled)\n\n- beat sugar + cheese, add eggs beating, add vanilla,\nadd choc. to 1 1/2 cups (recipe 2 c. - too much!) pour",
+    "confidence": "high"
+  },
+  {
+    "photo": 267,
+    "kind": "continuation",
+    "title": "Choc Swirl Cheese Pie",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "remaining mix into pie pan (10\") or 9\" sq. pan.",
+      "Add spoonfuls of choc-cheese mix + zig-zag through to marble.",
+      "Bake @ 350° 40-45 min. Cool, then chill.",
+      "If desired: use a graham wafer/butter base.",
+      "Add a liqueur (i.e. choc. liqueur) to choc-cheese mix."
+    ],
+    "notes": [
+      "Pencil note at bottom: For a drink at Xmas use Kahlua + egg nog instead of Rum[?]"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "remaining mix into pie pan (10\") or 9\" sq. pan.\nAdd spoonfuls of choc-cheese mix + zig-zag\nthrough to marble.\nBake @ 350° 40-45 min\ncool, then chill.\nIf desired:\n- use a graham wafer/butter base.\n- add a liqueur (i.e. choc. liqueur) to choc-cheese mix.\n(For a drink at Xmas use Kahlua + egg nog instead of Rum[?])",
+    "confidence": "high"
+  },
+  {
+    "photo": 268,
+    "kind": "recipe",
+    "title": "After Dinner Mint Pie",
+    "attribution": null,
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "2 cups (24) crushed cream filled chocolate cookies",
+      "1/4 cup margarine (melted)",
+      "1/4 cup milk",
+      "1 - 7 oz jar Kraft marshmallow creme",
+      "few drops peppermint extract",
+      "few drops green food coloring",
+      "2 cups whipping cream (whipped)"
+    ],
+    "directions": [
+      "Combine crumbs and margarine, reserve 1/2 cup"
+    ],
+    "notes": [],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "AFTER DINNER MINT PIE\n2 cups (24) crushed cream filled chocolate cookies\n1/4 cup margarine (melted)\n1/4 cup milk\n1 - 7 oz jar Kraft marshmallow creme.\nfew drops peppermint extract\nfew drops green food coloring\n2 cups whipping cream (whipped)\nCombine crumbs and margarine, reserve 1/2 cup",
+    "confidence": "high"
+  },
+  {
+    "photo": 269,
+    "kind": "continuation",
+    "title": "After Dinner Mint Pie",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "for topping. Press remaining crumb mixture onto bottom of 9\" pie plate. Chill.",
+      "Gradually add milk to marshmallow creme, mixing until well blended.",
+      "Add extract & food coloring, fold in whipped cream.",
+      "Pour into pan; freeze until firm. Sprinkle with remaining crumbs."
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "for topping. Press remaining crumb mixture\nonto bottom of 9\" pie plate. chill. Gradually add\nmilk to marshmallow creme, mixing until well\nblended. Add extract & food coloring, fold in\nwhipped cream. Pour into pan; freeze until\nfirm. Sprinkle with remaining crumbs.",
+    "confidence": "high"
+  },
+  {
+    "photo": 270,
+    "kind": "recipe",
+    "title": "Blackbottom Cupcakes",
+    "attribution": "our Margaret",
+    "category": "Cakes & Frostings",
+    "ingredients": [
+      "1 - 8 oz cr. cheese",
+      "1/3 c sugar",
+      "1 egg slightly beaten",
+      "salt",
+      "1 pkg chocolate chips",
+      "— Filling —",
+      "1 c sugar",
+      "1 1/2 c flour",
+      "1/4 c cocoa",
+      "1 tsp. bk. soda",
+      "1/2 tsp. salt",
+      "1 c. water",
+      "1/2 c oil",
+      "1 tbsp. vinegar",
+      "1 tsp. vanilla"
+    ],
+    "directions": [
+      "Combine cream cheese, sugar, egg & salt & add 1 pkg chocolate chips.",
+      "Filling: mix well.",
+      "Place small amt of above in paper cups. Add filling on top & then place more of top combine on last.",
+      "Bake 350° - 20-25 min"
+    ],
+    "notes": [
+      "\"our Margaret.\" written top right"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "                                    our\n                                    Margaret.\nBlackbottom Cupcakes.\n1- 8 oz cr. cheese   }\n1/3 c sugar          } combine & add 1 pkg chocolate\n1 egg slightly beaten }  chips.\nsalt.                }\n\nFilling.\n1 c sugar        1 c. water      } Place small amt of above\n1 1/2 c flour    1/2 c oil       } in paper cups. add filling\n1/4 c cocoa      1 tbsp. vinegar } on top & then place more\n1 tsp. bk. soda  1 tsp. vanilla. } of top combine on last.\n1/2 \" salt.      Mix well.       } Bake 350° - 20-25 min",
+    "confidence": "high"
+  },
+  {
+    "photo": 271,
+    "kind": "recipe",
+    "title": "Rhubarb Carmel Pie",
+    "attribution": null,
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "2 cups rhubarb 1\" pieces",
+      "1 tbsp butter",
+      "1 cup brown sugar",
+      "1/4 cup brown sugar",
+      "2 tbsp cornstarch",
+      "1/8 tsp salt",
+      "1/4 cream",
+      "2 egg yolks"
+    ],
+    "directions": [
+      "Rhubarb, butter, 1 cup brown sugar: cook 10 min, stir occasionally.",
+      "1/4 cup brown sugar, cornstarch, salt: mix & add.",
+      "Cream & egg yolks: & mix.",
+      "Then"
+    ],
+    "notes": [],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Rhubarb Carmel Pie\n2 cups rhubarb 1\" pieces }  Cook 10 min\n1 tbsp butter            }  Stir occasionally\n1 cup brown sugar\n\n1/4 cup brown sugar }\n2 tbsp cornstarch   } Mix & add\n1/8 tsp salt\n1/4 cream    } & mix\n2 egg yolks  }\n                          Then",
+    "confidence": "high"
+  },
+  {
+    "photo": 272,
+    "kind": "continuation",
+    "title": "Rhubarb Carmel Pie",
+    "attribution": null,
+    "category": null,
+    "ingredients": [
+      "— Meringue —",
+      "2 egg whites",
+      "1/4 tsp cream of tartar",
+      "1/4 cup sugar"
+    ],
+    "directions": [
+      "Add a little of boiled mixture into egg mixture & then add to rhubarb mixture & cook 8-10 minutes stirring constantly.",
+      "Pour into baked, cooled shell.",
+      "Top with meringue: 2 egg whites, 1/4 tsp cream of tartar, 1/4 cup sugar (stiff & glossy).",
+      "350° - 15-20 min."
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "add a little of boiled mixture into\negg mixture &\nthen add to rhubarb mixture &\ncook 8-10 minutes stirring\nconstantly.\nPour into baked, cooled shell.\nTop with meringue\n  2 egg whites\n  1/4 tsp cream of tartar\n  1/4 cup sugar.  (stiff & glossy)\n                350° - 15-20 min.",
+    "confidence": "high"
+  },
+  {
+    "photo": 273,
+    "kind": "non-recipe",
+    "title": "CASSEROLES",
+    "attribution": null,
+    "category": "Other",
+    "ingredients": [],
+    "directions": [],
+    "notes": [
+      "Blank recipe-box divider card with orange tab labelled CASSEROLES"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "CASSEROLES",
+    "confidence": "high"
+  },
+  {
+    "photo": 274,
+    "kind": "recipe",
+    "title": "Cabbage Rolls",
+    "attribution": "Anna - Bernadette's friend",
+    "category": "Main Dishes",
+    "ingredients": [
+      "2 c rice - Delta or Uncle Ben's - long grain",
+      "1 1/2 lb lean ground beef - cook",
+      "celery",
+      "onion",
+      "green pepper",
+      "oil",
+      "garlic, fresh",
+      "salt, pepper",
+      "Aylmer's tomato soup",
+      "cabbage"
+    ],
+    "directions": [
+      "Saute celery, onion, green pepper, garlic in oil. Add above to meat.",
+      "Add cooked rice, salt, pepper.",
+      "Boiling water (can add salt to H2O), core cabbage, - steam off leaves.",
+      "Place filling on side of leaf, roll up. Close in both ends."
+    ],
+    "notes": [
+      "V.G.",
+      "(over)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "                                V.G.\nCabbage Rolls. - Anna - Bernadette's friend\n2 c Rice - Delta or Uncle Ben's - long grain -\n1 1/2 lb lean ground beef - cook. -\ncelery, onion       }\ngreen pepper. oil   } saute          tomato\ngarlic fresh.       }            aylmer's soup.\nadd above to meat.\nadd cooked rice, salt, pepper.\nboiling water, core cabbage, - steam off leaves.  can add salt to H2O\nPlace filling on side of leaf, roll up. Close in both ends.\n                                          (over)",
+    "confidence": "high"
+  },
+  {
+    "photo": 275,
+    "kind": "continuation",
+    "title": "Cabbage Rolls",
+    "attribution": "Anna - Bernadette's friend",
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Place in layers in lg roaster - put Aylmer tomato soup over each layer. At end pour 1/2 c water over all.",
+      "Any extra leaves - place on top.",
+      "Place in oven 325° - 2 1/2 - 3 hrs.",
+      "Note: can cook rice in 350° oven. - Boil water - 2 c rice 4 c water & add salt, pepper. - Stir, cover & place in oven for 20 min. - (then cool & rest & add)."
+    ],
+    "notes": [
+      "* Anna - never freezes cabbage leaves before using."
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Place in layers in lg roaster -\nput aylmer tomato soup over each layer. at\nend pour 1/2 c water over all.\n- any extra leaves - place on top.\n\nPlace in oven 325° - 2 1/2 - 3 hrs.\n\nNote: can cook rice in 350° oven. - boil water -\n2 c rice 4 c water & add salt, pepper. - stir cover & place\nin oven for 20 min. - (then cool & rest & add).\n*. anna - never freezes cabbage leaves before using.",
+    "confidence": "high"
+  },
+  {
+    "photo": 276,
+    "kind": "recipe",
+    "title": "Cabbage Rolls",
+    "attribution": "Mary Ann (a relative in Sask.)",
+    "category": "Main Dishes",
+    "ingredients": [
+      "2 c rice",
+      "4 c water",
+      "salt to taste",
+      "1 lb. raw bacon, ground",
+      "2 med onions chopped fine",
+      "pepper",
+      "Copenhagen cabbage (not winter cabbage)"
+    ],
+    "directions": [
+      "To cook rice - boil water - 2 c rice - 4 c water. Preheat oven to 350° - pour boiled water over raw rice & stir, add salt to taste, cover & place in oven for 20 min.",
+      "While rice is cooking, grind 1 lb. raw bacon & 2 med onions chopped fine - cook together, add pepper. Don't drain - add to rice.",
+      "Cabbage - Copenhagen cabbage (not winter cabbage) - steam & take off leaves as tender to fork - stack & role in freezer at least overnight"
+    ],
+    "notes": [
+      "Delta rice is best.",
+      "very good"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "                    Delta rice is best.              very good\nCabbage Rolls. re: Mary Ann (a relative in Sask.)\nTo\nCook - rice - boil water - 2 c rice - 4 c water\npreheat oven to 350° - pour boiled water over\n                    add salt to taste\nraw rice & stir & cover & place in oven for 20 min\n- while rice is cooking        (add pepper)\ngrind 1 lb. raw bacon -      } cook together.\n2 med onions chopped fine    } - don't drain - add to rice\nCabbage - Copenhagen cabbage (not winter cabbage)\n- steam & take off leaves as tender to fork - stack\nor role in freezer at least overnight",
+    "confidence": "high"
+  },
+  {
+    "photo": 277,
+    "kind": "continuation",
+    "title": "Cabbage Rolls",
+    "attribution": "Mary Ann (a relative in Sask.)",
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Place filling on side of leave - role up & close in both ends.",
+      "To cook - place in layers - put Aylmers tomato soup over each layer - & end pour 1/2 c water over all. If any extra leaves - put on top.",
+      "Place in 300°-325° for 3 hours. - Remove from oven - let sit - before serving."
+    ],
+    "notes": [
+      "(note) Can purchase Copenhagen cabbage at a market",
+      "Use only Aylmer soup - not as acidic"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "- place filling on side of leave - role up & close in\nboth ends.\n- To cook -\n                                   tomato\nplace in layers - put Aylmers ^ Soup over\neach layer - & end pour 1/2 c water over all.\nIf any extra leaves - put on top.\n\n- Place in 300° - 325° for 3 hours. - remove from\noven - let sit - before serving.\n(note) Can purchase copenhagen cabbage at a market / use only Aylmer\nSoup - not as acidic",
+    "confidence": "high"
+  },
+  {
+    "photo": 278,
+    "kind": "recipe",
+    "title": "Macaroni & Cheese (Deluxe)",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "2 c elbow macaroni",
+      "2 1/2 qts. boiling water",
+      "1 tbsp. cooking oil - optional",
+      "2 tsp. salt",
+      "4 c cheese - sharp or med, grated",
+      "10 oz cream of mushroom soup",
+      "10 oz sliced mushrooms (drained)",
+      "1 c onion finely chopped",
+      "3/4 c mayonnaise",
+      "1/4 c green pepper - finely chopped",
+      "2 tbsp. pimiento[?] - finely chopped"
+    ],
+    "directions": [
+      "Cook macaroni in water & oil & salt until tender - but firm, about 5-7 min. Drain.",
+      "Return macaroni to pot. Add remain. ingred. Mix.",
+      "Pour into 2 1/2 q - 3 l. greased casserole. Bake uncovered in 350° for 30-40 min.",
+      "Serves 8."
+    ],
+    "notes": [
+      "V.G.",
+      "Company's coming",
+      "Pasta",
+      "Last ingredient line is cut off at bottom of photo (reads \"P... - \" 2 tbsp.\", likely pimiento); next photo is a different card"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Macaroni & Cheese. (Deluxe) Pasta. V.G. Company's coming\nElbow macaroni              2 c\nboiling water               2 1/2 qts.    Cook macaroni in water & oil\ncooking oil - optional      1 tbsp.       & salt until tender - but firm\nsalt                        2 tsp.        about 5-7 min. Drain.\n              grated\nCheese - sharp or med       4 c           Return macaroni to pot.\ncream of mushroom soup.     10 oz         Add. remain. ingred. Mix -\nsliced mushrooms (drained)  10 oz         pour into 2 1/2 q - 3 l. greased\nonion finely chopped.       1 c           casserole. Bake uncovered in\nMayonnaise                  3/4 c         350° for 30-40 min. -\nGreen pepper - finely chopped  1/4 c                    serves 8.\nP[imiento?] - \"  \"          2 tbsp.",
+    "confidence": "high"
+  },
+  {
+    "photo": 279,
+    "kind": "recipe",
+    "title": "Hash brown Casserole",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "1 can mushroom soup",
+      "1 sm. pkg hash browns",
+      "some grated cheese",
+      "some grated onion",
+      "1 c sour cream"
+    ],
+    "directions": [
+      "Bake @ 350°."
+    ],
+    "notes": [
+      "Written in pencil on lined notebook paper"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Hash brown Casserole.\n1 can mushroom soup.\n1 sm. pkg hash browns.\nsome grated cheese.\n  \"     \"    onion\n1 c sour cream.\nbake - @ 350°.",
+    "confidence": "high"
+  }
+]

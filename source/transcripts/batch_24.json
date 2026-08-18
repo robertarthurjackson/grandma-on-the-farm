@@ -1,0 +1,546 @@
+[
+ {
+  "photo": 480,
+  "kind": "recipe",
+  "title": "Japanese Chicken Wings",
+  "attribution": "Pat McDougall",
+  "category": "Main Dishes",
+  "ingredients": [
+   "3 lbs chicken wings",
+   "1 beaten egg",
+   "1 cup flour",
+   "1 cup butter",
+   "— Sauce —",
+   "3 tbsp soya sauce"
+  ],
+  "directions": [
+   "Cut wings in 1/2. Dip in slightly beaten egg & then in flour.",
+   "Fry in butter until deep brown & crisp.",
+   "Put in shallow pan & pour sauce over wings."
+  ],
+  "notes": [
+   "(Very good)",
+   "over — sauce continues on back"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Japanese Chicken Wings. -(Very good)  Pat McDougall\n3 lbs. chicken wings\n1 beaten egg\n1 cup flour\n1 \" butter,\nCut wings in 1/2. Dip in slightly beaten\negg & then in flour. Fry in butter until\ndeep brown & crisp. Put in shallow pan & pour\nsauce over wings.\n  Sauce\n3 tbsp. soya sauce.          over",
+  "confidence": "high"
+ },
+ {
+  "photo": 481,
+  "kind": "continuation",
+  "title": "Japanese Chicken Wings",
+  "attribution": null,
+  "category": null,
+  "ingredients": [
+   "3 tbsp water",
+   "1 c white sugar",
+   "1/2 c vinegar",
+   "1 tsp Accent",
+   "1/2 tsp salt"
+  ],
+  "directions": [
+   "Bake at 350° for 1/2 hr — spoon sauce over chicken during cooking."
+  ],
+  "notes": [],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "3 tbsp. water\n1 C. white sugar\n1/2 \" vinegar\n1 tsp accent.\n1/2 \" salt.\nBake at 350° for 1/2 h - spoon sauce over\nchicken during cooking.",
+  "confidence": "high"
+ },
+ {
+  "photo": 482,
+  "kind": "photo-of-box",
+  "title": "Preserves & Jellies (divider tab)",
+  "attribution": null,
+  "category": "Other",
+  "ingredients": [],
+  "directions": [],
+  "notes": [
+   "Recipe box divider card with yellow tab: PRESERVES & JELLIES"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "PRESERVES &\nJELLIES",
+  "confidence": "high"
+ },
+ {
+  "photo": 483,
+  "kind": "recipe",
+  "title": "Saskatoon Jam",
+  "attribution": null,
+  "category": "Preserves, Pickles & Sauces",
+  "ingredients": [
+   "8 c rhubarb",
+   "12 c saskatoons",
+   "3 # sugar (I only use 2 # per recipe)",
+   "1/2 c water"
+  ],
+  "directions": [
+   "Cut rhubarb & boil till soft with 1/2 c water.",
+   "Put berries through food chopper.",
+   "Add sugar & berries — boil 10 minutes — bottle & seal."
+  ],
+  "notes": [
+   "Written in red ink, printed capitals for title"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "SASKATOON JAM.\n8 c. Rhubarb\n12 c. Saskatoons\n3 # sugar - (I only use 2 # per recipe)\n1/2 c. water.\n=\nCut rhubarb & boil till soft with 1/2 c\nwater. Put berries through food\nchopper. Add sugar & berries -\nBoil 10 minutes - Bottle & seal.",
+  "confidence": "high"
+ },
+ {
+  "photo": 484,
+  "kind": "recipe",
+  "title": "Homemade Mincemeat",
+  "attribution": "Marion McKnight",
+  "category": "Preserves, Pickles & Sauces",
+  "ingredients": [
+   "4 cups of meat (pork & deer) — cook meat, then cut up finely",
+   "2 oranges",
+   "2 lemons",
+   "2 cups raisins",
+   "2 cups currants",
+   "3 quarts (20) apples",
+   "2 cups brown sugar",
+   "1 cup white sugar",
+   "1 1/2 cup apple jelly",
+   "1 1/2 cup peach jam",
+   "2 cups grape juice",
+   "1 tsp cinnamon",
+   "1 tsp ginger",
+   "shake of mace",
+   "shake of cloves",
+   "chopped with our peel [oranges & lemons chopped with peel]",
+   "1 tsp of nutmeg"
+  ],
+  "directions": [
+   "Cook meat — then cut up finely.",
+   "Cook for 1/2 hour or so."
+  ],
+  "notes": [
+   "* can use mixed fruit peel",
+   "from Marion McKnight",
+   "Written on torn lined notepaper, crumpled"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "↑cook meat - then cut up finely.   Homemade Mincemeat from\n4 cups of meat (pork & Deer)          Marion McKnight\n2 oranges.                    2 cups Grape Juice\n2 lemons.                     1 Tsp. Cinnamon\n2 cups Raisins                1 Tsp. Ginger\n2 cups Currants               Shake of Mace.\n3 quarts ([crossed out])(20) apples.  Shake of Cloves.\n2 cups Brown Sugar.           Chopped with our peel.\n1 cup white sugar.            1 Tsp. of nutmeg.\n1 1/2 cup Apple Jelly\n1 1/2 cup Peach Jam.          * can use mixed fruit\n                                peel.\n                    Cook for 1/2 hour or so",
+  "confidence": "medium"
+ },
+ {
+  "photo": 485,
+  "kind": "recipe",
+  "title": "Bread & Butter Pickles",
+  "attribution": "Gertie",
+  "category": "Preserves, Pickles & Sauces",
+  "ingredients": [
+   "sufficient med. sized cukes to meas. 16 cups (washed, peeled & thinly sliced)",
+   "6 med onions, peeled & thinly sliced",
+   "1/3 c coarse salt",
+   "— Syrup —",
+   "3 c w. vinegar",
+   "5 c sugar",
+   "1 1/2 tsp turmeric",
+   "1 1/2 tsp celery seed",
+   "2 tbsp mustard seed"
+  ],
+  "directions": [
+   "Wash, peel & thinly slice sufficient med. sized cukes to meas. 16 cups.",
+   "Peel & thinly slice 6 med onions.",
+   "Combine in lg. preserving kettle. Sprinkle 1/3 c coarse salt between layers.",
+   "Mix a tray of ice cubes thru vegies & cover with another tray of cubes. Let stand 3 hrs. — Drain well.",
+   "Combine 3 c w. vinegar, 5 c sugar, 1 1/2 tsp turmeric, 1 1/2 tsp celery seed, 2 tbsp mustard seed.",
+   "Heat comb. & add vegies. Heat just to boiling pt. No further cooking.",
+   "Pour into hot sterilized jars & seal.",
+   "Store 1 month before using for full flavour."
+  ],
+  "notes": [
+   "(13-14 jars)",
+   "very good",
+   "Written on torn/folded notepaper"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Bread & Butter Pickles. (Gertie)\nWash peel & thinly slice sufficient med. sized\ncukes to meas. 16 cups\nPeel & thinly slice 6 med onions\nCombine in lg. preserving kettle. Sprinkle 1/3 c\ncoarse salt between layers.\nMix a tray of ice cubes thru vegies. & cover with\nanother tray of cubes. Let stand 3 hrs. - Drain well.\nCombine 3 c w. vinegar\n         5 c sugar\n         1 1/2 tsp turmeric\n         1 1/2 \" celery seed\n         2 tbsp mustard seed\nHeat comb & add vegies. Heat just to boiling pt.\nNo further cooking\nPour into hot sterilized jars & seal.\nStore 1 month before using for full\nflavour -\n    (13-14 jars)\n  very good",
+  "confidence": "high"
+ },
+ {
+  "photo": 486,
+  "kind": "recipe",
+  "title": "No Cook Raspberry-Kiwi 'light jam'",
+  "attribution": null,
+  "category": "Preserves, Pickles & Sauces",
+  "ingredients": [
+   "2 3/4 c crushed raspberries (fresh or frozen)",
+   "1 1/4 c peeled, chopped kiwi",
+   "3 1/4 c sugar",
+   "1 box Certo 'light' pectin crystals"
+  ],
+  "directions": [
+   "Mix fruit in lg. bowl. Combine pectin with 1/4 c sugar.",
+   "Gradually add pectin mixture to fruit, mixing well.",
+   "Let stand 30 min. stirring occasionally.",
+   "Stir in remaining sugar & continue stirring for 3 min."
+  ],
+  "notes": [
+   "(over)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "No Cook Raspberry-Kiwi 'light jam')\n2 3/4 c crushed raspberries (fresh or frozen)\n1 1/4 c peeled, chopped Kiwi.\n3 1/4 c sugar\n1 box certo 'light' pectin crystals.\nMix fruit in lg. bowl. Combine pectin with 1/4 c sugar.\nGradually add pectin mixture to fruit, mixing well.\nLet stand 30 min. stirring occasionally.\nStir in remaining sugar & continue stirring for 3 min.\n                                              (over)",
+  "confidence": "high"
+ },
+ {
+  "photo": 487,
+  "kind": "continuation",
+  "title": "No Cook Raspberry-Kiwi 'light jam'",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "until most of the sugar is dissolved.",
+   "Pour into clean jars or plastic containers. Cover with tight lids.",
+   "Let stand at room temp. until set (up to 24 hrs.). Store in freezer."
+  ],
+  "notes": [],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "until most of the sugar is dissolved.\nPour into clean jars or plastic containers. Cover with\ntight lids. Let stand @ room temp. until set. (up\nto 24 hrs.). Store in freezer.",
+  "confidence": "high"
+ },
+ {
+  "photo": 488,
+  "kind": "recipe",
+  "title": "Zucchini Pineapple",
+  "attribution": null,
+  "category": "Preserves, Pickles & Sauces",
+  "ingredients": [
+   "1 gal. ground peeled zucchini (I cut it in small cubes)",
+   "1 48 oz. can pineapple juice",
+   "2 - 3 oz pineapple Jello's",
+   "3 cups sugar",
+   "1/2 cup lemon juice (I also added 1 can crushed pineapple)"
+  ],
+  "directions": [
+   "Mix all together. Bring to a boil and cook 10 minutes.",
+   "Let cool & freeze."
+  ],
+  "notes": [
+   "Makes crushed pineapple.",
+   "Written in printed capitals",
+   "Continues over — top of 'OVER' visible at bottom right corner"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "ZUCCHINI PINEAPPLE\nMAKES CRUSHED PINEAPPLE.\n1 GAL. GROUND PEELED ZUCCHINI (I CUT\nIT IN SMALL CUBES)\n1 48 OZ. CAN PINEAPPLE JUICE\n2 - 3 OZ PINEAPPLE JELLO'S.\n3 CUPS SUGAR.\n1/2 CUP LEMON JUICE (I ALSO ADDED 1\nCAN CRUSHED PINEAPPLE) MIX ALL\nTOGETHER. BRING TO A BOIL AND COOK\n10 MINUTES. LET COOL & FREEZE.\n                                    [OVER?]",
+  "confidence": "high"
+ },
+ {
+  "photo": 489,
+  "kind": "continuation",
+  "title": "Zucchini Pineapple",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "Can be used in recipes calling for crushed pineapple.",
+   "I froze mine in individual portions instead of an ice cream bucket, as I found it too hard to separate."
+  ],
+  "notes": [],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "CAN BE USED IN RECIPES\nCALLING FOR CRUSHED PINEAPPLE\nI FROZE MINE IN INDIVIDUAL\nPORTIONS INSTEAD OF AN ICE\nCREAM BUCKET, AS I FOUND IT\nTOO HARD TO SEPARATE.",
+  "confidence": "high"
+ },
+ {
+  "photo": 490,
+  "kind": "recipe",
+  "title": "Betty McIntosh's Wine Jelly",
+  "attribution": "Betty McIntosh",
+  "category": "Preserves, Pickles & Sauces",
+  "ingredients": [
+   "3 c white sugar",
+   "2 1/2 c wine",
+   "1 bottle of Certo"
+  ],
+  "directions": [
+   "Cook sugar & wine — only till sugar dissolves — (don't boil) — add bottle of Certo — stir well & bottle."
+  ],
+  "notes": [
+   "(very tasty)",
+   "Written in pencil"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Betty McIntosh's Wine Jelly.\n3 c white sugar\n2 1/2 c wine -\n1 bottle of certo\ncook sugar & wine - only till sugar\ndissolves - (don't boil) - add bottle of\ncerto - stir well & bottle. -\n                         (very tasty)",
+  "confidence": "high"
+ },
+ {
+  "photo": 491,
+  "kind": "recipe",
+  "title": "Bacon - Home cured - brine",
+  "attribution": "from book: The Easy Art of Smoking Food, 1977, by Chris Dubbs & Dave Heberle, Winchester Press",
+  "category": "Preserves, Pickles & Sauces",
+  "ingredients": [
+   "— Basic Brine —",
+   "3 lbs of salt",
+   "1 lb (2 cups) sugar (brown)",
+   "1 tbsp saltpeter"
+  ],
+  "directions": [
+   "This amount sufficient for 2 gallons of water. — 80% brine —",
+   "To test for right amount of salt solution — Put a fairly new (not peeled) potato in the water —"
+  ],
+  "notes": [
+   "Pencil note: put cheesecloth on top of crocks (no lids)",
+   "Pencil note: curing temp best at 36-40°F",
+   "Continues on back (photo 492)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Bacon - Home cured - brine. taken from\nbook - The Easy Art of Smoking Food 1977 by Chris\nDubbs. & Dave Heberle - Winchester Press.\n  Basic Brine:          put          curing temp\n3 lbs of salt        Cheesecloth      best at\n1 lb (2 cups) sugar - (brown)  on top   36-40°F\n1 tbsp. saltpeter.    of crocks\n                      (no-lids)\nThis amount sufficient for 2 gallons of water.\n- 80% brine -\nTo test for right amount of salt solution - Put a\nfairly new (not peeled) potato in the water -",
+  "confidence": "high"
+ },
+ {
+  "photo": 492,
+  "kind": "continuation",
+  "title": "Bacon - Home cured - brine",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "gradually add the brine mixture — the potato will float when the brine solution is about 80% — which is needed in curing.",
+   "Leave bacon in crock for 15-20 days — every few days take out the meat — stir the brine — put the meat back in — submerge the meat by weighting down with a jar of water.",
+   "After curing — each piece of meat should be rinsed briefly in fresh water to remove salt, then set aside to dry. — Pat meat with paper towel, lay on wire racks (not touching) — when dry a thin clear glossy coating of dissolved protein & nutrients will cover the surface — ready to smoke."
+  ],
+  "notes": [
+   "Margin (sideways): Bacon was too salty after 15 days",
+   "'15' circled in 15-20 days"
+  ],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "gradually add the brine mixture - the potato\nwill float when the brine solution is about\n80% - which is needed in curing. Leave\nbacon in crock for (15)- 20 days. - every few\ndays take out the meat - stir the brine -\nput the meat back in - submerge the meat\nby weighting down with a jar of water.\nafter curing - each piece of meat should be\nrinsed briefly in fresh water to remove salt.\nthen set aside to dry. - Pat meat with paper towel\nlay on wire racks (not touching) - when dry a thin\nclear glossy coating of dissolved protein & nutrients will\ncover the surface - ready to smoke\n[sideways in margin:] Bacon was too salty after 15 days",
+  "confidence": "high"
+ },
+ {
+  "photo": 493,
+  "kind": "recipe",
+  "title": "Marinades from Book - The Easy Art of Smoking Food",
+  "attribution": "from book: The Easy Art of Smoking Food",
+  "category": "Preserves, Pickles & Sauces",
+  "ingredients": [
+   "— Tough meat marinade —",
+   "1 cup wine",
+   "1 cup water",
+   "1/2 cup vinegar",
+   "1/2 cup veg. oil",
+   "2 tsp salt",
+   "1 tsp pepper",
+   "1 tsp onion pwd.",
+   "1/2 tsp garlic pwd.",
+   "other ingred. to try — allspice, bay leaf, chopped carrots, parsley, fruit juices or olive oil",
+   "— Lean Meat Marinade —",
+   "1 cup wine",
+   "3/4 cup veg. oil",
+   "1/2 tsp salt",
+   "1/2 tsp pepper",
+   "1/4 tsp garlic pwd.",
+   "other ingredients to try — chopped carrots, celery, onion or parsley, rosemary, savory, sugar, thyme"
+  ],
+  "directions": [],
+  "notes": [
+   "(over)",
+   "Continues on back (photo 494) with Fatty Meat Marinade"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Marinades from Book - The easy art of Smoking food.\nTough meat marinade:\n1 cup wine        1 tsp pepper.\n1 \" water         1 tsp. onion pwd.\n1/2 \" vinegar     1/2 \" garlic \"\n1/2 \" veg. oil  } other ingred to try - allspice, bay leaf.\n2 tsp. salt     } chopped carrots, parsley. fruit juices or olive oil\nLean Meat Marinade:\n1 cup wine.     1/2 tsp. pepper.      } chopped carrots, celery, onion\n3/4 \" veg. oil  1/4 \" garlic pwd.     } or parsley, rosemary, savory\n1/2 tsp. salt.  other ingredients to try } sugar. thyme. (over)",
+  "confidence": "high"
+ },
+ {
+  "photo": 494,
+  "kind": "continuation",
+  "title": "Marinades from Book - The Easy Art of Smoking Food",
+  "attribution": null,
+  "category": null,
+  "ingredients": [
+   "— Fatty Meat Marinade —",
+   "3/4 cup vinegar",
+   "1/2 cup lemon juice",
+   "1/2 cup orange juice",
+   "1/2 cup water",
+   "1 tsp onion pwd.",
+   "1 tsp pepper",
+   "other ingredients to try: chopped celery, carrots or parsley, garlic, lime juice, nutmeg, rosemary, sugar or tabasco sauce"
+  ],
+  "directions": [
+   "Smoking Hard-cured Pork: at 100° to 120°F for a minimum of 24 hours — 48 hours is best. — Count only the time the smoke is actually smoking."
+  ],
+  "notes": [],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Fatty Meat Marinade:\n3/4 cup vinegar      } 1 tsp onion pwd.\n1/2 \" lemon juice    } 1 tsp. pepper.\n1/2 \" orange juice   } other ingredients to try: chopped celery\n1/2 \" water          } carrots or parsley. garlic, lime juice\n                       nutmeg. rosemary, sugar or tabasco sauce\nSmoking Hard-cured-Pork. at 100° to 120°F for a\nminimum of 24 hours. - 48 hours - is best. - count only\nthe time the smoke is actually smoking.",
+  "confidence": "high"
+ },
+ {
+  "photo": 495,
+  "kind": "recipe",
+  "title": "Seasoned Salt #1",
+  "attribution": null,
+  "category": "Preserves, Pickles & Sauces",
+  "ingredients": [
+   "1 cup table salt",
+   "4 tbsp black pepper",
+   "4 tbsp white pepper",
+   "4 tbsp sugar",
+   "1 tbsp monosodium glutamate",
+   "1 tbsp celery salt",
+   "2 tsps onion powder",
+   "2 tsps garlic powder",
+   "1 tsp sage"
+  ],
+  "directions": [
+   "Mix & use in favorite recipes."
+  ],
+  "notes": [
+   "(over) — Seasoned Salt #2 is on the back (photo 496)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Seasoned Salt #1\n1 cup table salt\n4 tbsp. black pepper.\n4 \" white pepper.\n4 \" sugar.\n1 \" monosodium glutamate\n1 \" celery salt\n2 tsps. onion powder\n2 \" garlic powder\n1 \" sage\n   Mix & use in favorite recipes.   (over)",
+  "confidence": "high"
+ },
+ {
+  "photo": 496,
+  "kind": "recipe",
+  "title": "Seasoned Salt #2",
+  "attribution": null,
+  "category": "Preserves, Pickles & Sauces",
+  "ingredients": [
+   "1 cup table salt",
+   "4 tbsps sugar",
+   "2 tbsps paprika",
+   "1 tbsp monosodium glutamate",
+   "1 1/2 tbsp nutmeg",
+   "1 1/2 tbsp rosemary",
+   "1 1/2 tbsp marjoram",
+   "1 tbsp ground cloves"
+  ],
+  "directions": [],
+  "notes": [
+   "On the back of the Seasoned Salt #1 card (photo 495) — a separate recipe"
+  ],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Seasoned Salt #2\n1 cup table salt\n4 tbsps sugar\n2 \" paprika\n1 \" monosodium glutamate\n1 1/2 \" nutmeg\n1 1/2 \" rosemary\n1 1/2 \" marjoram\n1 \" ground cloves.",
+  "confidence": "high"
+ },
+ {
+  "photo": 497,
+  "kind": "recipe",
+  "title": "All Purpose Spice Blend",
+  "attribution": "Gertie",
+  "category": "Preserves, Pickles & Sauces",
+  "ingredients": [
+   "5 tsp onion powder",
+   "2 1/2 tsp garlic powder",
+   "2 1/2 tsp paprika",
+   "2 1/2 tsp pwd. mustard",
+   "1 1/4 tsp thyme leaves crushed",
+   "1/2 tsp ground white pepper",
+   "1/4 tsp celery seed"
+  ],
+  "directions": [
+   "Combine & mix well — put in shaker."
+  ],
+  "notes": [
+   "Makes about 1/3 c. (about 0.46 mg. sodium per teasp.)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "All Purpose Spice Blend -   Gertie\n5 - tsp. onion powder\n2 1/2 \" garlic \"\n2 1/2 \" paprika\n2 1/2 \" pwd. mustard\n1 1/4 \" thyme leaves crushed.\n1/2 \" ground white pepper\n1/4 \" celery seed\nCombine & mix well - put in shaker - Makes about\n1/3 c. (about 0.46 mg. sodium per teasp.)",
+  "confidence": "high"
+ },
+ {
+  "photo": 498,
+  "kind": "recipe",
+  "title": "Homemade Summer Sausage",
+  "attribution": "Trudy at cake decorating",
+  "category": "Main Dishes",
+  "ingredients": [
+   "2 lbs hamburger",
+   "2 tbsps curing salt",
+   "1/4 tsp onion salt",
+   "1/2 tsp garlic powder",
+   "1 1/2 tsp hickory liquid smoke",
+   "1 c water",
+   "pepper",
+   "1 tsp mustard seed (or celery)"
+  ],
+  "directions": [
+   "Mix altogether — wrap in saran — form into rolls. Leave in fridge for 24 hours.",
+   "Next day — put water in bottom part of broiler pan, put meat rolls on top of broiler pan. Bake for 2 hrs. at 275° — uncovered —"
+  ],
+  "notes": [
+   "Written in red ink",
+   "'wrap in saran' and 'form into rolls' marked with a swap arrow (form into rolls first, then wrap)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Homemade Summer Sausage.        Trudy at\n                                cake decorating\n2 lbs. Hamburger          1 1/2 tsp. hickory liquid smoke\n2 tbsps. curing salt      1 c water\n1/4 tsp. onion salt       pepper\n1/2 \" garlic powder.      1 tsp. mustard seed. (or celery)\nMix altogether - wrap in saran - form into rolls\nLeave in fridge for 24 hours.\nNext day. - put water in bottom part of broiler\npan, put meat rolls on top of broiler pan. bake\nfor 2 hrs. at 275° - uncovered -",
+  "confidence": "high"
+ },
+ {
+  "photo": 499,
+  "kind": "recipe",
+  "title": "Zucchini Relish",
+  "attribution": null,
+  "category": "Preserves, Pickles & Sauces",
+  "ingredients": [
+   "10 c ground zucchini",
+   "4 1/2 c ground onions",
+   "1 c salt",
+   "— add —",
+   "2 T corn starch",
+   "1 T mustard",
+   "2 T turmeric",
+   "1 t celery seed",
+   "4 cut up green peppers",
+   "2 cut up red peppers"
+  ],
+  "directions": [
+   "Mix altogether & let stand overnight, rinse & drain.",
+   "Put in pan & add (the following)."
+  ],
+  "notes": [
+   "Written in pencil",
+   "Continues on back (photo 500): Bring to boil & boil 15 min. Put in sterile jars & seal."
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Zucchini Relish\n10 c ground zucchini\n4 1/2 c \" onions\n1 c salt\nMix altogether & let stand over\nnight rinse & drain.\nput in pan & add\n 2 T corn starch\n 1 T mustard          4 cut up green peppers\n 2 T turmeric         2 \" \" Red peppers\n 1 t celery seed",
+  "confidence": "high"
+ }
+]

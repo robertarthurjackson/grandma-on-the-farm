@@ -1,0 +1,541 @@
+[
+  {
+    "photo": 220,
+    "kind": "recipe",
+    "title": "Herb Bread (good c soup)",
+    "attribution": "from lady in hospital",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "1 loaf vienna bread",
+      "— spread c —",
+      "2/3 c soft butter",
+      "1 1/2 c cheddar cheese (med) grated",
+      "1/2 tsp smoked flavored salt (Safeway)",
+      "2 tbsp finely chopped parsley",
+      "1 1/2 tsp Worchestershire sauce"
+    ],
+    "directions": [
+      "Mix above together - spread on both sides",
+      "Slice loaf thick, spread on both sides, reassemble.",
+      "Wrap in foil - warm in 400° - about 20 min."
+    ],
+    "notes": [
+      "good c soup",
+      "from lady in hospital"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "from lady in hospital\nHerb bread - (good c soup)\nloaf vienna bread.\nspread c\n2/3 c soft butter\n1 1/2 c cheddar cheese. (med) grated.\n1/2 tsp. smoked flavored salt. (Safeway)\n2 tbsp. finely chopped parsley.\n1 1/2 tsp Worchestershire sauce.\nMix above together - spread on both sides\nslice loaf thick \" \" \" \" reassemble.\nwrap in foil - warm in 400° - about 20 min.",
+    "confidence": "high"
+  },
+  {
+    "photo": 221,
+    "kind": "recipe",
+    "title": "Banana Orange and Date Health Loaf",
+    "attribution": null,
+    "category": "Breads & Buns",
+    "ingredients": [
+      "90 g butter",
+      "2 tsp grated orange peel",
+      "1/3 c sugar",
+      "2 eggs",
+      "1 c mashed bananas",
+      "3/4 c chopped dates",
+      "2 c flour (whole wheat) + 3 tsp baking powder",
+      "1/2 c + 2 tbsp orange juice"
+    ],
+    "directions": [],
+    "notes": [
+      "(over)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Banana Orange and Date Health Loaf\n90g. butter\n2 tsp. grated orange peel\n1/3 c. sugar\n2 eggs\n1 c. mashed bananas\n3/4 c. chopped dates\n2c. flour (whole wheat) + 3 tsp baking powder    (over)\n1/2 c. + 2 tbsp orange juice",
+    "confidence": "high"
+  },
+  {
+    "photo": 222,
+    "kind": "continuation",
+    "title": "Banana Orange and Date Health Loaf",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Grease a loaf pan & line with waxed paper.",
+      "Cream butter, rind & sugar in small bowl with electric mixer until light and fluffy, beat in eggs one at a time, add banana, beat until combined.",
+      "Transfer mixture to a larger bowl, stir in dates, then half the flour & half the orange juice; then stir in remaining flour & orange juice; stir until smooth.",
+      "Spread mixture into prepared pan.",
+      "Bake in mod. oven for about 1 hr. Stand 5 mins before turning onto rack to cool."
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Grease a loaf pan & line with\nwaxed paper.\nCream butter, rind & sugar in small\nbowl with electric mixer until light\nand fluffy, beat in eggs one at a time,\nadd banana, beat until combined.\nTransfer mixture to a larger bowl,\nstir in dates, then half the flour &\nhalf the orange juice; then stir in\nremaining flour & orange juice; stir until\nsmooth.\nSpread mixture into prepared pan.\nBake in mod. oven for about 1 hr. Stand 5 mins\nbefore turning onto rack to cool.",
+    "confidence": "high"
+  },
+  {
+    "photo": 223,
+    "kind": "recipe",
+    "title": "Zuccini Bread",
+    "attribution": null,
+    "category": "Breads & Buns",
+    "ingredients": [
+      "2 c sugar",
+      "3 eggs",
+      "1 c oil",
+      "2 c grated zuccini",
+      "3 c flour",
+      "1 tsp salt",
+      "1/2 tsp bk powder",
+      "1 tsp soda",
+      "3 tsp cinnamon",
+      "3 tsp vanilla",
+      "3/4 c walnuts"
+    ],
+    "directions": [
+      "Bake at 350° 1 hr & 15 min"
+    ],
+    "notes": [
+      "2 loaves",
+      "(send to copy) — pencilled note in circle at top"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Zuccini Bread (send to copy)\n2 c. sugar          1 tsp. salt\n3 eggs              1/2 tsp. bk powder\n1 c. oil            1 tsp. soda\n2 c. grated Zuccini 3 tsp. cinnamon\n3 c. flour          3 tsp. vanilla\n                    3/4 c. walnuts\nBake at 350°  1 hr & 15 min\n                    2 loaves.",
+    "confidence": "high"
+  },
+  {
+    "photo": 224,
+    "kind": "recipe",
+    "title": "French Garlic Bread",
+    "attribution": "our Margaret",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "Plain sliced french bread",
+      "marg.",
+      "garlic pwd.",
+      "worchester sauce"
+    ],
+    "directions": [
+      "Mix marg., garlic pwd. & worchester sauce to taste.",
+      "Spread on bread, top c grated cheddar cheese & broil -"
+    ],
+    "notes": [
+      "(Re. our Margaret) V. good."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "French\n  Garlic Bread.        (Re. our Margaret) V. good.\nPlain sliced french bread\nmarg.\ngarlic pwd.     } mix to taste\nworchester sauce\n\nspread on bread, top c grated cheddar cheese & broil -",
+    "confidence": "high"
+  },
+  {
+    "photo": 225,
+    "kind": "recipe",
+    "title": "Potato Scones",
+    "attribution": null,
+    "category": "Breads & Buns",
+    "ingredients": [
+      "1 1/4 c mashed potatoes, with salt & pepper",
+      "1 1/2 tsp baking powder",
+      "1/2 tsp salt",
+      "1/2 cup flour",
+      "1 egg beaten",
+      "1/4 c buttermilk"
+    ],
+    "directions": [
+      "(Potatoes are best when hot cooked - but can use day old.)",
+      "Mix dry ingredients & blend into potatoes. Mix in egg & buttermilk. Shape into a ball & pat to 3/4\" thick"
+    ],
+    "notes": [],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Potato Scones\n1 1/4 c mashed potatoes, with salt & pepper.\n1 1/2 tsp. baking powder.\n1/2 tsp. salt.\n1/2 cup flour\n1 egg beaten\n1/4 c buttermilk.\n(Potatoes are best when hot cooked - but can use day old.)\nMix dry ingredients & blend into potatoes. Mix in egg\n& buttermilk. Shape into a ball & pat to 3/4\" thick",
+    "confidence": "high"
+  },
+  {
+    "photo": 226,
+    "kind": "continuation",
+    "title": "Potato Scones",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Place on greased & floured pie plate & bake at 400°F. for 8 min. Reduce heat to 350 & bake another 4 min.",
+      "Cut into wedges & serve hot with butter.",
+      "If using with tea sprinkle with cinnamon & sugar during the last few min. of baking."
+    ],
+    "notes": [
+      "Serves 4-6."
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Place on greased & floured pie plate & bake at\n400°F. for 8 min. Reduce heat to 350 & bake another\n4 min.\nCut into wedges & serve hot with butter.\n---\nIf using with tea sprinkle with cinnamon &\nsugar during the last few. min. of baking. Serves 4-6.",
+    "confidence": "high"
+  },
+  {
+    "photo": 227,
+    "kind": "recipe",
+    "title": "Bannock",
+    "attribution": "Antoinette [Iron?]",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "6 c flour",
+      "2 tbsp baking powder",
+      "1/2 c square (lard)",
+      "sprinkle of sugar & salt",
+      "1 cup qt. milk",
+      "2 cup water"
+    ],
+    "directions": [
+      "Add flour if dough is to watery."
+    ],
+    "notes": [
+      "Written on a yellow sticky note attached to a folded letter/note",
+      "P.S. Hope you will do good in baking the Bannock. - Antoinette [Iron?]",
+      "Partial text visible at left edge of underlying paper: \"(30\""
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Bannock\n- 6 c. Flour\n- 2 tbsp. baking powder\n- 1/2 c. square (Lard)\n- sprinkle of sugar & salt.\n- 1 cup Qt. milk\n- 2 cup WATER\nAdd Flour if dough is to watery.\n\n[underlying paper:]\n(30[?]\nAntoinette [Iron?]\nP.S Hope you will\ndo good in Baking\nthe Bannock.",
+    "confidence": "medium"
+  },
+  {
+    "photo": 228,
+    "kind": "non-recipe",
+    "title": "PIES & PASTRIES",
+    "attribution": null,
+    "category": "Other",
+    "ingredients": [],
+    "directions": [],
+    "notes": [
+      "Blank divider/index card with orange tab reading PIES & PASTRIES"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "PIES & PASTRIES",
+    "confidence": "high"
+  },
+  {
+    "photo": 229,
+    "kind": "clipping",
+    "title": "Flapper Pie",
+    "attribution": "Marge Horning (newspaper column; recipe her mother used, sent in for Nel Kirby)",
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "— Crust —",
+      "14 double graham wafers, ground fine",
+      "1/2 cup white sugar",
+      "1/4 cup melted margarine (or butter)",
+      "1 tsp cinnamon",
+      "— Filling —",
+      "2 cups milk",
+      "2 egg yolks",
+      "1 tsp vanilla",
+      "2 tbsp cornstarch",
+      "1/4 cup sugar",
+      "— Meringue —",
+      "2 egg whites",
+      "3 tbsp icing sugar",
+      "1/8 tsp cream of tartar"
+    ],
+    "directions": [
+      "Crust: Mix well and line a 9-inch pie plate, save 1 tablespoon of crumbs for meringue topping. Brown for 8 minutes at 375°F.",
+      "Filling: Cook until thick. Pour hot into crust.",
+      "Meringue: Beat until stiff.",
+      "Pour meringue on warm pie, making sure the meringue is covering all sides of the crust so the meringue doesn't shrink. Sprinkle fine crumbs over the top. Bake at 250°F for 20 minutes, or until meringue is golden brown,"
+    ],
+    "notes": [
+      "Thanks to the many readers who have sent in the flapper pie recipe for Nel Kirby, the response was overwhelming. Marge Horning sends along the recipe her mother used.",
+      "Clipping is cut off at bottom mid-sentence"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "FLAPPER PIE\nThanks to the many readers who have sent in the flapper pie recipe for Nel Kirby, the response was overwhelming. Marge Horning sends along the recipe her mother used.\n\nCrust:\n14 double graham wafers, ground fine\n1/2 cup white sugar\n1/4 cup melted margarine (or butter)\n1 tsp. cinnamon\nMix well and line a 9-inch pie plate, save 1 tablespoon of crumbs for meringue topping. Brown for 8 minutes at 375°F.\n\nFilling:\n2 cups milk\n2 egg yolks\n1 tsp vanilla\n2 tbsp cornstarch\n1/4 cup sugar\nCook until thick. Pour hot into crust.\n\nMeringue:\n2 egg whites\n3 tbsp icing sugar\n1/8 tsp cream of tartar\n\nBeat until stiff.\n\nPour meringue on warm pie, making sure the meringue is covering all sides of the crust so the meringue doesn't shrink. Sprinkle fine crumbs over the top. Bake at 250°F for 20 minutes, or until meringue is golden brown,",
+    "confidence": "high"
+  },
+  {
+    "photo": 230,
+    "kind": "recipe",
+    "title": "Rhubarb/Strawberry Pie",
+    "attribution": "Margaret F.",
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "4 c rhubarb diced",
+      "3 eggs",
+      "1 pkg strawberry jello - add sugar to make 1 c",
+      "3 tbsp flour",
+      "1 tbsp lemon juice",
+      "1/4 tsp almond extract (opt.)"
+    ],
+    "directions": [
+      "Put rhubarb in bottom of pie plate - Mix rest of ingredients together & pour over top of rhubarb - add top crust.",
+      "Bake 15 min. @ 450° then 35 min @ 350°"
+    ],
+    "notes": [
+      "re Margaret F.",
+      "(see note over)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Rhubarb/strawberry pie - re Margaret F.\n4c rhubarb diced\n3 eggs\n1 pkg. strawberry jello - add sugar to make 1 c\n3 tbsp flour\n1 \" lemon juice\n1/4 tsp. almond extract - (opt.)\n\nBake 15 min. @ 450° then\n     35  \"   @ 350°\n  (see note over)\n\n[right side:]\nput rhubarb in\nbottom of pie plate\n- Mix rest of\ningredients together\n& pour over top of\nrhubarb - add top crust.",
+    "confidence": "high"
+  },
+  {
+    "photo": 231,
+    "kind": "continuation",
+    "title": "Rhubarb/Strawberry Pie",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Brush top c a little milk c a bit of sugar mixed in."
+    ],
+    "notes": [
+      "Margaret won 2nd prize with this recipe at church - 2 weeks ago. June '99"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Brush top c a little milk c\na bit of sugar mixed in.\n\nMargaret won 2nd. prize with this recipe\nat church - 2 weeks ago. June '99",
+    "confidence": "high"
+  },
+  {
+    "photo": 232,
+    "kind": "recipe",
+    "title": "Rhubarb Pie (Custard)",
+    "attribution": "Mrs Krebes",
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "2 c rhubarb",
+      "1 c sugar",
+      "2 tbsp butter",
+      "2 tbsp cornstarch",
+      "2 egg yolks",
+      "1/4 c cream (cereal)"
+    ],
+    "directions": [
+      "Put 1/2 c sugar & butter in pan with rhubarb, cook till soft.",
+      "Mix 1/2 c sugar with cornstarch, add beaten egg yolk with cream, add to first mixture. Cook till thick. Cool.",
+      "Pour into pastry shell.",
+      "For top - make meringue, add icing sugar."
+    ],
+    "notes": [],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Rhubarb Pie (Custard)  Mrs Krebes\n2 c. Rhubarb        2 tbsp. cornstarch\n1 c sugar           2 egg yolks.\n2 tbsp. butter      1/4 c cream. (cereal)\n\nPut 1/2 c sugar & butter in pan with rhubarb\ncook till soft. Mix 1/2 c sugar with corn-\nstarch. add beaten egg yolk with cream. add\nto first mixture. cook till thick. Cool.\nPour into pastry shell. For top - make meringue\n                          add icing sugar.",
+    "confidence": "high"
+  },
+  {
+    "photo": 233,
+    "kind": "recipe",
+    "title": "Pie Crust",
+    "attribution": "Margaret Fradette",
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "5 c flour",
+      "1 lb tenderflake",
+      "1 egg",
+      "milk to fill to 3/4 c",
+      "1 tbsp vinegar"
+    ],
+    "directions": [
+      "5 c flour & 1 lb tenderflake - work tog.",
+      "In meas cup beat 1 egg - fill to 3/4 c c milk. Add 1 tbsp vinegar. -",
+      "Add to flour mixture."
+    ],
+    "notes": [
+      "V.G",
+      "over",
+      "NOTE Margaret cooks her pies only @ 350° - takes 45-60 min. - Brushes c milk & sprinkles c sugar [?] before cooking (written sideways in margin)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Pie Crust - re. Margaret Fradette\n5 c flour                        V.G\n1 lb tenderflake  } work tog.\n\nIn meas cup beat.\n1 egg. - fill to 3/4 c c milk. add 1 tbsp\nvinegar. -\nAdd to flour mixture.                  over\n\nNOTE Margaret cooks her pies only @ 350° -\n  takes 45-60 min. - Brushes c milk & sprinkles c sugar\n[sideways in right margin:] [?] before cooking",
+    "confidence": "high"
+  },
+  {
+    "photo": 234,
+    "kind": "recipe",
+    "title": "Pastry",
+    "attribution": "Margaret F.",
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "5 c flour",
+      "1 lb tenderflake lard",
+      "1 egg - beat in cup - add milk to 3/4 c then add",
+      "1 tbsp vinegar"
+    ],
+    "directions": [
+      "Mix lard into flour. - then add egg mixture."
+    ],
+    "notes": [
+      "re: Margaret F.",
+      "This appears to be the back of the Pie Crust card (photo 233 said 'over'); it is essentially the same recipe restated"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Pastry:                    re: Margaret F.\n\n5 c flour\n1 lb. tenderflake lard.\n1 egg - beat in cup - add milk to 3/4 c then add.\n1 tbsp. vinegar.\n\nmix lard into flour. - then add egg mixture.",
+    "confidence": "high"
+  },
+  {
+    "photo": 235,
+    "kind": "recipe",
+    "title": "Prize Butter Tarts",
+    "attribution": "Sr. Redempta",
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "1/3 c butter",
+      "1 c sifted brown sugar",
+      "2 tbsp cream",
+      "1/2 c currants or raisins",
+      "1 egg beaten",
+      "1 tsp vanilla"
+    ],
+    "directions": [
+      "Mix ingred. tog. & place spoonfuls of mixture in pastry shells (not cooked) - Bake in a 425° oven till brown."
+    ],
+    "notes": [
+      "1 recipe fills 17 tart shells. (in pencil)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Prize Butter Tarts - (Sr. Redempta)\n1/3 c. butter\n1 \" sifted brown sugar\n2 tbsp. cream\n1/2 c currants or raisins\n1 egg beaten\n1 tsp. vanilla\nMix ingred. tog. & place spoonfuls of mixture\nin pastry shells. (not cooked) - Bake in a\n425° oven till brown.\n1 recipe fills 17 tart shells.",
+    "confidence": "high"
+  },
+  {
+    "photo": 236,
+    "kind": "recipe",
+    "title": "Flaky Pie Crust",
+    "attribution": null,
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "5 c flour",
+      "1 lb tenderflake lard",
+      "2 tsp salt",
+      "4 tsp brown sugar",
+      "1 egg",
+      "1 tsp vinegar",
+      "7 Up to fill cup 3/4 full"
+    ],
+    "directions": [
+      "Mix to crumbs. Beat 1 egg in measuring cup & add 1 tsp vinegar. Fill cup to 3/4 full c 7 Up.",
+      "Add to crumb mixture. Wrap extra in aluminum foil & keep in fridge."
+    ],
+    "notes": [
+      "V.G. nice handling pastry",
+      "Makes pastry for 5 pies"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Flaky Pie Crust        V.G.  nice handling pastry\n\n5 c flour               2 tsp. salt\n1 lb. tenderflake lard. 4 \" brown sugar.\n\nMix to crumbs. Beat 1 egg in measuring cup &\nadd 1 tsp. vinegar. Fill cup to 3/4 full c 7 Up.\nAdd to crumb mixture. Wrap extra in aluminum\nfoil & keep in fridge. Makes pastry for 5 pies",
+    "confidence": "high"
+  },
+  {
+    "photo": 237,
+    "kind": "recipe",
+    "title": "Saskatoon Pie",
+    "attribution": null,
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "5 c saskatoons (4 c crossed out, changed to 5 c)",
+      "1/4 c - 1/2 c H2O",
+      "2 tbsp lemon juice - used 2 tsp",
+      "3/4 c sugar - used 2/3 c artificial sweetner",
+      "3 tbsp flour - used corn starch",
+      "pastry for dbl pie"
+    ],
+    "directions": [
+      "Simmer sask. berries & H2O for 10 min - add lemon juice",
+      "Stir in sugar c flour (mixed) -",
+      "Pour into pie plate - dot c butter",
+      "Cover - seal & flute",
+      "425° - 15 min - then 350° - 3[0?] [cut off]"
+    ],
+    "notes": [
+      "Mike liked this pie",
+      "Written on a scrap of paper with a printed drawing at top and the number 60 in the corner",
+      "Blue-ink annotations record substitutions actually used"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "60\nSaskatoon Pie\n5c\n[4c crossed out] c Saskatoons -\n1/4 c - 1/2 c H2O\n2 [tbsp crossed out] lemon juice - used 2 tsp\n3/4 c - sugar - used 2/3 c artificial sweetner\n3 tbsp flour - used corn starch\npastry for dbl pie.\n\nsimmer sask. berries & H2O\nfor 10 min - add lemon juice\nstir in sugar c flour (mixed) -\npour into pie plate - dot c butter\nCover - seal & flute\n425° - 15 min - then 350° - 3[0?]\n- Mike liked this pie",
+    "confidence": "medium"
+  },
+  {
+    "photo": 238,
+    "kind": "recipe",
+    "title": "Blueberry Pie",
+    "attribution": "our Margaret",
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "1/2 c sugar",
+      "1/3 c flour",
+      "1/2 tsp cinnamon",
+      "4 c blueberries",
+      "1 tbsp lemon juice"
+    ],
+    "directions": [
+      "Mix tog & put on pastry - top c pastry."
+    ],
+    "notes": [
+      "re our Margaret",
+      "written in pencil"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Blueberry Pie - re our Margaret\n\n1/2 c sugar          mix tog & put on pastry\n1/3 c flour          top c pastry.\n1/2 tsp. cinnamon\n4 c blueberries\n1 tbsp. lemon juice",
+    "confidence": "high"
+  },
+  {
+    "photo": 239,
+    "kind": "recipe",
+    "title": "Rhubarb & Saskatoon Pie",
+    "attribution": "Lumen Christi - @ St. Anthony",
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "Pastry",
+      "1 c sugar",
+      "3 tbsp flour",
+      "1 tsp grated orange peel",
+      "1 tbsp butter",
+      "2 eggs - beat",
+      "1 1/2 c rhubarb",
+      "1 1/2 c saskatoons (precook)",
+      "2 tbsp butter"
+    ],
+    "directions": [
+      "Mix sugar, flour, orange p. & butter, add egg & beat smooth.",
+      "Cut T rhubarb & add saskatoons, spread over bottom crust.",
+      "Pour egg mixt. evenly over. Dot c remain. butter.",
+      "Cut lattice top.",
+      "Bake @ 450° - for 10, then 350° 30 min. more"
+    ],
+    "notes": [
+      "Lumen Christi - @ St. Anthony (heading)",
+      "written in pencil on folded paper"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "- Lumen Christi - @ St Anthony\nPastry - c  (Rhubarb & Saskatoon pie)\n1 c sugar\n3 tbsp flour\n1 tsp grated orange peel\n1 tbsp. butter\n2 eggs - beat\n1 1/2 c rhubarb -\n1 1/2 c saskatoons. - (precook)\n2 tbsp. butter\n\nMix sugar flour orange p. & butter\nadd egg & beat smooth\nCut T rhubarb & add saskatoons\nspread over - bottom crust\npour egg mixt. evenly over,\nDot c remain. butter\nCut lattice top!\nBake @ 450° - for 10,\nThen 350° \" 30 min. more",
+    "confidence": "medium"
+  }
+]

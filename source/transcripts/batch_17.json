@@ -1,0 +1,536 @@
+[
+  {
+    "photo": 340,
+    "kind": "recipe",
+    "title": "Skor Cookies",
+    "attribution": "Mary Ann",
+    "category": "Cookies & Bars",
+    "ingredients": [
+      "1 box (small) 250 gr. Ritz crackers",
+      "1 can Eagle Brand milk",
+      "1 pkg. Skor bits"
+    ],
+    "directions": [
+      "Crush crackers & mix with milk & 3/4 pkg of Skor bits.",
+      "Place in rectangular baking dish & cover with the rest of Skor bits.",
+      "Bake for 20 min @ 350°.",
+      "Slice while warm."
+    ],
+    "notes": [
+      "easy & good",
+      "from Mary Ann"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Skor cookies - easy & good.          from\n                                      Mary Ann\n1 box (small) 250 gr. - ritz crackers.\n1 can eagle brand milk.\n1 pkg. skor bits.\n_______________________\nCrush crackers & mix c̄ milk & 3/4 pkg of skor\nbits.\nPlace in rectangular baking dish & cover c̄ the\nrest of skor bits. - Bake for 20 min @ 350°.\n                              slice while warm",
+    "confidence": "high"
+  },
+  {
+    "photo": 341,
+    "kind": "recipe",
+    "title": "Lemon Iced Ambrosia Bars",
+    "attribution": null,
+    "category": "Cookies & Bars",
+    "ingredients": [
+      "1 1/2 c flour",
+      "1/3 c icing sugar",
+      "3/4 c cold butter or marg.",
+      "2 c packed brown sugar",
+      "4 eggs, beaten",
+      "1 c flaked coconut",
+      "1 c finely chopped pecans",
+      "3 tbsp. flour",
+      "1/2 tsp. bk. powder",
+      "Lemon icing"
+    ],
+    "directions": [
+      "In med. bowl, combine flour & icing sugar, cut in marg. until crumbly.",
+      "Press onto bottom of lightly greased 9x13 pan.",
+      "Bake @ 350° for 15 min.",
+      "In lg. bowl combine remaining ingred. except icing - mix well.",
+      "Spread evenly over baked crust. Bake 20-25 min.",
+      "Cool, spread with lemon icing."
+    ],
+    "notes": [
+      "over (continues on back with Lemon Icing)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Lemon Iced Ambrosia Bars.\n1 1/2 c flour                    1 c flaked coconut\n1/3 c icing sugar                1 c finely chopped pecans.\n3/4 c cold butter or marg.       3 tbsp. flour\n2 c packed brown sugar.          1/2 tsp. bk. powder.\n4 eggs, beaten                   Lemon icing.\nIn med. bowl, combine flour & icing sugar, cut in marg.\nuntil crumbly. Press onto bottom of lightly greased 9x13 pan.\nBake @ 350° - for 15 min.\nIn lg. bowl. combine remaining ingred. except icing - mix well.\nspread evenly over baked crust. Bake 20-25 min. Cool, spread. c̄   over",
+    "confidence": "high"
+  },
+  {
+    "photo": 342,
+    "kind": "continuation",
+    "title": "Lemon Iced Ambrosia Bars",
+    "attribution": null,
+    "category": null,
+    "ingredients": [
+      "— Lemon Icing —",
+      "2 c icing sugar",
+      "3 tbsp real lemon",
+      "2 tbsp. soft marg."
+    ],
+    "directions": [
+      "lemon icing. Cut into bars.",
+      "Lemon Icing: mix - spread."
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "lemon icing. cut into bars.\nLemon Icing.\n2c icing sugar.    }\n3 tbsp real lemon  } mix - spread.\n2 tbsp. soft marg. }",
+    "confidence": "high"
+  },
+  {
+    "photo": 343,
+    "kind": "recipe",
+    "title": "Nanaimo Bars",
+    "attribution": "Betty Roth",
+    "category": "Cookies & Bars",
+    "ingredients": [
+      "1/2 c butter",
+      "1/4 c sugar",
+      "5 tbsp cocoa",
+      "1 egg beaten",
+      "1 tsp vanilla",
+      "2 c graham cracker crumbs",
+      "1/2 c chopped nuts",
+      "1 c coconut",
+      "— Filling —",
+      "1/4 c butter",
+      "3 tbsp. milk",
+      "2 tbsp vanilla custard pwd.",
+      "2 c icing sugar",
+      "— Topping —",
+      "4 oz semi sweet choc.",
+      "1 tbsp. butter"
+    ],
+    "directions": [],
+    "notes": [
+      "Betty Roth's",
+      "1 oz can use unsweetened or use choc chip instead (pencil note beside chocolate)",
+      "over"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "- Nanaimo Bars - Betty Roth's.\n1/2 c butter          1 tsp vanilla\n1/4 c sugar           2 c graham cracker crumbs.\n5 tbsp cocoa          1/2 c chopped nuts.\n1 egg  beaten         1 c coconut.\n                    { 1/4 c butter\n                    { 3 tbsp. milk.\n                    { 2 tbsp vanilla custard pwd\n1 oz.               { 2 c icing sugar\ncan use unsweetened { 4 oz semi sweet choc.\nor use choc chip -  { 1 tbsp. butter\ninstead.",
+    "confidence": "high"
+  },
+  {
+    "photo": 344,
+    "kind": "continuation",
+    "title": "Nanaimo Bars",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Mix butter, sugar etc. put in saucepan, stir till custard like.",
+      "Put in crumbs, nuts - mix well & pack in 9x9\".",
+      "Cream 1/4 c butter & add icing s., 2 tbsp vanilla cust. & dissolve in milk & add. Let stand - put in fridge.",
+      "Melt choc with butter & spread."
+    ],
+    "notes": [
+      "try making 1 1/2 X filling - for better tastes"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "mix butter sugar or[?]\nput in saucepan stir till custard like\nput in crumbs nuts. - mix well &\npack in 9x9\" -\nCream 1/4 c butter & add icing s. 2 tbsp\nvanilla cust & dissolve in milk & add.\n         let stand - put in fridge.\nmelt. - choc with butter & spread.\n\n    making\ntry 1 1/2 X filling - for better tastes",
+    "confidence": "medium"
+  },
+  {
+    "photo": 345,
+    "kind": "recipe",
+    "title": "Chocolate Caramel Slice",
+    "attribution": "M.A. in Australia",
+    "category": "Cookies & Bars",
+    "ingredients": [
+      "— Base —",
+      "4 oz. butter or marg.",
+      "1/2 c brown sugar",
+      "1 c self rising flour",
+      "1 c coconut"
+    ],
+    "directions": [
+      "Cook in 9\" sq. tin or swiss roll pan.",
+      "Mix sugar, flour & coconut in bowl. Melt butter & mix into dry ingred.",
+      "Cook this in mod. oven 350-375 for 15 min. Do not overcook."
+    ],
+    "notes": [
+      "(M.A. in Australia)",
+      "over"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Chocolate Caramel Slice (M.A. in Australia)\nCook in 9\" sq. tin or swiss roll pan.\nBase:\n   4 oz. butter or marg.\n   1/2 c brown sugar\n   1 c self rising flour\n   1 c coconut\nMix sugar, flour & coconut in bowl. Melt. butter\n& mix into dry ingred. Cook this in mod. oven 350-375\nfor 15 min. Do not overcook.        over",
+    "confidence": "high"
+  },
+  {
+    "photo": 346,
+    "kind": "continuation",
+    "title": "Chocolate Caramel Slice",
+    "attribution": null,
+    "category": null,
+    "ingredients": [
+      "— Topping —",
+      "1 tin sweetened condensed milk",
+      "2 tbsp. syrup",
+      "dessert spoon of butter",
+      "— Icing —",
+      "3 oz. melted copha",
+      "1/2 c sifted icing sugar",
+      "2 heaped tsp cocoa"
+    ],
+    "directions": [
+      "Topping: Melt above tog. & pour over hot base. Bake an additional 10-15 min @ 350°",
+      "Icing: Mix & pour on. Let set on counter. Improves with keeping."
+    ],
+    "notes": [
+      "Improves with keeping."
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Topping\n1 tin sweetened condensed milk\n2 tbsp. syrup.\ndessert spoon of butter\nMelt above tog. & pour over hot base. Bake an additional\n10-15 min @ 350°\nIcing.\n   3 oz. melted copha.\n   1/2 c sifted icing sugar\n   2 heaped tsp cocoa\nMix & pour on. Let set on counter. Improves c̄ keeping.",
+    "confidence": "high"
+  },
+  {
+    "photo": 347,
+    "kind": "recipe",
+    "title": "Ribbon Squares",
+    "attribution": null,
+    "category": "Desserts & Sweets",
+    "ingredients": [
+      "— Base —",
+      "1 box vanilla wafers",
+      "1/2 cup margarine melted",
+      "— Middle layer —",
+      "1 small pkg cream cheese",
+      "1 pkg. Dream Whip",
+      "1 - 4 oz. pkg. vanilla instant pudding",
+      "1/4 cup milk",
+      "— Top layer —",
+      "1 pkg. strawberry jello",
+      "1 cup boiling H2O",
+      "1 pkg. frozen strawberries"
+    ],
+    "directions": [],
+    "notes": [
+      "Written in a different hand (printing/cursive, not Grandma's usual)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Ribbon Squares\n1 box vanilla wafers          } base\n1/2 cup margarine melted      }\n\n1 small pkg. cream cheese.              }\n1 pkg. dream whip                       } middle\n1 - 4 oz. pkg. vanilla instant pudding  } layer\n1/4 cup milk                            }\n\n1 pkg. strawberry jello        1 cup boiling H2O\n1 pkg. frozen strawberries              } top layer",
+    "confidence": "high"
+  },
+  {
+    "photo": 348,
+    "kind": "continuation",
+    "title": "Ribbon Squares",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Crush vanilla wafers, mix with melted margarine. Press into a 9x13\" pan. Cook 10 minutes @ 350°. Cool.",
+      "Cream cream cheese, add 1/4 cup milk. Make vanilla instant pudding according to directions.",
+      "Make Dream Whip & fold into vanilla pudding mixture. Let set.",
+      "Mix jello with boiling H2O, stir until dissolved. Stir in strawberries & stir until slightly thick. Let set in fridge."
+    ],
+    "notes": [
+      "Photo 349 is a duplicate shot of this same card back"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Crush vanilla wafers mix c̄ melted margarine\nPress into a 9x13\" pan. Cook 10 minutes @ 350°\nCool.\n  Cream, cream cheese add 1/4 cup milk\nmake vanilla instant pudding according\nto directions.\n  Make dream whip & fold into vanilla\npudding mixture. Let set.\n  Mix jello with boiling H2O stir until\ndissolved stir in strawberries & stir until\nslightly thick. Let set in fridge.",
+    "confidence": "high"
+  },
+  {
+    "photo": 349,
+    "kind": "continuation",
+    "title": "Ribbon Squares",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Crush vanilla wafers, mix with melted margarine. Press into a 9x13\" pan. Cook 10 minutes @ 350°. Cool.",
+      "Cream cream cheese, add 1/4 cup milk. Make vanilla instant pudding according to directions.",
+      "Make Dream Whip & fold into vanilla pudding mixture. Let set.",
+      "Mix jello with boiling H2O, stir until dissolved. Stir in strawberries & stir until slightly thick. Let set in fridge."
+    ],
+    "notes": [
+      "Duplicate photo of 348 (same card back, whole card visible)"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Crush vanilla wafers mix c̄ melted margarine\nPress into a 9x13\" pan. Cook 10 minutes @ 350°\nCool.\n  Cream, cream cheese add 1/4 cup milk\nmake vanilla instant pudding according\nto directions.\n  Make dream whip & fold into vanilla\npudding mixture. Let set.\n  Mix jello with boiling H2O stir until\ndissolved stir in strawberries & stir until\nslightly thick. Let set in fridge.",
+    "confidence": "high"
+  },
+  {
+    "photo": 350,
+    "kind": "recipe",
+    "title": "Shortcut Almond Roca",
+    "attribution": null,
+    "category": "Candy & Treats",
+    "ingredients": [
+      "1 tbsp. corn syrup",
+      "1 1/4 c. white sugar",
+      "1 c. butter",
+      "1/4 c. water",
+      "1 1/4 c. toasted slivered almonds"
+    ],
+    "directions": [
+      "In large heavy saucepan gently boil syrup, sugar, butter and water until \"hard crack\" stage (150°C - 300°F) on candy thermometer."
+    ],
+    "notes": [
+      "NB use only real butter for best results.",
+      "over"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "SHORTCUT ALMOND ROCA\n                                  NB\n1 tbsp. corn syrup                use only real butter\n1 1/4 c. white sugar              for best results.\n1 c. butter\n1/4 c. water\n1 1/4 c. toasted slivered almonds.\n\nIn large heavy saucepan gently boil\nsyrup, sugar, butter and water until\n\"hard crack\" stage (150°C - 300°F) on candy\n                          over →      thermometer",
+    "confidence": "high"
+  },
+  {
+    "photo": 351,
+    "kind": "continuation",
+    "title": "Shortcut Almond Roca",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Do not stir.",
+      "Remove from heat, add almonds and stir well. Spread on an ungreased cookie sheet.",
+      "(Before candy cools sprinkle with 1-6 oz pkg chocolate chips - if desired. As they melt, spread the chocolate evenly over the candy).",
+      "Cool in fridge or freezer. Break into bite sized pieces and hide some. Whatever you have disappears."
+    ],
+    "notes": [
+      "(This does not double well)"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Do not stir.\nRemove from heat, add almonds and\nstir well. Spread on an ungreased\ncookie sheet. (Before candy cools\nsprinkle with 1-6 oz pkg chocolate chips\n- if desired. As they melt, spread the\nchocolate evenly over the candy). Cool\nin fridge or freezer. Break into bite\nsized pieces and hide some. Whatever\nyou have disappears. (This does not double\n   well)",
+    "confidence": "high"
+  },
+  {
+    "photo": 352,
+    "kind": "clipping",
+    "title": "Nabisco Rice Flakes Candy",
+    "attribution": null,
+    "category": "Candy & Treats",
+    "ingredients": [
+      "1/2 cup white sugar",
+      "1/2 cup brown sugar",
+      "1/3 cup white corn syrup",
+      "1/4 cup water",
+      "1 teaspoon vinegar",
+      "1 teaspoon butter",
+      "1/2 teaspoon vanilla",
+      "1 box Nabisco Rice Flakes",
+      "1 cup chopped walnuts"
+    ],
+    "directions": [
+      "Combine first 6 ingredients in saucepan - cook and stir until sugar dissolves.",
+      "Cook, without stirring, to soft ball stage (240°F).",
+      "Cool slightly - add vanilla.",
+      "Combine Nabisco Rice Flakes and nuts - pour syrup over cereal mixture - mix well.",
+      "Press into buttered 9-inch square pan. Cut into squares when cool."
+    ],
+    "notes": [
+      "Cut from a Nabisco Rice Flakes cereal box (yellow package panel)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "NABISCO RICE FLAKES CANDY\n1/2 cup white sugar\n1/2 cup brown sugar\n1/3 cup white corn syrup\n1/4 cup water\n1 teaspoon vinegar\n1 teaspoon butter\n1/2 teaspoon vanilla\n1 box NABISCO RICE FLAKES\n1 cup chopped walnuts\nCombine first 6 ingredients in sauce-\npan—cook and stir until sugar dis-\nsolves. Cook, without stirring, to soft\nball stage (240°F). Cool slightly—\nadd vanilla. Combine NABISCO\nRICE FLAKES and nuts—pour syrup\nover cereal mixture—mix well. Press\ninto buttered 9-inch square pan.\nCut into squares when cool.",
+    "confidence": "high"
+  },
+  {
+    "photo": 353,
+    "kind": "recipe",
+    "title": "Carmel Corn",
+    "attribution": null,
+    "category": "Candy & Treats",
+    "ingredients": [
+      "15 cups popped popcorn",
+      "1/2 cup margarine",
+      "1 cup brown sugar",
+      "1/4 cup corn syrup",
+      "1/2 tsp. baking soda"
+    ],
+    "directions": [
+      "Margarine, brown sugar & corn syrup: bring to a boil and boil a few minutes.",
+      "Remove from heat & add 1/2 tsp. baking soda. Mix well - put on cookie sheet & bake at 200° for 1 hr. Stirring every 15 minutes.",
+      "- Add peanuts to popped corn before adding carmel."
+    ],
+    "notes": [
+      "Written in a different hand (printing)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Carmel Corn\n15 cups popped popcorn\n1/2 cup margarine    }\n1 cup brown sugar    } bring to a boil\n1/4 cup corn syrup   } and boil a few minutes.\n\nremove from heat & add [crossed out] 1/2 tsp. baking\nsoda. Mix well - put on cookie sheet & bake\nat 200° for 1 hr. Stirring every 15 minutes.\n\n- Add peanuts to popped corn before adding carmel",
+    "confidence": "high"
+  },
+  {
+    "photo": 354,
+    "kind": "recipe",
+    "title": "Pink Popcorn",
+    "attribution": null,
+    "category": "Candy & Treats",
+    "ingredients": [
+      "5 cups popcorn",
+      "1/2 cup granulated sugar",
+      "1/2 cup water",
+      "1 1/2 tbsp. icing sugar",
+      "red food coloring"
+    ],
+    "directions": [
+      "Combine sugar and water, stirring over low heat until sugar is dissolved, then"
+    ],
+    "notes": [
+      "Written in a different hand (printing)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "PINK POPCORN\n5 cups popcorn\n1/2 cup gradulated sugar\n1/2 cup water\n1 1/2 tbsp. icing sugar\n   red food coloring\n\nCombine sugar and water, stirring over\nlow heat until sugar is dissolved, then",
+    "confidence": "high"
+  },
+  {
+    "photo": 355,
+    "kind": "continuation",
+    "title": "Pink Popcorn",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "cook gently to 238° or until it forms a soft ball in cold water. Remove from heat.",
+      "Add food color. Pour over popcorn. Stir until well coated.",
+      "Sprinkle with icing sugar, stirring until syrup \"sugars\".",
+      "Turn out onto waxed paper and separate."
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "cook gently to 238° or until it forms a\nsoft ball in cold water. Remove from heat.\nAdd food color. Pour over popcorn. Stir\nuntil well coated. Sprinkle with icing\nsugar, stirring until syrup \"sugars\".\n  Turn out onto waxed paper and\n                          seperate.",
+    "confidence": "high"
+  },
+  {
+    "photo": 356,
+    "kind": "photo-of-box",
+    "title": "EGGS & CHEESE",
+    "attribution": null,
+    "category": "Other",
+    "ingredients": [],
+    "directions": [],
+    "notes": [
+      "Blank yellow-tabbed divider card labelled EGGS & CHEESE"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "EGGS & CHEESE",
+    "confidence": "high"
+  },
+  {
+    "photo": 357,
+    "kind": "recipe",
+    "title": "Wife Saver Breakfast",
+    "attribution": null,
+    "category": "Breakfast",
+    "ingredients": [
+      "8 slices of bread without crusts",
+      "slices of back bacon or ham",
+      "slices of cheese",
+      "8 more bread slices",
+      "6 eggs",
+      "1/2 tsp. salt",
+      "1/2 - 1 tsp. dry mustard",
+      "1/2 tsp pepper",
+      "1/4 c minced onion",
+      "1/4 c green pepper",
+      "1-2 tsp. Worcestershire sauce"
+    ],
+    "directions": [
+      "Put 8 slices of bread without crusts in 9x13\" dish.",
+      "Put on slices of back bacon or ham & slices of cheese on top.",
+      "8 more bread slices on top.",
+      "Beat 6 eggs, 1/2 tsp. salt. Add 1/2-1 tsp. dry mustard, 1/2 tsp pepper, 1/4 c minced onion, 1/4 c green pepper, 1-2 tsp. Worcestershire sauce."
+    ],
+    "notes": [
+      "also ✓ breakfast casserole pg 66 - Time Out, 10th anniversary cook book - simpler (pencil note at top)",
+      "over"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "also ✓ breakfast casserole Pg 66 - Time out, 10th anniversary\n                                    cook book - simpler\nWife Saver Breakfast\nPut 8 slices of bread without crusts in 9x13\"\ndish.\nPut on slices of back bacon or ham & slices of\ncheese on top -\n8 more bread slices on top.\nBeat 6 eggs, 1/2 tsp. salt. add 1/2-1 tsp. dry mustard\n1/2 tsp pepper. 1/4 c minced onion, 1/4 c green pepper.\n1-2 tsp. worchester sauce.        over",
+    "confidence": "high"
+  },
+  {
+    "photo": 358,
+    "kind": "continuation",
+    "title": "Wife Saver Breakfast",
+    "attribution": null,
+    "category": null,
+    "ingredients": [
+      "3 c whole milk",
+      "dash tabasco",
+      "1/4 lb. butter",
+      "crushed corn flakes or Special K"
+    ],
+    "directions": [
+      "Mix & pour over sandwiches - cover & let stand in fridge overnight.",
+      "In A.M. melt 1/4 lb. butter & pour over top. Cover with crushed corn flakes or Special K.",
+      "Bake - uncovered 1 hr @ 350° - let sit 10 min - serve."
+    ],
+    "notes": [
+      "Very Good."
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "3c whole milk\ndash tabasco\nMix & pour over sandwiches - Cover & let\nstand in fridge overnight.\n\nIn A.M. melt 1/4 lb. butter & pour over top. Cover\nc̄ crushed corn flakes or special k[?] - bake - uncovered\n1 hr @ 350° - let sit 10 min - serve.\n                                  Very Good.",
+    "confidence": "high"
+  },
+  {
+    "photo": 359,
+    "kind": "recipe",
+    "title": "Yorkshire Pudding",
+    "attribution": "Mrs Donaleshen",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "7/8 c flour - scant",
+      "4 eggs",
+      "1/4 tsp. salt",
+      "1 c milk",
+      "2 tbsp. oil from roast"
+    ],
+    "directions": [
+      "Let eggs & milk sit @ room temperature. (beat now & then)",
+      "- heat pan (approx 9 1/2 x 11)",
+      "- sift salt & flour into bowl. In separate bowl beat eggs until thick - add milk.",
+      "Make hollow in flour mixture - add egg mixture & butter (melted) - beat hard 1 min."
+    ],
+    "notes": [
+      "(Mrs Donaleshen)",
+      "Photo 360 is a duplicate close-up of this same card; the card may continue on its back"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Yorkshire Pudding. (Mrs Donaleshen)\n7/8 c flour - scant          1 c milk\n4 eggs                       2 tbsp. oil from roast.\n1/4 tsp. salt.\nLet eggs & milk sit @ room temperature. (beat now\n& then)\n- heat pan (approx 9 1/2 x 11)\n- sift salt & flour into bowl. In separate bowl beat\neggs until thick - add milk. Make hollow in flour\nmixture - add egg mixture & butter (melted) - beat hard 1 min.",
+    "confidence": "high"
+  }
+]

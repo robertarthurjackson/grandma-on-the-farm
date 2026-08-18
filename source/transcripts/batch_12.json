@@ -1,0 +1,506 @@
+[
+  {
+    "photo": 240,
+    "kind": "recipe",
+    "title": "Pumpkin Pie",
+    "attribution": null,
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "2 eggs beaten",
+      "2 c pumpkin puree",
+      "3/4 c sugar",
+      "1/2 tsp salt",
+      "2 tsp cinnamon",
+      "1/2 tsp ginger",
+      "1/4 tsp cloves",
+      "1 2/3 c evaporated milk"
+    ],
+    "directions": [
+      "Mix in order, pour into unbaked pastry shell.",
+      "Bake @ 425° for 15 min. reduce heat to 350° - bake for 45 min. until a knife inserted comes out clean.",
+      "see over for topping before baking."
+    ],
+    "notes": ["V.G.", "over"],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Pumpkin Pie.  V.G.\n2 eggs beaten\n2 c pumpkin puree\n3/4 c sugar\n1/2 tsp. salt\n2 \" cinnamon\n1/2 \" ginger\n1/4 \" cloves.\n1 2/3 c evaporated milk.\nMix in order, pour into unbaked pastry shell.\nBake @ 425° for 15 min. reduce heat to 350° - bake for 45\nmin. until a knife inserted comes out clean.\nsee over for topping before baking.          - over -",
+    "confidence": "high"
+  },
+  {
+    "photo": 241,
+    "kind": "continuation",
+    "title": "Pumpkin Pie",
+    "attribution": null,
+    "category": null,
+    "ingredients": [
+      "— Topping —",
+      "sour cream",
+      "milk"
+    ],
+    "directions": [
+      "To add a nice topping re: our Jennifer.",
+      "Top. mix sour cream & milk till just runny. put in a plastic bag & cut off (corner). start at the middle & swirl out. - then c a knife cut from centre straight out in 4 directions to edge of pie - then c knife cut in 4 directions from the crust to the middle.",
+      "Do the above before cooking the pie."
+    ],
+    "notes": ["re: our Jennifer (topping idea)"],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "To add a nice topping re: our Jennifer\nTop. mix sour cream & milk till just runny. put in\na plastic bag & cut off [tip - crossed out] (corner). start at the\nmiddle & swirl out. - then c a knife cut from\ncentre straight out in 4 directions to edge of pie -\nthen c knife cut in 4 \" from the crust to\nthe middle.\nDo the above before cooking the pie.",
+    "confidence": "high"
+  },
+  {
+    "photo": 242,
+    "kind": "recipe",
+    "title": "Prize Pizza Crust",
+    "attribution": "Jennifer P.",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "1 pkg instant yeast",
+      "1/4 c lukewarm H2O",
+      "1 tbsp sugar",
+      "1 tbsp oil",
+      "1 cup of water",
+      "1 tsp salt",
+      "2 3/4 c flour"
+    ],
+    "directions": [
+      "Soften tog. 1 pkg instant yeast - 1/4 c lukewarm H2O.",
+      "add 1 tbsp sugar, 1 tbsp oil, 1 cup of water, 1 tsp salt, 2 3/4 c flour.",
+      "Knead tog for 10 min. Put into a pizza pan & let rise. Add favorite toppings & bake 400° - 20-25 min."
+    ],
+    "notes": ["re Jennifer P.", "Printed sunflower card: 'Recipe: / from the kitchen of: / Yield:'"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "re Jennifer P.\nRecipe: Prize Pizza Crust.          Yield:\nfrom the kitchen of:\nSoften tog. 1 pkg. instant yeast - 1/4 c lukewarm H2O.\nadd 1 Tbsp. sugar.     1 tsp salt.     Knead tog for 10 min.\n1 \" oil          2 3/4 c flour.    Put into a pizza pan &\n1 cup of water                      let rise. Add favorite\n                                    toppings & bake 400° - 20-25 min.",
+    "confidence": "high"
+  },
+  {
+    "photo": 243,
+    "kind": "recipe",
+    "title": "Soft Pretzels",
+    "attribution": null,
+    "category": "Breads & Buns",
+    "ingredients": [
+      "1 1/2 c lukewarm H2O",
+      "1 pkg yeast",
+      "1 tbsp sugar",
+      "3 [?] to 4 c flour"
+    ],
+    "directions": [
+      "Mix all ingred. tog. & knead for 8-10 min. Roll out & form into pretzel shapes.",
+      "Beat 1 egg & brush over pretzels. Sprinkle c coarse salt (or spaghetti sauce).",
+      "Bake @ 425° for 10 min.",
+      "Great c cheese whiz - spread over them (can omit)"
+    ],
+    "notes": [],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Soft Pretzels.\n1 1/2 c lukewarm H2O.     1 tbsp sugar.\n1 pkg yeast               [3?] to 4 c flour.\nMix all ingred. tog. & knead for 8-10 min. Roll out & form\ninto pretzel shapes. Beat 1 egg & brush over pretzels. Sprinkle c\ncoarse salt (or spaghetti sauce). Bake @ 425° for 10 min. Great c\ncheese whiz - spread over them (can omit)",
+    "confidence": "high"
+  },
+  {
+    "photo": 244,
+    "kind": "recipe",
+    "title": "Pie Crust",
+    "attribution": "Marg. Tompkins",
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "4 1/2 c flour",
+      "1/2 tsp bk. powder",
+      "brown sugar (in palm of hand)",
+      "salt - pinch",
+      "1 egg yolk & 1 tbsp vinegar",
+      "1 lb Tenderflake lard",
+      "up to 1 c of 7up or water"
+    ],
+    "directions": [
+      "Mix dry ingred. - add lard - rub well c hands - add egg, vinegar & 7up.",
+      "Let sit for a few min. before rolling out. Will keep in fridge 10 days."
+    ],
+    "notes": ["N.B. Rolls out well."],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "N.B. Rolls out well.\nPie Crust - (Marg. Tompkins)\n4 1/2 c flour               1 lb. Tenderflake lard.\n1/2 tsp bk. powder.         up to 1 c of 7up or water\nbrown sugar (in palm of hand)\nsalt - pinch\n1 egg yolk & 1 tbsp. vinegar\n- Mix dry ingred. - add lard - rub well c hands -\nadd egg, vinegar & 7up.\nLet sit for a few min. before rolling out. Will keep\nin fridge 10 days.",
+    "confidence": "high"
+  },
+  {
+    "photo": 245,
+    "kind": "recipe",
+    "title": "Pumpkin Pie",
+    "attribution": null,
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "2 eggs beaten",
+      "2 c pumpkin puree",
+      "3/4 c sugar",
+      "1/2 tsp salt",
+      "2 tsp cinnamon",
+      "1/2 tsp ginger",
+      "1/4 tsp cloves (ground)",
+      "1 2/3 c evaporated milk",
+      "— Top —",
+      "sour cream",
+      "milk"
+    ],
+    "directions": [
+      "Mix in order, pour into unbaked pastry shell. Bake @ 425° for 15 min, red to 350° for 45 min till inserted knife comes out clean.",
+      "Top. Mix sour cream & milk till just runny. - put in plastic bag & cut corner off - start @ middle & spiral out - c a knife from centre - straight out in 4 corners to edge of pie - other four knife from crust to middle."
+    ],
+    "notes": ["very good ✓", "Pencil on folded lined notepaper; same recipe as photos 240-241"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Pumpkin Pie - very good ✓\n2 eggs beaten\n2 c pumpkin puree\n3/4 c sugar\n1/2 tsp salt\n2 \" cinnamon\n1/2 \" ginger\n1/4 \" cloves (ground)\n1 2/3 c evaporated milk\nMix in order, pour into unbaked\npastry shell. Bake @ 425° for 15 min\n        red to          350° \" 45 \"\n        till inserted knife comes out clean\nTop. Mix sour cream & milk till just\n  runny. - put in plastic bag & cut\n  corner off - start @ middle & spiral\n  out - c a knife from centre - straight\n  out in 4 corners to edge of pie -\n  other four knife from crust to middle.",
+    "confidence": "high"
+  },
+  {
+    "photo": 246,
+    "kind": "recipe",
+    "title": "Fluffy Pumpkin Pie",
+    "attribution": "Beverly Cookbook",
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "1 1/4 c sugar",
+      "3 rounded tbsp cornstarch",
+      "1 tsp cinnamon",
+      "3 tbsp flour",
+      "1/2 tsp nutmeg",
+      "1/2 tsp ginger",
+      "1/2 tsp salt",
+      "3 eggs separated",
+      "2 c milk",
+      "2 c pumpkin"
+    ],
+    "directions": [
+      "Combine 1 c sugar c other dry ingred. in top of dbl. boiler.",
+      "Combine slightly beaten egg yolks milk & pumpkin. add grad. to 1st. mix. Stir constantly. Cook over boiling H2O about 15 min. Cool.",
+      "Beat egg whites until soft peak - add rem. sugar & beat stiff. - fold into pumpkin mix."
+    ],
+    "notes": [],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Fluffy Pumpkin Pie   (Beverly Cookbook)\n1 1/4 c sugar                 1/2 tsp. ginger\n3 rounded tbsp cornstarch     1/2 \" salt\n1 tsp. cinnamon               3 eggs separated\n3 tbsp. flour                 2 c milk\n1/2 tsp. nutmeg               2 c pumpkin\nCombine 1 c sugar c other dry ingred. in top of dbl. boiler.\nCombine slightly beaten egg yolks milk & pumpkin.\nadd grad. to 1st. mix. Stir constantly. Cook over\nboiling H2O about 15 min. Cool. Beat egg whites until\nsoft peak - add rem. sugar & beat stiff. - fold into Pumpkin Mix.",
+    "confidence": "high"
+  },
+  {
+    "photo": 247,
+    "kind": "continuation",
+    "title": "Fluffy Pumpkin Pie",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Fill baked pie shell."
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Fill baked pie shell.",
+    "confidence": "high"
+  },
+  {
+    "photo": 248,
+    "kind": "recipe",
+    "title": "Flakiest never fail pie crust",
+    "attribution": null,
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "5 c flour",
+      "1 lb lard",
+      "2 tsp salt",
+      "4 tsp brown sugar",
+      "1 egg",
+      "1 tsp vinegar",
+      "7up (to fill measuring cup 3/4 full)"
+    ],
+    "directions": [
+      "Mix till crumbly. Beat 1 egg in meas. cup. add 1 tsp. vinegar. Fill to 3/4 full c 7up. add to crumb mixture - wrap extra in foil - in fridge - makes 5 pies."
+    ],
+    "notes": ["makes 5 pies", "Something written sideways in top-left corner, cut off: [?]"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "[sideways in top-left corner, cut off: ?]\nFlakiest never fail pie crust\n5 c flour\n1 lb. lard\n2 tsp salt.\n4 \" brown sugar.\nMix till crumbly. Beat 1 egg in meas. cup. add\n1 tsp. vinegar. Fill to 3/4 full c 7up. add to crumb\nmixture - wrap extra in foil - in fridge - makes 5 pies.",
+    "confidence": "high"
+  },
+  {
+    "photo": 249,
+    "kind": "recipe",
+    "title": "Ukrainian Pastry Khrustyky",
+    "attribution": "Cara [Sara?]",
+    "category": "Desserts & Sweets",
+    "ingredients": [
+      "2 eggs",
+      "3 egg yolks",
+      "2 tbsp sugar",
+      "1 tbsp rich cream",
+      "2 tbsp rum or brandy",
+      "1 c plus 2 tbsp flour",
+      "confectioners sugar",
+      "1/2 tsp salt"
+    ],
+    "directions": [
+      "Beat eggs tog. until very light. Beat in sugar, cream, salt & rum or brandy. Sift in flour. This dough should be soft.",
+      "Cover & let rest for 10 min. Roll very thin, 1/8\" or thinner. Use a sm. amt of dough @ a time & keep rest covered - as it dries quickly.",
+      "Cut the rolled dough into long"
+    ],
+    "notes": [],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Ukrainian Pastry Khrustyky (Cara[?]).\n2 eggs.                    2 tbsp. rum or brandy.\n3 egg yolks                1 c plus 2 tbsp. flour.\n2 tbsp. sugar              confectioners sugar.\n1 tbsp. rich cream         1/2 tsp. salt.\nBeat eggs tog. until very light. Beat in sugar, cream,\nsalt & rum or brandy. Sift in flour. This dough should\nbe soft. Cover & let rest for 10 min. Roll very thin. 1/8\"\nor thinner. Use a sm. amt of dough @ a time & keep rest\ncovered - as it dries quickly. Cut the rolled dough into long",
+    "confidence": "high"
+  },
+  {
+    "photo": 250,
+    "kind": "continuation",
+    "title": "Ukrainian Pastry Khrustyky",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "strips about 1 1/4\" wide. - Cut 2 1/2 - 3\" long. crosswise or diagonally. - slit in centre - pull end thru to form a loose loop.",
+      "Fry - fat @ 375° - light brown. Drain. Sprinkle c confectioners sugar."
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "strips about 1 1/4\" wide. - Cut 2 1/2 - 3\" long. crosswise\nor diagonally. - slit in centre - pull end thru to\nform a loose loop. Fry - fat @ 375° - light brown.\nDrain. Sprinkle c confectioners sugar.",
+    "confidence": "high"
+  },
+  {
+    "photo": 251,
+    "kind": "recipe",
+    "title": "Bavarian Appletort Cheese Cake",
+    "attribution": null,
+    "category": "Cakes & Frostings",
+    "ingredients": [
+      "— 1st —",
+      "1/2 cup margarine",
+      "1/3 cup sugar",
+      "1 tsp vanilla",
+      "1 cup flour",
+      "— 2nd —",
+      "8 oz pkg cream cheese",
+      "1/4 cup sugar",
+      "1 egg",
+      "1/2 tsp vanilla",
+      "— 3rd —",
+      "1/3 cup sugar",
+      "1/2 tsp cinnamon",
+      "4 cups peeled/sliced apples",
+      "1/4 cup sliced almonds"
+    ],
+    "directions": [],
+    "notes": ["Different (printed) handwriting from most cards"],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "BAVARIAN APPLETORT CHEESE CAKE\n1/2 cup margarine  }\n1/3 cup sugar      } 1st\n1 tsp. vanilla     }\n1 cup flour        }\n                              { 1/3 cup sugar\n                          3rd { 1/2 tsp cinnamon\n                              { 4 cups peeled/sliced Apples\n8 oz pkg. cream cheese }      { 1/4 cup sliced Almonds\n1/4 cup sugar          } 2nd\n1 egg                  }\n1/2 tsp. vanilla       }",
+    "confidence": "high"
+  },
+  {
+    "photo": 252,
+    "kind": "continuation",
+    "title": "Bavarian Appletort Cheese Cake",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Cream margarine, sugar & vanilla. Blend in flour. Spread dough on the bottom & sides of 9\" spring form pan.",
+      "Combine softened cream cheese & sugar & mix well. Add egg & vanilla & mix with mixer. Then pour over the pastry in pan.",
+      "Combine sugar & cinnamon. Toss apples in sugar mixture. Spoon apples over cream cheese layer & sprinkle on nuts.",
+      "Bake @ 450° - 10 minutes then reduce heat to 375° & bake another 30 min.",
+      "Cool before removing from pan. Refrigerate."
+    ],
+    "notes": ["Best - cold."],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Cream margarine, sugar & vanilla. Blend in flour.\nSpread dough on the bottom & sides of 9\" spring\nform pan. Combine softened cream cheese & sugar &\nmix well. Add egg & vanilla & mix with mixer. Then\npour over the pastry in pan.\n  Combine sugar & cinnamon. Toss apples in\nsugar mixture. Spoon apples over cream cheese\nlayer & sprinkle on nuts.\n  Bake @ 450° - 10 minutes then reduce heat\nto 375° & Bake another 30 min.\n  Cool before removing from pan.\n  Refridgerate.\n\nBest - Cold.",
+    "confidence": "high"
+  },
+  {
+    "photo": 253,
+    "kind": "recipe",
+    "title": "Pie Crust",
+    "attribution": "Mrs. Martin S[?]",
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "5 c flour",
+      "1 lb shortening (used Tenderflake lard)",
+      "1 cup milk",
+      "1 egg",
+      "1 tsp vinegar"
+    ],
+    "directions": [],
+    "notes": ["(good)", "Attribution surname smudged/stained"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Pie Crust - (Mrs. Martin S[?])\n                                  (good)\n5 c. flour\n1 lb. shortening (used Tenderflake Lard)\n1 cup milk\n1 egg\n1 tsp. vinegar",
+    "confidence": "medium"
+  },
+  {
+    "photo": 254,
+    "kind": "recipe",
+    "title": "Impossible Bacon Quiche",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "12 slices bacon, cooked & crumbled",
+      "1/4 c chopped onion",
+      "1 c grated swiss or cheddar cheese",
+      "2 c milk",
+      "1 c biscuit mix",
+      "4 eggs",
+      "1/4 tsp salt",
+      "1/8 tsp pepper",
+      "bacon & tomatoes for garnish"
+    ],
+    "directions": [
+      "Lightly grease 10\" pie plate. Sprinkle bacon, onion & cheese on plate.",
+      "Beat milk, eggs, biscuit mix & seasoning tog. until smooth, approx 1 min. Pour into pie plate.",
+      "Bake @ 400° - for 35 min. or until golden & knife inserted comes clean. Let stand 5 min. Garnish if desired. serve 4-6"
+    ],
+    "notes": ["serves 4-6", "Top right corner, partly cut off: '(Marg[?] ... ) Friends' [?]", "Folded, stained sheet"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Impossible Bacon Quiche   ([Marg?] [?]) Friends[?]\n12 slices bacon, cooked & crumbled.\n1/4 c chopped onion\n1 c grated swiss or cheddar cheese.\n2 c milk\n1 c biscuit mix.\n4 eggs\n1/4 tsp. salt.\n1/8 \" pepper.\nbacon & tomatoes for garnish\nLightly grease 10\" pie plate. sprinkle bacon, onion\n& cheese on plate. Beat milk, eggs, biscuit mix\n& seasoning tog. until smooth, approx 1 min.\nPour into pie plate. Bake @ 400° - for 35 min. or\nuntil golden & knife inserted comes clean. Let\nstand 5 min. Garnish if desired. serve 4-6",
+    "confidence": "medium"
+  },
+  {
+    "photo": 255,
+    "kind": "recipe",
+    "title": "Butter Tarts",
+    "attribution": "our Beverly Cookbook",
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "1 1/2 c raisins or currants",
+      "8 tbsp butter",
+      "2 eggs",
+      "2 c brown sugar",
+      "2 tsp rum flavor",
+      "chopped walnuts"
+    ],
+    "directions": [
+      "soak raisins or currants in boiling water till plump.",
+      "beat butter till creamy. Add eggs & brown sugar beat till foamy. add rum flavor, nuts & raisins or currants.",
+      "Pour into pastry shells. Bake @ 375° - 15-20 min"
+    ],
+    "notes": [],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Butter Tarts - (our Beverly Cookbook)\n1 1/2 c raisins or currants     2 c brown sugar\n8 tbsp. butter                  2 tsp rum flavor\n2 eggs                          chopped walnuts.\nsoak raisins or currants in boiling water till plump.\nbeat butter till creamy. Add eggs & brown sugar\n[currants or raisins - crossed out] beat till foamy. add rum\nflavor, nuts & raisins or currants.\nPour into pastry shells. Bake @ 375° - 15-20 min",
+    "confidence": "high"
+  },
+  {
+    "photo": 256,
+    "kind": "recipe",
+    "title": "Coconut Tarts",
+    "attribution": null,
+    "category": "Pies & Pastry",
+    "ingredients": [
+      "2 eggs",
+      "3/4 c sugar",
+      "1/4 tsp salt",
+      "1/4 c melted butter",
+      "1 tsp corn starch",
+      "1 tbsp lemon juice",
+      "1 tsp vanilla",
+      "1 1/2 c coconut",
+      "1/2 c raspberry jam"
+    ],
+    "directions": [
+      "Line tart tins c pastry. -",
+      "Beat eggs, add sugar corn starch & salt. Blend in butter, lemon juice & vanilla. Fold in coconut.",
+      "Spoon 1/2 tsp. rasp jam into ea tart shell. Fill 2/3 full c above mixture. Bake on lower rack 375° oven"
+    ],
+    "notes": ["V.G.", "Sideways in right margin: [20 min?]"],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Coconut Tarts:                              V.G.\n2 eggs                    1 tbsp lemon juice\n3/4 c sugar               1 tsp. vanilla\n1/4 tsp. salt             1 1/2 c coconut\n1/4 c melted butter       1/2 c raspberry jam\n1 tsp. corn starch\nLine tart tins c pastry. -\nBeat eggs, add sugar corn starch & salt. Blend in\nbutter, lemon juice & vanilla. Fold in coconut.\n  Spoon 1/2 tsp. rasp jam into ea tart shell. Fill\n2/3 full c above mixture Bake on ↓ rack 375° oven\n[sideways, right margin: 20 min?]",
+    "confidence": "high"
+  },
+  {
+    "photo": 257,
+    "kind": "continuation",
+    "title": "Coconut Tarts",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Frost when cool c thin vanilla icing",
+      "Can decorate c chocolate."
+    ],
+    "notes": ["Back of card; assumed to be the reverse of Coconut Tarts (photo 256)"],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Frost when cool c thin vanilla icing\nCan decorate c chocolate.",
+    "confidence": "medium"
+  },
+  {
+    "photo": 258,
+    "kind": "recipe",
+    "title": "Fruit Pizza",
+    "attribution": "Ruth [?]",
+    "category": "Desserts & Sweets",
+    "ingredients": [
+      "— Bottom Crust (double for cookie sheet) —",
+      "1/2 c butter",
+      "1/4 c icing sugar",
+      "1 c flour",
+      "— Cream —",
+      "4 oz cream cheese",
+      "1/3 c white sugar",
+      "1 tsp vanilla"
+    ],
+    "directions": [
+      "Bottom Crust: mix & pat onto cookie sheet. Bake @ 350° x 10 mins. Cool.",
+      "Cream: spread over cooled crust. Cover"
+    ],
+    "notes": ["Name in top right corner, partly cut off: Ruth[?]", "Pencil, different handwriting"],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "                                        Ruth[?]\nFruit Pizza\nBottom Crust - (double for cookie sheet)\n1/2 c butter\n1/4 c icing sugar\n1 c flour      - mix & pat onto cookie\nsheet. Bake @ 350° x 10 mins. Cool\nCream - 4 oz cream cheese\n1/3 c white sugar\n1 tsp vanilla\nspread over cooled crust. Cover",
+    "confidence": "high"
+  },
+  {
+    "photo": 259,
+    "kind": "continuation",
+    "title": "Fruit Pizza",
+    "attribution": null,
+    "category": null,
+    "ingredients": [
+      "sliced fruit: kiwi, strawberries, mandarins, bananas etc.",
+      "— Sauce (double) —",
+      "1 c pineapple juice",
+      "1/2 c sugar",
+      "2 tbsp corn starch",
+      "1 tsp lemon juice"
+    ],
+    "directions": [
+      "c sliced fruit. Kiwi, strawberries, mandarins bananas etc.",
+      "Sauce - (double): cook til thick - cool and pour over fruit."
+    ],
+    "notes": ["Word before 'double' crossed out ('don't'?)"],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "c sliced fruit. Kiwi, strawberries,\nmandarins bananas etc.\nSauce - ([don't? - crossed out] double)\n1 c pineapple juice\n1/2 c sugar\n2 tbsp corn starch\n1 tsp lemon juice\ncook til thick - cool and pour\nover fruit.",
+    "confidence": "high"
+  }
+]

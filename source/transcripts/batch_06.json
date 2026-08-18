@@ -1,0 +1,606 @@
+[
+  {
+    "photo": 120,
+    "kind": "recipe",
+    "title": "Perogy Dough",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "6 c flour",
+      "1 c marg. melted",
+      "2 eggs",
+      "3 tbsp. sour cream",
+      "1 1/4 c H2O"
+    ],
+    "directions": [
+      "Do not overwork dough. Roll out thin.",
+      "Not too many perogies in pot at once. Add a tbsp. of oil to H2O & salt.",
+      "Fill perogies with favorite potato filling.",
+      "(Boil 3 min)"
+    ],
+    "notes": [
+      "Top right: \"[Sask.?] paper\" (source note) with \"(Boil 3 min)\" underlined",
+      "Written on a piece of lined loose-leaf paper, not a card"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Perogy Dough.                    [Sask.?] paper\n                                 (Boil 3 min)\n6 c flour\n1 c marg. melted\n2 eggs\n3 tbsp. sour cream.\n1 1/4 c H2O.\nDo not overwork dough. Roll\nout thin. Not too many\nperogies in pot at once. Add a\ntbsp. of oil to H2O & salt. Fill\nperogies with favorite potato filling.",
+    "confidence": "high"
+  },
+  {
+    "photo": 121,
+    "kind": "recipe",
+    "title": "Pita Pockets (whole wheat)",
+    "attribution": "Bernie",
+    "category": "Main Dishes",
+    "ingredients": [
+      "sliced turkey",
+      "red onion",
+      "spinach or lettuce (romaine)",
+      "sliced apple",
+      "— Sauce —",
+      "1/3 c light sour cream",
+      "1 tsp Dijon mustard",
+      "1 tsp. honey"
+    ],
+    "directions": [],
+    "notes": [
+      "V.G.",
+      "re: Bernie",
+      "Sauce: 1/3 c light sour cream with 1 tsp Dijon mustard, 1 tsp. honey"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Pita Pockets (whole wheat)  V.G  re: Bernie.\nsliced turkey\nred onion\nspinach or lettuce (romaine)\nsliced apple.\n\nsauce  1/3 c light sour cream with 1 tsp Dijon mustard\n       1 tsp. honey.",
+    "confidence": "high"
+  },
+  {
+    "photo": 122,
+    "kind": "recipe",
+    "title": "Refreshing drink",
+    "attribution": "Margaret",
+    "category": "Beverages",
+    "ingredients": [
+      "1/2 Ocean Spray Cran/Grape",
+      "1/2 c Sprite"
+    ],
+    "directions": [
+      "Ocean Spray Cran/Grape 1/2 & 1/2 with Sprite."
+    ],
+    "notes": [
+      "V.G.",
+      "re Margaret",
+      "Only two lines written on the card; rest blank"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Refreshing drink. V.G  re Margaret.\nOcean Spray - Cran/Grape. 1/2 & 1/2 c Sprite",
+    "confidence": "high"
+  },
+  {
+    "photo": 123,
+    "kind": "clipping",
+    "title": "Golden Award White Bread",
+    "attribution": null,
+    "category": "Breads & Buns",
+    "ingredients": [
+      "1/2 cup (125 mL) warm water",
+      "2 tsp (10 mL) sugar",
+      "2 tbsp (30 mL) active dry yeast",
+      "3 1/2 cups (875 mL) warm water",
+      "1/4 cup (50 mL) sugar",
+      "1/2 cup (125 mL) vegetable oil or shortening",
+      "4 tsp (20 mL) salt",
+      "9 1/2 - 10 1/2 cups (2375-2625 mL) Golden Award All Purpose Flour"
+    ],
+    "directions": [
+      "Dissolve yeast and sugar in warm water and let stand 10 minutes.",
+      "Measure warm water into a large mixing bowl; add sugar, oil and salt. Add yeast mixture and mix well. Stir in sufficient flour to make a soft, workable dough.",
+      "Turn dough out on a lightly floured surface; knead 10-15 minutes until dough is smooth and elastic. Form dough into a ball and place in greased bowl, turning once to grease the top. Cover and let rise 50 minutes or until doubled.",
+      "Punch down and shape into 4 round balls. Cover and let rest 20 minutes. Form into loaves and place in greased 1.5 L (8 1/2\" x 4 1/2\") loaf pans. Brush tops with oil. Cover and let rise 50-55 minutes.",
+      "Bake in 190°C (375°F) oven 35-40 minutes or until bread tests done. Remove from pans and cool on wire rack."
+    ],
+    "notes": [
+      "Yield: 4 loaves",
+      "Printed package/flour-bag recipe (Golden Award flour)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "GOLDEN AWARD WHITE BREAD\n(Yield: 4 loaves)\n125 mL   warm water   1/2 cup\n10 mL    sugar   2 tsp\n30 mL    active dry yeast   2 tbsp\nDissolve yeast and sugar in warm water and\nlet stand 10 minutes.\n875 mL   warm water   3 1/2 cups\n50 mL    sugar   1/4 cup\n125 mL   vegetable oil or shortening   1/2 cup\n20 mL    salt   4 tsp\n2375-2625 mL   GOLDEN AWARD ALL PURPOSE FLOUR   9 1/2 - 10 1/2 cups\nMeasure warm water into a large mixing bowl; add sugar, oil and salt.\nAdd yeast mixture and mix well. Stir in sufficient flour to make a\nsoft, workable dough. Turn dough out on a lightly floured surface;\nknead 10-15 minutes until dough is smooth and elastic. Form dough\ninto a ball and place in greased bowl, turning once to grease the top.\nCover and let rise 50 minutes or until doubled. Punch down and\nshape into 4 round balls. Cover and let rest 20 minutes. Form into\nloaves and place in greased 1.5 L (8 1/2\" x 4 1/2\") loaf pans. Brush tops\nwith oil. Cover and let rise 50-55 minutes. Bake in 190°C (375°F)\noven 35-40 minutes or until bread tests done. Remove from pans\nand cool on wire rack.",
+    "confidence": "high"
+  },
+  {
+    "photo": 124,
+    "kind": "recipe",
+    "title": "Choc. Chip Banana Muffins",
+    "attribution": null,
+    "category": "Breads & Buns",
+    "ingredients": [
+      "2 c flour (500 ml)",
+      "1 tsp bk. soda (5 ml)",
+      "1 tsp salt (5 ml)",
+      "1 cup choc. chips (250 ml)",
+      "1/2 cup butter, marg (125 ml)",
+      "3/4 cup sugar (175 ml)",
+      "2 lg eggs",
+      "1 tsp. vanilla (5 ml)",
+      "1 cup ripe bananas"
+    ],
+    "directions": [],
+    "notes": [
+      "Bake @ 350° - 25 min",
+      "Metric equivalents written in right margin",
+      "Directions continue on back (next photo)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Choc. Chip Banana Muffins          Bake @\n                                   350° - 25 min\n2 c flour                          500 ml\n1 tsp bk. soda.                    5 \"\n1 \" salt                           5 \"\n1 cup. choc. chips                 250 \"\n1/2 \" butter, marg                 125 \"\n3/4 \" sugar.                       175 \"\n2 lg eggs\n1 tsp. vanilla.                    5 \"\n1 cup ripe bananas.",
+    "confidence": "high"
+  },
+  {
+    "photo": 125,
+    "kind": "continuation",
+    "title": "Choc. Chip Banana Muffins",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Mix tog. 1st 3 ingred. of dry mixture. Stir in choc. chips.",
+      "Cream tog. butter, sugar with electric mixer. Beat in eggs one at a time.",
+      "Mash bananas & add with vanilla to moist mixture. Add moist mixture to dry - all at once.",
+      "Stir until batter is moist but still lumpy.",
+      "Fill 12 muffin cups 3/4 full of batter.",
+      "Bake 25 min @ 350°."
+    ],
+    "notes": [
+      "NB 2 lg or 3 med bananas = 1 cup.",
+      "Back of Choc. Chip Banana Muffins card"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Mix tog. 1st. 3 ingred. of dry mixture\nstir in choc. chips.\nCream tog. butter, sugar, c electric mixer\nBeat in eggs one at a time.\nMash bananas & add c vanilla to moist mixture\nadd moist mixture to dry - all at once.\nstir until batter is moist but still lumpy.\nFill. 12 muffin cups. 3/4 full of batter\nBake. 25 min. @ 350°.\nNB  2 lg or 3 med bananas = 1 cup.",
+    "confidence": "high"
+  },
+  {
+    "photo": 126,
+    "kind": "recipe",
+    "title": "Blueberry Buttermilk Muffins",
+    "attribution": null,
+    "category": "Breads & Buns",
+    "ingredients": [
+      "1 c flour",
+      "3/4 whole wheat flour",
+      "2 tbsp brown sugar",
+      "1 tsp. bk. pwd.",
+      "1/4 tsp soda",
+      "Pinch salt",
+      "1 c buttermilk",
+      "2 egg whites",
+      "1 tsp. vanilla",
+      "3/4 c fresh or frozen & thawed blueberries",
+      "fine grated lemon (zest of lemon)"
+    ],
+    "directions": [
+      "Mix tog flours, brown sugar, bk. pwd, soda, & salt.",
+      "In a small bowl beat tog. buttermilk, egg whites & vanilla. Add to flour mixture & beat quickly until just mixed.",
+      "Fold in gently berries & lemon zest into batter. Spoon into muffin cups."
+    ],
+    "notes": [
+      "Bake @ 400° - 15 min",
+      "\"brown\" inserted above \"sugar\" and \"gently\" inserted above \"Fold in\" as later additions"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Blueberry Buttermilk Muffins. Bake @ 400° - 15 min\n1 c flour                    1 c buttermilk\n3/4 whole wheat flour        2 egg whites\n2 tbsp brown sugar           1 tsp. vanilla\n1 tsp. bk. pwd.              3/4 c fresh or frozen & thawed blueberries\n1/4 \" soda                   fine grated lemon. (zest of lemon)\nPinch salt\n                  brown\nMix tog flours, ^sugar, bk. pwd, soda, & salt. In a small\nbowl beat tog. buttermilk, egg whites & vanilla. Add to\n                                                    gently\nflour mixture & beat quickly until just mixed. Fold in\nberries & lemon zest into batter. Spoon into muffin cups.",
+    "confidence": "high"
+  },
+  {
+    "photo": 127,
+    "kind": "recipe",
+    "title": "Hot Cross Buns (breadmaker)",
+    "attribution": "Bernie",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "1 c + 2 tbsp. warm water",
+      "1 egg",
+      "1 1/2 tbsp. skim milk pwd.",
+      "1/4 c sugar",
+      "1 tsp. salt",
+      "1/4 c shortening",
+      "3 1/2 c bread flour (white or bread flour)",
+      "1 tsp. cinnamon",
+      "1/2 tsp. cloves",
+      "1/4 tsp. nutmeg",
+      "1/3 c mixed peel",
+      "1/3 c currants",
+      "2 tsp. yeast"
+    ],
+    "directions": [
+      "Water & egg 1st, then add all other ingredients - program for the Dough cycle - start.",
+      "At end - turn onto floured board - cut dough into 15 pieces"
+    ],
+    "notes": [
+      "re: Bernie",
+      "\"white or\" written above \"Bread flour\"",
+      "Continues on back (next photo)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Hot Cross buns - (breadmaker) re: Bernie.\n                                    white or\nWarm water - 1 c + 2 tbsp.    Bread flour - 3 1/2 c\nEgg.        - 1               Cinnamon    - 1 tsp.\nSkim milk pwd. 1 1/2 tbsp.    Cloves      - 1/2 tsp.\nSugar.      - 1/4 c           Nutmeg      - 1/4 tsp.\nsalt        - 1 tsp.          Mixed Peel  - 1/3 c\nshortening  - 1/4 c           Currants    - 1/3 c\n                              yeast       - 2 tsp.\nWater & egg - 1st. then add all other ingredients - program\nfor the Dough cycle - start.\nAt end - turn onto floured board. - cut dough into 15 pieces",
+    "confidence": "high"
+  },
+  {
+    "photo": 128,
+    "kind": "continuation",
+    "title": "Hot Cross Buns (breadmaker)",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Form dough into buns & place in greased 9\"x13\" pan.",
+      "Let rise in a warm place for 40-50 min.",
+      "Bake @ 350° - for 20-25 min.",
+      "Place on cooling rack."
+    ],
+    "notes": [
+      "Back of Hot Cross buns (breadmaker) card"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Form dough into buns & place in greased 9\"x13\" pan.\nLet rise in a warm place for 40-50 min.\nBake @ 350° - for 20-25 min.\nPlace on cooling rack.",
+    "confidence": "high"
+  },
+  {
+    "photo": 129,
+    "kind": "recipe",
+    "title": "Hot Cross Buns",
+    "attribution": "Margaret F.'s magazine",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "2 pkg. dry yeast (1/4 oz ea.)",
+      "1/2 c warm water 110°-115°",
+      "1 c warm milk (110°-115°)",
+      "1/2 c sugar",
+      "1/4 c butter, softened",
+      "1 tsp. vanilla",
+      "1 tsp salt",
+      "1/2 tsp nutmeg",
+      "6 1/2 - 7 c flour",
+      "4 eggs",
+      "1/2 c dried currants",
+      "1/2 c raisins",
+      "— Glaze & Icing —",
+      "2 tbsp. water",
+      "1 egg yolk",
+      "1 c confect. sugar",
+      "4 tsp. milk",
+      "1/4 tsp vanilla"
+    ],
+    "directions": [
+      "In bowl dissolve yeast in water. Add milk, sugar, butter, vanilla, salt, nutmeg & 3 c flour - beat until smooth.",
+      "Add eggs one at a time, beat well after ea. Stir in currants, raisins & enough remaining flour to make a soft dough.",
+      "Turn onto a floured board; knead until"
+    ],
+    "notes": [
+      "(re: Margaret F.'s magazine)",
+      "Continues on back (next photo)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Hot Cross buns.          (re: Margaret F.'s magazine)\n2 pkg. dry yeast (1/4 oz ea.)   1 tsp salt          Glaze & Icing\n1/2 c warm water 110°-115°      1/2 \" nutmeg        2 tbsp. water\n1 c \" milk \" \"                  6 1/2 - 7 c flour   1 egg yolk\n1/2 c sugar                     4 eggs              1 c confect. sugar\n1/4 c butter, softened          1/2 c dried currants  4 tsp. milk\n1 tsp. vanilla                  1/2 c raisins       1/4 \" vanilla\nIn bowl dissolve yeast in water. Add milk, sugar, butter,\nvanilla, salt, nutmeg & 3 c flour - beat until smooth. Add eggs\none at a time, beat well pe ea. Stir in currants, raisins & enough\nremaining\nflour to make a soft dough. Turn onto a floured board; knead until",
+    "confidence": "high"
+  },
+  {
+    "photo": 130,
+    "kind": "continuation",
+    "title": "Hot Cross Buns",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "smooth & elastic - 6-8 min. Place in a greased bowl; turn once to grease top. Cover & let rise in a warm place till doubled, about 1 hour.",
+      "Punch dough down; shape into 30 balls. Place on greased baking sheets. Cut a cross on top of each roll with a sharp knife. Cover & let rise until doubled, about 30 min.",
+      "Beat water & egg yolk; brush over rolls. Bake @ 375° for 12-15 min. Cool on wire racks.",
+      "For Icing: Combine sugar, milk & vanilla till smooth. Drizzle over the rolls."
+    ],
+    "notes": [
+      "Yield: 2 1/2 doz.",
+      "Back of Hot Cross buns (Margaret F.'s magazine) card"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "smooth & elastic - 6-8 min. Place in a greased bowl; turn once\nto grease top. Cover & let rise in a warm place till doubled.\nabout 1 hour. Punch dough down; shape into 30 balls. Place on\ngreased baking sheets. Cut a cross on top of each roll c a sharp\nknife. Cover & let rise until doubled. about 30 min. Beat water\n& egg yolk; brush over rolls. Bake @ 375° for 12-15 min. Cool on\nwire racks.\nFor Icing. Combine, sugar, milk & vanilla till smooth. drizzle over\nthe rolls. - 2 1/2 doz.",
+    "confidence": "high"
+  },
+  {
+    "photo": 131,
+    "kind": "recipe",
+    "title": "Spudnuts",
+    "attribution": "Susie[?] Pawlowski's",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "2 pkgs yeast",
+      "4 c scalded milk (cooled - crossed out)",
+      "1 1/2 tsp salt",
+      "1 cup margarine",
+      "1 cup sugar",
+      "5 eggs well beaten",
+      "2 cups freshly mashed potatoes",
+      "2 tsp nutmeg (no less)",
+      "flour"
+    ],
+    "directions": [
+      "Process yeast as directed on pkg.",
+      "Scald milk. Add sugar, salt, margarine till melted. Cool mixture to lukewarm and pour into bowl.",
+      "Add potatoes, nutmeg, eggs and risen"
+    ],
+    "notes": [
+      "Sideways note in top-left margin: \"If you want smaller doughnuts, use glass or small cover instead of doughnut cutter.\"",
+      "\"(cooled)\" after scalded milk is crossed out",
+      "\"no less\" after nutmeg is underlined",
+      "Very old, worn, stained card; continues on back (next photo)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "[margin, sideways: If you want smaller\ndoughnuts, use glass or\nsmall cover instead\nof doughnut cutter.]\nSpudnuts   ([Susie?] Pawlowski's)\n2 pkgs yeast                5 eggs well beaten\n4 c scalded milk (~~cooled~~)  2 cups freshly mashed\n1 1/2 tsp salt                          potatoes.\n1 cup margarine             2 tsp nutmeg (no less)\n1 cup sugar                 flour.\nProcess yeast as directed on pkg.\nScald milk. Add sugar, salt margarine\ntill melted. Cool mixture to lukewarm and\npour into bowl.\nAdd potatoes, nutmeg, eggs and risen",
+    "confidence": "medium"
+  },
+  {
+    "photo": 132,
+    "kind": "continuation",
+    "title": "Spudnuts",
+    "attribution": null,
+    "category": null,
+    "ingredients": [
+      "— Glaze - if desired —",
+      "1 lb (2 cups) icing sugar",
+      "2 T butter",
+      "Water to make a fairly thick solution"
+    ],
+    "directions": [
+      "yeast. Add enough flour to make a soft dough and knead.",
+      "Let this double in size, then knead down. Roll out 1/2\" thick, cut with doughnut cutter and let rise to double the size. Then deep fry.",
+      "Glaze - if desired: 1 lb (2 cups) icing sugar, 2 T butter, water to make a fairly thick solution. Place over double boiler to keep warm. Dip in doughnuts as soon as cooked. Place on wax paper to dry and cool.",
+      "(Usually I dip in just one side, or too much is wasted)"
+    ],
+    "notes": [
+      "Back of Spudnuts (Pawlowski) card"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "yeast. Add enough flour to make a\nsoft dough and knead.\nLet this double in size, then knead\ndown. Roll out 1/2\" thick, cut with doughnut\ncutter and let rise to double the size\nThen deep fry.\nGlaze - if desired\n[ 1 lb (2 cups) icing sugar\n  2 T butter.\n  Water to make a fairly thick solution ] Place\nover double boiler to keep warm. Dip in doughnuts as\nsoon as cooked. Place on wax paper to dry and cool\n(Usually I dip in just one side, or too much is wasted)",
+    "confidence": "high"
+  },
+  {
+    "photo": 133,
+    "kind": "recipe",
+    "title": "Spudnuts (Doughnuts)",
+    "attribution": null,
+    "category": "Breads & Buns",
+    "ingredients": [
+      "4 cups scalded milk",
+      "1 cup sugar (part honey)",
+      "1 cup butter (margarine)",
+      "1 1/2 tsp salt",
+      "5 beaten eggs",
+      "2 tsp nutmeg",
+      "2 cups mashed potatoes",
+      "Flour, as needed",
+      "Cooking oil - sunflower or Crisco, canola",
+      "Yeast - 2 pkgs or 2 T in 3/4 c water + 1 tsp sugar"
+    ],
+    "directions": [
+      "Method - (1) Boil potatoes first - (2) Set yeast - 2 pkgs or 2 T in 3/4 c water + 1 tsp sugar",
+      "1. Scald milk - add sugar, butter, salt until melted. Cool.",
+      "2. Add eggs, nutmeg and mashed potatoes, risen yeast. Add enough flour to make a soft dough. Knead.",
+      "3. Let dough double in size - Roll 1/2\" thick. Cut out with cutter.",
+      "4. Fry in oil til brown, when doughnuts have risen.",
+      "Glaze (over ->)"
+    ],
+    "notes": [
+      "Glaze (over ->) - continues on back (next photo)",
+      "A neater rewrite of the older Spudnuts card in the previous two photos, in different (printed) handwriting"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "                    Spudnuts. (Doughnuts)\nMethod - (1) Boil potatoes first -   (2) Set yeast - 2 pkgs or\n                                     2T in 3/4 c water + 1 tsp sugar\nIngredients - 4 cups scalded milk       | 5 beaten eggs\n              1 cup sugar (part honey)  | 2 tsp nutmeg\n              1 cup butter (margarine)  | 2 cups mashed\n              1 1/2 tsp salt            |   potatoes.\n1. Scald milk - add sugar, butter, salt  ] Flour, as needed.\n   until melted. Cool.                   ] Cooking oil - sunflower\n                                         ] or Crisco, canola.\n2. Add eggs, nutmeg and mashed potatoes.\n   risen yeast. Add enough flour to make\n   a soft dough. Knead.\n3. Let dough double in size - Roll 1/2\" thick. Cut out with\n                                                    cutter.\n4. Fry in oil til brown, when doughnuts have risen.\n          Glaze (over ->)",
+    "confidence": "high"
+  },
+  {
+    "photo": 134,
+    "kind": "continuation",
+    "title": "Spudnuts (Doughnuts)",
+    "attribution": null,
+    "category": null,
+    "ingredients": [
+      "— Glaze —",
+      "2 cups icing sugar",
+      "2 T butter",
+      "Water - make a fairly thick solution"
+    ],
+    "directions": [
+      "Place over double boiler to keep warm.",
+      "Dip doughnuts in glaze as they are cooked - Place on wax paper to dry and cool.",
+      "I usually dip in one side of doughnut, or it is too sweet -"
+    ],
+    "notes": [
+      "Back of Spudnuts (Doughnuts) card - Glaze"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Glaze.\n  2 cups icing sugar\n  2 T butter\n  Water - make a fairly thick solution\nPlace over double boiler to keep warm.\nDip doughnuts in glaze as they are cooked -\n  Place on wax paper to dry and\ncool.  I usually dip in one side of doughnut,\nor it is too sweet -",
+    "confidence": "high"
+  },
+  {
+    "photo": 135,
+    "kind": "recipe",
+    "title": "Butterhorns",
+    "attribution": null,
+    "category": "Breads & Buns",
+    "ingredients": [
+      "4 c milk",
+      "1 c sugar",
+      "2 tsp. salt",
+      "2 c butter or marg.",
+      "2 eggs",
+      "11 c flour",
+      "3 pkg. yeast in 1 c H2O with 2 tsp. sugar"
+    ],
+    "directions": [
+      "Heat 1st 4 ingredients. - Cool to lukewarm.",
+      "Put flour in bowl. Add liquid & risen yeast & beaten eggs. Beat with spoon. Let rise dbl.",
+      "Roll out in rectangle on floured board. Spread with butter & roll up like jelly roll. Let rise 20 min.",
+      "Cook for 15-20 min @ 375°"
+    ],
+    "notes": [
+      "(over) - filling on back (next photo)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Butterhorns\n4 c milk                 2 eggs\n1 c sugar                11 c flour\n2 tsp. salt.             3 pkg. yeast in 1 c H2O c\n2 c butter or marg.      2 tsp. sugar.\nHeat 1st - 4 ingredients. - Cool to lukewarm. Put\nflour in bowl. add liquid & risen yeast & beaten\neggs. Beat c spoon. Let rise dbl. - Roll out in\nrectangle on floured board. Spread c butter & roll up\nlike jelly roll. Let rise 20 min. Cook for 15-20 min @ 375°\n          (over)",
+    "confidence": "high"
+  },
+  {
+    "photo": 136,
+    "kind": "continuation",
+    "title": "Butterhorns",
+    "attribution": null,
+    "category": null,
+    "ingredients": [
+      "— Filling —",
+      "2 1/2 c pared & chopped apples",
+      "1 c brown sugar",
+      "1/3 c butter",
+      "1 c raisins",
+      "1/2 tsp. cinnamon",
+      "1/2 tsp salt"
+    ],
+    "directions": [
+      "Filling: Combine & boil for 4 min.",
+      "Cool & spread on dough.",
+      "or apple pie filling - add cinnamon/nutmeg. or lemon pie filling."
+    ],
+    "notes": [
+      "Back of Butterhorns card - Filling",
+      "Alternatives below the line: apple pie filling with cinnamon/nutmeg, or lemon pie filling"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Filling\nCombine & boil for 4 min.\n2 1/2 c pared & chopped apples.\n1 c brown sugar.\n1/3 c butter\n1 c raisins\n1/2 tsp. cinnamon\n1/2 \" salt.\nCool & spread on dough.\n____________________\n         or\napple pie filling - add cinnamon/nutmeg.\n         or\nlemon pie filling.",
+    "confidence": "high"
+  },
+  {
+    "photo": 137,
+    "kind": "recipe",
+    "title": "Orange Craisin Bread",
+    "attribution": null,
+    "category": "Breads & Buns",
+    "ingredients": [
+      "1 c orange juice + 1 tbsp.",
+      "1 tbsp oil",
+      "1 tbsp honey",
+      "3 1/4 c. flour",
+      "1 tsp. salt",
+      "1/3 c craisins (at beep)",
+      "1/3 c walnuts (at beep)",
+      "1 tsp. yeast"
+    ],
+    "directions": [
+      "Craisins & walnuts added at beep."
+    ],
+    "notes": [
+      "1 - 1 1/2 lb loaf (bread machine recipe)",
+      "\"over\" written bottom right, but the next photo is a different card (Overnight buns) - back not photographed here",
+      "Different (printed) handwriting"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Orange Craisin Bread\n\n1 c orange juice + 1 tbsp.\n1 tbsp oil\n1 tbsp honey\n3 1/4 c. flour\n1 tsp. salt\n1/3 c craisins }  at beep.\n1/3 c walnuts  }\n1 tsp. yeast        1 - 1 1/2 lb loaf\n                                    over",
+    "confidence": "high"
+  },
+  {
+    "photo": 138,
+    "kind": "recipe",
+    "title": "Overnight buns (Mrs. Marg)",
+    "attribution": "Marg (\"Mrs. Marg\")",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "1 tsp. sugar",
+      "1/2 c lukewarm H2O",
+      "1 pkg yeast",
+      "3 c lukewarm H2O",
+      "1 c sugar",
+      "1 tsp. salt",
+      "3/4 c cooking oil",
+      "2 well beaten eggs",
+      "9-11 c flour"
+    ],
+    "directions": [
+      "Dissolve 1 tsp. sugar in 1/2 c lukewarm H2O. Add 1 pkg yeast. Set aside to rise - 10 min.",
+      "To 3 c lukewarm H2O add 1 c sugar, 1 tsp. salt, 3/4 c cooking oil, & 2 well beaten eggs. Add yeast mixture to this & beat & mix in 9-11 c. flour to make a stiff dough.",
+      "Put in greased bowl & grease top. Set in oven or warm place covered with tea towel. Start between 5 or 6 pm. Make into buns @ 10:30 or 11 pm. & let rise overnight - makes 2 cookie sheets & 1 1/2 dz cloves. (4 buns across x 5 rows).",
+      "Lightly rub butter or marg. over top of buns (use Crisco shortening on hands - pans) -"
+    ],
+    "notes": [
+      "oven 350° - 15-20 min",
+      "(Mrs. Marg) written after title - \"Mrs.\" inserted above",
+      "Makes 2 cookie sheets & 1 1/2 dz cloves (4 buns across x 5 rows)",
+      "\"cloves\" likely means cloverleaf buns"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "                    Mrs.\nOvernight buns - (Marg)   oven 350° - 15-20 min\nDissolve 1 tsp. sugar in 1/2 c lukewarm H2O. add 1 pkg yeast.\nset aside to rise - 10 min.\n   To 3 c lukewarm H2O add 1 c sugar. 1 tsp. salt.\n3/4 c cooking oil, & 2 well beaten eggs. Add yeast mixture\nto this & beat & mix in 9-11 c. flour to make a stiff dough.\nPut in greased bowl & grease top. Set in oven or warm place\ncovered c tea towel. start between 5 or 6 pm. Make into buns\n@ 10:30 or 11 pm. & let rise overnight - makes 2 cookie sheets &\n1 1/2 dz cloves.                    (4 buns across x 5 rows).\nLightly rub butter or marg. over top of buns (use Crisco shortening on\n                                              hands - pans) -",
+    "confidence": "high"
+  },
+  {
+    "photo": 139,
+    "kind": "recipe",
+    "title": "Overnight Buns",
+    "attribution": null,
+    "category": "Breads & Buns",
+    "ingredients": [
+      "1 tsp. sugar",
+      "1/2 cup lukewarm (water)",
+      "1 pkg yeast",
+      "3 cups lukewarm water",
+      "1 cup white sugar",
+      "1 tsp salt",
+      "3/4 c cooking oil",
+      "2 well beaten eggs",
+      "9-11 cups flour"
+    ],
+    "directions": [
+      "Dissolve 1 tsp. sugar in 1/2 cup lukewarm (water). Add 1 pkg yeast. Set aside to rise 10 min.",
+      "To 3 cups lukewarm water add 1 cup white sugar, 1 tsp salt, 3/4 c cooking oil & 2 well beaten eggs. Add yeast mixture to this & beat & mix in 9-11 cups flour to make a stiff dough.",
+      "Put in greased bowl & grease top. Set in oven or warm place covered with tea towel. (Start between 5 & 6 pm). Make into buns (@ 10:30 or 11:00 pm) & let rise overnight"
+    ],
+    "notes": [
+      "OVEN 350° 15-20 MIN.",
+      "A printed-handwriting rewrite of the previous card (Overnight buns - Mrs. Marg); text runs to bottom edge but next photo is a different card (Air Buns)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "OVEN 350°\n   15-20 MIN.\n              OVERNIGHT BUNS\nDISSOLVE 1 tsp. sugar ~ 1/2 cup lukewarm\nadd 1 pkg yeast. Set aside to rise 10 min.\n  To 3 cups lukewarm water add 1 cup white\nsugar, 1 tsp salt, 3/4 c cooking oil & 2 well\nbeaten eggs. Add yeast mixture to this & beat\n& mix in 9-11 cups flour. to make a stiff\ndough. Put in greased bowl & grease top.\nSet in oven or warm place covered c tea\ntowel. (Start between 5 & 6 pm). Make into\nbuns (@ 10:30 or 11:00 pm). & let rise overnight",
+    "confidence": "high"
+  }
+]

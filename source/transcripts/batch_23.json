@@ -1,0 +1,551 @@
+[
+  {
+    "photo": 460,
+    "kind": "recipe",
+    "title": "Julie's Chicken",
+    "attribution": "Bernadette",
+    "category": "Main Dishes",
+    "ingredients": [
+      "6-9 chicken pieces - skinless, breasts, or bone-in parts",
+      "1/2 c flour",
+      "1/2 tsp each salt & paprika",
+      "1/4 tsp pepper",
+      "oil for frying",
+      "— Sauce —",
+      "8 oz jar peach jam",
+      "1/2 c chopped onion",
+      "1/2 c barbecue sauce",
+      "2 tbsp soya sauce",
+      "1 med. green pepper (in strips)"
+    ],
+    "directions": [],
+    "notes": [
+      "V.G.",
+      "re Bernadette",
+      "serve c rice, steamed baby carrots, broccoli or a salad",
+      "over"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Julie's Chicken V.G. re Bernadette -\n(serve c rice, steamed, baby carrots, broccoli or a salad)\n6-9 chicken pieces - skinless, breasts, or bone-in parts.\n1/2 c flour\n1/2 tsp. each, salt & paprika\n1/4 \" pepper.\noil for frying.\nSauce:\n8 oz. jar peach jam          2 tbsp soya sauce.\n1/2 c chopped onion          1 med. green pepper (in strips)\n1/2 c barbecue sauce                    - over -",
+    "confidence": "high"
+  },
+  {
+    "photo": 461,
+    "kind": "continuation",
+    "title": "Julie's Chicken",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Wipe off chicken pieces. Mix flour, salt, paprika & pepper. Coat chicken c seasoned flour -",
+      "Preheat oven to 350°. Heat a wide skillet c a little oil for frying. Brown chicken both sides. Combine sauce ingred.",
+      "When chicken is golden, arrange in a 9x13 pan. Pour sauce over top. Bake uncovered, for 40 min. until chicken is cooked.",
+      "Add green pepper & cook for another 5-10 min."
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Wipe off chicken pieces, Mix flour, salt, paprika & pepper.\nCoat chicken c seasoned flour -\nPreheat oven to 350°. Heat a wide skillet c a little oil for\nfrying. Brown chicken both sides. Combine sauce ingred.\nWhen chicken is golden. Arrange in a 9x13 pan.\nPour sauce over top. Bake uncovered, for 40 min. until\nchicken is cooked.. Add green pepper & cook for another\n5-10 min.",
+    "confidence": "high"
+  },
+  {
+    "photo": 462,
+    "kind": "clipping",
+    "title": "Turkey Stir-Fry Supreme",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "500 g (1 lb) boneless fresh Alberta turkey breast*",
+      "25 mL (2 tbsp) oil, divided",
+      "750 mL (3 cups) thinly sliced vegetables (carrots, celery, broccoli, snowpeas, red or green pepper)",
+      "500 mL (2 cups) sliced mushrooms",
+      "1 small onion, thinly sliced",
+      "2 cloves garlic, minced",
+      "50 mL (3 tbsp) soy sauce",
+      "15 mL (1 tbsp) oyster sauce (optional)",
+      "75 mL (1/3 cup) chicken broth",
+      "15 mL (1 tbsp) cornstarch"
+    ],
+    "directions": [
+      "Cut turkey into narrow strips or bite-size pieces.",
+      "In a wok or large fry pan, stir-fry turkey in 15 ml (1 tbsp) oil until no longer pink. Remove turkey from pan.",
+      "Add remaining oil, vegetables, mushrooms, onion and garlic and stir-fry until vegetables are tender crisp (3 to 4 minutes).",
+      "Add soy sauce and oyster sauce (optional).",
+      "Combine chicken broth and cornstarch mixture.",
+      "Add turkey and cornstarch mixture.",
+      "Stir and cook until heated through and sauce thickens.",
+      "Serve over steamed rice or noodles if desired."
+    ],
+    "notes": [
+      "Use your imagination to vary ingredients and use what you have on hand.",
+      "*Ground turkey may be substituted for boneless turkey breast. Cook over medium heat stirring and separating turkey as it cooks.",
+      "Makes 5 servings",
+      "Nutritional Analysis Per Serving: 202 Cal., 24.72 g Protein, 7.27 g Fat, 9.55 g Carbohydrates.",
+      "TIP: Turkey breast is very lean and will dry out if overcooked. Use moderate heat and cook only until the pink turns white."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "TURKEY STIR-FRY SUPREME\nUse your imagination to vary ingredients\nand use what you have on hand.\n500 g  boneless fresh Alberta turkey breast*  1 lb\n25 mL  oil, divided  2 tbsp\n750 mL  thinly sliced vegetables (carrots, celery, broccoli, snowpeas, red or green pepper)  3 cups\n500 mL  sliced mushrooms  2 cups\n1  small onion, thinly sliced  1\n2  cloves garlic, minced  2\n50 mL  soy sauce  3 tbsp\n15 mL  oyster sauce (optional)  1 tbsp\n75 mL  chicken broth  1/3 cup\n15 mL  cornstarch  1 tbsp\n*Ground turkey may be substituted for boneless turkey breast. Cook over medium heat stirring and separating turkey as it cooks.\nMakes 5 servings\nNutritional Analysis Per Serving: 202 Cal., 24.72 g Protein, 7.27 g Fat, 9.55 g Carbohydrates.\n• Cut turkey into narrow strips or bite-size pieces.\n• In a wok or large fry pan, stir-fry turkey in 15 ml (1 tbsp) oil until no longer pink. Remove turkey from pan.\n• Add remaining oil, vegetables, mushrooms, onion and garlic and stir-fry until vegetables are tender crisp (3 to 4 minutes).\n• Add soy sauce and oyster sauce (optional).\n• Combine chicken broth and cornstarch mixture.\n• Add turkey and cornstarch mixture.\n• Stir and cook until heated through and sauce thickens.\n• Serve over steamed rice or noodles if desired.\nTIP: Turkey breast is very lean and will dry out if overcooked. Use moderate heat and cook only until the pink turns white.",
+    "confidence": "high"
+  },
+  {
+    "photo": 463,
+    "kind": "recipe",
+    "title": "Parmesan Chicken",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "8 boneless, skinless chicken breast halves (2 lbs)",
+      "1 c fat free mayonnaise",
+      "1/2 c grated fat free Parmesan cheese",
+      "2 tsp dried oregano",
+      "1/8 tsp pepper",
+      "Paprika - optional"
+    ],
+    "directions": [
+      "Place chicken in a shallow 3 qt bk. dish - sprayed - Bake uncovered @ 400° for 20 min.",
+      "Combine mayo, cheese, oregano, & pepper; spread over chicken. Sprinkle c paprika.",
+      "Bake 20 min. more or until chicken juices run clear."
+    ],
+    "notes": [
+      "Diabetic recipes"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Diabetic recipes\nParmesan Chicken:\n8 boneless, skinless chicken breast halves (2 lbs)\n1 c fat free mayonnaise\n1/2 c grated fat free Parmesan cheese.\n2 tsp dried oregano.\n1/8 \" pepper\nPaprika - optional\nPlace chicken in a shallow 3 qt bk. dish - sprayed - Bake uncovered\n@ 400° for 20 min. Combine mayo, cheese, oregano, & pepper; spread\nover chicken. Sprinkle c paprika. Bake 20 min. more or until\nchicken juices run clear.",
+    "confidence": "high"
+  },
+  {
+    "photo": 464,
+    "kind": "recipe",
+    "title": "Chicken c Spinach & Cheese",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "4 thin chicken breasts",
+      "1 tbsp flour",
+      "1 tbsp + 1 tsp olive oil",
+      "1/2 c chopped scallions",
+      "2 cloves garlic - minced",
+      "1/2 c chicken broth",
+      "1 tsp oregano",
+      "1/4 tsp salt",
+      "1/4 tsp pepper",
+      "1/2 c chopped mushrooms",
+      "1 lb spinach, stemmed",
+      "3 ounces shredded mozzarella cheese"
+    ],
+    "directions": [
+      "Dredge chicken in flour - (reserve excess). Warm oil in pan over med/high heat - add chicken & brown (about 6 min.) - transfer to plate & cover loosely.",
+      "Add the scallions, garlic & 2 tbsp of broth to skillet - cook & stir about 1 min. Sprinkle reserved flour & cook, stir until flour no longer visible (about 30 sec).",
+      "Add remaining broth, oregano, salt & pepper, bring to boil - stir frequently. Add mushrooms & spinach. Cover & cook 2 min. Uncover & stir until spinach is wilted (about 1 min.) Pour in any juices from chicken on plate."
+    ],
+    "notes": [
+      "over"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Chicken c spinach & cheese: -\n4 thin chicken breasts          1 tsp. oregano\n1 tbsp. flour                   1/4 \" salt\n1 \" + 1 tsp. olive oil          1/4 \" pepper\n1/2 c chopped scallions         1/2 c chopped mushrooms\n2 cloves garlic - minced        1 lb spinach, stemmed\n1/2 c chicken broth.            3 ounces shredded\n                                mozzarella cheese.\nDredge chicken in flour - (reserve - excess)\nWarm oil in pan over med/high heat - add\nchicken & brown (about 6 min.) - transfer to\nplate & cover loosely. Add the scallions,\ngarlic & 2 tbsp. of broth to skillet - cook & stir\nabout 1 min. sprinkle reserved flour & cook\nstir until flour - no longer visible. (about 30 sec)\nAdd remaining broth, oregano, salt & pepper bring\nto boil - stir frequently. Add mushrooms & spinach\nCover & cook. 2 min. Uncover & stir until spinach\nis wilted. (about 1 min.) Pour in any juices from chicken\non plate.                                    over",
+    "confidence": "high"
+  },
+  {
+    "photo": 465,
+    "kind": "continuation",
+    "title": "Chicken c Spinach & Cheese",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Place chicken on broiler pan - spread spinach, mushroom mixture on top of chicken.",
+      "Sprinkle cheese on top & broil 3 min. or until cheese is bubbly."
+    ],
+    "notes": [
+      "Written on Gibraltar Printing (Hinton, Alberta) notepaper; a word crossed out after 'broiler pan'"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Gibraltar Printing\nDivision of EM Graphics Ltd.\n#1, 122 Brewster Drive, Hinton, Alberta T7V 1B4\nTelephone (403) 865-4512 • Fax (403) 865-1148\nPlace chicken on broiler pan, - [crossed out] -\nspread spinach, mushroom mixture on top of\nchicken.\nsprinkle cheese on top & broil 3 min. or\nuntil cheese is bubbly.",
+    "confidence": "high"
+  },
+  {
+    "photo": 466,
+    "kind": "recipe",
+    "title": "BBQ Chicken",
+    "attribution": "Ruth",
+    "category": "Main Dishes",
+    "ingredients": [
+      "1/2 c chopped onion",
+      "1/4 c chopped celery",
+      "1/2 c catsup",
+      "1/3 c water",
+      "2 tbsp lemon juice",
+      "1 tbsp brown sugar",
+      "1 tbsp worcestershire sauce",
+      "1 tbsp vinegar",
+      "1 tbsp prepared mustard"
+    ],
+    "directions": [
+      "Onion & celery: cook till tender in microwave.",
+      "Add catsup, water, lemon juice, brown sugar, worcestershire sauce, vinegar, prepared mustard.",
+      "Season chicken if desired. Put chicken in roaster - pour sauce over chicken.",
+      "Bake uncovered @ 325° for 1 1/4 hrs. or until done, baste 3-4 times."
+    ],
+    "notes": [
+      "For 2 1/2 - 3 lb chicken",
+      "re: Ruth"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "BBQ Chicken - For 2 1/2 - 3 lb chicken re: Ruth\n1/2 c chopped onion } cook till tender\n1/4 c  \"  celery.   } in microwave\nadd 1/2 c catsup        } 1 tbsp worcestershire sauce\n    1/3 c water         } 1 \" vinegar\n    2 tbsp. lemon juice } 1 \" prepared mustard\n    1 tbsp brown sugar. } season chicken if desired\nPut chicken in roaster - pour sauce over chicken.\nBake uncovered @ 325° for 1 1/4 hrs. or until done\nbaste 3-4 times.",
+    "confidence": "high"
+  },
+  {
+    "photo": 467,
+    "kind": "clipping",
+    "title": "Lemon chicken with pasta — most-requested recipe",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "4 tablespoons vegetable oil, divided",
+      "500 g boneless skinless chicken breasts, cut into strips",
+      "2 cups thinly-sliced broccoli",
+      "3/4 cup sliced green onions",
+      "2 cloves garlic, minced",
+      "1 1/4 teaspoons dried rosemary leaves, crushed",
+      "1 teaspoon dried oregano",
+      "1/4 cup all-purpose flour",
+      "2 cups milk",
+      "1/4 cup grated Parmesan",
+      "1 teaspoon grated lemon rind",
+      "1/4 cup lemon juice",
+      "salt and pepper",
+      "3/4 pound cooked and drained spaghetti",
+      "chopped fresh tomato"
+    ],
+    "directions": [
+      "Heat 2 tablespoons of the oil in a large frypan. Saute chicken strips over high heat until cooked. Remove from pan and set aside. Add 1 tablespoon more oil to pan and saute broccoli until tender crisp. Remove from pan; set aside.",
+      "Add remaining tablespoon oil to pan and saute onion, garlic, rosemary and oregano until tender. Blend in flour, gradually stir in milk. Cook and stir over medium heat until mixture boils and thickens. Stir in Parmesan cheese, lemon rind and juice. Return chicken and broccoli to pan. Add salt and pepper to taste. Reheat to serving temperature. Serve over hot cooked pasta and sprinkle with chopped tomato."
+    ],
+    "notes": [
+      "Newspaper clipping (Calgary Herald column, Cynny Willet); right edge cut off",
+      "(Anyone with information on new trends, developments and happenings on the local culinary scene can write Cynny Willet, c/o The Calgary Herald, P.O. Box 2400, Stn. M, Calgary Alta., T2P 0W8. Submissions should be typed or legibly hand written. Not all submissions will be included in the column.)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Lemon chicken\nwith pasta —\nmost-requested\nrecipe.\n4 tablespoons vegetable oil, divided\n500 g boneless skinless chicken breasts, cut into strips\n2 cups thinly-sliced broccoli\n3/4 cup sliced green onions\n2 cloves garlic, minced\n1 1/4 teaspoons dried rosemary leaves, crushed\n1 teaspoon dried oregano\n1/4 cup all-purpose flour\n2 cups milk\n1/4 cup grated Parmesan\n1 teaspoon grated lemon rind\n1/4 cup lemon juice\nsalt and pepper\n3/4 pound cooked and drained spaghetti\nchopped fresh tomato\nHeat 2 tablespoons of the oil in a large frypan. Saute chicken strips over high heat until cooked. Remove from pan and set aside. Add 1 tablespoon more oil to pan and saute broccoli until tender crisp. Remove from pan; set aside.\nAdd remaining tablespoon oil to pan and saute onion, garlic, rosemary and oregano until tender. Blend in flour, gradually stir in milk. Cook and stir over medium heat until mixture boils and thickens. Stir in Parmesan cheese, lemon rind and juice. Return chicken and broccoli to pan. Add salt and pepper to taste. Reheat to serving temperature. Serve over hot cooked pasta and sprinkle with chopped tomato.\n(Anyone with information on new trends, developments and happenings on the local culinary scene can write Cynny Willet, c/o The Calgary Herald, P.O. Box 2400, Stn. M, Calgary Alta., T2P 0W8. Submissions should be typed or legibly hand written. Not all submissions will be included in the column.)",
+    "confidence": "high"
+  },
+  {
+    "photo": 468,
+    "kind": "recipe",
+    "title": "Indonesian Chicken & Rice",
+    "attribution": "Ria",
+    "category": "Main Dishes",
+    "ingredients": [
+      "Chicken",
+      "Garlic",
+      "rice",
+      "celery (chopped)",
+      "ginger",
+      "salt/pepper",
+      "(chicken in mug)* can be added",
+      "Fried onions (chopped fine)"
+    ],
+    "directions": [
+      "Simmer chicken till done c spices. Cut in very small pieces.",
+      "Cook rice in chicken stock - till done."
+    ],
+    "notes": [
+      "(Ria)",
+      "* chicken in mug can be added"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Indonesian Chicken & Rice (Ria)\nChicken -          ginger\nGarlic             salt/pepper\nrice.              (chicken in mug)* can be added\ncelery: (chopped)  Fried onions (chopped fine)\nSimmer chicken till done c spices.\ncut in very small pieces\nCook rice in chicken stock - till done.",
+    "confidence": "medium"
+  },
+  {
+    "photo": 469,
+    "kind": "continuation",
+    "title": "Indonesian Chicken & Rice",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "To serve: put rice in bowl - add chopped chicken on top, then chopped celery on top of chicken - then fried onions on top."
+    ],
+    "notes": [
+      "NB Rice is cooked c a little more H2O than usual - as you want the rice a little more like a gruel - (or porridge consistency)"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "to serve\nput rice in bowl. - add chopped\n[celery crossed out] chicken on top, then chopped\ncelery on top of chicken - then fried\nonions on top.\n____________\nNB Rice is cooked c a little more\nH2O than usual - as you want the\nrice a little more like a gruel - (or\nporridge consistency)",
+    "confidence": "high"
+  },
+  {
+    "photo": 470,
+    "kind": "recipe",
+    "title": "Stir-Fried Chicken & Pea Pods",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "— Sauce —",
+      "1/2 c chicken broth",
+      "2 tbsp soya sauce",
+      "1 tbsp cornstarch",
+      "1 tsp sugar",
+      "— Chicken & vegetables —",
+      "1 lb boned & skinned chicken breasts sliced in thin strips",
+      "1 1/2 tbsp cornstarch",
+      "1 tbsp soya sauce",
+      "1 tbsp cooking sherry"
+    ],
+    "directions": [
+      "Sauce: mix tog. & set aside.",
+      "Chicken, cornstarch, soya sauce: combine in med bowl c sherry & set aside."
+    ],
+    "notes": [],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Stir-Fried Chicken & Pea pods.\nSauce:\n1/2 c chicken broth  }\n2 tbsp. soya sauce   } mix tog. & set aside\n1 \" cornstarch       }\n1 tsp. sugar         }\nChicken & vegetables\n1 lb boned & skinned chicken breasts sliced in thin strips\n1 1/2 tbsp. cornstarch\n1 \" soya sauce.      } Combine in med bowl c sherry\n1 \" cooking sherry.  } & set aside",
+    "confidence": "high"
+  },
+  {
+    "photo": 471,
+    "kind": "continuation",
+    "title": "Stir-Fried Chicken & Pea Pods",
+    "attribution": null,
+    "category": null,
+    "ingredients": [
+      "vegetable oil",
+      "1 tsp ea minced garlic & ginger root",
+      "1/2 c ea. sliced green onions, carrots, celery",
+      "1 - 8 oz. can waterchestnuts sliced & drained",
+      "1 - 6 oz. pkg. frozen chinese pea pods, thawed"
+    ],
+    "directions": [
+      "In wok heat 3 tbsp. oil over high heat. Stir in garlic & ginger, add chicken & stir fry until no longer pink. Remove.",
+      "Heat 2 tbsp oil. Stir fry onions, carrots, & celery 1 min. Stir sauce & add to pan c (H2O chestnuts), pea pods & chicken. Cook stirring const. until bubbling. Serve immed."
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "vegetable oil.\n1 tsp. ea minced garlic & ginger root.\n1/2 c ea. sliced green onions, carrots, celery.\n1 - 8 oz. can waterchestnuts sliced & drained.\n1 - 6 oz. pkg. frozen chinese pea pods, thawed\nIn Wok heat 3 tbsp. oil over high heat. Stir in garlic & ginger,\nadd chicken & stir fry until no longer pink. remove. Heat 2 tbsp oil.\nStir fry onions, carrots, & celery 1 min. Stir sauce & add to pan c\n(H2O chestnuts), pea pods & chicken. Cook stirring const. until\nbubbling. Serve immed.",
+    "confidence": "high"
+  },
+  {
+    "photo": 472,
+    "kind": "recipe",
+    "title": "Orange Chicken",
+    "attribution": "Pam Pawlak",
+    "category": "Main Dishes",
+    "ingredients": [
+      "1 lg. frozen orange juice - add water to make a total of 3 cups",
+      "1 pkg dried onion soup mix"
+    ],
+    "directions": [
+      "Can add seasoning - pour over chicken pieces about 1 1/4 h @ 350°."
+    ],
+    "notes": [
+      "(Pam Pawlak)",
+      "6 oz [written near title, uncertain]",
+      "N.B. Can add cornstarch to thicken at end - for gravy (continues on back)",
+      "'c 3 c water' crossed out after orange juice"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Orange Chicken (Pam Pawlak) 6 oz[?] -\n1 - lg. frozen orange juice - [c 3 c water - crossed out]\nto make a total of 3 cups - add water\n1 - pkg dried onion soup mix -\nCan add seasoning -\npour over chicken pieces about\n1 1/4 h @ 350° -\n                N.B. Can add cornstarch to",
+    "confidence": "medium"
+  },
+  {
+    "photo": 473,
+    "kind": "continuation",
+    "title": "Orange Chicken",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [],
+    "notes": [
+      "...thicken at end - for gravy."
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "thicken at end - for gravy.",
+    "confidence": "high"
+  },
+  {
+    "photo": 474,
+    "kind": "recipe",
+    "title": "Stir Fried Chicken & Pea Pods",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "— Sauce —",
+      "1/2 cup chicken broth",
+      "2 tbsp soya sauce",
+      "1 tbsp cornstarch",
+      "1 tsp sugar",
+      "— Chicken & Vegetables —",
+      "1 lb boned & skinned chicken breasts sliced in thin strips",
+      "1 1/2 tbsp cornstarch",
+      "1 tbsp soya sauce",
+      "1 tbsp cooking sherry"
+    ],
+    "directions": [
+      "Sauce: mix together & set aside.",
+      "Chicken, cornstarch, soya sauce, cooking sherry: combine in med. bowl & set aside."
+    ],
+    "notes": [
+      "Printed copy (different handwriting) of the same recipe as photo 470"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "STIR FRIED CHICKEN & PEA PODS.\nSAUCE:\n1/2 cup chicken broth  }\n2 tbsp. Soya Sauce     } mix together & set aside\n1 tbsp. cornstarch     }\n1 tsp. sugar\nChicken & Vegetables\n1 lb. boned & skinned chicken breasts sliced\nin thin strips                    1 tbsp. Cooking Sherry.\n1 1/2 tbsp. cornstarch\n1 tbsp. soya Sauce                Combine in Med. bowl &\n                                  set aside",
+    "confidence": "high"
+  },
+  {
+    "photo": 475,
+    "kind": "continuation",
+    "title": "Stir Fried Chicken & Pea Pods",
+    "attribution": null,
+    "category": null,
+    "ingredients": [
+      "vegetable oil",
+      "1 tsp ea. minced garlic & ginger root",
+      "1/2 cup each: sliced green onions, carrots, celery",
+      "1 - 6 oz. pkg frozen chinese pea pods thawed"
+    ],
+    "directions": [
+      "In wok heat 3 tbsp. oil over high heat. Stir in garlic & ginger. Add chicken & stir fry until no longer pink, remove.",
+      "Heat 2 tbsp. oil. Stir fry onions, carrots & celery 1 min. Stir sauce & add to pan c water, peapods & chicken. Cook stirring const. until bubbling. Serve immed."
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "vegetable oil\n1 tsp. ea. minced garlic & ginger root\n1/2 cup each: sliced green onions, carrots,\ncelery\n1 - 6 oz. pkg frozen chinese pea pods thawed.\nIn wok heat 3 tbsp. oil over high heat\nStir in garlic & ginger. Add chicken & stir fry\nuntil no longer pink, remove. Heat 2 tbsp.\noil. Stir fry onions, carrots & celery 1 min.\nStir sauce & add to pan c water, peapods &\nchicken. Cook stirring const. Until bubbling\nServe Immed.",
+    "confidence": "high"
+  },
+  {
+    "photo": 476,
+    "kind": "recipe",
+    "title": "Yummy Chicken",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "Chicken - cut in strips",
+      "1 1/2 tbsp oil",
+      "1 1/2 tbsp soya sauce",
+      "1 clove garlic finely chopped",
+      "salt/pepper",
+      "1 1/2 tbsp - 2 tbsp cornstarch mixed with chicken broth"
+    ],
+    "directions": [
+      "Mix together & let sit 1/2 hr or so.",
+      "Put chicken in frying pan on med. until cooked. Add 1 1/2 tbsp - 2 tbsp cornstarch mixed with chicken broth. Let thicken - add enough broth to make as much gravy as you need.",
+      "Cook for a bit. Serve with rice or ?"
+    ],
+    "notes": [
+      "Written in block capitals (different hand)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Yummy Chicken\nCHICKEN - CUT IN STRIPS\n1 1/2 TBSP. OIL, 1 1/2 TBSP SOYA SAUCE, 1 CLOVE GARLIC\nFINELY CHOPPED, SALT/PEPPER.\nMIX TOGETHER & LET SIT 1/2 HR OR SO.\nPUT CHICKEN IN FRYING PAN ON MED.\nUNTIL COOKED. ADD 1 1/2 TBSP - 2 TBSP. CORNSTARCH\nMIXED WITH CHICKEN BROTH. - LET THICKEN - ADD\nENOUGH BROTH TO MAKE AS MUCH GRAVY AS YOU\nNEED. COOK FOR A BIT SERVE WITH RICE OR ?",
+    "confidence": "high"
+  },
+  {
+    "photo": 477,
+    "kind": "recipe",
+    "title": "Pineapple Glazed Chicken",
+    "attribution": "Ruth",
+    "category": "Main Dishes",
+    "ingredients": [
+      "1 - 8 1/4 oz can crushed pineapple",
+      "1/2 c chili sauce or hot-style ketchup",
+      "2 tbsp brown sugar",
+      "1 tbsp prepared mustard",
+      "2 - 3 lb broiler chickens halved",
+      "Cooking oil, salt"
+    ],
+    "directions": [
+      "For SAUCE - drain pineapple reserving 1/4 c syrup. Combine pineapple..."
+    ],
+    "notes": [
+      "Ruth (written top right, pencil)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Ruth\nPineapple Glazed Chicken\n1 - 8 1/4 oz can crushed pineapple\n1/2 c. Chili sauce or hot-style ketchup\n2 tbsp. brown sugar\n1 tbsp. prepared mustard\n2 - 3 lb. broiler chickens halved\nCooking oil, salt\nfor SAUCE - drain pineapple\nreserving 1/4 c. syrup. Combine pineapple",
+    "confidence": "high"
+  },
+  {
+    "photo": 478,
+    "kind": "continuation",
+    "title": "Pineapple Glazed Chicken",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "...syrup, chili sauce, sugar & mustard.",
+      "Brush chicken pieces lightly with oil, season with salt. Grill over med-hot coals bone side down x 25-30 mins or until well browned (not black).",
+      "Turn chicken. Grill 20 mins more. Turn again. Spoon sauce atop. Grill 5-10 mins more or til chickens are done."
+    ],
+    "notes": [
+      "- 12 servings"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "syrup, chili sauce, sugar & mustard.\nBrush chicken pieces lightly with oil,\nseason with salt. [Grill crossed out] Grill over\nmed-hot coals bone side down x 25-30 mins\nor until well browned (not Black).\nTurn chicken. Grill 20 mins more.\nTurn again. Spoon sauce atop. Grill\n5-10 mins more or til chickens are done\n- 12 servings",
+    "confidence": "high"
+  },
+  {
+    "photo": 479,
+    "kind": "recipe",
+    "title": "Chicken Wings (Party)",
+    "attribution": "lady in hospital",
+    "category": "Main Dishes",
+    "ingredients": [
+      "20 chicken wings",
+      "3 tsp sugar (marinate)",
+      "1/2 c soya sauce (light)",
+      "1 tsp paprika",
+      "3/4 tsp chili sauce",
+      "pepper",
+      "1 tbsp fresh minced ginger",
+      "2 cloves minced garlic"
+    ],
+    "directions": [
+      "Marinate wings c 3 tsp. sugar & mix - leave 1 hr.",
+      "Mix soya sauce, paprika, chili sauce, pepper, ginger, garlic & pour over sugared chicken - leave 1 hr.",
+      "Cook 1 1/4 hrs @ 350°"
+    ],
+    "notes": [
+      "(lady in hospital)",
+      "good c potato salad"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "(lady in hospital)\nChicken Wings (Party)  (good c potato salad)\n20 \" wings\nmarinate c 3 tsp. sugar & mix - leave 1 hr.\n1/2 c soya sauce (light)\n1 tsp. paprika\n3/4 \" chili sauce.\n- pepper\n1 tbsp fresh minced ginger\n2 cloves minced garlic\nMix & pour over sugared chicken - leave 1 hr.\n- Cook 1 1/4 hrs @ 350°",
+    "confidence": "high"
+  }
+]

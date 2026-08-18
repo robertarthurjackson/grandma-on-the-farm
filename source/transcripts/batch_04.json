@@ -1,0 +1,556 @@
+[
+  {
+    "photo": 80,
+    "kind": "recipe",
+    "title": "Punch",
+    "attribution": "Jody, Bernie's friend",
+    "category": "Beverages",
+    "ingredients": [
+      "Cherry Kool Ade",
+      "Sprite",
+      "Pineapple juice"
+    ],
+    "directions": [],
+    "notes": [
+      "re Jody, Bernie's friend",
+      "V.G.",
+      "N.B. To prevent apples turning brown put in \"Sprite\". (maybe bananas too?)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Punch - re Jody, Bernie's friend\nV.G.\nCherry Kool Ade\nSprite\nPineapple juice -\n} N.B.\nTo prevent apples\nturning brown put\nin \"Sprite\".\n(maybe Bananas too?)",
+    "confidence": "high"
+  },
+  {
+    "photo": 81,
+    "kind": "recipe",
+    "title": "Creamy Cranberry Punch",
+    "attribution": null,
+    "category": "Beverages",
+    "ingredients": [
+      "1 1/3 c cranberry cocktail, chilled",
+      "20 oz frozen whole strawberries, thawed",
+      "3 small bananas, cut up",
+      "1 1/3 c plain yogurt",
+      "1/2 c sugar",
+      "5 1/2 c cranberry cocktail, chilled",
+      "1/3 c orange juice"
+    ],
+    "directions": [
+      "Put 1st 5 ingred. in blender. Process until smooth. Pour into punch bowl.",
+      "Add remaining cranberry cocktail & orange juice. Stir.",
+      "Makes 10 c punch."
+    ],
+    "notes": [
+      "V.G.",
+      "Makes 10 c punch"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Creamy Cranberry Punch.   V.G.\nCranberry cocktail, chilled   1 1/3 c.\nFrozen whole strawberries, thawed   20 oz.\nsmall bananas, cut up.   3\nPlain yogurt   1 1/3 c\nsugar   1/2 c.\nCranberry cocktail, chilled   5 1/2 c\nOrange juice   1/3 c.\nPut 1st. 5 ingred. in blender. Process until\nsmooth. Pour into punch bowl.\nAdd remaining cranberry cocktail & orange juice.\nStir. Makes 10 c punch.",
+    "confidence": "high"
+  },
+  {
+    "photo": 82,
+    "kind": "recipe",
+    "title": "Shrimp Mould",
+    "attribution": "Marion McKnight",
+    "category": "Soups & Salads",
+    "ingredients": [
+      "1 can tomato soup",
+      "2 small pkg cream cheese",
+      "1 pkg Knox gelatin",
+      "1/2 c cold H2O",
+      "1 c mayonnaise",
+      "1 c chopped celery",
+      "1/2 c chopped onions",
+      "2 cans shrimp"
+    ],
+    "directions": [
+      "Bring soup to boil, add cheese & stir to melt.",
+      "Mix gelatin & H2O, add to soup.",
+      "Add rem. ingred. & pour into a 4 c mould.",
+      "Serve with crackers."
+    ],
+    "notes": [
+      "Written on a 'THINGS TO DO: / Long Distance' notepad sheet"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "THINGS TO DO:\nShrimp Mould } Marion McKnight\n1 can tomato soup.\n2 small pkg. cream cheese\n1 pkg. Knox gelatin\n1/2 c cold H2O\n1 c mayonnaise\n1 c chopped celery\n1/2 c \" onions\n2 cans shrimp.\nBring soup to boil, add\ncheese & stir to melt. Mix\ngelatin & H2O add to soup.\nAdd rem. ingred. & pour into\na 4 c mould.\nServe c̄ crackers.\nLong Distance",
+    "confidence": "high"
+  },
+  {
+    "photo": 83,
+    "kind": "recipe",
+    "title": "Fruit Glo Punch",
+    "attribution": null,
+    "category": "Beverages",
+    "ingredients": [
+      "1 - 6 oz frozen O.J.",
+      "1 - 6 oz frozen lemonade",
+      "48 oz apple juice, chilled",
+      "3 - 28 oz ginger ale",
+      "1 pt lemon or orange sherbet"
+    ],
+    "directions": [
+      "Add 3 - 28 oz ginger ale.",
+      "Add 1 pt lemon or orange sherbet.",
+      "Can freeze ice cube pineapple juice with cherries in middle. (2 trays)"
+    ],
+    "notes": [
+      "Written on a 'THINGS TO DO: / Long Distance' notepad sheet",
+      "(2 trays)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "THINGS TO DO:\nFruit Glo Punch\n1-6 oz. Frozen OJ\n1-6 oz. \" lemonade\n48 oz apple juice chilled\nadd 3 - 28 oz ginger ale.\n- add 1 pt. lemon or\norange - sherbet.\n- can freeze ice cube\npineapple juice c̄\ncherries in middle.\n(2 trays)\nLong Distance",
+    "confidence": "high"
+  },
+  {
+    "photo": 84,
+    "kind": "non-recipe",
+    "title": "Good Wine / To give a gift to a friend",
+    "attribution": null,
+    "category": "Other",
+    "ingredients": [],
+    "directions": [
+      "Orvieto Classico - white wine, made Italy.",
+      "To give a gift to a friend: put in a basket small amounts of different fruits - washed & put in individual plastic bags & tied with thin ribbon - add a bottle of fruit juice & a bottle of wine."
+    ],
+    "notes": [
+      "Wine recommendation and gift-basket idea"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Good Wine\nOrvieto Classico - white wine\nmade - Italy\n- To give a gift to a friend\nput in a basket small amounts of\ndifferent fruits - washed & put in individual\nplastic bags & tied c̄ thin ribbon - add a\nbottle of fruit juice & a bottle of wine.",
+    "confidence": "high"
+  },
+  {
+    "photo": 85,
+    "kind": "recipe",
+    "title": "Shirley Temple",
+    "attribution": null,
+    "category": "Beverages",
+    "ingredients": [
+      "Grenadine - a little bottom",
+      "1/2 glass orange juice",
+      "7-up",
+      "Ice cubes"
+    ],
+    "directions": [],
+    "notes": [],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Shirley Temple.\nGrenadine - a little bottom.\nOrange juice - 1/2 glass\n7-up.\nice cubes",
+    "confidence": "high"
+  },
+  {
+    "photo": 86,
+    "kind": "recipe",
+    "title": "Lemonade",
+    "attribution": "Cathy",
+    "category": "Beverages",
+    "ingredients": [
+      "12 c sugar",
+      "12 c water",
+      "12 lemons or bag",
+      "4 tbsp citric acid",
+      "grated peel of 3 lemons"
+    ],
+    "directions": [
+      "Bring sugar and water to boil until clear - set aside.",
+      "Squeeze lemons.",
+      "Add 4 tbsp citric acid.",
+      "Grate 3 lemons & add peel.",
+      "Put together & store in fridge - Dilute 1-4."
+    ],
+    "notes": [
+      "(re Cathy)",
+      "Dilute 1-4"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Lemonade!   (Re. Cathy).\n12 c sugar\n12 c water\nBring to boil until clear - set aside.\n12 lemons or bag.\nSqueeze lemons.\n4 tbsp. citric acid.\ngrate 3 lemons & add peel.\nPut together & store in Fridge - Dilute 1-4.",
+    "confidence": "high"
+  },
+  {
+    "photo": 87,
+    "kind": "recipe",
+    "title": "Punch",
+    "attribution": "Fradette Cook Book",
+    "category": "Beverages",
+    "ingredients": [
+      "1 Cherry Kool-Aid",
+      "1/2 c sugar",
+      "6 c H2O",
+      "1 - 48 oz pineapple juice",
+      "1 lg ginger ale"
+    ],
+    "directions": [
+      "Mix Kool-Aid, sugar and H2O; add 1 - 48 oz pineapple juice, 1 lg. ginger ale."
+    ],
+    "notes": [
+      "from Fradette Cook Book",
+      "over (written in pen at bottom right; next photo is a different recipe, Choc. Rum Eggnog, possibly the back of this card)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Punch - from Fradette Cook Book\n1 Cherry Kool-Aid\n1/2 c sugar\n6 c H2O\nadd\n1 - 48 oz pineapple juice\n1 lg. ginger ale.\nover",
+    "confidence": "high"
+  },
+  {
+    "photo": 88,
+    "kind": "recipe",
+    "title": "Choc. Rum Eggnog",
+    "attribution": null,
+    "category": "Beverages",
+    "ingredients": [
+      "1 qt rich choc. ice cream",
+      "4 oz dk rum"
+    ],
+    "directions": [
+      "Warm ice cream in heavy pan over mod. heat until just to boil pt.",
+      "Stir in dk. rum until well mixed. Serve in eggnog cups."
+    ],
+    "notes": [
+      "Likely the back of the Punch card in photo 087 (which says 'over')"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Choc. Rum Eggnog\n1 qt. rich choc. ice cream.\n4 oz. dk rum.\nWarm ice cream in heavy pan over mod.\nheat until just to boil pt. Stir in dk.\nrum until well mixed. - Serve in eggnog\ncups",
+    "confidence": "high"
+  },
+  {
+    "photo": 89,
+    "kind": "clipping",
+    "title": "Pineapple Punch",
+    "attribution": "Greta Martin (Recipe Swap column, for Catherine Malcolm)",
+    "category": "Beverages",
+    "ingredients": [
+      "2 cups strong tea",
+      "3/4 cup orange juice",
+      "2 cups orange juice",
+      "2 tbsp lime juice",
+      "1 cup sugar",
+      "leaves from 12 sprigs of mint",
+      "8 slices canned pineapple (juice included)",
+      "5 pints chilled gingerale",
+      "4 pints chilled carbonated water",
+      "crushed ice"
+    ],
+    "directions": [
+      "Place in a large punch bowl: 2 cups strong tea; add and stir well 3/4 cup orange juice, 2 cups orange juice, 2 tbsp lime juice, 1 cup sugar, leaves from 12 sprigs of mint.",
+      "Place all ingredients on ice for 2 hours. Shortly before serving strain the punch and add: 8 slices canned pineapple (juice included), 5 pints chilled gingerale, 4 pints chilled carbonated water, crushed ice."
+    ],
+    "notes": [
+      "Newspaper clipping, RECIPE SWAP column, Calgary (Box 2400, Stn. M, Calgary, Alta, T2P 0W8)",
+      "Non-alcoholic punch"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "PINEAPPLE PUNCH\nGreta Martin has sent along another non-alcoholic punch for Catherine Malcolm.\nPlace in a large punch-bowl:\n2 cups strong tea\nadd and stir well\n3/4 cup orange juice\n2 cups orange juice\n2 tbsp lime juice\n1 cup sugar\nleaves from 12 sprigs of mint\nPlace all ingredients on ice for 2 hours. Shortly before serving strain the punch and add:\n8 slices canned pineapple (juice included)\n5 pints chilled gingerale\n4 pints chilled carbonated water\ncrushed ice\n[][][]\nIf you have any questions regarding RECIPE SWAP, I can be reached at 235-7293, or Fax 235-7379. If you have a loved-and-lost recipe, a recipe you want found or have a recipe for readers write to: RECIPE SWAP, Box 2400, Stn. M, Calgary, Alta, T2P 0W8.",
+    "confidence": "high"
+  },
+  {
+    "photo": 90,
+    "kind": "clipping",
+    "title": "Lemonade Syrup / Very Berry Essence",
+    "attribution": null,
+    "category": "Beverages",
+    "ingredients": [
+      "=== First card: Lemonade Syrup ===",
+      "Zest of 1 lemon",
+      "1 cup fresh lemon juice (250 mL)",
+      "1/2 cup water (125 mL)",
+      "1 cup sugar (250 mL)",
+      "=== Second card: Very Berry Essence ===",
+      "1 1/2 cups fresh berries, mashed (375 mL)",
+      "1/2 cup water (125 mL)",
+      "1/4 cup vinegar (50 mL)",
+      "Sugar"
+    ],
+    "directions": [
+      "=== First card: Lemonade Syrup ===",
+      "Make this syrup ahead and store in refrigerator for up to two weeks.",
+      "Peel lemon zest thinly so as not to get any of the white.",
+      "In a small saucepan stir together zest, lemon juice, water and sugar. Bring to a boil. Reduce heat and simmer for 3 minutes. Cool.",
+      "Strain into a bottle or jar and store in refrigerator.",
+      "Use 1-2 Tbsp. syrup per 1 cup (250 mL) water for refreshing lemonade.",
+      "Makes 20-25 servings.",
+      "=== Second card: Very Berry Essence ===",
+      "In a bowl combine berries, water and vinegar. Bruise berries by lightly pressing against side of bowl. Let stand at room temperature 8 hours, or overnight.",
+      "Strain well through a fine sieve careful not to allow pulp into the clarified juice. Measure juice.",
+      "For each 1 cup (250 mL) juice, add 1/2 cup (125 mL) sugar. Stir to dissolve.",
+      "Add 2 Tbsp. (25 mL) juice to 1 cup water or soda water for each drink.",
+      "Makes approximately 1 cup (250 mL) concentrate, enough for 10 drinks."
+    ],
+    "notes": [
+      "Magazine/newspaper clipping headed 'COOL TASTES': Light and cool, key words for summer time menus. These make ahead recipes allow you to relax with the rest of the gang.",
+      "Two recipes on one clipping"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": true,
+    "raw_text": "COOL TASTES\nLight and cool, key words for summer time menus. These make ahead recipes allow you to relax with the rest of the gang.\nLEMONADE SYRUP\nMake this syrup ahead and store in refrigerator for up to two weeks.\nZest of 1 lemon\n1 cup   fresh lemon juice   250 mL\n1/2 cup   water   125 mL\n1 cup   sugar   250 mL\nPeel lemon zest thinly so as not to get any of the white.\nIn a small saucepan stir together zest, lemon juice, water and sugar. Bring to a boil. Reduce heat and simmer for 3 minutes. Cool.\nStrain into a bottle or jar and store in refrigerator.\nUse 1-2 Tbsp. syrup per 1 cup (250 mL) water for refreshing lemonade.\nMakes 20-25 servings.\n\nVERY BERRY ESSENCE\nRaspberry, blueberry and strawberry flavours make refreshing starters for long cool drinks.\n1 1/2 cups   fresh berries, mashed   375 mL\n1/2 cup   water   125 mL\n1/4 cup   vinegar   50 mL\nSugar\nIn a bowl combine berries, water and vinegar. Bruise berries by lightly pressing against side of bowl. Let stand at room temperature 8 hours, or overnight.\nStrain well through a fine sieve careful not to allow pulp into the clarified juice. Measure juice.\nFor each 1 cup (250 mL) juice, add 1/2 cup (125 mL) sugar. Stir to dissolve.\nAdd 2 Tbsp. (25 mL) juice to 1 cup water or soda water for each drink.\nMakes approximately 1 cup (250 mL) concentrate, enough for 10 drinks.",
+    "confidence": "high"
+  },
+  {
+    "photo": 91,
+    "kind": "recipe",
+    "title": "Easy Punch",
+    "attribution": null,
+    "category": "Beverages",
+    "ingredients": [
+      "1 - 26 oz bottle rye",
+      "1 - 26 oz bottle red wine",
+      "1 large cranberry juice",
+      "2 large bottles of 7-up"
+    ],
+    "directions": [
+      "Mix liquors & cranberry juice.",
+      "Add chilled 7up just before serving."
+    ],
+    "notes": [
+      "Written in a different (printed) hand"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "EASY PUNCH\n1 - 26 oz. bottle rye\n1 - 26 oz. bottle red wine\n1 large cranberry juice\n2 large bottles of 7-up\nMix liquors & cranberry juice\nAdd chilled 7up just before serving.",
+    "confidence": "high"
+  },
+  {
+    "photo": 92,
+    "kind": "recipe",
+    "title": "Hot Cinnamon Cider",
+    "attribution": null,
+    "category": "Beverages",
+    "ingredients": [
+      "4 c apple cider",
+      "1 c orange juice",
+      "2 tbsp honey",
+      "12 whole allspice berries",
+      "4 cinnamon sticks 3\" long",
+      "1 whole nutmeg",
+      "1/2 tsp grated orange rind",
+      "1 small red apple, cored & cut into wedges"
+    ],
+    "directions": [
+      "In saucepan bring cider, orange juice, honey, allspice berries, cinnamon sticks, nutmeg & orange rind to a boil over high heat.",
+      "Reduce heat, simmer uncovered for 10 min. Add apple wedges & simmer for 3 min. more.",
+      "Remove from heat, strain into heat proof pitcher, reserving apple wedges.",
+      "To serve - place a few apple wedges in ea. cup & fill with cider."
+    ],
+    "notes": [
+      "makes 4 servings"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "makes 4 servings.\nHot Cinnamon Cider\n4 c apple cider\n1 c orange juice\n2 tbsp. honey\n12 whole allspice berries\n4 cinnamon sticks 3\" long.\n1 whole nutmeg\n1/2 tsp grated orange rind.\n1 small red apple cored &\ncut into wedges,\n| In saucepan bring cider, orange\njuice, honey, allspice berries\ncinnamon stick, nutmeg &\norange rind to a boil over high\nheat. ↓ heat, simmer uncovered\nfor 10 min. Add apple wedges &\nsimmer for 3 min. more. Remove\nfrom heat strain into heat proof\npitcher, reserving apple wedges. To\nserve - place a few apple wedges in ea. cup\n& fill c̄ cider. -",
+    "confidence": "high"
+  },
+  {
+    "photo": 93,
+    "kind": "non-recipe",
+    "title": "BREADS",
+    "attribution": null,
+    "category": "Other",
+    "ingredients": [],
+    "directions": [],
+    "notes": [
+      "Section divider tab card labelled BREADS"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "BREADS",
+    "confidence": "high"
+  },
+  {
+    "photo": 94,
+    "kind": "recipe",
+    "title": "Blueberry Lemon Muffins",
+    "attribution": "Best of Bridge",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "2 c flour",
+      "1/2 c sugar",
+      "3 tsp bk. powder",
+      "1/2 tsp salt",
+      "Rind of 1 lemon",
+      "1 egg",
+      "1 c milk",
+      "1/2 c butter, melted",
+      "1 c fresh, frozen or canned blueberries",
+      "— Topping —",
+      "1/2 c melted butter",
+      "1 tbsp lemon juice",
+      "1/2 c white sugar"
+    ],
+    "directions": [
+      "Mix flour, sugar, bk. pwd., salt & lemon rind in bowl.",
+      "Beat egg in med. bowl, add milk & butter. Add egg mixture to dry ingred. - Stir until just mixed. - Stir in blueberries."
+    ],
+    "notes": [
+      "Best of Bridge",
+      "over (continues on next photo)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Blueberry Lemon Muffins - Best of Bridge\n2 c flour   1 egg\n1/2 c sugar.   1 c milk\n3 tsp. bk. powder.   1/2 c butter melted\n1/2 \" salt   1 c fresh, frozen or canned\nRind of 1 lemon.   blueberries\nTopping.\n1/2 c melted butter   1 tbsp. lemon juice.   1/2 c white sugar\nMix flour, sugar, bk. pwd. salt & lemon rind in bowl.\nBeat egg in med. bowl, add milk & butter. Add egg mixture\nto dry ingred. - Stir until just mixed. - Stir in blueberries. Over",
+    "confidence": "high"
+  },
+  {
+    "photo": 95,
+    "kind": "continuation",
+    "title": "Blueberry Lemon Muffins",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Fill muffin tins 2/3 full. - Bake @ 425° for 20 min.",
+      "Topping: Combine melted butter & lemon juice. Measure sugar in separate dish. Take slightly cooled muffins & dunk top into butter & then sugar. - 16 lg."
+    ],
+    "notes": [
+      "16 lg. (yield)"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Fill muffin tins 2/3 full. - Bake @ 425° for 20 min.\nTopping:-\nCombine melted butter, & lemon juice. Measure\nsugar in separate dish. Take slightly cooled muffins\n& dunk top into butter & then sugar. - 16 lg.",
+    "confidence": "high"
+  },
+  {
+    "photo": 96,
+    "kind": "recipe",
+    "title": "Unleavened bread",
+    "attribution": "Fr. Dominic Garramone OSB, Catholic Digest Feb. 02, pg. 71",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "4 c whole wheat flour",
+      "1 1/2 tsp salt",
+      "3 tbsp olive oil",
+      "1 c warm water"
+    ],
+    "directions": [
+      "Preheat oven - 350°.",
+      "Sift flour & salt into a med. size bowl. Stir thoroughly. Add oil & water & stir with a heavy wooden spoon - until a dough ball that comes away from the side of the bowl forms.",
+      "Turn dough onto lightly floured board & knead lightly for a min or two, until smooth. Divide into 4 parts. Flatten each piece with the heel of hand, then roll as thin as possible (less than 1/4\" thick).",
+      "Place the rolled dough on an ungreased baking sheet"
+    ],
+    "notes": [
+      "re: Fr. Dominic Garramone OSB",
+      "Pg. 71 Catholic Digest Feb. 02",
+      "over (continues on next photo)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Recipe - Unleavened bread -\nre: Fr. Dominic Garramone OSB.\nPg. 71\nCatholic Digest.\nFeb. 02\n4 c whole wheat flour\n1 1/2 tsp. salt.\n3 tbsp. olive oil.\n1 c. warm water.\nPreheat oven - 350° -\nsift flour, & salt into a med. size bowl.\nstir thoroughly. Add oil & water & stir c̄\na heavy wooden spoon - until a dough\nball - that comes away from the side of\nthe bowl forms. Turn dough onto lightly\nfloured board & knead lightly for a min or two,\nuntil smooth. Divide into 4 parts. Flatten\neach piece c̄ the heel of hand, then roll as\nthin as possible (less than 1/4\" thick) - Place the\nrolled dough on an ungreased baking sheet   over",
+    "confidence": "high"
+  },
+  {
+    "photo": 97,
+    "kind": "continuation",
+    "title": "Unleavened bread",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "- you'll need 2 for the whole batch.",
+      "Bake 8-10 min. until breads are puffy & slightly browned."
+    ],
+    "notes": [
+      "Text written sideways along the left edge of the page; rest of page blank"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "- you'll need 2 for the whole batch.\nBake 8-10 min. until breads are puffy\n& slightly browned.",
+    "confidence": "high"
+  },
+  {
+    "photo": 98,
+    "kind": "clipping",
+    "title": "Gourmet Bran Muffins",
+    "attribution": "Natashya Shewchuk (In the Kitchen column)",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "1 cup raisins",
+      "1 cup dates - chopped",
+      "3 cups all purpose flour",
+      "3 cups health bran (not flakes or flour)",
+      "1 cup brown sugar",
+      "1 cup white sugar",
+      "3 tsp baking soda",
+      "3 tsp baking powder",
+      "1 tsp salt",
+      "3 cups buttermilk",
+      "3 eggs - lightly beaten",
+      "1 cup oil",
+      "1 tsp vanilla",
+      "1 large ripe banana - mashed"
+    ],
+    "directions": [
+      "In a very large mixing bowl, combine flour, bran, sugars, soda, powder, and salt. Stir in buttermilk, eggs, oil, and vanilla and mix until smooth. Add banana, raisins, and dates and combine.",
+      "Drop by the spoonful into greased muffin tins (do not over fill). Bake in 375° oven for about 20-25 mins or until tooth pick comes out clean.",
+      "Makes 3 dozen large muffins."
+    ],
+    "notes": [
+      "Newspaper clipping, 'IN THE KITCHEN with Natashya Shewchuk'; left edge cut off, quantities for first five ingredients rewritten by hand in blue ink (1c, 1c, 3c, 3c, 1c)",
+      "Experiment by adding dried cranberries or chocolate chips",
+      "Makes 3 dozen large muffins"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "IN THE KITCHEN\nwith Natashya Shewchuk\nGourmet Bran Muffins\n[W]ith summer nearly here, many people [li]ke to reach for something light but [w]holesome as they rush off to work or sit [o]ut in the back yard with a good book. [T]hese muffins are the perfect choice for [th]at afternoon snack, picnic dessert, or tea-[ti]me treat. Experiment by adding dried [c]ranberries or chocolate chips.\n[In]gredients:\n[1] cup raisins   1c\n[1] cup dates - chopped   1c\n[3] cups all purpose flour   3c\n[3] cups health bran (not flakes or flour)   3c\n[1] cup brown sugar   1c\n1 cup white sugar\n3 tsp baking soda\n3 tsp baking powder\n1 tsp salt\n3 cups buttermilk\n3 eggs - lightly beaten\n1 cup oil\n1 tsp vanilla\n1 large ripe banana - mashed\nMethod:\nIn a very large mixing bowl, combine flour, bran, sugars, soda, powder, and salt. Stir in buttermilk, eggs, oil, and vanilla and mix until smooth. Add banana, raisins, and dates and combine. Drop by the spoonful into greased muffin tins (do not over fill). Bake in 375° oven for about 20-25mins or until tooth pick comes out clean. Makes 3 dozen large muffins.",
+    "confidence": "high"
+  },
+  {
+    "photo": 99,
+    "kind": "recipe",
+    "title": "Pumpkin Muffins",
+    "attribution": "Fradette recipe",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "4 eggs",
+      "2 cups white sugar",
+      "1 1/2 cups oil",
+      "1 - 14 oz can pumpkin",
+      "3 cups flour",
+      "1 tbsp cinnamon",
+      "2 tsp soda",
+      "2 tsp baking powder",
+      "1 tsp salt",
+      "1-2 cups raisins"
+    ],
+    "directions": [
+      "Beat eggs slightly. Add sugar, oil & pumpkin & beat thoroughly.",
+      "Sift dry ingred. & blend into creamed mixture.",
+      "Stir in raisins. Bake at 400° for 15-20 min."
+    ],
+    "notes": [
+      "(Fradette recipe)",
+      "Written in a different (printed) hand"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Pumpkin Muffins. (Fradette recipe).\n4 eggs   Beat eggs\n2 cups white sugar   slightly. Add sugar\n1 1/2 cups oil   oil & pumpkin &\n1 - 14 oz can pumpkin   beat thoroughly\n3 cups flour   Sift dry ingred. &\n1 tbsp. cinnamon   blend into\n2 tsp. soda   creamed mixture.\n2 tsp. baking powder   Stir in raisins. Bake\n1 tsp salt   at 400° for 15-20\n1-2 cups raisins   MIN.",
+    "confidence": "high"
+  }
+]

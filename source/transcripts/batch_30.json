@@ -1,0 +1,546 @@
+[
+  {
+    "photo": 600,
+    "kind": "recipe",
+    "title": "Vegetable Risotto",
+    "attribution": null,
+    "category": "Vegetables & Sides",
+    "ingredients": [
+      "1 onion, chopped",
+      "2 sticks celery, chopped",
+      "30 g butter",
+      "1 cup long grain rice",
+      "1/2 cup dry white wine",
+      "2 cups chicken stock",
+      "1 red pepper, chopped",
+      "1 green pepper, chopped",
+      "4 green shallots, chopped",
+      "1 tablespoon chopped parsley",
+      "1/4 teaspoon turmeric"
+    ],
+    "directions": [
+      "Combine onion, celery and butter in large shallow dish, cook on HIGH 3 minutes, add rice, wine and stock, cook on high 15 minutes or until rice (over)"
+    ],
+    "notes": [
+      "(over) — continues on back (photo 601)",
+      "Microwave recipe (cook on HIGH); metric butter (30 g)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "VEGETABLE RISOTTO\n1 onion, chopped | 2 cups chicken stock\n2 sticks celery, chopped | 1 red pepper, chopped\n30g butter | 1 green pepper, chopped\n1 cup long grain rice | 4 green shallots, chopped\n1/2 cup dry white wine | 1 tablespoon chopped parsley\n | 1/4 teaspoon turmeric\nCombine onion, celery and butter in large shallow\ndish, cook on HIGH 3 minutes, add rice, wine and\nstock, cook on high 15 minutes or until rice (over)",
+    "confidence": "high"
+  },
+  {
+    "photo": 601,
+    "kind": "continuation",
+    "title": "Vegetable Risotto",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "is tender. Stir occasionally during cooking.",
+      "Add peppers, shallots, parsley and turmeric, cook on HIGH 2 minutes or until heated through."
+    ],
+    "notes": [
+      "Serves 4 to 6"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "is tender. Stir occasionally during cooking.\nAdd peppers, shallots, parsley and turmeric,\ncook on HIGH 2 minutes or until heated\nthrough\nServes 4 to 6",
+    "confidence": "high"
+  },
+  {
+    "photo": 602,
+    "kind": "recipe",
+    "title": "Baked Zucchini",
+    "attribution": null,
+    "category": "Vegetables & Sides",
+    "ingredients": [
+      "6 c sliced zucchini",
+      "1/4 c chopped onion",
+      "1 - 10 oz can cr. of chicken soup",
+      "1 c grated sharp cheese",
+      "1 c grated carrot",
+      "1 c sour cream",
+      "1 pkg stove top stuffing",
+      "1/2 c melted margarine"
+    ],
+    "directions": [
+      "Simmer zucchini & onion until tender crisp. Drain well & turn into lg. bowl.",
+      "Mix soup, sour cream, cheese & carrots tog. & add to zucchini & onions.",
+      "Mix pkg'd stuffing & seasonings tog. & add marg.",
+      "Put 1/2 of the dressing in bottom of a 2 qt. casserole. Add zucchini mixture & top c̄ remaining dressing.",
+      "Bake @ 350° for 20 min. or until golden & bubbly. — Excellent to accompany poultry."
+    ],
+    "notes": [
+      "serves 8",
+      "Printed 'RECIPE' card with saffron illustration (Stylecraft 1981, 75-909); 'from the kitchen of' left blank"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "RECIPE Baked Zuccini\n6 c sliced zuccini } serves 8\n1/4 c chopped onion } 1 c grated carrot\n1 - 10 oz can. cr. of chicken soup } 1 c sour cream\n1 c grated sharp cheese } 1 pkg stove top stuffing\n } 1/2 c melted margarine\nSimmer zuccini & onion until tender crisp. Drain\nwell & turn into lg. bowl. Mix soup, sour cream,\ncheese & carrots tog. & add to zuccini & onions. Mix pkg'd\nstuffing & seasonings tog. & add marg. Put 1/2 of the\ndressing in bottom of a 2 qt. casserole. Add zuccini\nmixture & top c̄ remaining dressing. Bake @ 350° for 20 min.\nor until golden & bubbly. — Excellent to accompany poultry.\nfrom the kitchen of ____\nSAFFRON  75-909  © 1981 STYLECRAFT, BALTIMORE, MD. 21230 PRINTED IN U.S.A.",
+    "confidence": "high"
+  },
+  {
+    "photo": 603,
+    "kind": "recipe",
+    "title": "Kutia (Ukrainian Christmas Dish)",
+    "attribution": null,
+    "category": "Desserts & Sweets",
+    "ingredients": [
+      "2 c boiled wheat",
+      "1/2 tsp. salt",
+      "1/4 c peanut butter (smooth or crunchy)",
+      "1/3 c sugar",
+      "2 tbsp. poppy seed",
+      "3/4 c H2O"
+    ],
+    "directions": [
+      "Meas. 1 c cleaned wheat into a heavy saucepan. Add 4 c H2O & bring to boil. Reduce heat & simmer 2 hrs. or till soft. More H2O may be needed as wheat will absorb H2O as it cooks.",
+      "Meas. 2 c of the boiled wheat — Remain. can be frozen, used later.",
+      "In lg. bowl combine 2 c boiled wheat c̄ remain. ingred. Stir till smooth. —"
+    ],
+    "notes": [],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Kutia - (Ukrainian Christmas Dish).\n2 c boiled wheat | 1/3 c sugar\n1/2 tsp. salt | 2 tbsp. poppy seed\n1/4 c peanut butter | 3/4 c H2O\n  smooth or crunchy)\nMeas. 1 c cleaned wheat into a heavy saucepan. Add 4 c H2O\n& bring to boil. Reduce heat & simmer 2 hrs. or till soft. More\nH2O may be needed as wheat will absorb H2O as it cooks.\nMeas. 2 c of the boiled wheat - Remain. can be frozen. used later\nIn lg. bowl combine 2 c boiled wheat c̄ remain. ingred. stir till\nsmooth. -",
+    "confidence": "high"
+  },
+  {
+    "photo": 604,
+    "kind": "recipe",
+    "title": "Carrot Souffle",
+    "attribution": "Bernadette",
+    "category": "Vegetables & Sides",
+    "ingredients": [
+      "2 c mashed cooked carrots",
+      "1 c sugar",
+      "3 eggs",
+      "3 T flour",
+      "1 tsp. bk. pwd.",
+      "2 T. evapor. milk",
+      "pinch of cinnamon"
+    ],
+    "directions": [
+      "Combine all ingred. but eggs in a greased casserole.",
+      "Beat egg yolks, add to above mixture (over)"
+    ],
+    "notes": [
+      "(from Bernadette)",
+      "(over) — continues on back (photo 605)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Carrot Souffle. (from Bernadette)\n2 c mashed cooked carrots\n1 c sugar\n3 eggs\n3 T flour\n1 tsp. bk. pwd.\n2 T. evapor. milk\npinch of cinnamon\nCombine all ingred. but eggs in a greased casserole\nBeat egg yolks, add to above mixture (over)",
+    "confidence": "high"
+  },
+  {
+    "photo": 605,
+    "kind": "continuation",
+    "title": "Carrot Souffle",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Beat egg whites 'til stiff & fold into mixture.",
+      "Place casserole dish in pan of H2O in oven @ 400° for 15 min. Reduce heat to 375° for approx. 45 min."
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Beat egg whites 'til stiff & fold into mixture.\nPlace casserole dish in pan of H2O in oven\n@ 400° - for 15 min. reduce heat to:\n375° for approx. 45 min.",
+    "confidence": "high"
+  },
+  {
+    "photo": 606,
+    "kind": "non-recipe",
+    "title": "MISCELLANEOUS",
+    "attribution": null,
+    "category": "Other",
+    "ingredients": [],
+    "directions": [],
+    "notes": [
+      "Blank divider/tab card labelled MISCELLANEOUS (orange tab); marks the start of the Miscellaneous section of the box"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "MISCELLANEOUS",
+    "confidence": "high"
+  },
+  {
+    "photo": 607,
+    "kind": "clipping",
+    "title": "Honey-Peanut Butter Cookies",
+    "attribution": null,
+    "category": "Cookies & Bars",
+    "ingredients": [
+      "2 cups liquid honey",
+      "1 1/2 cups chunk-style peanut butter",
+      "3 eggs",
+      "1 tbsp. water",
+      "2 tsp. vanilla",
+      "1 1/2 cups quick cooking rolled oats",
+      "2 cups seeded raisins, halved",
+      "1 1/2 cups sifted all-purpose flour",
+      "1 tsp. soda",
+      "1 tsp. salt"
+    ],
+    "directions": [
+      "Combine honey, peanut butter, eggs, water and vanilla in bowl and beat to blend well. Stir in rolled oats and raisins.",
+      "Sift flour, soda and salt together into mixture and stir to blend. Chill about 30 minutes.",
+      "Heat oven to 350 degrees. Grease cookie sheets.",
+      "Drop dough by large teaspoonfuls on cookie sheets, leaving about 2 inches between.",
+      "Bake 12 to 15 minutes or until tops spring back when touched lightly. (Cookies will spread during baking and will be chewy when cool.) Remove from pans while hot and cool on racks. (Makes 8 doz.)"
+    ],
+    "notes": [
+      "Newspaper clipping taped to a lined card",
+      "Makes 8 doz."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "HONEY-PEANUT BUTTER\nCOOKIES\n2 cups liquid honey\n1 1/2 cups chunk-style peanut butter\n3 eggs\n1 tbsp. water\n2 tsp. vanilla\n1 1/2 cups quick cooking rolled oats\n2 cups seeded raisins, halved\n1 1/2 cups sifted all-purpose flour\n1 tsp. soda\n1 tsp. salt\nCombine honey, peanut butter,\neggs, water and vanilla in bowl and\nbeat to blend well. Stir in rolled oats\nand raisins.\nSift flour, soda and salt together\ninto mixture and stir to blend. Chill\nabout 30 minutes.\nHeat oven to 350 degrees. Grease\ncookie sheets.\nDrop dough by large teaspoonfuls\non cookie sheets, leaving about 2\ninches between.\nBake 12 to 15 minutes or until tops\nspring back when touched lightly.\n(Cookies will spread during baking\nand will be chewy when cool.) Re-\nmove from pans while hot and cool\non racks. (Makes 8 doz.)",
+    "confidence": "high"
+  },
+  {
+    "photo": 608,
+    "kind": "recipe",
+    "title": "Cesear Salad Dressing",
+    "attribution": null,
+    "category": "Soups & Salads",
+    "ingredients": [
+      "1/2 garlic clove, crushed",
+      "1/2 c. salad oil",
+      "3/4 tsp salt",
+      "1/4 tsp pepper",
+      "1/4 tsp mustard",
+      "1 1/2 tsp worcestershire sauce"
+    ],
+    "directions": [
+      "Crush 1/2 garlic clove",
+      "Fridge"
+    ],
+    "notes": [
+      "Very rough, stained, crumpled scrap; incomplete (no lemon, egg, cheese listed here — see fuller Caesar Salad note, photo 610)",
+      "A '2' with arrows drawn after the salad oil line; 'Fridge' written below a dividing line; ballpoint scribbles at bottom",
+      "Title spelled 'Cesear' on the card"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Cesear Salad Dressing\nCrush 1/2 garlic clove\n1/2 c. salad oil        2\n>>>>>>>>> >>>>\nFridge\n3/4 tsp salt   }\n1/4 tsp pepper\n1/4 \" mustard\n1 1/2 \" worstechire sauce\n[scribbles] [?]",
+    "confidence": "medium"
+  },
+  {
+    "photo": 609,
+    "kind": "recipe",
+    "title": "Potatoe Cake",
+    "attribution": "Mom's Recipe",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "2 cups flour",
+      "1 teaspoon salt",
+      "2 teaspoons baking powder",
+      "1 cup mashed potatoes",
+      "Milk or water"
+    ],
+    "directions": [
+      "Milk or water, put lard on tin to cook. Turn now and then. Mix little butter"
+    ],
+    "notes": [
+      "Typewritten on a very worn, stained card; 'Mom's Recipe' written in blue marker across the bottom",
+      "Title typed 'Potatoe Cake'"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Potatoe Cake\n2 cups flour\n1 teaspoon salt\n2 teaspoons baking powder\n1 cup mashed potatoes\nMilk or water, put lard on tin to cook.\nTurn now and then. Mix little butter\nMom's Recipe",
+    "confidence": "high"
+  },
+  {
+    "photo": 610,
+    "kind": "recipe",
+    "title": "Cesear Salad",
+    "attribution": "Cathy Noon",
+    "category": "Soups & Salads",
+    "ingredients": [
+      "1 clove garlic halved",
+      "1/2 cup salad oil",
+      "3/4 tsp. salt",
+      "1/4 tsp pepper",
+      "1/4 tsp. dry mustard",
+      "1 1/2 tsp worcestershire",
+      "1 egg — yolk only p.c. cooking 1 min.",
+      "2 tbsp grated parmesan",
+      "2 tbsp lemon juice",
+      "croutons"
+    ],
+    "directions": [],
+    "notes": [
+      "Written in light blue crayon/pencil on a torn scrap; 'CESEAR SALAD' with arrows either side",
+      "'yolk only p.c. cooking 1 min.' added in pencil next to the egg",
+      "Sideways in right margin (pencil): 'try 1 tbsp [?] [lemon juice?]'",
+      "Name at bottom in crayon: CATHY NOON [reading of surname uncertain]"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "<-- CESEAR SALAD -->\n{ 1 clove garlic halved\n{ 1/2 cup salad oil\n{ 3/4 tsp. salt\n{ 1/4 tsp pepper\n{ 1/4 tsp. dry mustard\n{ 1 1/2 \" worchestershire\n{ 1 egg - yolk only p.c. cooking 1 min.\n{ 2 tbsp grated parmesan\n{ 2 tbsp lemon juice\ncroutons. CATHY NOON[?]\n[sideways, right margin:] try 1 tbsp [?] [juice?]",
+    "confidence": "medium"
+  },
+  {
+    "photo": 611,
+    "kind": "recipe",
+    "title": "Chicken-Broccoli Casserole",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "2 10 oz pkgs. frozen broccoli or 1 bunch fresh broccoli, uncooked",
+      "3 c cooked chicken (large pieces)",
+      "2 cans cream of chicken soup",
+      "1 c mayonnaise",
+      "1/2 c milk",
+      "1/2 - 1 Tbsp. lemon juice",
+      "1/2 tsp. curry powder",
+      "3/4 lb. (1/2 c) grated cheddar cheese",
+      "Bread crumbs or Pepperidge Farm Herb dressing mix (1/2 c minimum)",
+      "1-4 Tbsp melted butter"
+    ],
+    "directions": [
+      "Grease a 9x13 inch baking dish or 3 qt. casserole. Cook frozen broccoli until almost tender; drain. Place in baking dish and cover with the large chicken pieces.",
+      "Combined soup, mayonnaise, lemon juice, and curry powder; pour over chicken. Sprinkle cheddar cheese over top.",
+      "Combine dressing or bread crumbs with butter and sprinkle over top.",
+      "Bake at 350° at least 30 minutes, or until desired doneness. Serves 6-8.",
+      "NOTE: This recipe can be prepared and refrigerated over night. Warm a bit before baking or add a few minutes to baking time."
+    ],
+    "notes": [
+      "Written on torn spiral-notebook paper (two overlapping sheets in photo)",
+      "Serves 6-8"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Chicken - Broccoli Casserole\n2 10oz pkgs. frozen broccoli or 1 bunch fresh\nbroccoli, uncooked\n3c cooked chicken (large pieces)\n2 cans cream of chicken soup\n1c mayonnaise\n1/2c milk\n1/2 - 1 Tbsp. lemon juice\n1/2 tsp. curry powder\n3/4 lb. (1/2c) grated cheddar cheese\nBread crumbs or Pepperidge Farm Herb dressing\nmix (1/2c minimum)\n1-4 Tbsp melted butter\nGrease a 9x13 inch baking dish or 3 qt.\ncasserole. Cook frozen broccoli until almost\ntender; drain. Place in baking dish and\ncover with the large chicken pieces. Combined\nsoup, mayonnaise, lemon juice, and curry\npowder; pour over chicken. Sprinkle cheddar\ncheese over top. Combine dressing or bread\ncrumbs with butter and sprinkle over top.\nBake at 350° at least 30 minutes, or until\ndesired doneness. Serves 6-8.\nNOTE: This recipe can be prepared and\nrefridgerated over night. Warm a bit before\nbaking or add a few minutes to baking\ntime.",
+    "confidence": "high"
+  },
+  {
+    "photo": 612,
+    "kind": "recipe",
+    "title": "Broccoli Soup",
+    "attribution": null,
+    "category": "Soups & Salads",
+    "ingredients": [
+      "2 - 10 oz. pkgs. chopped frozen broccoli (2 - 283 g.)",
+      "1/4 cup onion - finely chopped",
+      "2 cups chicken broth",
+      "2 Tbsp. butter",
+      "1 Tbsp. flour",
+      "1 tsp. salt",
+      "pepper to taste",
+      "pinch of mace",
+      "2 cups half & half cream"
+    ],
+    "directions": [],
+    "notes": [
+      "Written on folded paper; the last four ingredient lines are heavily smudged/double-written (ink transfer), readings partly inferred from the directions on the back (photo 613)",
+      "Title spelled 'Broccali'"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Broccali Soup\n2 - 10 oz. pkgs. chopped frozen broccoli\n                                2 - 283 g.\n1/4 cup onion - finely chopped\n2 cups chicken broth\n2 Tbsp. butter\n1 Tbsp. flour\n1 tsp. salt\n[pepper to taste?]\n[pinch of mace?]\n[smudged duplicate lines]\n2 cups half & half cream",
+    "confidence": "medium"
+  },
+  {
+    "photo": 613,
+    "kind": "continuation",
+    "title": "Broccoli Soup",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Bring broccoli and onion to boil. Reduce heat and simmer for 10 min.",
+      "In lg. saucepan melt butter, add flour, salt, pepper & mace.",
+      "Slowly add cream and stir until smooth. Add broccoli & warm to serving temp.",
+      "Garnish c̄ twist of lemon or broccoli trees"
+    ],
+    "notes": [
+      "Ink smudge/ghost of 'heat and simmer for' between first lines"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Bring broccoli and onion to boil\nReduce heat and simmer for\n10 min.\nIn lg. saucepan melt butter,\nadd flour, salt, pepper & mace\nSlowly add cream and stir\nuntil smooth. Add broccoli\n& warm to serving temp.\nGarnish c̄ twist of lemon\nor broccoli trees",
+    "confidence": "high"
+  },
+  {
+    "photo": 614,
+    "kind": "recipe",
+    "title": "Black Currant Tea",
+    "attribution": null,
+    "category": "Beverages",
+    "ingredients": [
+      "1 tbsp. black currant jam",
+      "Juice of half a lemon",
+      "1 pint boiling water",
+      "Sugar to taste (or honey)"
+    ],
+    "directions": [
+      "Simmer together for 15 minutes. The hotter the drink the better.",
+      "An infallible remedy for [sore throat?]"
+    ],
+    "notes": [
+      "Also a home remedy ('An infallible remedy for ...' — last words scribbled/overwritten, likely 'sore throat')",
+      "A scribbled-out word after 'black currant jam'",
+      "Written on lined notepaper"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Black Currant Tea\n1 tbsp. black currant jam [scribbled out word]\nJuice of half a lemon\n1 pint boiling water\nSugar to taste (or honey)\nSimmer together for 15 minutes. The hotter\nthe drink the better.\nAn infallible remedy for [sore throat?]",
+    "confidence": "medium"
+  },
+  {
+    "photo": 615,
+    "kind": "recipe",
+    "title": "Pepper Steak",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "2 lbs lean round steak",
+      "1 Tbsp. paprika",
+      "2 Tbsp. butter/marg.",
+      "1 cup beef broth",
+      "2 green peppers cut in strips",
+      "2 Tbsp. cornstarch",
+      "1/4 c. water",
+      "1/4 c. soya sauce"
+    ],
+    "directions": [
+      "Cut steak in strips (about 1/2\") - sprinkle with paprika.",
+      "Brown meat in butter.",
+      "- Put meat into casserole dish",
+      "- Pour beef broth over top and put in oven 275-300°. I put this in for 1:30 p.m. and it was ready for supper at 5:30.",
+      "- Blend cornstarch, water & soya sauce on stove until thick.",
+      "Put cornstarch mixture over meat about 3/4 hr. -->"
+    ],
+    "notes": [
+      "'Ruth I doubled this recipe for 12 people' written at top (recipe given to Ruth by a friend)",
+      "Arrow at bottom right — continues on back (photo 616)",
+      "Written on lined notepaper, stained"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Ruth I doubled this recipe for 12 people\nPepper Steak\nRound Steak - 2 lbs lean\n1 Tbsp. paprika\n2 Tbsp. butter/marg.\n1 cup beef broth\n2 green peppers cut in strips\n2 Tbsp. cornstarch\n1/4 c. water\n1/4 c. soya sauce\nCut steak in strips (about 1/2\") - sprinkle\nwith paprika\nBrown meat in butter.\n- Put meat into casserole dish\n- Pour beef broth over top and put in oven\n275-300°. I put this in for 1:30 p.m. and\nit was ready for supper at 5:30.\n- Blend cornstarch, water & soya sauce on\nstove until thick.\nPut cornstarch mixture over meat about 3/4 hr.\n-->",
+    "confidence": "high"
+  },
+  {
+    "photo": 616,
+    "kind": "continuation",
+    "title": "Pepper Steak",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "before you want to eat. Mix occasionally until mixture is fairly clear.",
+      "Put cut green peppers in casserole about 5-10 min. before you want to eat.",
+      "(When I made this recipe I put the green peppers in with the meat at the same time as the cornstarch mixture, but I found them far too soggy. Five or ten minutes before you want to eat should be plenty for the green peppers - I think!! )",
+      "Serve with Rice"
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "before you want to eat. Mix occasionally\nuntil mixture is fairly clear.\nPut cut green peppers in casserole about\n5 - 10 min. before you want to eat.\n(When I made this recipe I put the\ngreen peppers in with the meat at the same\ntime as the cornstarch mixture, but I found\nthem far too soggy. Five or ten minutes\nbefore you want to eat should be plenty for\nthe green peppers - I think!! )\nServe with Rice",
+    "confidence": "high"
+  },
+  {
+    "photo": 617,
+    "kind": "recipe",
+    "title": "Granola",
+    "attribution": null,
+    "category": "Breakfast",
+    "ingredients": [
+      "5 cups rolled oats (or mixture of rye flakes, wheat flakes & oats)",
+      "1 cup sesame seeds",
+      "1 cup sunflower seeds",
+      "1 cup wheat germ",
+      "1 cup instant pwd. milk",
+      "1 cup vegetable oil (not olive)",
+      "1 cup honey",
+      "1 cup chopped nuts",
+      "1 cup shredded coconut",
+      "1 cup raisins, currants"
+    ],
+    "directions": [
+      "Mix dry ingredients except nuts, coconut & raisins.",
+      "Combine & warm vegetable [oil]"
+    ],
+    "notes": [
+      "Pencil on torn spiral-notebook page; continues on back (photo 618)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Granola\n5 cups rolled oats (or\nmixture of rye flakes\nwheat flakes & oats)\n1 cup sesame seeds.\n1 \" sunflower \"\n1 \" wheat germ.\n1 \" instant pwd. milk\n1 \" vegetable oil (not olive)\n1 \" honey\n1 \" chopped nuts\n1 \" shredded coconut\n1 \" raisins, currants.\nMix dry ingredients except\nnuts, coconut & raisins\nCombine & warm vegetab[le",
+    "confidence": "high"
+  },
+  {
+    "photo": 618,
+    "kind": "continuation",
+    "title": "Granola",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "[oil] & honey; mix with dry ingredients. Spread on 2 or 3 cookie sheets.",
+      "Bake in low oven 250°F. about 30 min. stirring frequently until slightly browned.",
+      "Add nuts, coconut & raisins during last 10 min.",
+      "Store in air-tight containers in refrigerator. Makes 13 cups.",
+      "[Note] use as cereal with milk or for snacking purposes. Add 1 cup roasted soynuts or peanuts. Dried fruits such as apricots"
+    ],
+    "notes": [
+      "Makes 13 cups",
+      "Page is torn at the bottom — the note trails off after 'Dried fruits such as apricots'; the next photo (619) is a different recipe"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "& honey; mix with\ndry ingredients. Spread on\n2 or 3 cookie sheets. Bake in\nlow oven 250°F. about 30 min\nstirring frequently until\nslightly browned. Add nuts,\ncoconut & raisins during\nlast 10 min. Store in air-\ntight containers in refrigerator\nMakes 13 cups.\n[Note] use as cereal with\nmilk or for snacking\npurposes. add 1 cup\nroasted soynuts or peanuts\nDried fruits such as apricots",
+    "confidence": "high"
+  },
+  {
+    "photo": 619,
+    "kind": "recipe",
+    "title": "Vegetable Dip",
+    "attribution": null,
+    "category": "Preserves, Pickles & Sauces",
+    "ingredients": [
+      "1 c. yogurt",
+      "1 c. mayonnaise",
+      "1 T. parsley",
+      "1 T. Dill weed",
+      "1 T. onion flakes",
+      "1 T. veg lift bon appetite"
+    ],
+    "directions": [],
+    "notes": [
+      "Written in blue felt pen on folded paper",
+      "'veg lift bon appetite' presumably a seasoning blend (as written)",
+      "Edge of another handwritten sheet visible at the top of the photo (illegible fragments)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "[fragment of another sheet at top: ...Jeff[?]...]\nVegetable Dip\n1 c. yogurt\n1 c. mayonnaise\n1 T. parsley\n1 T. Dill weed\n1 T. onion flakes\n1 T. veg lift bon appetite",
+    "confidence": "high"
+  }
+]

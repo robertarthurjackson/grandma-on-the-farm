@@ -1,0 +1,590 @@
+[
+  {
+    "photo": 100,
+    "kind": "recipe",
+    "title": "Pumpkin-Orange Muffins",
+    "attribution": null,
+    "category": "Breads & Buns",
+    "ingredients": [
+      "1 3/4 c flour",
+      "2 1/2 tsp bk. pwd.",
+      "1/2 tsp soda",
+      "1/2 tsp salt",
+      "2/3 c brown sugar",
+      "1 tsp cinnamon",
+      "1/4 tsp nutmeg",
+      "Pinch of ginger & mace",
+      "1 egg",
+      "1/4 c melted butter - cooled",
+      "1/2 c milk",
+      "1/2 c orange juice",
+      "Finely grated peel of 1 orange",
+      "3/4 c canned pumpkin"
+    ],
+    "directions": [
+      "Measure dry ingred. Stir c a fork until well blended.",
+      "Beat tog. egg, melted butter, milk, juice, peel & pumpkin."
+    ],
+    "notes": [],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Pumpkin-Orange Muffins\n1 3/4 c flour\n2 1/2 tsp bk. pwd.\n1/2 \" \" soda.\n1/2 \" salt\n2/3 c brown sugar.\n1 tsp. cinnamon\n1/4 \" nutmeg\nPinch of ginger & mace\n[right column:]\n1 egg\n1/4 c melted butter - cooled.\n1/2 c milk\n1/2 c orange juice\nFinely grated peel of 1 orange.\n3/4 c canned pumpkin.\nMeasure dry ingred. Stir c a fork until well blended.\nBeat tog. egg, melted butter, milk, juice, peel & pumpkin",
+    "confidence": "high"
+  },
+  {
+    "photo": 101,
+    "kind": "continuation",
+    "title": "Pumpkin-Orange Muffins",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Pour into dry ingred. - stir till all moist.",
+      "Do not over mix. Fill muffin cups 2/3 full.",
+      "Bake @ 400° - 18 min."
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Pour into dry ingred. - stir till all moist.\nDo not over mix. Fill muffin cups. 2/3 full.\nBake @ 400° - 18 min.",
+    "confidence": "high"
+  },
+  {
+    "photo": 102,
+    "kind": "recipe",
+    "title": "Rhubarb Muffins",
+    "attribution": "Farm Light & Power",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "1 c rhubarb",
+      "2 c flour",
+      "3 1/2 tsp bk. pwd. (15 ml)",
+      "1/2 c sugar",
+      "1/2 tsp salt",
+      "1 egg",
+      "1/3 c oil",
+      "1 c milk"
+    ],
+    "directions": [
+      "Cut washed rhubarb into 1/2\" lengths - measure.",
+      "Sift flour, bk. pwd. sugar & salt. Make well in centre, pour in slightly beaten egg, oil & milk.",
+      "Blend until all ingred. are moistened. Fold in rhubarb.",
+      "Sprinkle tops c extra granulated sugar.",
+      "Bake @ 350° for 25 min."
+    ],
+    "notes": [
+      "\"good\" written in pencil at top right",
+      "Source: Farm Light & Power"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "good\nRhubarb Muffins: Farm Light & Power.\n1 c rhubarb\n2 c flour\n3 1/2 tsp. bk. pwd. (15 ml)\n1/2 c sugar\n[right column:]\n1/2 tsp. salt\n1 egg\n1/3 c oil\n1 c milk\nCut washed rhubarb into 1/2\" lengths - measure. -\nSift flour, bk pwd. sugar & salt. - Make well in centre\npour in slightly beaten egg, oil & milk. Blend until\nall ingred. are moistened. Fold in rhubarb. Sprinkle\ntops c extra granulated sugar. Bake @ 350° for 25 min.",
+    "confidence": "high"
+  },
+  {
+    "photo": 103,
+    "kind": "recipe",
+    "title": "Rhubarb Muffins",
+    "attribution": null,
+    "category": "Breads & Buns",
+    "ingredients": [
+      "2 1/2 cups flour",
+      "1 tsp bak. powder",
+      "1 tsp bak. soda",
+      "1/2 tsp salt",
+      "3/4 cup br. sugar",
+      "1 large egg (beaten)",
+      "1 cup 1% buttermilk",
+      "1/2 cup veg. oil",
+      "1 tsp vanilla",
+      "3 cups diced rhubarb"
+    ],
+    "directions": [
+      "Mix dry. Add eggs, milk, vanilla & oil (together). Don't overmix.",
+      "Fold in rhubarb. Sprinkle tops with brown sugar before baking.",
+      "Bake 375° 20-25 min."
+    ],
+    "notes": [
+      "Arrows on card indicate: mix dry ingredients (left column) & add wet ingredients (right column); rhubarb added last",
+      "Right edge of card slightly cut off in photo (\"(beaten\", \"buttermilk\", \"rhubarb\", \"20-25 min\" trimmed)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Rhubarb Muffins\n2 1/2 cups flour\n1 tsp. bak. powder\n1 tsp. bak. soda\n1/2 tsp. salt\n3/4 cup br. sugar\n[centre, with arrows:] mix & add\n[right column:]\n1 large egg (beaten)\n1 cup 1% buttermilk\n1/2 cup veg. oil\n1 tsp. vanilla\n3 cups diced rhubar[b]\nMix dry. Add eggs, milk, vanilla & oil. [together] Don't overmix\nFold in rhubarb. Sprinkle tops with\nbrown sugar before baking. Bake 375° 20-25 min",
+    "confidence": "high"
+  },
+  {
+    "photo": 104,
+    "kind": "recipe",
+    "title": "Land of Nod Cinnamon Buns",
+    "attribution": "Ruth",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "20 frozen dough rolls",
+      "1 c brown sugar",
+      "1/4 c vanilla instant pudding",
+      "1-2 tbsp cinnamon",
+      "3/4 c raisins (optional)",
+      "1/4 - 1/2 c melted butter"
+    ],
+    "directions": [
+      "Place 20 frozen dough rolls into 10\" bundt or angel pan.",
+      "Grease pan - put in 20 rolls. Sprinkle c brown sugar, inst. pudding, cinnamon & raisins.",
+      "Pour melted butter over all. Cover c clean damp cloth.",
+      "In AM - Bake 350° for..."
+    ],
+    "notes": [
+      "(re Ruth)",
+      "Card text runs off bottom edge (\"Bake 350° for\" cut off); next photo is a different card, so the remainder is not photographed"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Land of Nod Cinnamon Buns - (re Ruth.)\nPlace 20 frozen dough rolls into - 10\" bundt or angel pan\n1 c brown sugar.\n1/4 c vanilla instant pudding\n1-2 tbsp. cinnamon\n3/4 c raisins (optional)\n1/4 - 1/2 c melted butter\nGrease pan - put in 20 rolls. Sprinkle c brown sugar,\ninst. pudding, cinnamon & raisins. Pour melted butter\nover all. - Cover c clean damp cloth. In AM - Bake 350° for [cut off]",
+    "confidence": "high"
+  },
+  {
+    "photo": 105,
+    "kind": "recipe",
+    "title": "Super Blueberry Muffins",
+    "attribution": null,
+    "category": "Breads & Buns",
+    "ingredients": [
+      "2 c flour",
+      "1/2 c sugar",
+      "3 tsp bk. pwd.",
+      "1/2 tsp salt",
+      "rind of 1 lemon",
+      "1 egg",
+      "1 c milk",
+      "1/2 c butter (melted)",
+      "1 c + blueberries",
+      "— Topping —",
+      "1/2 c butter melted",
+      "1 tbsp lemon juice",
+      "1/2 c w. sugar"
+    ],
+    "directions": [
+      "Mix flour, sugar, bk. pwd., salt & lemon rind.",
+      "Beat egg, add milk & butter. Add egg mixture to dry. Stir till just mixed.",
+      "Stir in blueberries.",
+      "Bake @ 425° for 20 min.",
+      "Topping: Combine butter & lemon juice. Slightly cool muffin. Dunk into butter, then sugar."
+    ],
+    "notes": [
+      "16 lg. or 32 sm."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Super Blueberry Muffins\nBake @ 425° for 20 min\n2 c flour\n1/2 c sugar.\n3 tsp. bk. pwd.\n1/2 \" salt\nrind of 1 lemon.\n[middle column:]\n1 egg.\n1 c milk\n1/2 c butter (melted)\nblueberries - 1 c +\n[right column:]\nTopping\n1/2 c butter melted\n1 tbsp lemon juice\n1/2 c w. sugar.\nMix flour, sugar, bk. pwd., salt & lemon rind. Beat egg\nadd milk & butter. Add egg mixture to dry. Stir till just mixed.\nStir in blueberries. Topping Combine butter & lemon juice. Slightly\ncool muffin. Dunk into butter, then sugar. 16 lg. or 32 sm.",
+    "confidence": "high"
+  },
+  {
+    "photo": 106,
+    "kind": "recipe",
+    "title": "Rhubarb Muffins",
+    "attribution": "Margaret Tompkins",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "2 1/2 c flour",
+      "1 tsp bk. pwd.",
+      "1 tsp soda",
+      "1/2 tsp salt",
+      "3/4 c br. sugar",
+      "1 egg beaten",
+      "1 c of 1% buttermilk",
+      "1/2 c veg. oil",
+      "1 tsp vanilla",
+      "3 c diced rhubarb"
+    ],
+    "directions": [
+      "Mix tog. flour, bk. pwd., soda, salt & br. sugar.",
+      "Pour (egg, buttermilk, oil, vanilla) over dry ingredients - mix very lightly.",
+      "Fold in 3 c diced rhubarb.",
+      "Sprinkle brown sugar on top before baking.",
+      "Bake in 350° oven for 25-30 min."
+    ],
+    "notes": [
+      "V.G. (circled)",
+      "(re Margaret Tompkins)",
+      "makes 24"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Rhubarb Muffins. (V.G.) (re Margaret Tompkins)\n2 1/2 c flour\n1 tsp. bk. pwd.\n1 \" soda\n1/2 \" salt\n3/4 c br. sugar\n} mix tog.\n[right column:]\n1 egg beaten\n1 c of 1% buttermilk\n1/2 c veg. oil.\n1 tsp. vanilla\nPour over dry ingredients -\nmix very lightly.\nFold in 3 c diced rhubarb.\nSprinkle brown sugar on top before baking.\nBake in 350° oven for 25-30 min. makes 24",
+    "confidence": "high"
+  },
+  {
+    "photo": 107,
+    "kind": "recipe",
+    "title": "Cinnamon Buns",
+    "attribution": "Mennonite Cook Book, M.A.",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "2 pkgs. yeast",
+      "1 c milk (scald & cool)",
+      "1 c lukewarm water",
+      "1 tbsp sugar",
+      "7 c flour (sifted)",
+      "6 tbsp lard or butter",
+      "1/2 c sugar",
+      "3 eggs",
+      "1/2 tsp salt"
+    ],
+    "directions": [
+      "Dissolve yeast & sugar in lukewarm liquid. Add 3 c flour & beat until smooth.",
+      "Add lard or butter, sugar, salt, & eggs & beat well.",
+      "Add the remains of flour gradually or enough to make a soft dough.",
+      "Knead lightly & put in greased bowl to rise 2 hrs.",
+      "Roll out & brush c melted butter,"
+    ],
+    "notes": [
+      "Mennonite Cook book. M.A."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Mennonite Cook book. M.A.\nCinnamon Buns.\n2 pkgs. yeast\n1 c milk (scald & cool)\n1 c lukewarm water\n1 tbsp. sugar\n7 c flour (sifted)\n[right column:]\n6 tbsp. lard or butter\n1/2 c sugar\n3 eggs\n1/2 tsp. salt.\nDissolve yeast & sugar in lukewarm liquid. Add 3 c flour\n& beat until smooth. Add lard or butter, sugar, salt,\n& eggs & beat well. Add the remains of flour gradually\nor enough to make a soft dough. Knead lightly & put in\ngreased bowl to rise 2 hrs. Roll out & brush c melted butter,",
+    "confidence": "high"
+  },
+  {
+    "photo": 108,
+    "kind": "continuation",
+    "title": "Cinnamon Buns",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "sprinkle brown sugar, cinnamon, currants & nuts.",
+      "Roll up & cut. Let rise 1 hour & bake 20-25 min @ 375°."
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "sprinkle brown sugar, cinnamon, currants & nuts\nRoll up & cut. Let rise 1 hour & bake 20-25 min @ 375°.",
+    "confidence": "high"
+  },
+  {
+    "photo": 109,
+    "kind": "recipe",
+    "title": "Butterhorns",
+    "attribution": "Irene Pawlowski",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "4 c milk",
+      "1 c sugar",
+      "2 tsp salt",
+      "2 c butter or marg.",
+      "2 eggs",
+      "11 c flour",
+      "3 pkg. yeast in 1 c water with 2 tsp sugar"
+    ],
+    "directions": [
+      "Heat 1st 4 ingredients (milk, sugar, etc). Cool to lukewarm.",
+      "Put flour in bowl. Add liquid & risen yeast & beaten eggs. Beat with spoon.",
+      "Let rise to double. Put on floured board - roll into rectangle - spread with butter & roll up like jelly roll.",
+      "Slice. Let rise for 20 min. Cook 15-20 min in 375° oven.",
+      "Used apple coffee cake filling in Joy of Cooking book pg 573 - good"
+    ],
+    "notes": [
+      "Irene Pawlowski",
+      "used apple coffee cake filling in Joy of Cooking book pg 573 - good (bottom line, partly cut off)",
+      "Filling continues on next photo (back of card)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Butterhorns   Irene Pawlowski)\n4 c milk\n1 c sugar\n2 tsp. salt\n2 c butter or marg.\n[right column:]\n2 eggs\n11 c flour\n3 pkg. yeast in 1 c water\nwith 2 tsp. sugar\nHeat 1st 4 ingredients (milk, sugar, etc). Cool to\nlukewarm. Put flour in bowl. Add liquid &\nrisen yeast & beaten eggs. Beat with spoon. Let\nrise to double. Put on floured board - roll into\nrectangle - spread with butter & roll up like jelly roll.\nslice. Let rise for 20 min. Cook 15-20 min in 375° oven\n[used?] apple coffee cake filling in Joy of Cooking book pg 573. good",
+    "confidence": "high"
+  },
+  {
+    "photo": 110,
+    "kind": "continuation",
+    "title": "Butterhorns",
+    "attribution": null,
+    "category": null,
+    "ingredients": [
+      "— Filling from Joy of Cooking —",
+      "2 1/2 c pared & chopped apples",
+      "1 c brown sugar",
+      "1/3 c butter",
+      "1 c raisins",
+      "1/2 tsp cinnamon",
+      "1/2 tsp salt"
+    ],
+    "directions": [
+      "Combine & boil for 4 min.",
+      "Cool slightly & spread over dough.",
+      "or: apple pie filling - add cinnamon & nutmeg",
+      "or: lemon pie filling"
+    ],
+    "notes": [
+      "Left edge of card is cut off in photo; leading characters of several lines are missing (quantities inferred from visible fragments: \"2 1/2 c\" [2 [1/2?]], \"1/3 c\", \"1/2 tsp\", \"1/2 \"\")",
+      "Last line \"lemon pie filling\" is partly cut off at bottom"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Filling from Joy of Cooking\nCombine & boil for 4 min.\n2 [1/2?] c. pared & chopped apples.\n1 c brown sugar\n[1/]3 c butter\n1 c raisins\n[1/]2 tsp. cinnamon\n[1/]2 \" salt\n[Co]ol slightly & spread over dough.\nor\n[a]pple pie filling - add cinnamon & nutmeg\nor\n[l]emon pie filling",
+    "confidence": "medium"
+  },
+  {
+    "photo": 111,
+    "kind": "recipe",
+    "title": "Buns",
+    "attribution": "Mennonite Cookbook, M.A.",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "2 c scalded milk",
+      "1 c warm water",
+      "4 tbsp sugar",
+      "1 c shortening",
+      "2 eggs beaten",
+      "2 tsp sugar",
+      "2 tbsp salt",
+      "2 pkg. yeast",
+      "Flour to make a soft dough (8-10 cups)"
+    ],
+    "directions": [
+      "Scald milk, add shortening, water & sugar. Let cool.",
+      "Then mix the fluid into about 3 c of flour, add beaten eggs & yeast & mix in remainder of flour so you have a soft dough.",
+      "Let rise till double. Then put in pan & rise till light.",
+      "Bake 375° for about 20 min. or until golden."
+    ],
+    "notes": [
+      "Mennonite Cookbook. M.A.",
+      "Left edge of card slightly cut off (leading digits of some ingredient lines partly trimmed)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Mennonite Cookbook. M.[A.]\nBuns.\n2 c scalded milk\n1 c warm water\n4 tbsp. sugar.\n1 c shortening\n2 eggs beaten\n[right column:]\n2 tsp. sugar\n2 tbsp. salt\n2 pkg. yeast\nFlour to make a soft dough\n8-10 cups.\nScald milk, add shortening, water & sugar. Let cool.\nThen mix the fluid into about 3 c of flour, add beaten\neggs & yeast & mix in remainder of flour so you have a\n[sof]t dough. Let rise till double. Then put in pan &\n[r]ise till light. Bake 375° for about 20 min. or until golden",
+    "confidence": "high"
+  },
+  {
+    "photo": 112,
+    "kind": "recipe",
+    "title": "Chicken Turnovers",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "— Dough —",
+      "1 1/8 c warm water (1 c + 2 tbsp)",
+      "3 tbsp sugar",
+      "1 1/2 tsp salt",
+      "1 1/2 tbsp powdered milk",
+      "1 1/2 tbsp shortening (margarine)",
+      "3 c flour",
+      "1 1/2 tsp yeast"
+    ],
+    "directions": [],
+    "notes": [
+      "(breadmaker)",
+      "Filling: (over)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Chicken Turnovers. (breadmaker)\nDough: 1 1/8 c. warm water 1 c + 2 tbsp.\n3 tbsp. sugar\n1 1/2 tsp. salt\n1 1/2 tbsp. powdered milk\n1 1/2 tbsp. shortening (margarine)\n3 c flour\n1 1/2 tsp. yeast.\nFilling: (over)",
+    "confidence": "high"
+  },
+  {
+    "photo": 113,
+    "kind": "continuation",
+    "title": "Chicken Turnovers",
+    "attribution": null,
+    "category": null,
+    "ingredients": [
+      "— Filling: Chicken turnover —",
+      "2 c cooked chicken",
+      "1 1/2 c broccoli",
+      "3/4 c mushrooms - if using canned - drain well & dry on paper towel",
+      "onion",
+      "1 c mushroom soup",
+      "salt - pepper"
+    ],
+    "directions": [
+      "Fill dough - let rise a little.",
+      "Bake @ 375° - 20-25 min."
+    ],
+    "notes": [
+      "Left edge of card slightly cut off (leading digits partly trimmed)"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "[Filling]: Chicken turnover:\n2 c cooked chicken\n1 1/2 c broccoli\n3/4 c mushrooms - if using canned - drain well &\n   onion.                     dry on paper towel.\n1 c mushroom soup.\nsalt - pepper -\nfill dough - let rise a little. Bake @ 375° -\n20-25 min.",
+    "confidence": "high"
+  },
+  {
+    "photo": 114,
+    "kind": "recipe",
+    "title": "Irish Potato Bread",
+    "attribution": null,
+    "category": "Breads & Buns",
+    "ingredients": [
+      "3 c flour mix",
+      "1 3/4 c water",
+      "2 tbsp yeast (dry quick rise)"
+    ],
+    "directions": [
+      "add dry quick rise yeast to flour - mix",
+      "\" warm water",
+      "let rise."
+    ],
+    "notes": [
+      "For 1 loaf",
+      "Appears to be a note for using a purchased bread/flour mix"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Irish Potato Bread.\nFor 1 loaf: -\n3 c flour mix.\n1 3/4 c water\n2 tbsp yeast.\n[right column:]\nadd ^dry quick rise yeast to flour - mix\n\" warm water\nlet rise.",
+    "confidence": "high"
+  },
+  {
+    "photo": 115,
+    "kind": "recipe",
+    "title": "Potato Dinner Rolls",
+    "attribution": "from Co-op paper",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "1/2 c melted butter",
+      "1/2 c potato water or water",
+      "1 c milk",
+      "1 c mashed potato",
+      "1/2 c sugar",
+      "1 tsp salt",
+      "2 eggs",
+      "2 tbsp Fermipan yeast",
+      "6 1/2 c flour"
+    ],
+    "directions": [
+      "Melt butter, add potato water & milk - heat to lukewarm.",
+      "Put mashed potato, potato water mixture in bowl. Add sugar, salt & eggs. Beat till smooth, add yeast, beat again.",
+      "Add 2 c flour, beat, gradually add rest of flour (knead). Let rise - punch down.",
+      "Roll out - add filling (cheese or ham onion) - roll up like jelly roll -"
+    ],
+    "notes": [
+      "V.G.",
+      "(from Co-op paper)",
+      "filling: cheese or ham/onion (interlined)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Potato Dinner Rolls - (from Co-op paper) - V.G.\n1/2 c melted butter\n1/2 c potato water or water\n1 c milk\n1 c mashed potato\n1/2 c sugar\n[right column:]\n1 tsp. salt\n2 eggs\n2 tbsp. Fermipan yeast\n6 1/2 c flour\nMelt butter, add potato water & milk - heat to lukewarm. Put\nmashed potato, potato water mixture in bowl. Add sugar,\nsalt & eggs. Beat till smooth, add yeast, beat again. Add\n2 c flour, beat, gradually add rest of flour (knead). Let rise -\npunch ↓ - roll out - add filling cheese or ham onion - roll ↑ like jelly roll -",
+    "confidence": "high"
+  },
+  {
+    "photo": 116,
+    "kind": "continuation",
+    "title": "Potato Dinner Rolls",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "slice - let rise on trays. Bake @ 400° - 15-20 min."
+    ],
+    "notes": [
+      "(makes about 40)"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "slice - let rise on trays.. Bake @ 400° - 15-20 min.\n(makes about 40)",
+    "confidence": "high"
+  },
+  {
+    "photo": 117,
+    "kind": "recipe",
+    "title": "Cheese or Raisin Scones",
+    "attribution": "our Margaret",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "2 c flour",
+      "4 tsp bk. pwd.",
+      "1/2 tsp salt",
+      "1/4 c sugar",
+      "1/2 c raisins or 3/4 c grated cheese",
+      "1 egg",
+      "milk",
+      "1/2 c Crisco shortening"
+    ],
+    "directions": [
+      "Stir dry ingred. - add raisins or cheese. Cut in shortening.",
+      "Break egg in cup, add enough milk to make 3/4 c. Blend together. Add all at once to flour mixture. Stir until moist.",
+      "Put flour on working surface. Turn dough over to coat both sides. Knead 6 times. Divide dough in 1/2. Pat each 1/2 into a"
+    ],
+    "notes": [
+      "re our Margaret"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Cheese or raisin scones. - re our Margaret\n2 c flour\n4 tsp. bk. pwd.\n1/2 \" salt\n1/4 c sugar\n[right column:]\n1/2 c raisins or 3/4 c grated cheese\n1 egg.\nmilk\n1/2 c Crisco shortening\nStir dry ingred. - add raisins or cheese. Cut in shortening.\nBreak egg in cup add enough milk to make 3/4 c. Blend\ntogether. Add all at once to flour mixture. Stir until moist.\nPut flour on working surface. Turn dough over to coat both\nsides. Knead 6 times. Divide dough in 1/2. Pat each 1/2 into a",
+    "confidence": "high"
+  },
+  {
+    "photo": 118,
+    "kind": "continuation",
+    "title": "Cheese or Raisin Scones",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "circle 1/2\" thick. Cut each into 6 wedges. Place scones on ungreased cookie sheet.",
+      "Brush c milk & sprinkle c sugar.",
+      "Bake @ 400° for 15 min. or until golden brown."
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "circle 1/2\" thick. Cut each into 6 wedges. Place scones\non ungreased cookie sheet. Brush c milk & sprinkle c\nsugar. Bake @ 400° for 15 min. or until golden brown.",
+    "confidence": "high"
+  },
+  {
+    "photo": 119,
+    "kind": "clipping",
+    "title": "Oat Pancakes",
+    "attribution": "Robin Hood (package recipe)",
+    "category": "Breakfast",
+    "ingredients": [
+      "1 1/2 cups ROBIN HOOD or OLD MILL Oats (375 mL)",
+      "2 cups milk (500 mL)",
+      "1 cup ROBIN HOOD All Purpose Flour* (250 mL)",
+      "2 tbsp brown or granulated sugar (30 mL)",
+      "2 tbsp baking powder (30 mL)",
+      "3/4 tsp salt (3 mL)",
+      "3 eggs",
+      "1/4 cup oil (50 mL)"
+    ],
+    "directions": [
+      "MIX oats and milk in small bowl. Set aside until milk is almost absorbed, about 5 minutes.",
+      "COMBINE flour, sugar, baking powder and salt in mixing bowl. Stir well to blend.",
+      "ADD eggs and oil to oat mixture. Beat well.",
+      "ADD oat mixture to flour mixture all at once, mixing until smooth.",
+      "POUR batter by 1/4 cupfuls (50 mL) onto preheated, lightly greased griddle. Bake until fluffy and bubbles break on surface. Turn and bake other side. Serve hot with butter and/or maple syrup.",
+      "MAKES about 18 pancakes."
+    ],
+    "notes": [
+      "A quick, easy, delicious, nutritious breakfast!",
+      "* or Substitute ROBIN HOOD Whole Wheat Flour",
+      "Tip: Pancakes can be frozen and re-heated in your toaster. Cool completely before freezing.",
+      "Printed package/box clipping (Robin Hood oats)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "OAT PANCAKES\nA quick, easy, delicious, nutritious breakfast!\n1 1/2 cups ROBIN HOOD or OLD MILL Oats 375 mL\n2 cups milk 500 mL\n1 cup ROBIN HOOD All Purpose Flour* 250 mL\n2 tbsp brown or granulated sugar 30 mL\n2 tbsp baking powder 30 mL\n3/4 tsp salt 3 mL\n3 eggs 3\n1/4 cup oil 50 mL\nMIX oats and milk in small bowl. Set aside until milk is almost absorbed, about 5 minutes.\nCOMBINE flour, sugar, baking powder and salt in mixing bowl. Stir well to blend.\nADD eggs and oil to oat mixture. Beat well.\nADD oat mixture to flour mixture all at once, mixing until smooth.\nPOUR batter by 1/4 cupfuls (50 mL) onto preheated, lightly greased griddle. Bake until fluffy and bubbles break on surface. Turn and bake other side. Serve hot with butter and/or maple syrup. MAKES about 18 pancakes.\n* or Substitute ROBIN HOOD Whole Wheat Flour\nTip: Pancakes can be frozen and re-heated in your toaster. Cool completely before freezing.",
+    "confidence": "high"
+  }
+]

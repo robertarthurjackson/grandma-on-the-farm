@@ -1,0 +1,607 @@
+[
+ {
+  "photo": 280,
+  "kind": "recipe",
+  "title": "Zucchini Quiche",
+  "attribution": null,
+  "category": "Main Dishes",
+  "ingredients": [
+   "3 c shredded or diced zucchini",
+   "1/2 c chopped onion",
+   "1 chopped garlic clove",
+   "2 tsp ea. parsley & or dill, (green pepper)",
+   "1/2 tsp oregano",
+   "1/2 c grated cheese (mozz.)",
+   "4 eggs - beaten",
+   "1 c Bisquick or 1 c flour & 2 tsp bk. pwd *",
+   "1/4 c oil",
+   "1/2 tsp salt",
+   "1/8 tsp pepper, to taste"
+  ],
+  "directions": [
+   "Bake @ 350° approx 45 min.",
+   "Pour over vegetables & mix tog. Pour mixture into oiled casserole or quiche pan.",
+   "Maybe sprinkle c chopped bacon or chopped almonds or grated cheese if you like."
+  ],
+  "notes": [
+   "Written in red ink on a folded sheet of paper",
+   "Bake @ 350° approx 45 min written at top right"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Zucchini Quiche -    Bake @ 350°\n                     approx 45 min.\n3 c shredded or diced zuccini\n1/2 c chopped onion\n1 chopped garlic clove.\n2 tsp ea. parsley & or dill, (green pepper)\n1/2 \" oregano\n1/2 c grated cheese (mozz.).\n4 eggs - beaten\n1 c. Bisquick or 1 c flour & 2 tsp. bk. pwd *.\n1/4 c oil\n1/2 tsp. salt\n1/8 \" pepper, to taste.\n\nPour over vegatables & mix tog. Pour mixture\ninto oiled casserole or quiche pan. maybe sprinkled\nc chopped bacon or chopped almonds or grated cheese\nif you like.",
+  "confidence": "high"
+ },
+ {
+  "photo": 281,
+  "kind": "recipe",
+  "title": "Natchos",
+  "attribution": null,
+  "category": "Main Dishes",
+  "ingredients": [
+   "Taco or Natcho chips",
+   "chopped green onion & tomato",
+   "grated cheese",
+   "cooked ground meat (to make a meal)",
+   "salsa & sour cream"
+  ],
+  "directions": [
+   "Taco or Natcho chips in pie plate - sprinkle c chopped green onion & tomato - cover c grated cheese.",
+   "Put in oven @ 375° until cheese melts.",
+   "To make a meal - add cooked ground meat.",
+   "Serve the above c salsa & sour cream. - if no salsa & sour cream - eat without."
+  ],
+  "notes": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Natchos -\n\nTaco or Natcho chips.\nin pie plate -\nsprinkle c chopped green\nonion & tomato - cover\nc grated cheese. - - -\n\nPut in oven @ 375°\nuntil cheese melts.\n\nto make a meal - add\ncooked ground meat. -\n\nserve the above c salsa &\nsour cream. - if no salsa\n& sour cream - eat without",
+  "confidence": "high"
+ },
+ {
+  "photo": 282,
+  "kind": "recipe",
+  "title": "Pizza Quiche",
+  "attribution": null,
+  "category": "Main Dishes",
+  "ingredients": [
+   "1/2 lb sausage cut into 1/4\" thick",
+   "1 tin 6 oz. tomato paste",
+   "1/8 tsp oregano",
+   "3/4 c milk",
+   "1 med. onion, diced",
+   "1 tbsp butter",
+   "2 eggs slightly beaten",
+   "2 c. shredded cheddar cheese"
+  ],
+  "directions": [
+   "Fry sausage & onion. Place in bottom of 9\" deep dish pie crust.",
+   "Put on tomato paste & oregano.",
+   "Mix eggs, milk, cheese tog. & pour over all.",
+   "Bake @ 425° for 10 min then reduce to 350° - 35 min.",
+   "Serves 4-6"
+  ],
+  "notes": [
+   "Header reads 'Recipe - Pizza Quiche'",
+   "faint '2003'[?] visible under stain at top left",
+   "'plate' crossed out, replaced with 'deep dish pie crust'"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Recipe - Pizza Quiche\n[2003?]\n1/2 lb sausage cut into 1/4\" thick\n1 tin 6 oz. tomato paste.\n1/8 tsp oregano.\n3/4 c milk\n1 med. onion, diced\n1 tbsp butter.\n2 eggs slightly beaten.\n2 c. shredded cheddar cheese.\n\nFry sausage & onion. Place in\nbottom of 9\" deep dish pie ~~plate~~ crust.\nPut on tomato paste & oregano.\nMix eggs, milk, cheese tog. &\npour over all.\n  Bake @ 425° for 10 min then\nreduce to 350° - 35 min\n                    serves 4-6",
+  "confidence": "high"
+ },
+ {
+  "photo": 283,
+  "kind": "recipe",
+  "title": "Herbed Oven Potatoes",
+  "attribution": "re Deane H.",
+  "category": "Vegetables & Sides",
+  "ingredients": [
+   "1/2 c olive or vegetable oil",
+   "1/4 c butter or marg melted",
+   "1 envelope onion soup mix",
+   "1 tsp dried thyme",
+   "1 tsp dried marjoram",
+   "1/4 tsp pepper",
+   "2 lbs. red potatoes quartered",
+   "minced fresh parsley"
+  ],
+  "directions": [],
+  "notes": [
+   "over directions",
+   "(re Deane H.)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Herbed Oven Potatoes    (re Deane H.)\n1/2 c olive or vegetable oil\n1/4 c butter or marg melted\n1 envelope onion soup mix\n1 tsp. dried thyme\n1 \"  \" marjoram\n1/4 \" pepper\n2 lbs. red potatoes quartered\nminced fresh parsley.\n                        over directions",
+  "confidence": "high"
+ },
+ {
+  "photo": 284,
+  "kind": "continuation",
+  "title": "Herbed Oven Potatoes",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "In a shallow bowl, combine the 1st. 6 ingred.. Add potatoes, a few at a time; toss to coat.",
+   "Place in a single layer in a greased 15 x 10 x 1\" baking pan. Drizzle c remaining oil mixture.",
+   "Bake uncovered @ 450° for 50-55 min. or until tender, stirring occasionally. Sprinkle c parsley.",
+   "Yield: 6 servings"
+  ],
+  "notes": [
+   "Yield: 6 servings",
+   "Written on yellow card (back of 283)"
+  ],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "In a shallow bowl, combine the 1st. 6\ningred.. add potatoes, a few at a time; toss to coat.\nPlace in a single layer in a greased 15 x 10 x 1\" baking\npan. Drizzle c remaining oil mixture.\n  Bake uncovered @ 450° for 50-55 min. or until\ntender, stirring occasionally. Sprinkle c Parsley.\nyield: 6 servings",
+  "confidence": "high"
+ },
+ {
+  "photo": 285,
+  "kind": "recipe",
+  "title": "Seafood Casserole",
+  "attribution": null,
+  "category": "Main Dishes",
+  "ingredients": [
+   "1 c chopped green pepper",
+   "2 c real mayo",
+   "1 - 6 oz pkg. frozen shrimp (defrosted)",
+   "1 tsp Worchestershire sauce",
+   "dash tabasco",
+   "potato chips for topping",
+   "1 c. chopped onions",
+   "2 c. chopped celery",
+   "1 - 4 1/2 oz can crabmeat",
+   "1 - 5 oz can lobster",
+   "1 - 7 oz can solid tuna",
+   "1 tsp. salt - pepper to taste"
+  ],
+  "directions": [
+   "Mix all except for chips. Put in 11 x 7\" casserole.",
+   "Cover & refrigerate. Crush chips, put on top. Bake for 30-40 min uncovered until hot throughout.",
+   "Can be made ahead - (improves flavor). Can be served cold s baking."
+  ],
+  "notes": [
+   "Ingredients written in two columns",
+   "No oven temperature given",
+   "'s baking' = without baking (Grandma's medical shorthand: s-bar = without)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Seafood Casserole.\n1 c chopped green pepper        1 c. chopped onions\n2 c real mayo                   2 c. chopped celery\n1 - 6 oz pkg. frozen shrimp (defrosted)   1 - 4 1/2 oz can crabmeat\n1 tsp Worchestershire sauce.    1 - 5 oz can lobster\n- dash tabasco                  1 - 7 oz \" solid tuna\n- potato chips for topping      1 tsp. salt - pepper to taste\n\nMix all except for chips. Put in 11 x 7\" casserole.\nCover & refrigerate. Crush chips, put on top. Bake for\n30-40 min uncovered until hot throughout. Can be\nmade ahead - (improves flavor). Can be served cold s baking.",
+  "confidence": "high"
+ },
+ {
+  "photo": 286,
+  "kind": "clipping",
+  "title": "Herb Macaroni and Cheese",
+  "attribution": "Creamette package",
+  "category": "Main Dishes",
+  "ingredients": [
+   "2 cups (500 mL) uncooked CREAMETTE Macaroni",
+   "1/4 cup (50 mL) butter",
+   "1/4 cup (50 mL) all purpose flour",
+   "1 tsp (5 mL) dry mustard",
+   "1 tsp (5 mL) garlic salt",
+   "1/2 tsp (2 mL) dry basil leaves, crushed",
+   "1/2 tsp (2 mL) paprika",
+   "2 cups (500 mL) milk",
+   "2 cups (500 mL) shredded cheddar cheese",
+   "1/4 cup (50 mL) fine dry bread or cornflake crumbs",
+   "1 tbsp (15 mL) butter, melted",
+   "Chopped parsley"
+  ],
+  "directions": [
+   "Preheat oven to 350°F (180°C). Cook Creamette macaroni according to package directions.",
+   "Melt 1/4 cup (50 mL) butter in medium saucepan. Blend in flour, mustard, salt, basil and paprika. Gradually stir in milk. Cook and stir over medium heat until mixture comes to a boil and thickens.",
+   "Remove from heat. Add cheese; stir until melted. Stir in cooked macaroni. Spoon into a greased 1 1/2-qt (1.5 L) baking dish.",
+   "Combine crumbs and melted butter; sprinkle over casserole. Bake 20 min or until hot. Garnish with parsley. Makes 6 servings."
+  ],
+  "notes": [
+   "Printed bilingual (English/French) recipe from a Creamette macaroni package; French column cut off at right",
+   "Makes 6 servings",
+   "Same recipe as handwritten card in photos 292-293"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Herb Macaroni\nand Cheese\n\n2 cups (500 mL)   uncooked CREAMETTE Macaroni\n1/4 cup (50 mL)   butter\n1/4 cup (50 mL)   all purpose flour\n1 tsp (5 mL)      dry mustard\n1 tsp (5 mL)      garlic salt\n1/2 tsp (2 mL)    dry basil leaves, crushed\n1/2 tsp (2 mL)    paprika\n2 cups (500 mL)   milk\n2 cups (500 mL)   shredded cheddar cheese\n1/4 cup (50 mL)   fine dry bread or cornflake crumbs\n1 tbsp (15 mL)    butter, melted\n                  Chopped parsley\nPreheat oven to 350°F (180°C). Cook Creamette macaroni according\nto package directions. Melt 1/4 cup (50 mL) butter in medium sauce-\npan. Blend in flour, mustard, salt, basil and paprika. Gradually stir in\nmilk. Cook and stir over medium heat until mixture comes to a boil and\nthickens. Remove from heat. Add cheese; stir until melted. Stir in\ncooked macaroni. Spoon into a greased 1 1/2-qt (1.5 L) baking dish.\nCombine crumbs and melted butter; sprinkle over casserole. Bake 20\nmin or until hot. Garnish with parsley. Makes 6 servings.\n\n[French column at right, cut off:]\n2 tasses (500 mL) d...\n1/4 tasse (50 mL) d...\n1/4 tasse (50 mL) d...\n1 c. à thé (5 mL) d...\n1 c. à thé (5 mL) d...\n1/2 c. à thé (2 mL) d...\n1/2 c. à thé (2 mL) d...\n2 tasses (500 mL) d...\n2 tasses (500 mL) d...\n1/4 tasse (50 mL) d...\n1 c. à table (15 mL) d...\nPréchauffer le four à 350... mode de cuisson sur le p... une casserole moyenne... paprika. Incorporer gra... remuant, jusqu'à ébulliti... mage; remuer jusqu'à c... dans un plat à four grais... beurre fondu; saupoudre... bien chaud. Décorer de...",
+  "confidence": "high"
+ },
+ {
+  "photo": 287,
+  "kind": "recipe",
+  "title": "Basmatti Pilau",
+  "attribution": null,
+  "category": "Vegetables & Sides",
+  "ingredients": [
+   "1 sm. onion chopped",
+   "sm. amt oil & butter",
+   "1/2 tomato chopped",
+   "4 Maggi chicken cubes (Co-op)",
+   "3 whole cloves",
+   "1/3 of a cinnamon stick (crush in hand)",
+   "3 whole black peppers (may omit)",
+   "4 c water",
+   "2 c washed Basmatti rice",
+   "pinch of turmeric",
+   "cooked Italian sausage"
+  ],
+  "directions": [
+   "1 sm. onion chopped, sm. amt oil & butter - cook til golden & add 1/2 tomato chopped.",
+   "4 Maggi chicken cubes (Co-op), 3 whole cloves, 1/3 of a cinnamon stick (crush in hand), 3 whole black peppers (may omit).",
+   "4 c water - to boil - add 2 c washed Basmatti rice - stir & add pinch of turmeric.",
+   "Turn to low - after 5 min. - add gently cooked Italian sausage.",
+   "Let cook down for about 12 min."
+  ],
+  "notes": [
+   "Header: 'Recipe for Basmatti Pilau re:' (attribution cut off at top right)",
+   "Written on folded sheet in black ink"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Recipe for Basmatti Pilau  re: [?]\n1 sm. onion chopped. -  } cook til golden\nsm. amt oil & butter.   } & add\n1/2 tomato chopped.  <-\n4 - Maggi chicken cubes (Co-op)\n3 whole cloves\n1/3 of a cinnamon stick - (crush in hand)\n3 whole black peppers (may omit)\n4 c water - to boil - add  } stir &\n2 c washed Basmatti rice   } add\npinch of turmeric\nturn to low - after 5 min. - add gently\ncooked Italian sausage.\nlet cook down for about 12 min.",
+  "confidence": "high"
+ },
+ {
+  "photo": 288,
+  "kind": "recipe",
+  "title": "Zucchini Casserole",
+  "attribution": null,
+  "category": "Vegetables & Sides",
+  "ingredients": [
+   "1 - 500 carton creamed cottage cheese",
+   "1 1/2 tsp. basil",
+   "1 tsp oregano",
+   "1 garlic clove crushed",
+   "1 c pitted olives - cut into wedges (can omit)",
+   "2 tbsp. butter",
+   "2 lbs. zucchini - cut diagonally 1/4\" thick (about 7 c)",
+   "1 med. onion cut into wedges",
+   "1/2 tsp. salt",
+   "1/4 c flour",
+   "2 tbsp. grated Parmesan cheese"
+  ],
+  "directions": [],
+  "notes": [
+   "Directions continue on back (photo 289)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Zucchini Casserole.\n1 - 500 carton creamed cottage cheese.\n1 1/2 tsp. - basil\n1 \" - oregano\n1 garlic clove crushed\n1 c pitted olives - cut into wedges. (can omit)\n2 tbsp. butter\n2 lbs. zucchini - cut diagonally 1/4\" thick (about 7 c)\n1 med. onion cut into wedges.\n1/2 tsp. salt.\n1/4 c flour  -  2 tbsp. grated Parmesan cheese.",
+  "confidence": "high"
+ },
+ {
+  "photo": 289,
+  "kind": "continuation",
+  "title": "Zucchini Casserole",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "Mix cottage cheese, basil, oregano, garlic & 1/2 olives - set aside.",
+   "Heat butter in skillet. Add zucchini & onion & saute over high heat about 5 min. or til tender-crisp.",
+   "Sprinkle c salt & flour. Mix in. Turn 1/2 into shallow 2 qt (2 L) baking dish. Spread cheese mixture over all.",
+   "Top c remaining zucchini. Sprinkle c parmesan cheese.",
+   "Bake uncovered @ 350° for 30 min. - 4-6 servings"
+  ],
+  "notes": [
+   "4-6 servings"
+  ],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Mix cottage cheese, basil, oregano, garlic & 1/2 olives -\nset aside.\n  Heat butter in skillet. Add zuccini & onion &\nsaute over high heat about 5 min. or til tender-crisp.\nSprinkle c salt & flour. mix in. Turn 1/2 into shallow\n2 qt - (2 L) baking dish. Spread cheese mixture over all.\nTop c remaining zucchini. Sprinkle c parmesan cheese.\nBake uncovered @ 350° for 30 min. -   4-6 servings",
+  "confidence": "high"
+ },
+ {
+  "photo": 290,
+  "kind": "recipe",
+  "title": "Zuccini Casserole",
+  "attribution": null,
+  "category": "Vegetables & Sides",
+  "ingredients": [
+   "zucchini, cut & S[?]",
+   "14 oz can tomatoes",
+   "1 chopped onion",
+   "1/4 cup Italian dressing",
+   "green pepper",
+   "celery",
+   "fresh tomatoes",
+   "salt & pepper",
+   "1 tsp oregano",
+   "grated cheese on top - variety of cheese"
+  ],
+  "directions": [
+   "Cut & S[?]",
+   "14 oz can tomatoes + 1 chopped onion. Saute - in 1/4 cup Italian dressing + green pepper. Saute celery first. - fresh tomatoes",
+   "Add salt + pepper + oregano (1 tsp)",
+   "Grated cheese on top - variety of cheese",
+   "350° oven for 1 hour"
+  ],
+  "notes": [
+   "Written in red ink, different (printed) handwriting - not Grandma's cursive",
+   "Title marked with asterisks: * Zuccini Casserole *",
+   "A word crossed out before 'grated cheese'",
+   "Right edge cut off ('green pepper', 'variety of cheese')"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "* Zuccini Casserole *\nCut + S[?]\n14 oz can tomatoes + 1 chopped onion\nSaute - in 1/4 cup Italian dressing + green pepper[cut off]\nSaute celery first. - fresh tomatoes\n\nadd salt + pepper + oregano (1 tsp)\n[crossed out] grated cheese on top - variety of cheese[cut off]\n\n350°F oven for 1 hour",
+  "confidence": "medium"
+ },
+ {
+  "photo": 291,
+  "kind": "recipe",
+  "title": "Zucchini in Cheese Sauce",
+  "attribution": "Pat Jeffrey",
+  "category": "Vegetables & Sides",
+  "ingredients": [
+   "1 to 1 1/2 quart zucchini",
+   "1 onion",
+   "1 green pepper",
+   "1 can cheddar cheese soup",
+   "1 can cream of mushroom"
+  ],
+  "directions": [
+   "Cut up zucchini & onion. Sauté. Add 1 can cheddar cheese soup & 1 can cream of mushroom.",
+   "Stir & simmer about 15 minutes.",
+   "Serves 10 to 12."
+  ],
+  "notes": [
+   "Serves 10 to 12",
+   "'Pat Jeffrey' written in pencil at top right corner",
+   "'1 green pepper' added in different (cursive) handwriting; rest of card is printed",
+   "'Sim' crossed out before 'Stir'"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "                                    Pat Jeffrey.\nZUCCHINI IN CHEESE SAUCE\n1 to 1 1/2 quart zucchini\n1 onion\n1 green pepper -\nCut up zucchini & onion. Sauté. Add 1 can\ncheddar cheese soup & 1 can cream of\nmushroom. ~~Sim~~ Stir & simmer about 15\nminutes.\nServes 10 to 12.",
+  "confidence": "high"
+ },
+ {
+  "photo": 292,
+  "kind": "recipe",
+  "title": "Herb Macaroni & Cheese",
+  "attribution": "Cathy",
+  "category": "Main Dishes",
+  "ingredients": [
+   "2 c uncooked macaroni",
+   "1/4 c butter",
+   "1/4 c flour",
+   "1 tsp. dry mustard",
+   "1 tsp garlic salt",
+   "1/2 tsp dry basil leaves (crushed)",
+   "1/2 tsp paprika",
+   "2 c milk",
+   "2 c shredded cheddar cheese",
+   "1/4 c dry bread or cornflake crumbs",
+   "1 tbsp. melted butter",
+   "chopped parsley"
+  ],
+  "directions": [
+   "Cook macaroni accord. to directions. Melt 1/4 c butter in med. saucepan. Blend in flour, mustard, salt, basil & paprika.",
+   "Grad. stir in milk. Cook & stir over med. heat till thickens.",
+   "Remove from heat. Add cheese - stir till melted. Stir in macaroni."
+  ],
+  "notes": [
+   "(Cathy)",
+   "Ingredients in two columns",
+   "Continues on back (photo 293)",
+   "Handwritten copy of the Creamette package recipe in photo 286"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Herb Macaroni & Cheese (Cathy)\n2 c uncooked macaroni           1/2 tsp paprika\n1/4 c butter                    2 c milk\n1/4 c flour                     2 c shredded cheddar cheese.\n1 tsp. dry mustard              1/4 c dry bread or cornflake crumbs\n1 \" garlic salt                 1 tbsp. melted butter\n1/2 \" dry basil leaves (crushed)   chopped parsley.\nCook macaroni accord. to directions. Melt 1/4 c butter in med.\nsaucepan. blend in flour, mustard, salt, basil & paprika.\nGrad. stir in milk. Cook & stir over med. heat till thickens.\nRemove from heat. Add cheese - stir till melted. stir in macaroni",
+  "confidence": "high"
+ },
+ {
+  "photo": 293,
+  "kind": "continuation",
+  "title": "Herb Macaroni & Cheese",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "Spoon into greased 1 1/2 qt. baking dish. Combine crumbs & melted butter, sprinkle over casserole.",
+   "Bake @ 350° for 20 min. or until hot. Garnish c parsley. Makes 6 servings."
+  ],
+  "notes": [
+   "Makes 6 servings"
+  ],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "spoon into greased 1 1/2 qt. baking dish. Combine crumbs, &\nmelted butter, sprinkle over casserole. Bake @ 350° for 20 min.\nor until hot. Garnish c parsley. Makes 6 servings.",
+  "confidence": "high"
+ },
+ {
+  "photo": 294,
+  "kind": "recipe",
+  "title": "Perogy Casserole",
+  "attribution": null,
+  "category": "Main Dishes",
+  "ingredients": [
+   "12 lasagne noodles",
+   "2 cups cottage cheese",
+   "1 egg",
+   "1/4 tsp. onion salt",
+   "1 c cheese - shred.",
+   "2 c mashed potato",
+   "1/4 tsp. salt",
+   "1/4 tsp. onion salt",
+   "1/8 tsp pepper",
+   "1/2 c butter or marg.",
+   "1 c chopped onions"
+  ],
+  "directions": [],
+  "notes": [
+   "over",
+   "Cottage cheese, egg & first onion salt bracketed together (one layer)",
+   "Butter/marg and chopped onions listed at right"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Perogy Casserole.\nLasagne noodles.    12.          Butter or marg.  1/2 c\nCottage cheese.     2 cups. }    Chopped onions   1 c\nEgg.                1.      }\nonion salt.         1/4 tsp. }\nCheese - shred.     1 c.\nMashed potato       2 c\nsalt                1/4 tsp.\nonion salt          1/4 tsp.\npepper              1/8 \"\n                                              over",
+  "confidence": "high"
+ },
+ {
+  "photo": 295,
+  "kind": "continuation",
+  "title": "Perogy Casserole",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "Cook noodles as directed. Drain. Line bottom of 9 x 13 pan.",
+   "In med. bowl mix cottage cheese, egg & onion salt tog. Spoon over noodles & spread. Cover c layer of noodles.",
+   "In same bowl, mix cheddar cheese c potato, salt, onion salt & pepper. Spread over noodles. Cover c layer of noodles.",
+   "Melt butter in fry pan. Sauté onions slowly till clear & soft. Pour over noodles. Cover. Bake 30 min in 350° oven.",
+   "Let stand 10 min ac cutting. Serve c sour cream."
+  ],
+  "notes": [
+   "Serve with sour cream",
+   "'ac cutting' = before cutting (medical shorthand a.c.)"
+  ],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Cook noodles as directed. Drain. Line bottom of\n9 x 13 - pan.\nIn med. bowl mix cottage cheese, egg & onion salt\ntog. Spoon over noodles & spread. Cover c layer of\nnoodles.\nIn same bowl. mix cheddar cheese c potato, salt,\nonion salt & pepper. Spread over noodles. Cover c\nlayer of noodles.\nMelt butter in fry pan. Sauté onions slowly till\nclear & soft. Pour over noodles. Cover. Bake 30 min in 350°\noven. Let stand. 10 min ac cutting. Serve c sour cream.",
+  "confidence": "high"
+ },
+ {
+  "photo": 296,
+  "kind": "recipe",
+  "title": "Chicken Angelica",
+  "attribution": null,
+  "category": "Main Dishes",
+  "ingredients": [
+   "4 slices of bacon cut in little pieces",
+   "chicken, cut in pieces",
+   "2 cloves of garlic",
+   "1 small onion chopped",
+   "brown rice, cooked",
+   "peach & pear halves",
+   "pineapple rings",
+   "toasted slivered almonds"
+  ],
+  "directions": [
+   "Cook 4 slices of bacon cut in little pieces.",
+   "Cut chicken in pieces, brown in frying pan c 2 cloves of garlic & 1 small onion chopped.",
+   "Cook brown rice & place around sides of casserole dish. Place cooked chicken in center of casserole dish.",
+   "Top c peach & pear halves & pineapple rings. Top c toasted slivered almonds.",
+   "Bake in 350° oven for 25 min."
+  ],
+  "notes": [
+   "Printed handwriting (not Grandma's cursive)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "CHICKEN ANGELICA\n- Cook 4 slices of bacon cut in little pieces\n- Cut chicken in pieces, Brown in frying pan c 2\ncloves of garlic & 1 small onion chopped.\n- Cook brown rice & place around sides of\ncasserole dish. Place cooked chicken in center\nof casserole dish. Top c peach & pear halves &\npineapple rings. Top c toasted slivered almonds\nbake in 350° oven for 25 min.",
+  "confidence": "high"
+ },
+ {
+  "photo": 297,
+  "kind": "recipe",
+  "title": "Baked Beans",
+  "attribution": null,
+  "category": "Vegetables & Sides",
+  "ingredients": [
+   "28 oz. tin beans",
+   "1/4 c. onions chopped",
+   "1/2 c. ketsup",
+   "1/3 c. brown sugar",
+   "1/2 c. water",
+   "2 tsp. dry mustard",
+   "4 or more weiners, cut up"
+  ],
+  "directions": [
+   "Cut up 4 or more weiners. Bake at 350°F. for 1 hour uncovered."
+  ],
+  "notes": [
+   "Written on a folded, stained sheet of paper",
+   "'dry' in dry mustard is underlined"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Baked Beans\n\n28 oz. tin Beans\n1/4 c. onions chopped\n1/2 c. ketsup\n1/3 c. brown sugar\n1/2 c. water\n2 tsp. dry mustard\n\ncut up 4 or more\nweiners. Bake at\n350°F. for 1 hour\nuncovered.",
+  "confidence": "high"
+ },
+ {
+  "photo": 298,
+  "kind": "recipe",
+  "title": "Ground Beef Casserole (Quick & easy)",
+  "attribution": null,
+  "category": "Main Dishes",
+  "ingredients": [
+   "1 1/2 lb. ground beef",
+   "1/2 cup onion",
+   "1 1/2 tsp salt",
+   "1/4 tsp pepper",
+   "1/2 lb. spaghetti",
+   "19 oz. canned tomatoes",
+   "1 can mushroom soup",
+   "1 c. grated cheddar cheese"
+  ],
+  "directions": [
+   "Brown beef & onion in fry pan. Sprinkle c salt & pepper - stir. Put in 2 qt casserole.",
+   "Break up spaghetti (for easier serving). Cook accord. to pkg. Drain. Layer over meat.",
+   "Break up lg. tomato chunks. Pour over top. Add soup. Cover c cheese. Bake uncovered 350 - 30 [min?]",
+   "Can cover 1/2 way thru if getting dry."
+  ],
+  "notes": [
+   "(Quick & easy)",
+   "Ingredients in left column, directions in right column",
+   "Bottom lines partly cut off by photo edge: 'can cover 1/2 way thru if getting dry' and 'Bake uncovered 350-30...'"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Ground Beef Casserole. (Quick & easy)\nGround beef   1 1/2 lb.      Brown beef & onion\nonion         1/2 cup.       in fry pan. sprinkle c\nsalt.         1 1/2 tsp      salt & pepper - stir. Put\npepper.       1/4 \"          in 2 qt casserole.\nspaghetti     1/2 lb.        Break up spaghetti (for\nCanned tomatoes  19 oz.      easier serving) Cook accord.\nmushroom soup.   1 can  }    to pkg. Drain. Layer over meat.\ngrated cheddar cheese  1 c. } Break up lg. tomato chunks.\n                             {Pour over top. - add soup. cover\ncan cover 1/2 way thru if getting dry   c cheese. Bake uncovered 350 - 30[cut off]",
+  "confidence": "medium"
+ },
+ {
+  "photo": 299,
+  "kind": "recipe",
+  "title": "Mom's Easy Bean Bake",
+  "attribution": null,
+  "category": "Vegetables & Sides",
+  "ingredients": [
+   "2 1/2 c dry great northern beans (about 1 lb.)",
+   "1 tsp salt",
+   "1 lb. sliced bacon, cooked & crumbled",
+   "1 c packed brown sugar",
+   "3 tbsp. molasses",
+   "3 sm. onions chopped"
+  ],
+  "directions": [
+   "Place beans & salt in pan, cover c H2O. Bring to a boil. Boil for 2 min. Remove from heat; cover & let stand 1 hr. Drain, reserve liquid.",
+   "Combine beans, 1 c liquid & remaining ingred. in a greased 2 1/2 qt. bk. dish. Cover & bake @ 350° for 1 1/4 hrs."
+  ],
+  "notes": [
+   "Continues on back (photo 300): '...or until beans are tender. Stir occasionally. Add additional reserved liquid if needed. 8-10 servings'",
+   "'beans' written above a crossed-out word"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Mom's Easy Bean Bake.\n2 1/2 c dry great northern beans (about 1 lb.).\n1 tsp salt\n1 lb. sliced bacon, cooked & crumbled.\n1 c packed brown sugar.\n3 tbsp. molasses.\n3 sm. onions chopped.\nPlace beans & salt in pan, cover c H2O. Bring to a boil. boil for\n2 min. Remove from heat; cover & let stand 1 hr. Drain,\nreserve liquid. Combine beans, 1 c liquid & remaining ingred.\nin a greased 2 1/2 qt. bk. dish. Cover & bake @ 350° for 1 1/4 hrs.",
+  "confidence": "high"
+ }
+]

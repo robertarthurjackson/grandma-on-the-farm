@@ -1,0 +1,535 @@
+[
+  {
+    "photo": 60,
+    "kind": "recipe",
+    "title": "Lime Punch",
+    "attribution": "Eveleth",
+    "category": "Beverages",
+    "ingredients": [
+      "2 lg. cans frozen lemonade",
+      "1 qt. gingerale",
+      "3 pkg lime Kool-Ade",
+      "1/2 c sugar",
+      "3 qts. water"
+    ],
+    "directions": [
+      "Combine all ingredients except gingerale - Refrigerate.",
+      "add gingerale just before serving."
+    ],
+    "notes": [
+      "Attribution in parentheses after title is faint/erased: (Eveleth?)",
+      "Left edge of card is cropped in photo; sugar quantity may be 1 1/2 c"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Lime Punch - (Eveleth[?])\n2 lg. cans frozen lemonade\n1 qt. gingerale\n3 pkg lime Kool-Ade.\n[1?] 1/2 c sugar\n3 qts. water\nCombine all ingredients except gingerale - Refrigerate\nadd gingerale just before serving.",
+    "confidence": "medium"
+  },
+  {
+    "photo": 61,
+    "kind": "recipe",
+    "title": "Yogurt Popsicles",
+    "attribution": "Pat. Jeffray",
+    "category": "Desserts & Sweets",
+    "ingredients": [
+      "Plain Yogurt",
+      "concentrated (frozen) orange juice"
+    ],
+    "directions": [
+      "Mix Plain Yogurt c concentrated (frozen) orange juice & freeze in popsicle molds."
+    ],
+    "notes": [],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Yogurt Popsicles (Pat. Jeffray)\nMix Plain Yogurt c concentrated (frozen)\norange juice & freeze in popsicle molds.",
+    "confidence": "high"
+  },
+  {
+    "photo": 62,
+    "kind": "recipe",
+    "title": "Swiss Mocha",
+    "attribution": null,
+    "category": "Beverages",
+    "ingredients": [
+      "1 c powdered instant coffee",
+      "2 c Nestles Quik",
+      "2 c Coffee mate",
+      "1/2 c sugar",
+      "1 tsp. cinnamon"
+    ],
+    "directions": [
+      "Mix ingred. tog. in a 4 c airtight container",
+      "add 1 tbsp. of mix to boiling water. Stir & enjoy"
+    ],
+    "notes": [
+      "Written on a printed 'RECIPE' card (Saffron illustration, Stylecraft 1981); 'from the kitchen of' line left blank"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "RECIPE                serves\nSwiss Mocha\n1 c powdered instant coffee.\n2 c Nestles Quik\n2 c Coffee mate\n1/2 c. sugar\n1 tsp. cinnamon\nMix ingred. tog. in a 4 c airtight container\nadd 1 tbsp. of mix to boiling water. Stir & enjoy\nfrom the kitchen of\nSAFFRON 75-909  (c) 1981 STYLECRAFT, BALTIMORE, MD. 21230 PRINTED IN U.S.A.",
+    "confidence": "high"
+  },
+  {
+    "photo": 63,
+    "kind": "recipe",
+    "title": "Irish Cream",
+    "attribution": null,
+    "category": "Beverages",
+    "ingredients": [
+      "1 pt. whipping cream",
+      "2 eggs",
+      "1 tsp. instant coffee",
+      "1 c sweetened condensed milk",
+      "1 tsp. instant chocolate",
+      "1 1/2 c whisky"
+    ],
+    "directions": [
+      "Blend all ingredients except whisky. When well blended add whisky & blend again. Keep refrig.",
+      "yields 12 servings & is best served over ice."
+    ],
+    "notes": [
+      "Yields 12 servings",
+      "Written on a printed 'RECIPE' card (Saffron illustration, Stylecraft 1981); 'from the kitchen of' line left blank"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "RECIPE Irish Cream.\n1 pt. whipping cream.        serves\n2 eggs\n1 tsp. instant coffee.\n1 c sweetened condensed milk\n1 tsp. instant chocolate\n1 1/2 c whisky\nBlend all ingredients except whisky. When well\nblended add whisky & blend again. Keep refrig.\nyields 12 servings & is best served over ice.\nfrom the kitchen of\nSAFFRON 75-909  (c) 1981 STYLECRAFT, BALTIMORE, MD. 21230 PRINTED IN U.S.A.",
+    "confidence": "high"
+  },
+  {
+    "photo": 64,
+    "kind": "recipe",
+    "title": "Kahlua",
+    "attribution": "Cathy",
+    "category": "Beverages",
+    "ingredients": [
+      "3 c H2O",
+      "3 tbsp. instant coffee (powder)",
+      "3 c sugar",
+      "1 c H2O",
+      "1 c sugar",
+      "1 - 26 oz. liquor (rye, rum, vodka not gin)",
+      "vanilla bean (cut into 1/3rds or split lengthwise)"
+    ],
+    "directions": [
+      "3 c H2O, 3 tbsp. instant coffee (powder), 3 c sugar - Boil 5 min.",
+      "1 c H2O, 1 c sugar - Raise to boil then combine c 1st sugar H2O mixture & allow to cool.",
+      "1-26 oz. liquor (rye, rum, vodka not gin). add liquor to cool sugar water.",
+      "Drop in vanilla bean (cut into 1/3rds or split lengthwise) Cap"
+    ],
+    "notes": [
+      "(dbl for gallon)",
+      "Continues on back (photo 065)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Kahlua.  (dbl for gallon)  Cathy\n3 c H2O\n3 tbsp. instant coffee (powder)\n3 c sugar\nBoil 5 min.\n1 c H2O\n1 c sugar\nRaise to boil then combine c 1st sugar H2O mixture\n& allow to cool.  1-26 oz. liquor (rye, rum, vodka\nnot gin). add liquor to cool sugar water. Drop\nin vanilla bean. (cut into 1/3rds or split lengthwise) Cap",
+    "confidence": "high"
+  },
+  {
+    "photo": 65,
+    "kind": "continuation",
+    "title": "Kahlua",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "bottle (gal. jug) & sit 14 days or longer."
+    ],
+    "notes": [
+      "Back of the Kahlua card (photo 064); completes the sentence 'Cap bottle (gal. jug) & sit 14 days or longer.'"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "bottle (gal. jug & sit 14 days or longer.",
+    "confidence": "high"
+  },
+  {
+    "photo": 66,
+    "kind": "recipe",
+    "title": "Russian Spiced Tea",
+    "attribution": null,
+    "category": "Beverages",
+    "ingredients": [
+      "2 c tang",
+      "1 1/2 - 2 c sugar",
+      "1 c Co-op iced tea mix, or instant tea c 1 c lemon crystals",
+      "1 tsp. pwd. cloves",
+      "1 tsp. pwd. cinnamon"
+    ],
+    "directions": [
+      "Use 2-3 tsps. in 1 c hot H2O."
+    ],
+    "notes": [
+      "'Bev 7.' written top right (category/index label)",
+      "Photo 067 is a duplicate photo of this same card"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Bev 7.\nRussian Spiced Tea.\n2 c tang\n1 1/2 - 2 c sugar.\n1 c Co-op iced tea mix.  or instant tea c 1 c lemon\n                                              crystals.\n1 tsp. pwd. cloves.\n1 \" \" cinnamon\nUse 2-3 tsps. in 1 c hot H2O.",
+    "confidence": "high"
+  },
+  {
+    "photo": 67,
+    "kind": "recipe",
+    "title": "Russian Spiced Tea",
+    "attribution": null,
+    "category": "Beverages",
+    "ingredients": [
+      "2 c tang",
+      "1 1/2 - 2 c sugar",
+      "1 c Co-op iced tea mix, or instant tea c 1 c lemon crystals",
+      "1 tsp. pwd. cloves",
+      "1 tsp. pwd. cinnamon"
+    ],
+    "directions": [
+      "Use 2-3 tsps. in 1 c hot H2O."
+    ],
+    "notes": [
+      "'Bev 7.' written top right (category/index label)",
+      "DUPLICATE: same card as photo 066, photographed again (slightly wider framing)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Bev 7.\nRussian Spiced Tea.\n2 c tang\n1 1/2 - 2 c sugar.\n1 c Co-op iced tea mix.  or instant tea c 1 c lemon\n                                              crystals.\n1 tsp. pwd. cloves.\n1 \" \" cinnamon\nUse 2-3 tsps. in 1 c hot H2O.",
+    "confidence": "high"
+  },
+  {
+    "photo": 68,
+    "kind": "recipe",
+    "title": "Vodka Slush",
+    "attribution": "Doreen Strong",
+    "category": "Beverages",
+    "ingredients": [
+      "1 1/2 c sugar",
+      "7 c water",
+      "1 lg. frozen orange juice",
+      "1 lg. frozen lemonade",
+      "1 - 26 oz. Vodka"
+    ],
+    "directions": [
+      "1 1/2 c sugar, 7 c water - bring to boil - cool.",
+      "add 1 lg. frozen orange juice, 1 lg. frozen lemonade, 1 - 26 oz. Vodka",
+      "Mix well & store in gal. container in freezer.",
+      "To serve - put 2 tbsp. in glass - add Sprite, light - to fill. or Tom Collins, Lemon Lime, Ginger ale"
+    ],
+    "notes": [
+      "Right edge of card is cropped in photo (attribution 'Doreen Strong' and 'Ginger ale' run off edge)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Vodka Slush - Doreen Strong\n1 1/2 c sugar\n7 c water\nbring to boil - cool.\nadd 1 lg. frozen orange juice\n\"   1  \"   \"   lemonade\n1 - 26 oz. Vodka\nMix well & store in gal. container in\nfreezer.\nTo serve - put 2 tbsp. in glass - add Sprite,\nlight - to fill.  or Tom Collins, Lemon Lime, Ginger\n                                                    ale",
+    "confidence": "high"
+  },
+  {
+    "photo": 69,
+    "kind": "recipe",
+    "title": "Booze Slush",
+    "attribution": "Betty",
+    "category": "Beverages",
+    "ingredients": [
+      "6 c water",
+      "1 c sugar",
+      "6-8 bananas (strawberries)",
+      "1 - 48 oz pineapple juice",
+      "1 lg can frozen O.J. concentrate",
+      "1 sm. can frozen pink lemonade",
+      "1 - 26 oz gin",
+      "1 - 26 oz vodka"
+    ],
+    "directions": [
+      "6 c water, 1 c sugar - Boil until dissolved (~5 mins then cool) then add: 6-8 bananas (strawberries), 1-48 oz pineapple juice, 1 lg can frozen O.J. concentrate, 1 sm. can frozen pink lemonade, 1-26 oz gin, 1-26 oz vodka."
+    ],
+    "notes": [
+      "'Betty' written top right",
+      "'(~5 mins then cool)' added in different ink",
+      "Card written in a different (printed) hand than Grandma's cursive"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Betty\nBooze Slush\n6 c water   } Boil until dissolved then\n1 c sugar   } add: (~5 mins then cool)\n6-8 bananas (strawberries)\n1-48 oz pineapple juice\n1 lg can frozen O.J. concentrate\n1 sm. can frozen pink lemonade\n1-26 oz gin\n1-26 oz vodka.",
+    "confidence": "high"
+  },
+  {
+    "photo": 70,
+    "kind": "recipe",
+    "title": "Nice Drink",
+    "attribution": null,
+    "category": "Beverages",
+    "ingredients": [
+      "Iced tea - Good Host",
+      "peach crystals"
+    ],
+    "directions": [
+      "Mix 3 - iced tea to 2 - peach crystals - add ice -"
+    ],
+    "notes": [
+      "Written in pencil"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Nice Drink\nIced tea    Good host\n  -         peach crystal\nMix 3 - iced tea to\n    2 - peach crystals - add ice -",
+    "confidence": "high"
+  },
+  {
+    "photo": 71,
+    "kind": "recipe",
+    "title": "Fruit Glo Punch",
+    "attribution": "Lyla McKenzie, Airdrie",
+    "category": "Beverages",
+    "ingredients": [
+      "1 - 6 oz. frozen orange juice",
+      "1 - 6 oz. frozen lemonade",
+      "1 - 48 oz. apple juice - chilled",
+      "3 - 28 oz. ginger ale",
+      "1 pt. lemon or orange sherbet",
+      "pineapple juice (frozen into ice cubes, 2 trays)"
+    ],
+    "directions": [
+      "add 3 - 28 oz. ginger ale.",
+      "- add 1 pt. lemon or orange sherbet",
+      "- can freeze pineapple juice into ice cubes & add 2 trays."
+    ],
+    "notes": [
+      "Very good.",
+      "Top right: '[used at?] Kim Hansen's shower' (first line cut off at top of photo)",
+      "'lemon' underlined in 'lemon or orange sherbet'",
+      "'juice' inserted above 'pineapple' with a caret"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "[...?] Kim Hansen's shower\nFruit Glo Punch.        (From Lyla McKenzie - Airdrie)\n1 - 6 oz. Frozen orange juice\n1 - 6 oz.   \"    lemonade.\n1 - 48 oz. apple juice - chilled          Very good.\nadd 3 - 28 oz. ginger ale.\n- add 1 pt. lemon or orange sherbet\n- can freeze pineapple ^juice into ice cubes & add 2 trays.",
+    "confidence": "high"
+  },
+  {
+    "photo": 72,
+    "kind": "recipe",
+    "title": "Festive Punch",
+    "attribution": "Mary Ann",
+    "category": "Beverages",
+    "ingredients": [
+      "3 oz strawberry Jello",
+      "1/2 c sugar",
+      "2 c boiling H2O",
+      "10 oz pk frozen strawberries (425 gr.)",
+      "6 oz frozen lemonade",
+      "2 c cold H2O",
+      "candy canes (small)"
+    ],
+    "directions": [
+      "Dissolve jello & sugar in boiling H2O. add strawberries, lemonade & cold H2O.",
+      "freeze - serve c 7 up & a candy cane in ea. glass."
+    ],
+    "notes": [
+      "re Mary Ann"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Festive Punch -    re Mary Ann.\n3 oz strawberry Jello\n1/2 c sugar\n2 c boiling H2O\n10 oz pk frozen strawberries (425 gr.)\n6 oz frozen lemonade\n2 c cold H2O\ncandy canes (small)\nDissolve jello & sugar in boiling H2O. add\nstrawberries, lemonade & cold H2O.\nfreeze - serve c 7 up & a candy cane in ea. glass.",
+    "confidence": "high"
+  },
+  {
+    "photo": 73,
+    "kind": "non-recipe",
+    "title": "Helen Gillam's Cleansing Diet",
+    "attribution": "Helen Gillam",
+    "category": "Household Hints & Remedies",
+    "ingredients": [
+      "2 tbsp. lime juice (lemon crossed out)",
+      "2 tbsp. maple syrup",
+      "1/10 tsp. cayenne pepper",
+      "8 oz. water"
+    ],
+    "directions": [
+      "drink 6-8 glasses a day.",
+      "laxative in AM & PM. for 10 days.",
+      "11th day - pure orange juice",
+      "12th day - orange juice & a light soup.",
+      "13th day - regular diet."
+    ],
+    "notes": [
+      "'lemon' crossed out and 'lime juice' written above in pencil",
+      "Margin note top right: 'could drink on fast days Wed & Fri' (partly cut off)",
+      "- see note over - (continues on photo 074)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Helen Gillam's Cleansing diet  { could drink on fast days Wed & Fri[?]\n          lime juice\n2 tbsp. ~~lemon~~ juice        1/10 tsp. cayenne pepper\n2  \"    maple syrup.           8 oz. water.\n\ndrink 6-8 glasses a day.\nlaxative in AM & PM. for 10 days.\n11th day - pure orange juice\n12th day - orange juice & a light soup.\n13th day - regular diet.\n                        - see note over -",
+    "confidence": "high"
+  },
+  {
+    "photo": 74,
+    "kind": "continuation",
+    "title": "Helen Gillam's Cleansing Diet",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [],
+    "notes": [
+      "Helen's cholesterol levels were elevated - after this diet cholesterol - was low.",
+      "- Helen's Dr - delighted c whatever she was doing.",
+      "Back of photo 073 card ('see note over')"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Helen's cholesterol levels were elevated\n- after this diet cholesterol - was low.\n- Helen's Dr - delighted c whatever she was\n                                        doing.",
+    "confidence": "high"
+  },
+  {
+    "photo": 75,
+    "kind": "recipe",
+    "title": "Lemon Cordial",
+    "attribution": "MAD.",
+    "category": "Beverages",
+    "ingredients": [
+      "12 c Sugar",
+      "12 c Water",
+      "12 Lemons - squeeze & remove pulp",
+      "4 Tbsp citric acid",
+      "grated peel of 2-3 lemons"
+    ],
+    "directions": [
+      "12 c Sugar, 12 c Water - Bring to boil until clear",
+      "12 Lemons - squeeze & remove pulp.",
+      "4 Tbsp - citric acid",
+      "- grate 2-3 lemons & add peel to above.",
+      "Put together. store in fridge in bottles",
+      "Dilute 1:4 for use"
+    ],
+    "notes": [
+      "'MAD.' written top right (initials, possibly the source)",
+      "Written in printed hand, not Grandma's cursive"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "LEMON CORDIAL          MAD.\n12 c Sugar  } Bring to boil\n12 c Water  }   until clear\n12 Lemons - squeeze & remove pulp.\n4 Tbsp - citric acid\n        - grate 2-3 lemons & add peel\n          to above.\nPut together. store in fridge in bottles\n    Dilute 1:4 for use",
+    "confidence": "high"
+  },
+  {
+    "photo": 76,
+    "kind": "recipe",
+    "title": null,
+    "attribution": null,
+    "category": "Beverages",
+    "ingredients": [
+      "Iced tea",
+      "Peach crystals",
+      "ice cubes"
+    ],
+    "directions": [
+      "Iced tea mixed c Peach crystals - makes a good tasting drink add ice cubes."
+    ],
+    "notes": [
+      "Untitled note; same idea as 'Nice Drink' (photo 070)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Iced tea mixed c Peach crystals -\n  makes a good tasting drink add ice cubes.",
+    "confidence": "high"
+  },
+  {
+    "photo": 77,
+    "kind": "clipping",
+    "title": "Hot Cran-Apple Drink",
+    "attribution": null,
+    "category": "Beverages",
+    "ingredients": [
+      "2 cups Cran-Apple juice (500 mL)",
+      "1 cup water (250 mL)",
+      "1 cup unsweetened pineapple juice (250 mL)",
+      "1 Tbsp. honey (15 mL)",
+      "4 whole allspice berries",
+      "2 whole cloves",
+      "1/2 cinnamon stick"
+    ],
+    "directions": [
+      "Combine all ingredients in a sauce pan. Bring to a boil, reduce heat and simmer for 15 minutes. Strain and serve or pour into thermos.",
+      "Makes 4 servings."
+    ],
+    "notes": [
+      "Whole allspice berries are found in the spice section.",
+      "Makes 4 servings",
+      "Newspaper clipping taped to a lined card"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "HOT CRAN-APPLE DRINK\nWhole allspice berries are found in the spice section.\n2 cups   Cran-Apple juice                500 mL\n1 cup    water                           250 mL\n1 cup    unsweetened pineapple juice     250 mL\n1 Tbsp.  honey                            15 mL\n4        whole allspice berries              4\n2        whole cloves                        2\n1/2      cinnamon stick                    1/2\nCombine all ingredients in a sauce pan. Bring to a boil, reduce heat and\nsimmer for 15 minutes. Strain and serve or pour into thermos.\nMakes 4 servings.",
+    "confidence": "high"
+  },
+  {
+    "photo": 78,
+    "kind": "recipe",
+    "title": "Orange Julius",
+    "attribution": null,
+    "category": "Beverages",
+    "ingredients": [
+      "1 c H2O",
+      "1 c milk",
+      "1 - 6 oz. can frozen O.J.",
+      "2 tbsp. sugar",
+      "1 tsp. vanilla",
+      "2 eggs",
+      "10-12 ice cubes"
+    ],
+    "directions": [
+      "Put all ingred in blender & whirl."
+    ],
+    "notes": [
+      "Written on a torn/creased slip of paper"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Orange Julius\n1 c H2O\n1 c milk\n1-6 oz. can frozen O.J.\n2 tbsp. sugar.\n1 tsp. vanilla\n2 eggs\n10-12 ice cubes\nPut all ingred in blender\n& whirl.",
+    "confidence": "high"
+  },
+  {
+    "photo": 79,
+    "kind": "recipe",
+    "title": "Graduation Punch",
+    "attribution": "Jean Kelso",
+    "category": "Beverages",
+    "ingredients": [
+      "4 c Pineapple Juice",
+      "4 c Lemonade",
+      "4 c orange juice",
+      "4 c orange pop",
+      "8 c ginger ale",
+      "Fresh orange slices",
+      "Fresh strawberries",
+      "optional - 2 - 26 oz. vodka"
+    ],
+    "directions": [
+      "Mix tog. add ginger ale last",
+      "Float orange/straw. on top."
+    ],
+    "notes": [
+      "serves 30",
+      "Written on a RE/MAX real estate (mountain view) ltd. notepad sheet, #333, 4935 - 40th ave. n.w., calgary, alberta T3A 2N1, printed name 'jean kelso', bus: (403) 247-5171 res: (403) 239-1089",
+      "Attribution inferred from the printed notepad name"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "RE/MAX real estate (mountain view) ltd.\n#333, 4935 - 40th ave. n.w., calgary, alberta T3A 2N1\nGraduation Punch\n4 c Pineapple Juice\n4 c Lemonade\n4 c orange juice\n4 c   \"   pop.\n8 c ginger ale.\nFresh orange slices.\n  \"   strawberries\noptional - 2 - 26 oz. vodka.\nMix tog. - add ginger ale last\nFloat orange/straw. on top.\n                    serves 30\njean kelso\nbus: (403) 247-5171   res: (403) 239-1089",
+    "confidence": "high"
+  }
+]

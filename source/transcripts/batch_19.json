@@ -1,0 +1,556 @@
+[
+ {
+  "photo": 380,
+  "kind": "recipe",
+  "title": "BBQ Salmon - Westcoast Style",
+  "attribution": null,
+  "category": "Main Dishes",
+  "ingredients": [
+   "2 1/2 lbs salmon steaks",
+   "1/2 cup oil",
+   "2 lrg garlic cloves",
+   "1/4 tsp pepper",
+   "2 tbsp brown sugar",
+   "2 tbsp soya sauce",
+   "1/2 tsp salt",
+   "1/4 cup rye whiskey"
+  ],
+  "directions": [],
+  "notes": [
+   "Written on a Hawaiian-shirt-shaped note paper (Island Heritage); directions continue on next photo (back of note)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "ISLAND HERITAGE [printed label on shirt-shaped notepaper]\nBBQ Salmon - Westcoast Style\n2 1/2 lbs salmon steaks\n1/2 cup oil\n2 lrg garlic cloves\n1/4 tsp pepper\n2 tbsp brown sugar\n2 tbsp Soya Sauce\n1/2 tsp salt\n1/4 cup rye whiskey",
+  "confidence": "high"
+ },
+ {
+  "photo": 381,
+  "kind": "continuation",
+  "title": "BBQ Salmon - Westcoast Style",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "Combine ingredients and pour over fish and leave for 2 hrs.",
+   "BBQ 3-4 min/side.",
+   "Brush c marinade while cooking."
+  ],
+  "notes": [],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Combine ingredients and\npour over fish and leave\nfor 2 hrs. BBQ 3-4\nmin/side. Brush c\nmarinade while cooking.",
+  "confidence": "high"
+ },
+ {
+  "photo": 382,
+  "kind": "recipe",
+  "title": "Shrimp Pate",
+  "attribution": "Deanna Dillabaugh",
+  "category": "Main Dishes",
+  "ingredients": [
+   "1 large cream cheese (softened)",
+   "1 can shrimp, chopped up (or can use fresh)",
+   "1/2 tin tomato soup",
+   "green onion chopped",
+   "1 pkg Knox unflavored gelatin"
+  ],
+  "directions": [
+   "Chop up 1 can shrimp (or can use fresh).",
+   "Dissolve 1 pkg Knox unflavored gelatin c tiny bit of water in pan.",
+   "Mix altogether & set in refrigerator."
+  ],
+  "notes": [
+   "Deanna Dillabaugh, Oct 1981",
+   "'tiny' is double-underlined"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "SHRIMP PATE\n1 large cream cheese (softened)\nchop up 1 can shrimp (or can use fresh)\n1/2 tin tomatoe soup\ngreen onion chopped\n\ndissolve 1 pkg Knox unflavored gelatin c\ntiny bit of water in pan.\n\nmix altogether & set in refridgerate)\n(Deanna Dillabaugh Oct 1981)",
+  "confidence": "high"
+ },
+ {
+  "photo": 383,
+  "kind": "recipe",
+  "title": "Salmon - broiled",
+  "attribution": "Margaret & Allan",
+  "category": "Main Dishes",
+  "ingredients": [
+   "1 whole salmon (fillet), deboned",
+   "garlic salt",
+   "seasoned salt",
+   "seasoned pepper",
+   "Mayonnaise (not Miracle Whip)",
+   "dill weed"
+  ],
+  "directions": [
+   "Debone a whole salmon (fillet) - open on a cookie sheet - skin side down.",
+   "Sprinkle garlic salt, seasoned salt, seasoned pepper.",
+   "Coat c Mayo - sprinkle c dill weed.",
+   "Place under broiler - 2nd rack down from top till golden."
+  ],
+  "notes": [
+   "re: Margaret & Allan",
+   "very good",
+   "open door every few minutes (written sideways in margin)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Salmon - broiled  re: Margaret & Allan.   very good\nDebone a whole salmon (fillet)\n- open on a cookie sheet - skin side down\n- garlic salt   }\n  seasoned \"    } sprinkle\n     \"   pepper }\n\nMayonnaise (not Miracle Whip)\nCoat c Mayo -\n- sprinkle c dill weed -\nplace under broiler - 2nd rack down from top till golden\n[sideways in right margin:] open door every few minutes",
+  "confidence": "high"
+ },
+ {
+  "photo": 384,
+  "kind": "recipe",
+  "title": "Salmon Party Pattee",
+  "attribution": null,
+  "category": "Main Dishes",
+  "ingredients": [
+   "1/2 cup chopped, blanched almonds (brown in fry pan 1st)",
+   "2 cans, drained - 7 3/4 oz salmon",
+   "1/3 cup chopped green stuffed olives c pimento",
+   "2 pkgs cream cheese (125 gr each)",
+   "3 tbsp mayonnaise"
+  ],
+  "directions": [
+   "Mix well.",
+   "Reserve some olives for top.",
+   "Use a mold (ring) & if pan is metal, put saran wrap 1st & press it down.",
+   "Then put mixture in & refrigerate to \"set\" a little.",
+   "Can be done the day before.",
+   "Serve on crackers.",
+   "Enjoy!!"
+  ],
+  "notes": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Salmon Party Pattée\n1/2 cup chopped, blanched almonds  (Brown in fry pan 1st)\n2 cans, drained, - 7 3/4 oz. salmon\n1/3 cup chopped green stuffed olives c pimento   } mix\n2 pkgs. cream cheese (125 gr. each)               } well.\n3 TBSP. Mayonnaise\nReserve some olives for top.\nUse a mold (ring) & if pan is metal, put saran\nwrap 1st & press it down. Then put mixture\nin & refrigerate to \"set\" a little. Can be done\nthe day before. Serve on crackers.\n- Enjoy!!",
+  "confidence": "high"
+ },
+ {
+  "photo": 385,
+  "kind": "recipe",
+  "title": "Prawn & Noodle Casserole",
+  "attribution": "Mary Ann",
+  "category": "Main Dishes",
+  "ingredients": [
+   "250 gr fine fresh egg noodles or pasta spirals or shells",
+   "2 sticks celery - chopped lengthwise 2\" pcs",
+   "1 lg carrot, chopped fine sticks",
+   "1 lg onion, chopped (red)",
+   "125 g snow peas",
+   "500 g cooked prawns (shelled) or other shell fish or",
+   "— Honey Drsg (combine in jar - shake well) —",
+   "1/2 c light soya sauce (China Lily)",
+   "1/2 c water",
+   "2 tbsp honey",
+   "2 tbsp chopped fresh coriander",
+   "1 clove garlic crushed"
+  ],
+  "directions": [
+   "Honey Drsg: combine in jar - shake well."
+  ],
+  "notes": [
+   "V.G.",
+   "re: Mary Ann",
+   "over"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "V.G.\nPrawn & Noodle Casserole  re: Mary Ann\n250 gr. fine fresh egg noodles or pasta spirals or shells.\n2 sticks celery - chopped lengthwise 2\" pcs.\n1 lg. carrot    \"    fine sticks\n1 \" onion      \"    (red).\n125 g. snow peas.\n500 g. cooked prawns (shelled) or other shell fish or\nHoney Drsg. <--> combine in jar - shake well.\n1/2 c light soya sauce (China Lily)\n1/2 c water                                over\n2 tbsp. honey.  2 tbsp. chopped fresh coriander. 1 clove garlic crushed",
+  "confidence": "high"
+ },
+ {
+  "photo": 386,
+  "kind": "continuation",
+  "title": "Prawn & Noodle Casserole",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "Add noodles to boiling water - boil till tender - drain & rinse under cold H2O - drain again. (if long noodles cut in 1/2) -",
+   "Boil, steam or micro veggies till just tender - rinse under cold H2O. (can add sm bits of broccoli, red, green pepper but not necessary)",
+   "Just at serving, combine prawns, noodles, & veggies in bowl - top c drsg."
+  ],
+  "notes": [],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "add noodles to boiling water - boil till tender - drain\n& rinse under cold H2O - drain again.\n-(if long noodles cut in 1/2) -\nboil, steam or micro veggies till just tender - rinse\nunder cold H2O. -(can add sm. bits of broccoli, red, green pepper.\n                    but not necessary)\nJust at serving. combine. Prawns, noodles, & veggies\nin bowl - top c drsg.",
+  "confidence": "high"
+ },
+ {
+  "photo": 387,
+  "kind": "recipe",
+  "title": "Covered Dish Tuna Casserole",
+  "attribution": "Mother's Cook Book",
+  "category": "Main Dishes",
+  "ingredients": [
+   "1 c chopped onion (1/3 c)",
+   "2 tbsp butter (3/4 tbsp)",
+   "3 cans cream of celery soup (1 can)",
+   "1 1/2 c milk (1/2 c)",
+   "salt & pepper to taste",
+   "3 (7 oz) cans tuna (1 can) (drained & flaked)",
+   "1 (10 oz) pkg frozen peas (3.2 oz) cooked & drained",
+   "4 c cooked noodles (6 oz uncooked) (2 oz)"
+  ],
+  "directions": [
+   "Cook onion & butter in frying pan til tender.",
+   "Blend milk & soup.",
+   "Stir in onions, tuna, peas & noodles.",
+   "Bake @"
+  ],
+  "notes": [
+   "mothers cook Book (top right)",
+   "Reduced quantities written in parentheses (recipe cut into thirds)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "mothers cook Book\nCovered Dish Tuna Casserole\n1 c chopped onion (1/3 c)\n2 tbsp butter (3/4 tbsp)\n3 cans cream of celery soup (1 can)\n1 1/2 c milk (1/2 c)      salt & pepper to taste\n3 (7 oz) cans tuna (1 can) (drained & flaked)\n1 (10 oz) pkg frozen peas (3.2 oz) cooked & drained\n4 c cooked noodles (6 oz. uncooked) (2 oz)\nCook onion & butter in frying pan\ntil tender. Blend milk & soup. Stir in\nonions, tuna, peas & noodles. Bake @",
+  "confidence": "high"
+ },
+ {
+  "photo": 388,
+  "kind": "continuation",
+  "title": "Covered Dish Tuna Casserole",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "350° x 1/2 hr. - may top c buttered crumbs (1/4 c).",
+   "Put into 3 qt casserole or 13x9\" baking dish.",
+   "Try c chicken flakes and fettuchini noodles.",
+   "Recipe will cut into thirds easily for smaller portions."
+  ],
+  "notes": [],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "350° x 1/2 hr. - may top c buttered crumbs\nPut into 3 qt casserole ^1/4 c or 13x9\"\nbaking dish.\nTry c chicken flakes and\nfetuchini noodles.\nRecipe will cut into thirds\neasily for smaller portions",
+  "confidence": "high"
+ },
+ {
+  "photo": 389,
+  "kind": "recipe",
+  "title": "Tuna Slice",
+  "attribution": "Mary Ann in Australia",
+  "category": "Main Dishes",
+  "ingredients": [
+   "4 oz Ritz crackers (crushed)",
+   "4 oz grated cheddar cheese",
+   "425 gm can tuna (drained)",
+   "1 c milk",
+   "1 onion chopped fine",
+   "salt & pepper",
+   "3 eggs"
+  ],
+  "directions": [
+   "Combine biscuits, cheese, tuna, onion, salt & pepper."
+  ],
+  "notes": [
+   "from Mary Ann in Australia",
+   "over"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Tuna Slice - from Mary Ann in Australia\n4 oz Ritz crackers (crushed)\n4 oz grated cheddar cheese.\n425 gm. can. Tuna (drained)\n1 c milk\n1 onion chopped fine\nsalt & pepper\n3 eggs.\nCombine biscuits, cheese, tuna, onion salt & pepper.\n                                              over",
+  "confidence": "high"
+ },
+ {
+  "photo": 390,
+  "kind": "continuation",
+  "title": "Tuna Slice",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "Lightly beat eggs, add milk & mix well.",
+   "Pour into greased lamington pan 7\"x11\" & bake in mod. oven for 45 min or until set on top."
+  ],
+  "notes": [
+   "Note - May need 2 cans of tuna - check # of gm in a tin."
+  ],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Lightly beat eggs, add milk & mix well. Pour\ninto greased lamington pan 7\"x11\" & bake in mod.\noven for 45 min or until set on top\n\nNote - May need 2 cans of tuna - ✓ # of gm. in a tin.",
+  "confidence": "high"
+ },
+ {
+  "photo": 391,
+  "kind": "recipe",
+  "title": "High Fibre Salmon Casserole",
+  "attribution": "Ruth",
+  "category": "Main Dishes",
+  "ingredients": [
+   "1 small onion",
+   "1 carrot",
+   "1 celery",
+   "1 tbsp marg",
+   "— add to above —",
+   "1 egg",
+   "1 pepper (red or green)",
+   "1 tin corn",
+   "1 1/2 c brown rice - cooked",
+   "1 tin salmon (whole tin)",
+   "1 tbsp ketchup",
+   "1/2 c shredded cheese (on top)"
+  ],
+  "directions": [
+   "Microwave: onion, carrot, celery, marg - cook on high covered for 5 min.",
+   "Add to above: egg, pepper, corn, brown rice, salmon, ketchup.",
+   "Put 1/2 c shredded cheese on top & cook on high for 8 min uncovered."
+  ],
+  "notes": [
+   "microwave",
+   "re Ruth"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "microwave:\nHigh Fibre Salmon Casserole. (re Ruth)\n1 small onion  }\n1 carrot       } cook on high covered for 5 min.\n1 celery.      }\n1 tbsp. marg.  }\nadd to above!\n1 egg                       1 1/2 c brown rice - cooked.\n1 pepper (red or green)     1 tin salmon (whole tin)\n1 tin corn                  1 tbsp. ketchup.\nPut 1/2 c shredded cheese on top & cook on high for 8 min.\n                                              uncovered.",
+  "confidence": "high"
+ },
+ {
+  "photo": 392,
+  "kind": "recipe",
+  "title": "Barbecue Fish",
+  "attribution": "our Joe",
+  "category": "Main Dishes",
+  "ingredients": [
+   "onions - from garden (green onions) - lay whole on fish",
+   "dill - sprinkle",
+   "butter",
+   "pepper"
+  ],
+  "directions": [
+   "Put all above c fish in foil & barbecue."
+  ],
+  "notes": [
+   "Re: our Joe"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Barbecue Fish  (Re. our Joe)\nonions - from garden (green onions)\n       - lay whole on fish\ndill - sprinkle\nbutter -\nPepper -\n\nPut all above c fish in foil & barbecue",
+  "confidence": "high"
+ },
+ {
+  "photo": 393,
+  "kind": "clipping",
+  "title": "Seafood Stuffed Tomatoes",
+  "attribution": "Safeway (Courtesy of Fisheries and Oceans)",
+  "category": "Main Dishes",
+  "ingredients": [
+   "1 package (200 g/7 oz) crabmeat, OR",
+   "1 package (350 g/12.3 oz) frozen fish fillets*",
+   "4 large tomatoes",
+   "200 mL (3/4 cup) skim milk cottage cheese",
+   "125 mL (1/2 cup) chopped celery",
+   "25 mL (2 Tbsp) chopped green onion",
+   "15 mL (1 Tbsp) calorie-reduced salad dressing",
+   "2 mL (1/2 tsp) salt",
+   "Dash pepper",
+   "1 mL (1/4 tsp) tarragon",
+   "25 mL (2 Tbsp) chopped parsley"
+  ],
+  "directions": [
+   "Drain crab and remove any bits of shell or cartilage OR cook and flake fish.",
+   "Slice top off the tomatoes. Scoop out and discard the pulp. Invert to drain.",
+   "Combine the crab or fish with remaining ingredients and fill each tomato with seafood mixture.",
+   "Makes 4 servings."
+  ],
+  "notes": [
+   "* or cod, haddock, Boston bluefish, turbot, orange roughy",
+   "Courtesy of Fisheries and Oceans",
+   "Safeway - Canada Safeway Limited"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "SEAFOOD STUFFED TOMATOES\n1 package (200 g/7 oz) crabmeat, OR\n1 package (350 g/12.3 oz) frozen fish fillets*\n4 large tomatoes\n200 mL (3/4 cup) skim milk cottage cheese\n125 mL (1/2 cup) chopped celery\n25 mL (2 Tbsp) chopped green onion\n15 mL (1 Tbsp) calorie-reduced salad dressing\n2 mL (1/2 tsp) salt\nDash pepper\n1 mL (1/4 tsp) tarragon\n25 mL (2 Tbsp) chopped parsley\n\nDrain crab and remove any bits of shell or cartilage OR cook and flake fish. Slice top off the tomatoes. Scoop out and discard the pulp. Invert to drain. Combine the crab or fish with remaining ingredients and fill each tomato with seafood mixture.\nMakes 4 servings.\n\n* or cod, haddock, Boston bluefish, turbot, orange roughy\nCourtesy of Fisheries and Oceans\nSAFEWAY - CANADA SAFEWAY LIMITED",
+  "confidence": "high"
+ },
+ {
+  "photo": 394,
+  "kind": "recipe",
+  "title": "Fish Soup",
+  "attribution": "Ukrainian cook book",
+  "category": "Soups & Salads",
+  "ingredients": [
+   "7-8 c water",
+   "1 med onion chopped",
+   "2 stalks celery, diced",
+   "1 sm parsley root, diced",
+   "1 sm carrot, diced",
+   "1/2 bay leaf",
+   "2 peppercorns",
+   "1 tsp salt",
+   "2-3 lbs white-fleshed fish",
+   "salt & pepper",
+   "chopped parsley"
+  ],
+  "directions": [
+   "Put water, vegetables, spices & salt into kettle, bring to boil, & simmer till almost tender.",
+   "Clean & wash the fish, but leave skin & bones. Cut into serving portions.",
+   "Simmer"
+  ],
+  "notes": [
+   "Ukrainian cook book"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Fish Soup.        Ukrainian cook book.\n7-8 c water                  2 peppercorns\n1 med. onion chopped.        1 tsp. salt.\n2 stalks celery, diced       2-3 lbs. white-fleshed fish\n1 sm. parsley root, diced    salt & pepper\n1 sm. carrot, diced          chopped parsley\n1/2 bay leaf.\nPut water, vegetables, spices & salt into kettle, bring to boil,\n& simmer till almost tender. Clean & wash the fish, but\nleave skin & bones. cut into serving portions. Simmer",
+  "confidence": "high"
+ },
+ {
+  "photo": 395,
+  "kind": "continuation",
+  "title": "Fish Soup",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "the fish c the vegetables for about 20 min.",
+   "Remove the fish.",
+   "Strain soup through a sieve lined c 2 thickness of cheesecloth.",
+   "Season to taste c salt & pepper.",
+   "Keep it hot"
+  ],
+  "notes": [],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "the fish c the vegetables for about 20 min. Remove the\nfish. Strain soup through a sieve lined c 2 thickness\nof cheesecloth. Season to taste c salt & pepper. Keep it hot",
+  "confidence": "high"
+ },
+ {
+  "photo": 396,
+  "kind": "recipe",
+  "title": "Wild West Salmon",
+  "attribution": null,
+  "category": "Main Dishes",
+  "ingredients": [
+   "1 whole salmon, deboned",
+   "— Marinade (mix well) —",
+   "1 tbsp brown sugar",
+   "1/2 c rye whiskey",
+   "1 tbsp molasses",
+   "2 tbsp soy sauce",
+   "1 tbsp ea salt & pepper",
+   "2 garlic cloves minced"
+  ],
+  "directions": [
+   "Debone a whole salmon - place down in a dish & marinate overnight.",
+   "Marinade: mix well."
+  ],
+  "notes": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Wild West Salmon.-\nDebone - a whole salmon.-\nplace down in a dish & marinate overnight\nMarinade: mix well.\n1 tbsp. brown sugar\n1/2 c rye whiskey\n1 tbsp. molasses.\n2 tbsp. soy sauce\n1 \" ea. salt & pepper\n2 garlic cloves minced.",
+  "confidence": "high"
+ },
+ {
+  "photo": 397,
+  "kind": "recipe",
+  "title": "BBQ Salmon Westcoast Style",
+  "attribution": "Peter",
+  "category": "Main Dishes",
+  "ingredients": [
+   "about 2 1/2 lbs salmon",
+   "1/2 c oil",
+   "2 tbsp soya sauce",
+   "2 lg cloves garlic",
+   "1/2 tsp salt",
+   "1/4 tsp pepper",
+   "1/4 c rye whisky",
+   "2 tbsp brown sugar"
+  ],
+  "directions": [
+   "Combine ingredients. Pour over fish & leave for 2 hours.",
+   "BBQ 3-4 min/side.",
+   "Brush c marinade while cooking."
+  ],
+  "notes": [
+   "Re: Peter"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Re: Peter\nBBQ Salmon.    Westcoast Style\nabout 2 1/2 lbs salmon\n1/2 c oil                Combine Ingredients\n2 tbsp. soya sauce       Pour over fish & leave\n2 lg. cloves garlic      for 2 hours.\n1/2 tsp. salt            BBQ 3-4 min./side.\n1/4 \" pepper             brush c marinade\n1/4 c rye whisky         while cooking.\n2 tbsp. brown sugar.",
+  "confidence": "high"
+ },
+ {
+  "photo": 398,
+  "kind": "recipe",
+  "title": "BBQ Salmon Westcoast Style",
+  "attribution": null,
+  "category": "Main Dishes",
+  "ingredients": [
+   "2 1/2 lbs salmon",
+   "1/2 cup oil",
+   "2 Tbsp soya sauce",
+   "2 lrg cloves garlic",
+   "1/2 tsp salt",
+   "1/4 tsp pepper",
+   "1/4 cup rye whiskey",
+   "2 Tbsp brown sugar"
+  ],
+  "directions": [
+   "Combine ingredients. Pour over fish & leave for 2 hrs.",
+   "BBQ 3-4 min/side.",
+   "Brush c sauce while cooking."
+  ],
+  "notes": [
+   "Third copy of this recipe in different handwriting"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "BBQ SALMON    WESTCOAST STYLE\n2 1/2 lbs salmon.\n1/2 cup oil               Combine ingredients\n2 Tbsp. Soya Sauce.       Pour over fish & leave\n2 Lrg. cloves garlic      for 2 hrs.\n1/2 tsp. salt             BBQ 3-4 min /side\n1/4 tsp pepper            brush c sauce\n1/4 cup rye whiskey       while cooking.\n2 Tbsp. brown sugar.",
+  "confidence": "high"
+ },
+ {
+  "photo": 399,
+  "kind": "recipe",
+  "title": "BBQ Salmon West Coast Style",
+  "attribution": "Marg",
+  "category": "Main Dishes",
+  "ingredients": [
+   "2 1/2 lbs salmon",
+   "1/2 c oil",
+   "2 tbsp soya sauce",
+   "2 lg cloves garlic",
+   "1/2 tsp salt",
+   "1/4 tsp pepper",
+   "1/4 c rye whiskey",
+   "2 tbsp br. sugar"
+  ],
+  "directions": [
+   "Combine ingred. Pour over fish & leave for 2 hrs.",
+   "BBQ 3-4 min/side.",
+   "Brush c sauce while cooking.",
+   "* Cut salmon into steaks *"
+  ],
+  "notes": [
+   "re: Marg",
+   "* Cut salmon into steaks * (starred note at bottom)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "re: Marg.\nBBQ Salmon.    West Coast style\n2 1/2 lbs salmon\n1/2 c oil                Combine ingred. Pour over\n2 tbsp. soya sauce       fish & leave for 2 hrs.\n2 lg cloves garlic       BBQ 3-4 min./side.\n1/2 tsp. salt            brush c sauce while cooking\n1/4 \" pepper\n1/4 c rye whiskey\n2 tbsp. br. sugar.\n*\nCut salmon into steaks *",
+  "confidence": "high"
+ }
+]

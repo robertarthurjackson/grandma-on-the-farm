@@ -1,0 +1,601 @@
+[
+  {
+    "photo": 420,
+    "kind": "recipe",
+    "title": "Ham & Cheese Ball",
+    "attribution": "Joyce Caves (brought to)",
+    "category": "Other",
+    "ingredients": [
+      "8 oz cream cheese",
+      "1/4 c mayonnaise",
+      "2 - 8 oz tins Burns flaked ham",
+      "2 tbsp chopped parsley",
+      "1 tsp minced onion",
+      "1/4 tsp dry mustard",
+      "1/4 tsp tabasco",
+      "1/2 c chop. walnuts"
+    ],
+    "directions": [],
+    "notes": [
+      "V.G.",
+      "(brought to Joyce Caves) — written sideways in right margin",
+      "continues on back (photo 421)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Ham & Cheese Ball.\nV.G.\n8 oz cream cheese\n1/4 c mayonnaise\n2 - 8 oz tins Burns flaked ham\n2 tbsp. chopped parsley\n1 tsp. minced onion\n1/4 \" dry mustard\n1/4 \" tabasco\n1/2 c chop. walnuts -\n(sideways, right margin:) (brought to Joyce Caves)",
+    "confidence": "high"
+  },
+  {
+    "photo": 421,
+    "kind": "continuation",
+    "title": "Ham & Cheese Ball",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Beat cheese & mayo till smooth",
+      "stir in next 5 ingred.",
+      "Cover & chill several hrs.",
+      "Form into 2 med. size balls.",
+      "roll in nuts to coat",
+      "& freezes well.",
+      "Can put red cherries on top."
+    ],
+    "notes": [
+      "freezes well",
+      "Can put red cherries on top"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Beat cheese & mayo\ntill smooth\nstir in next 5 ingred.\nCover & chill several hrs.\nForm into 2 - med. size\nballs.\nroll in nuts to coat\n& freezes well.\nCan put red cherries on top.",
+    "confidence": "high"
+  },
+  {
+    "photo": 422,
+    "kind": "recipe",
+    "title": "Polynesian Mushrooms",
+    "attribution": null,
+    "category": "Vegetables & Sides",
+    "ingredients": [
+      "18 med. mushrooms",
+      "1/4 c marg.",
+      "1/4 tsp or 1 clove garlic (pwd or minced)",
+      "3/4 c shredded Monterey Jack cheese",
+      "mushroom stems",
+      "2 tbsp milk",
+      "1 tsp soya sauce",
+      "1/2 c bread crumbs"
+    ],
+    "directions": [],
+    "notes": [
+      "No directions on this side; card written in red ink"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Polynesian Mushrooms\n18 med. mushrooms.\n1/4 c marg.\n1/4 tsp or 1 clove garlic (pwd or minced)\n3/4 c shredded monterey jack cheese.\nmushroom stems\nmilk          2 tbsp.\nsoya sauce.   1 tsp.\nbread crumbs. 1/2 c",
+    "confidence": "high"
+  },
+  {
+    "photo": 423,
+    "kind": "non-recipe",
+    "title": "MEATS (divider tab)",
+    "attribution": null,
+    "category": "Other",
+    "ingredients": [],
+    "directions": [],
+    "notes": [
+      "Blank recipe-box divider card with yellow tab labelled MEATS"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "MEATS",
+    "confidence": "high"
+  },
+  {
+    "photo": 424,
+    "kind": "recipe",
+    "title": "Ham Sauce",
+    "attribution": "Madam Davis",
+    "category": "Preserves, Pickles & Sauces",
+    "ingredients": [
+      "1 cup sugar",
+      "2 eggs",
+      "2/3 cup vinegar",
+      "salt",
+      "2 dessertspoons dry mustard"
+    ],
+    "directions": [
+      "Beat eggs, mix sugar, mustard & salt.",
+      "Add vinegar.",
+      "Mix well & cook in double boiler."
+    ],
+    "notes": [],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Ham Sauce          (Madam Davis)\n1 cup sugar\n2 eggs\n2/3 cup vinegar , salt.-\n2 dessertspoons dry mustard\nBeat eggs, mix sugar, mustard & salt. Add\nvinegar. Mix well & cook in double boiler.",
+    "confidence": "high"
+  },
+  {
+    "photo": 425,
+    "kind": "recipe",
+    "title": "Turkey or Chicken Pot Pie (Betty Crocker)",
+    "attribution": "Betty Crocker; re Cathy or Jennifer",
+    "category": "Main Dishes",
+    "ingredients": [
+      "1 lg onion chop. or 3 med leeks",
+      "1 c sl. fresh mushrooms",
+      "3/4 c sliced celery",
+      "1/2 c chopped sweet red pepper",
+      "2 tbsp marg. or butter",
+      "1/3 c flour",
+      "1 tsp poultry seasoning",
+      "1/4 tsp pepper",
+      "1 1/2 c chicken broth",
+      "1 c 1/2 & 1/2 cream or milk",
+      "2 1/2 c chopped cooked chicken",
+      "1 c frz. peas",
+      "1 beaten egg",
+      "1/4 tsp salt",
+      "pastry for top"
+    ],
+    "directions": [
+      "In lg pan cook onions, mushrooms, celery & sweet pepper in hot butter 4-5 min - tender.",
+      "stir in flour, poultry seas., pepper, salt, add broth & 1/2 & 1/2 all at once.",
+      "cook & stir till thick & bubbling, stir in chicken & peas.",
+      "pour into 2 qt rectangular dish - pastry over mixture - brush pastry c egg",
+      "bake uncovered 400° oven 30-35 min."
+    ],
+    "notes": [
+      "V.G.",
+      "re Cathy or Jennifer",
+      "written in pencil on folded lined paper; 'add' written in blue ink"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Betty Crocker.   Turkey or Chicken\n                 pot pie\n                            V.G.\n                            re Cathy\n                            or Jennifer\n1 lg onion 3 med Leeks.\n     chop.\n1 c sl. fresh mushrooms\n3/4 c sliced celery\n1/2 c chopped sweet red pepper -\n2 tbsp marg. or butter\n1/3 c flour -\n1 tsp poultry seasoning\n1/4 tsp pepper\n1 1/2 c chicken broth.\n1 c 1/2 1/2 cream or milk\n2 1/2 c chopped cooked chicken\n1 c frz. peas.\n1 beaten egg.      1/4 tsp salt\n- pastry for top.\nIn lg pan cook onions mushrooms celery\n& sweet pepper in hot butter. 4-5 min -\n                                    tender\nstir in flour poultry seas, pepper, salt, add.\nbroth & 1/2 & 1/2 all at once.\ncook & stir till thick & bubbling, stir in\nchicken & peas. - pour into 2 qt rectangular\ndish - pastry over mixture - brush pastry c egg\nbake uncovered 400° oven 30-35 min.",
+    "confidence": "high"
+  },
+  {
+    "photo": 426,
+    "kind": "recipe",
+    "title": "Baked Liver",
+    "attribution": "Irma W.",
+    "category": "Main Dishes",
+    "ingredients": [
+      "bacon",
+      "sliced liver",
+      "salt / pepper",
+      "sliced onions"
+    ],
+    "directions": [
+      "line sm. roaster c bacon.",
+      "cover c sliced liver.",
+      "season c salt/pepper.",
+      "Cover c sliced onions ++",
+      "Cover c bacon.",
+      "Bake @ 350° - 30 min."
+    ],
+    "notes": [
+      "(M) liked.",
+      "re Irma W"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Baked liver - re Irma W\nline sm. roaster c bacon.\ncover c sliced liver.\nseason c salt/pepper.\nCover c sliced onions ++\nCover c bacon.\nBake @ 350° - 30 min.\n(M) liked.",
+    "confidence": "high"
+  },
+  {
+    "photo": 427,
+    "kind": "recipe",
+    "title": "Summer Meat Loaf",
+    "attribution": "Ma Recipe",
+    "category": "Main Dishes",
+    "ingredients": [
+      "1/2 c Pepperidge Farm stuffing (Uncle Ben's)",
+      "1 med. onion chop.",
+      "4 sprigs parsley chop.",
+      "1/2 c bouillon (tins beef bouillon)",
+      "1 lb ground beef",
+      "3 tbsp grated Parmesan",
+      "1 egg",
+      "1 tsp salt",
+      "1/4 tsp pepper",
+      "2 tbsp marg.",
+      "1 can (8 oz) tomato sauce",
+      "1 tsp oregano"
+    ],
+    "directions": [
+      "Sauté onion. Mix stuffing & bouillon.",
+      "Combine in a mixing bowl c ground beef, chopped parsley, Parmesan cheese, slightly beaten egg, salt & pepper.",
+      "Mix well & place in baking dish - dot c marg. & bake 30 min in mod. oven 375°.",
+      "Now pour tomato sauce over meat, sprinkle c oregano & bake 20 min. longer.",
+      "serves 4-6"
+    ],
+    "notes": [
+      "(Ma Recipe)",
+      "serves 4-6",
+      "written in pencil on spiral notebook paper"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Summer Meat Loaf. (Ma Recipe)\n1/2 c Pepperidge farm stuffing (Uncle Ben's)\n1 med. onion chop.\n4 sprigs parsley \"\n1/2 c bouillon        (tins beef bouillon)\n1 lb ground beef.\n3 tbsp grated Parmesan\n1 egg\n1 tsp. salt.\n1/4 \" pepper\n2 tbsp. marg.\n1 can (8 oz) tomato sauce.\n1 tsp. oregano.\nSauté onion. Mix stuffing & bouillon\nCombine in a mixing bowl c ground\nbeef, chopped parsley, Parmesan cheese,\nslightly beaten egg, salt & pepper. Mix\nwell & place in baking dish. - dot c marg.\n& bake 30 min in mod. oven 375°. Now\npour tomato sauce over meat, sprinkle c\noregano & bake 20 min. longer. serves\n                                    4-6",
+    "confidence": "high"
+  },
+  {
+    "photo": 428,
+    "kind": "recipe",
+    "title": "Beef Short Ribs",
+    "attribution": "Ruth",
+    "category": "Main Dishes",
+    "ingredients": [
+      "beef short ribs",
+      "salt & pepper",
+      "2 med onions",
+      "2 tsp beef bouillon",
+      "1/2 tsp liquid gravy browner",
+      "1 1/2 c warm H2O",
+      "Bull's-eye barbecue sauce (added)"
+    ],
+    "directions": [
+      "sprinkle c salt & pepper",
+      "lay 2 med onions in bottom of slow cooker",
+      "Put ribs on top of onions",
+      "Pour mixture on - cook in slow cooker."
+    ],
+    "notes": [
+      "V.G.",
+      "re Ruth",
+      "added Bull's-eye barbecue sauce"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Beef short ribs.    V.G.    (re Ruth)\nsprinkle c salt & pepper\nlay 2 med onions in bottom of slow cooker\n2 tsp. beef bouillon\n1/2 \" liquid gravy browner\n1 1/2 c warm H2O\n                    added Bulls eye barbecue sauce.\nPut ribs on top of onions\n- Pour mixture on -   cook in slow cooker.",
+    "confidence": "high"
+  },
+  {
+    "photo": 429,
+    "kind": "recipe",
+    "title": "Chili",
+    "attribution": "Gord's Mom's recipe",
+    "category": "Main Dishes",
+    "ingredients": [
+      "1 lb. ground beef",
+      "1 lg. onion",
+      "1 med. can tomatoes",
+      "1 sm. can Libby's kidney beans",
+      "1-2 green peppers",
+      "fresh pepper & small amt cayenne pepper",
+      "2-3 tsp. chili powder",
+      "2 tbsp. lemon juice",
+      "1 tbsp brown sugar",
+      "few fresh mushrooms",
+      "1-2 cloves garlic"
+    ],
+    "directions": [
+      "Brown meat, onion & garlic - add rest of ingredients",
+      "let simmer 1 hour - add salt only before serving",
+      "Freezes well."
+    ],
+    "notes": [
+      "Freezes well",
+      "(Gord's Mom's recipe)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Chili  (Gord's Moms recipe)\n1 lb. ground beef            2-3 tsp. chili powder\n1 lg. onion                  2 tbsp. lemon juice\n1 med. can tomatoes          1 \" brown sugar\n1 sm. can Libby's Kidney Beans   few fresh mushrooms\n1-2 green peppers            1-2 cloves garlic\nfresh pepper & small amt cayenne pepper.\nBrown meat, onion & garlic - add rest of ingredients\nlet simmer 1 hour - add salt only before serving\n                              Freezes well.",
+    "confidence": "high"
+  },
+  {
+    "photo": 430,
+    "kind": "recipe",
+    "title": "Dilled Meatballs",
+    "attribution": "Jennifer P.",
+    "category": "Main Dishes",
+    "ingredients": [
+      "1 1/2 lb. lean ground beef",
+      "3/4 c quick oats, uncooked",
+      "1 egg",
+      "1 tsp. salt",
+      "1/4 tsp pepper",
+      "2 1/2 tsp. dill weed",
+      "2 tbsp. salad oil",
+      "1 c water",
+      "1 beef flavor bouillon cube",
+      "1 c sour cream"
+    ],
+    "directions": [
+      "Mix beef, oats, egg, salt, pepper, add 1/2 tsp dill.",
+      "Form mixture into 1\" meatballs.",
+      "In fry pan - heat oil. - Cook meat balls a few @ a time"
+    ],
+    "notes": [
+      "printed 'Recipe: / from the kitchen of: / Yield:' card with sunflower border",
+      "continues on back (photo 431)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Recipe: Dilled Meatballs                 Yield:\nfrom the kitchen of: Jennifer P.\n1 1/2 lb. lean ground beef.        2 1/2 tsp. dill weed.\n3/4 c quick oats, uncooked.        2 tbsp. salad oil\n1 egg                              1 c water\n1 tsp. salt.                       1 beef flavor bouillon cube.\n1/4 \" pepper.                      1 c sour cream ..\nMix beef, oats, egg, salt, pepper, add 1/2 tsp dill. Form mixture\ninto 1\" meatballs. In fry pan - heat oil. - Cook meat balls a few @ a time",
+    "confidence": "high"
+  },
+  {
+    "photo": 431,
+    "kind": "continuation",
+    "title": "Dilled Meatballs",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "- brown well. - remove to a lg. bowl.",
+      "- When all are browned, pour off remaining oil in skillet.",
+      "Return meatballs to fry pan & simmer about 15 min stir frequent.",
+      "Stir in sour cream & 2 tsp of dill weed to the meatballs & liquid - heat but do not boil."
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "- brown well. - remove to a lg. bowl. - When all are browned,\npour off remaining oil in skillet. Return meatballs to fry pan &\nsimmer about 15 min stir frequent. Stir in sour cream & 2 tsp\nof dillweed to the meatballs & liquid - heat but do not boil.",
+    "confidence": "high"
+  },
+  {
+    "photo": 432,
+    "kind": "recipe",
+    "title": "Barbecued Spare Ribs",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "1 minced onion",
+      "2 tbsp. brown sugar",
+      "1/4 c vinegar",
+      "1 c tomato soup",
+      "1/2 tsp. dry mustard",
+      "1 tsp. salt",
+      "1/2 c diced apple or celery",
+      "1/2 c water",
+      "3 lbs. spareribs"
+    ],
+    "directions": [
+      "Mix together & pour over 3 lbs. spareribs, which have been browned.",
+      "cover & bake in slow oven for 2 hrs. (or on top of stove on low heat.",
+      "- When cooked remove ribs & thicken sauce for gravy."
+    ],
+    "notes": [
+      "N.B. The above sauce is V.G. over browned steak & then cook slowly."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Barbecued Spare Ribs\n1 minced onion          1/2 tsp. dry mustard\n2 tbsp. brown sugar     1 tsp. salt.\n1/4 c vinegar           1/2 c diced apple or celery\n1 c tomato soup.        1/2 c water\nMix together & pour over 3 lbs. spareribs, which have\nbeen browned. cover & bake in slow oven for 2 hrs.\n(or on top of stove on ↓ heat. - When cooked remove\nribs & thicken sauce for gravy.\nN.B. The above sauce is V.G. over browned steak.\n& then cook slowly.",
+    "confidence": "high"
+  },
+  {
+    "photo": 433,
+    "kind": "recipe",
+    "title": "BBQ Spareribs",
+    "attribution": "Salmon Arm Paper",
+    "category": "Main Dishes",
+    "ingredients": [
+      "2 lbs. spareribs (1 kg)",
+      "2 tsp white vinegar (30 ml)",
+      "2 tsp honey (30 ml)",
+      "1 tsp dry sherry (15 ml)",
+      "1 tsp brown sugar (5 ml)",
+      "2 tsp chicken stock (30 ml)",
+      "1/3 c soya sauce (75 ml)",
+      "1 clove garlic"
+    ],
+    "directions": [
+      "Mix all ingred. together. Pour over ribs. - Marinate over night.",
+      "- Ribs rack - oven 375° - 45 min. - baste - 450° for 15 min. to crisp & brown"
+    ],
+    "notes": [
+      "(Salmon Arm Paper)",
+      "note: 2 tsp is written but 30 ml is given — likely tbsp intended"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "BBQ Spareribs                    (Salmon Arm Paper)\n2 lbs. spareribs (1 Kg)\n2 tsp white vinegar (30 ml)\n2 \" honey.            \"\n1 \" dry sherry.       15 ml.\n1 \" brown sugar.      5 \"\n2 \" chicken stock     30 \"\n1/3 c soya sauce.     75 \"\n1 clove garlic\nMix all ingred. together. Pour over ribs. - Marinate over night.\n- Ribs rack - oven 375° - 45 min. - baste - 450° for 15 min. to crisp & brown",
+    "confidence": "high"
+  },
+  {
+    "photo": 434,
+    "kind": "recipe",
+    "title": "Sweet & Sour Spareribs",
+    "attribution": "Toni Tompkins",
+    "category": "Main Dishes",
+    "ingredients": [
+      "2 lbs ribs cut - pcs.",
+      "3/4 c white sugar",
+      "1/2 c vinegar",
+      "2 tbsp. soya sauce",
+      "2 tbsp ketchup",
+      "1 tsp. salt",
+      "2 c water",
+      "2 tbsp. corn starch"
+    ],
+    "directions": [
+      "Brown ribs - put in pot - add other ingred. - When ribs done - approx 1 hour - add 2 tbsp. corn starch.",
+      "Recipe can be dbld."
+    ],
+    "notes": [
+      "Recipe can be dbld."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Sweet & Sour Spareribs        (Toni Tompkins)\n2 lbs ribs cut - pcs.\n3/4 c white sugar\n1/2 c vinegar\n2 tbsp. soya sauce.\n2 \" ketchup.\n1 tsp. salt\n2 c water\nBrown ribs - put in pot - add other ingred. - When ribs done\n- approx 1 hour - add 2 tbsp. corn starch.\n                    Recipe can be dbld.",
+    "confidence": "high"
+  },
+  {
+    "photo": 435,
+    "kind": "recipe",
+    "title": "Barbequed Spare Ribs",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "4 # spare ribs",
+      "1 c. sliced onion",
+      "1 c Katchup",
+      "1 c water",
+      "2 t salt",
+      "2 T Worchester sauce",
+      "1/4 c viniger",
+      "1/4 c brown sugar",
+      "2 t dry mostard",
+      "1 t paprica"
+    ],
+    "directions": [
+      "Brown ribs in frying pan.",
+      "Combine other ingredients & add to ribs.",
+      "Simmer on top of stove or in oven 2 1/2 - 3 hours."
+    ],
+    "notes": [
+      "different handwriting (printed); spellings 'Katchup', 'viniger', 'mostard', 'paprica', 'Worchester' as written"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Barbequed Spare Ribs.\n4 # spare ribs           1/4 c viniger\n1 c. sliced onion.       1/4 c brown sugar\n1 c Katchup.             2 t dry mostard.\n1 c water                1 t paprica.\n2 t salt\n2 T Worchester sauce\nBrown ribs in frying pan. Combine other\ningredients & add to ribs. Simmer on top\nof stove or in oven 2 1/2 - 3 hours.",
+    "confidence": "high"
+  },
+  {
+    "photo": 436,
+    "kind": "clipping",
+    "title": "Tortière",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "6 slices bacon, cut into 1/4\" (1 cm) pieces (6)",
+      "1 lb. ground pork (500 g)",
+      "1/2 lb. lean ground beef (250 g)",
+      "1 small onion, finely chopped (1)",
+      "1/2 cup boiling water (125 mL)",
+      "1 clove garlic, minced (optional) (1)",
+      "1 1/2 tsps. salt (7 mL)",
+      "1/4 tsp. black pepper (1 mL)",
+      "1/4 tsp. celery salt (1 mL)",
+      "1/4 tsp. sage (1 mL)",
+      "Pinch ground cloves",
+      "1 cup mashed potatoes (250 mL)",
+      "Pastry for double crust pie"
+    ],
+    "directions": [
+      "In a frying pan, fry bacon over moderate heat until cooked but not crisp.",
+      "Add pork, beef and onion; cook until meat is lightly browned.",
+      "Add water and spices; reduce heat to simmer; cover pan and cook 45 minutes more.",
+      "Combine meat with mashed potatoes; cool slightly.",
+      "Meanwhile, line a 9-inch (20 cm) deep dish pie plate with pastry; fill with meat mixture.",
+      "Place top crust in position. Seal and flute edges, slash several times to vent.",
+      "Bake in hot oven 450° F (220° C) for 10-12 minutes. Reduce heat to 350° F (180° C) and bake 30 minutes longer.",
+      "Makes 5 or 6 servings."
+    ],
+    "notes": [
+      "(Shown on Front Cover)",
+      "Excellent served with baked beans and pickled beets",
+      "printed clipping (magazine/booklet); right edge cut off, some words inferred; bottom of left column partly cut off"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "TORTIÈRE (Shown on Front Cover)\nExcellent served with baked beans and pickled beets\n6            slices bacon, cut into 1/4\" (1 cm) pieces        6\n1 lb.        ground pork                                       500 g\n1/2 lb.      lean ground beef                                  250 g\n1            small onion, finely chopped                       1\n1/2 cup      boiling water                                     125 mL\n1            clove garlic, minced (optional)                   1\n1 1/2 tsps.  salt                                              7 mL\n1/4 tsp.     black pepper                                      1 mL\n1/4 tsp.     celery salt                                       1 mL\n1/4 tsp.     sage                                              1 mL\nPinch        ground cloves                                     Pinch\n1 cup        mashed potatoes                                   250 mL\n             Pastry for double crust pie\nIn a frying pan, fry bacon over moderate heat until cooked but not crisp. Add pork, beef and onion; cook until meat is lightly browned. Add water and spices; reduce heat to simmer; cover pan and cook 45 minutes more. Combine meat with mashed potatoes; cool slightly. Meanwhile, line a 9-inch (20 cm) deep dish pie plate wit[h] pastry; fill with meat mixture. Place top crust in position. Sea[l] and flute edges, slash sever[al] times to vent.\nBake in hot oven 450° F (220[°] C) for 10-12 minutes. Reduc[e] heat to 350° F (180° C) an[d] bake 30 minutes longer.\nMakes 5 or 6 servings.",
+    "confidence": "high"
+  },
+  {
+    "photo": 437,
+    "kind": "recipe",
+    "title": "Liver Steaks",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "1 lb beef liver slices",
+      "1 tsp. salt",
+      "1 tbsp water",
+      "2 tbsp fat",
+      "1 egg",
+      "1 tbsp lemon juice",
+      "1 c cracker crumbs"
+    ],
+    "directions": [
+      "Beat egg, add salt, lemon juice & water.",
+      "Dip liver slices into this & then cracker crumbs.",
+      "Brown in hot fat."
+    ],
+    "notes": [],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Liver Steaks :\n1 lb beef liver slices        1 egg\n1 tsp. salt.                  1 tbsp lemon juice\n1 tbsp water                  1 c cracker crumbs\n2 \" fat\nBeat egg, add salt, lemon juice & water. Dip liver\nslices into this & then cracker crumbs. Brown in\nhot fat.",
+    "confidence": "high"
+  },
+  {
+    "photo": 438,
+    "kind": "recipe",
+    "title": "Roast Beef / Turkey or Chicken (basting tips)",
+    "attribution": "re Sid Pawlowski - from Mme Benoit",
+    "category": "Main Dishes",
+    "ingredients": [
+      "— Roast beef —",
+      "prepared mustard",
+      "— Turkey or Chicken —",
+      "1 tsp honey - 1/2 c water (dil. honey water)",
+      "or 1 c mustard & 1 tbsp honey"
+    ],
+    "directions": [
+      "Roast beef - smear c prepared mustard",
+      "Turkey or Chicken - baste c dil. honey water. 1 tsp - 1/2 c water. - forms a skin.",
+      "- or 1 c mustard & 1 tbsp honey."
+    ],
+    "notes": [
+      "re Sid Pawlowski - from Mme Benoit",
+      "two short tips on one card (roast beef; turkey or chicken)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": true,
+    "raw_text": "                    re Sid Pawlowski\n                    - from Mme Benoit. -\nRoast beef - smear c prepared mustard\n\nTurkey or Chicken - baste c dil. honey water.\n                    1 tsp - 1/2 c water. - forms a skin.\n          - or 1 c mustard & 1 tbsp honey.",
+    "confidence": "high"
+  },
+  {
+    "photo": 439,
+    "kind": "clipping",
+    "title": "Lamb Shish Kabobs",
+    "attribution": "McCormick Recipe Card Collection",
+    "category": "Main Dishes",
+    "ingredients": [
+      "1/3 cup olive oil",
+      "3 tbsp white wine vinegar",
+      "2 tbsp lemon juice",
+      "1 tbsp McCormick Lemon & Pepper Seasoning",
+      "1 clove garlic, minced",
+      "2 lb boneless lean lamb, cut into 1-inch pieces",
+      "3 medium zucchini",
+      "1 large red pepper"
+    ],
+    "directions": [
+      "In shallow glass dish, combine oil, vinegar, lemon juice, McCormick Lemon & Pepper Seasoning and garlic. Stir in lamb. Cover and refrigerate several hours or overnight, turning once.",
+      "Cut zucchini and red pepper into 1-inch pieces. Thread on skewers alternately with lamb. Grill or broil 6-8 minutes on each side for medium doneness, brushing occasionally with marinade. Serve on bed of rice or couscous."
+    ],
+    "notes": [
+      "(serves 6)",
+      "printed McCormick recipe card"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "RECIPE CARD   McCormick   COLLECTION\nLamb Shish Kabobs\n(serves 6)\n1/3 cup  olive oil\n3 tbsp   white wine vinegar\n2 tbsp   lemon juice\n1 tbsp   McCormick Lemon & Pepper Seasoning\n1        clove garlic, minced\n2 lb     boneless lean lamb, cut into 1-inch pieces\n3        medium zucchini\n1        large red pepper\nIn shallow glass dish, combine oil, vinegar, lemon juice, McCormick Lemon & Pepper Seasoning and garlic. Stir in lamb. Cover and refrigerate several hours or overnight, turning once.\nCut zucchini and red pepper into 1-inch pieces. Thread on skewers alternately with lamb. Grill or broil 6-8 minutes on each side for medium doneness, brushing occasionally with marinade. Serve on bed of rice or couscous.",
+    "confidence": "high"
+  }
+]

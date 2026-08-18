@@ -1,0 +1,508 @@
+[
+  {
+    "photo": 520,
+    "kind": "continuation",
+    "title": "Old Fashioned Potato Salad",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Combine yogurt, sour cream, mayo, vinegar, mustard, salt, pepper.",
+      "Pour dressing over potatoes, eggs & veggies.",
+      "Add parsley - toss - to coat well."
+    ],
+    "notes": ["Back of card 519 (dressing directions, 'see over')"],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Combine yogurt, sour cream, mayo, vinegar, mustard,\nsalt, pepper. - Pour dressing over potatoes, eggs & veggies.\nAdd parsley - toss. - to coat well.",
+    "confidence": "high"
+  },
+  {
+    "photo": 521,
+    "kind": "recipe",
+    "title": "Fiesta Fruit Salad",
+    "attribution": "Bernadette",
+    "category": "Soups & Salads",
+    "ingredients": [
+      "— Dressing —",
+      "1/4 c lime juice",
+      "2 tbsp oil (may omit)",
+      "2 tbsp white wine vinegar",
+      "2 tbsp sugar",
+      "1/2 tsp coriander",
+      "1/2 c whip. cream (Bernie used Nutra Whip - whipped)",
+      "— Salad —",
+      "6 c shredded lettuce",
+      "2 oranges peeled, sliced",
+      "4-6 slices pineapple, quartered",
+      "6 strawberries (fresh)",
+      "1 tbsp poppy seed"
+    ],
+    "directions": [],
+    "notes": ["re: Bernadette", "see over"],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Fiesta Fruit Salad    re: Bernadette\n1/4 c lime juice          Dressing\n2 tbsp. oil      (may omit)   }\n2 \" white wine vinegar        }\n2 \" sugar                     }\n1/2 tsp. coriander            }\n1/2 c whip. cream (Bernie - used Nutra whip - whipped)\nSalad\n6 c shredded lettuce          6 strawberries (fresh)\n2 oranges peeled, sliced      1 tbsp poppy seed.\n4-6 slice pineapple quartered              see over",
+    "confidence": "high"
+  },
+  {
+    "photo": 522,
+    "kind": "continuation",
+    "title": "Fiesta Fruit Salad",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Dressing: Combine lime juice, oil, white wine vinegar, sugar & coriander using wire whisk, slowly stir in whip cream, until well blended, refrig. until ready to use.",
+      "Combine lettuce, oranges, pineapple & strawberries. Can sprinkle c poppy seed.",
+      "Serve c lime drsg.",
+      "Options: Can add orange, mango, apple, pear, or melon. - butter lettuce or romaine -"
+    ],
+    "notes": ["Back of card 521"],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Dressing\nCombine lime juice, oil, white wine vinegar, sugar & coriander\nusing wire whisk, slowly stir in whip cream, until\nwell blended, refrig. until ready to use.\nCombine, lettuce, oranges, pineapple & strawberries.\nCan sprinkle c poppy seed.\nserve c lime drsg.\nOptions,\nCan add. orange, mango, apple, pear, or melon.\n-butter lettuce or romaine-",
+    "confidence": "high"
+  },
+  {
+    "photo": 523,
+    "kind": "recipe",
+    "title": "Avocado & Papaya Salad",
+    "attribution": null,
+    "category": "Soups & Salads",
+    "ingredients": [
+      "2 heads butter lettuce",
+      "1 papaya",
+      "1 avocado",
+      "— Dressing —",
+      "1/2 c oil",
+      "1/2 c white vinegar",
+      "2 tbsp papaya seeds",
+      "1/2 tsp dry mustard",
+      "1/4 c sugar"
+    ],
+    "directions": [
+      "Mix dressing ingred. in blender until papaya seeds are size of cracked pepper."
+    ],
+    "notes": [],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Avocado & Papaya Salad.\n2 heads butter lettuce\n1 Papaya\n1 Avocado\nDressing\n1/2 c oil                Mix dressing ingred. in\n1/2 c white vinegar      blender until Papaya seeds\n2 tbsp. Papaya seeds.    are size of cracked pepper\n1/2 tsp. dry mustard\n1/4 c sugar",
+    "confidence": "high"
+  },
+  {
+    "photo": 524,
+    "kind": "recipe",
+    "title": "Potato Salad",
+    "attribution": "Mary Ann",
+    "category": "Soups & Salads",
+    "ingredients": [
+      "1 lb potatoes",
+      "1/4 tsp salt",
+      "1/4 tsp celery seed",
+      "3/8 c milk",
+      "1/2 [c] Miracle Whip light",
+      "3 radishes (more or less)",
+      "2 tbsp chopped chives",
+      "3 eggs hard boiled & chopped"
+    ],
+    "directions": [
+      "Peel & boil potatoes until tender. Grate.",
+      "Combine c salt & celery seed.",
+      "Mix milk & salad dressing. Add to potatoes.",
+      "Add sliced radishes, chopped chives & eggs & combine.",
+      "Sprinkle top of salad c paprika if desired."
+    ],
+    "notes": ["serves 4", "re Mary Ann"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Potato Salad.    serves (4)  re Mary Ann.\n1 lb potatoes          1/2 miracle whip light\n1/4 tsp salt           3 radishes (more or less)\n1/4 \" celery seed.     2 tbsp. chopped chives.\n3/8 c milk             3 eggs hard boiled & chopped.\nPeel & boil potatoes until tender. Grate. Combine c\nsalt & celery seed. Mix milk & salad dressing.\nAdd to potatoes. Add sliced radishes, chopped chives &\neggs & combine. Sprinkle top of salad c paprika.\nif desired.",
+    "confidence": "high"
+  },
+  {
+    "photo": 525,
+    "kind": "clipping",
+    "title": "Jellied Salad Recipe",
+    "attribution": "Marie",
+    "category": "Soups & Salads",
+    "ingredients": [
+      "4 small pkgs (or 2 large) of Jello - (any color)",
+      "7 cups of liquid",
+      "1 large can of Fruit Salad (use liquid - but do not exceed 7 cups of liquid)"
+    ],
+    "directions": [
+      "Please use a 9 X 12 Non Returnable Pan",
+      "Oil pan lightly"
+    ],
+    "notes": [
+      "Handwritten at top: March 9th - to Hall. (Sunday)",
+      "Questions: Call Marie: 239-2755",
+      "Typed/printed sheet, apparently instructions for a church/hall function; asterisks handwritten next to the Jello and Fruit Salad lines"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "March 9th - to Hall. (Sunday)\n\nJellied Salad Recipe\n\nPlease use a 9 X 12 Non Returnable Pan\n\nOil pan lightly\n* 4 small pkgs (or 2 large) of Jello - (any color)\n7 cups of liquid\n* 1 large can of Fruit Salad\n(use liquid - but do not exceed 7 cups of\nliquid)\n\nQuestions: Call Marie: 239-2755",
+    "confidence": "high"
+  },
+  {
+    "photo": 526,
+    "kind": "recipe",
+    "title": "Pistachio Salad",
+    "attribution": null,
+    "category": "Soups & Salads",
+    "ingredients": [
+      "1 box lime jello",
+      "1 c hot water",
+      "1 can fruit cocktail undrained",
+      "1 box pistachio inst. pudding",
+      "1/2 c nuts",
+      "1 c miniature marshmallows",
+      "1 - 9 oz Cool Whip"
+    ],
+    "directions": [
+      "Cool till jelled.",
+      "Mix 1 can fruit cocktail undrained & 1 box pistachio inst. pudding - add to jello.",
+      "Add 1/2 c nuts & 1 c miniature marshmallows.",
+      "Fold in 1 - 9 oz Cool Whip."
+    ],
+    "notes": [],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Pistaschio Salad.\n1 box lime jello\n1 c hot water\n\nCool till Jelled\n\nMix 1 can fruit cocktail undrained & 1 box\npistachio inst. pudding - add to Jello.\n\nAdd 1/2 c nuts & 1 c miniature marshmallows.\nFold in 1 - 9 oz Cool whip",
+    "confidence": "high"
+  },
+  {
+    "photo": 527,
+    "kind": "recipe",
+    "title": "Better Than Potato Salad",
+    "attribution": null,
+    "category": "Soups & Salads",
+    "ingredients": [
+      "4 c cooked long grain rice",
+      "8 radishes sliced",
+      "4 hard-cooked eggs, chopped",
+      "1 med. cucumber, seeded & chopped",
+      "2 c thinly sliced celery",
+      "1/2 c chopped onion",
+      "1 1/2 c mayonnaise",
+      "3 tbsp prepared mustard",
+      "3/4 tsp salt"
+    ],
+    "directions": [
+      "In a lg. bowl combine rice, radishes, eggs, cucumber, celery & onion.",
+      "Combine mayonnaise, mustard & salt; mix well. Pour over rice mixture & toss.",
+      "Cover & refrigerate at least 1 hr."
+    ],
+    "notes": ["12-14 servings"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Better Than Potato Salad:\n4 c cooked long grain rice        1/2 c chopped onion\n8 radishes sliced                1 1/2 c mayonnaise\n4 hard-cooked eggs, chopped.     3 tbsp. prepared mustard\n1 med. cucumber seeded & chopped.  3/4 tsp. salt.\n2 c thinly sliced celery.\n\nIn a lg. bowl combine rice, radishes, eggs, cucumber, celery & onion.\nCombine mayonnaise, mustard & salt; mix well. Pour over rice\nmixture & toss. Cover & refrigerate at least 1 hr.   12-14 servings",
+    "confidence": "high"
+  },
+  {
+    "photo": 528,
+    "kind": "recipe",
+    "title": "Romaine c Oranges & Pecans",
+    "attribution": "Suzanne Ell.",
+    "category": "Soups & Salads",
+    "ingredients": [
+      "2 heads romaine lettuce - wash & tear into pieces",
+      "1 c pecan halves - toasted",
+      "2 oranges - peeled & sliced",
+      "1/4 c vinegar",
+      "1/2 c sugar",
+      "1 c vegetable oil",
+      "1 tsp salt",
+      "1/2 sm. red onion - chopped",
+      "1 tsp dry mustard",
+      "2 tbsp water"
+    ],
+    "directions": [],
+    "notes": ["Suzanne Ell. 9 AM music group (written top right)", "over"],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "                                   Suzanne Ell.  group\n                                   9 AM music\nRomaine c oranges & Pecans.\n2 heads romaine lettuce - Wash & tear into pieces -\n1 c pecan halves - toasted\n2 oranges - peeled & sliced.\n1/4 c vinegar\n1/2 c sugar.\n1 c vegetable oil.\n1 tsp. salt.\n1/2 sm. red onion - chopped\n1 tsp. dry mustard\n2 tbsp. water.                over",
+    "confidence": "high"
+  },
+  {
+    "photo": 529,
+    "kind": "continuation",
+    "title": "Romaine c Oranges & Pecans",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Place lettuce, oranges & pecans in salad bowl.",
+      "Combine vinegar, oil, sugar, salt, onion, mustard & water in blender. Blend till well mixed.",
+      "Make ahead & refrigerate until ready to toss salad.",
+      "(Don't use all the dressing. Can be set aside & used as dip for fresh fruit)"
+    ],
+    "notes": ["Back of card 528"],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Place lettuce, oranges & pecans in salad bowl. Combine\nvinegar, oil, sugar, salt, onion, mustard & water in\nblender. Blend till well mixed. Make ahead &\nrefrigerate until ready to toss salad. - (Don't use all the\ndressing. Can be set aside & used as dip for fresh fruit)",
+    "confidence": "high"
+  },
+  {
+    "photo": 530,
+    "kind": "recipe",
+    "title": "Five Cup Salad",
+    "attribution": "Better Homes & Gardens",
+    "category": "Soups & Salads",
+    "ingredients": [
+      "1 8 1/4 oz can pineapple chunks",
+      "1 11 oz can mandarin orange sections, drained",
+      "1 cup coconut",
+      "1 cup tiny marshmallows",
+      "1 8 oz carton dairy sour cream",
+      "2 Tbsp chopped pecans"
+    ],
+    "directions": [],
+    "notes": ["Yield: 6 side-dish servings", "Preprinted card 'Recipe: / from the kitchen of: / Yield:' with sunflower border; written in red ink, different handwriting", "Arrow at bottom right (continues on back)"],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Recipe: FIVE CUP SALAD          Yield: 6 side-dish servings\nfrom the kitchen of: Better Homes & Gardens\n1 8 1/4 oz can pineapple chunks.\n1 11 oz can mandarin orange sections, drained\n1 cup coconut\n1 cup tiny marshmellows\n1 8 oz carton dairy sour cream\n2 Tbsp chopped Pecans\n                                          ->",
+    "confidence": "high"
+  },
+  {
+    "photo": 531,
+    "kind": "continuation",
+    "title": "Five Cup Salad",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Drain pineapple chunks, reserving 1 Tbsp syrup.",
+      "Combine pineapple chunks, reserved syrup, mandarin orange sections, coconut, marshmallows, & sour cream.",
+      "Cover & chill for 2 to 24 hours.",
+      "Before serving sprinkle with pecans."
+    ],
+    "notes": ["Back of card 530"],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Drain Pineapple chucks, reserving 1\nTbsp syrup. Combine pineapple chucks,\nreserved syrup, mandarin orange\nsections, coconut, marshmellows, &\nsour cream. Cover & chill for\n2 to 24 hours. Before Serving\nsprinkle with pecans.",
+    "confidence": "high"
+  },
+  {
+    "photo": 532,
+    "kind": "recipe",
+    "title": "Spinach Salad",
+    "attribution": null,
+    "category": "Soups & Salads",
+    "ingredients": [
+      "1/2 c oil - 1/4 c olive oil, 1/4 c safflower oil",
+      "1 Tbsp honey",
+      "— Add —",
+      "mandarin oranges",
+      "peppers - red, green, yellow, sliced",
+      "mixed nuts",
+      "mushrooms"
+    ],
+    "directions": [],
+    "notes": ["Pencil on folded scrap of paper; pencil scribbles/doodles on lower portion", "Recipe is incomplete (no other dressing ingredients or method)"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "- Spinach Salad -\n1/2 c. oil  |  - 1/4 c. olive oil, 1/4 c. safflower oil\n            |    1 Tbsp. honey\n\nadd - Mandarine Oranges\n    - peppers - red, green, yellow\n        sliced\n    - mixed nuts\n    - mushrooms\n[pencil scribbles below]",
+    "confidence": "medium"
+  },
+  {
+    "photo": 533,
+    "kind": "recipe",
+    "title": "German Potato Salad",
+    "attribution": null,
+    "category": "Soups & Salads",
+    "ingredients": [
+      "12 med. potatoes",
+      "12 bacon strips",
+      "1 1/2 c chopped onion",
+      "1/4 c flour",
+      "1/4 c sugar",
+      "1 tbsp salt",
+      "1 tsp celery seed",
+      "1 tsp ground mustard",
+      "pinch pepper",
+      "1 1/2 c water",
+      "3/4 c vinegar",
+      "chopped fresh parsley"
+    ],
+    "directions": [
+      "Cook potatoes until just tender; drain. Peel & slice into a lg. bowl; set aside.",
+      "In a skillet, cook bacon until crisp. Remove & drain bacon; discard all but 1/3 c of drippings.",
+      "Saute onion in drippings till tender. Stir in next 6 ingred.",
+      "Gradually stir in water & vinegar; bring to boil"
+    ],
+    "notes": ["over"],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "German Potato salad.\n12 med. potatoes          1 tsp. celery seed.\n12 bacon strips           1 \" ground mustard.\n1 1/2 c chopped onion     pinch pepper\n1/4 c flour               1 1/2 c water\n1/4 c sugar               3/4 c vinegar\n1 tbsp. salt.             chopped fresh parsley.\nCook potatoes until just tender; drain. Peel & slice into a lg bowl; set aside\nIn a skillet, cook bacon until crisp. Remove & drain bacon; discard all\nbut 1/3 c of drippings. Saute onion in drippings till tender. stir in\nnext 6 ingred. Gradually stir in water & vinegar; bring to boil\n                                                              over",
+    "confidence": "high"
+  },
+  {
+    "photo": 534,
+    "kind": "continuation",
+    "title": "German Potato Salad",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "stirring constantly. Cook & stir 2 min. more. Pour over potatoes.",
+      "Crumble bacon & gently stir into potatoes. Sprinkle c parsley."
+    ],
+    "notes": ["12-14 servings", "Back of card 533"],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "stirring constantly. Cook & stir 2 min. more. Pour over potatoes.\nCrumble bacon & gently stir into potatoes. Sprinkle c parsley.\n                                        12-14 servings.",
+    "confidence": "high"
+  },
+  {
+    "photo": 535,
+    "kind": "recipe",
+    "title": "Chef Salad",
+    "attribution": null,
+    "category": "Soups & Salads",
+    "ingredients": [
+      "lettuce - shredded",
+      "red cabbage",
+      "celery",
+      "carrots",
+      "mushrooms",
+      "hard boiled eggs",
+      "tomatoes",
+      "strips of turkey",
+      "strips of ham",
+      "grated mozzarella (parmesan crossed out) cheese",
+      "grated cheddar cheese",
+      "green onion (on top)",
+      "drsg."
+    ],
+    "directions": [
+      "Lettuce on bottom - rest of ingred. on top of lettuce - egg on top."
+    ],
+    "notes": ["Title in red ink", "'parmesan' crossed out and 'mozzarella' written above in pencil"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Chef Salad:\nlettuce - shredded.       tomatoes              drsg.\nred cabbage.              strips of turkey\ncelery                    \"  \" ham\ncarrots.                  grated [parmesan -> mozzarella] cheese\nmushrooms.                \"  cheddar  \"\nhard boiled eggs.         green onion (on top)\n\nlettuce on bottom - rest of ingred. on top of lettuce - egg on\ntop. -",
+    "confidence": "high"
+  },
+  {
+    "photo": 536,
+    "kind": "recipe",
+    "title": "Party Salad",
+    "attribution": null,
+    "category": "Soups & Salads",
+    "ingredients": [
+      "1 pkg. lime gelatin",
+      "1 pkg. lemon gelatin",
+      "2 cups hot water",
+      "1/2 cup chopped celery",
+      "1 cup sour cream",
+      "2 1/2 cups crushed pineapple",
+      "1 cup shrimp"
+    ],
+    "directions": [
+      "Add both pkgs. gelatin to the hot water and stir until dissolved.",
+      "Add entire contents of can of pineapple.",
+      "Cool, then stir in sour cream, celery, and shrimp.",
+      "Pour into 2 qt. mold and chill.",
+      "Turn out on plate, tuck lettuce under edges, and garnish with cottage cheese and mayon[naise]."
+    ],
+    "notes": ["Makes 10 to 12 servings (if you're lucky!)", "Typewritten card, well-worn and stained"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "PARTY SALAD\n1 pkg. lime gelatin          1 cup sour cream\n1 pkg. lemon   \"             2 1/2 cups crushed pine-\n2 cups hot water                            apple\n1/2 cup chopped celery       1 cup shrimp\nMETHOD: Add both pkgs. gelatin to the hot water\nand stir until dissolved. Add entire contents o[f]\ncan of pineapple. Cool, then stir in sour cream\ncelery, and shrimp. Pour into 2 qt. mold and\nchill. Turn out on plate, tuck lettuce under\nedges, and garnish with cottage cheese and mayon[naise]\nMakes 10 to 12 servings (if you're lucky!)",
+    "confidence": "high"
+  },
+  {
+    "photo": 537,
+    "kind": "recipe",
+    "title": "Pistachio Salad",
+    "attribution": null,
+    "category": "Soups & Salads",
+    "ingredients": [
+      "1 pkg. pistachio pudding mix (large) INSTANT (do not [?])",
+      "1 pkg. Dream Whip (mix it up)",
+      "1 cup miniature marshmallows",
+      "1 small can pineapple tidbits or crushed pineapple (put in juice too)"
+    ],
+    "directions": [
+      "Mix up whip cream, add the rest & blend well.",
+      "Sets in about 1/2 hr."
+    ],
+    "notes": ["Printed handwriting, different hand; heavily stained card", "Note at top right partially cut off: 'DO NOT [M?]... INSTANT' (perhaps 'do not mix instant'?)"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Pistachio Salad\n                                        DO NOT M[?]\n1 pkg. Pistachio pudding mix (large)  INSTANT\n1 pkg. dream whip (mix it up)\n1 cup miniature marshmallows\n1 small can pineapple tidbits or crushed pineappl[e]\n  (put in juice too)\n\nMix up whip cream, add the rest &\nblend well.  Sets in about 1/2 hr.",
+    "confidence": "high"
+  },
+  {
+    "photo": 538,
+    "kind": "recipe",
+    "title": "Lime Jello Salad",
+    "attribution": "Mrs. Kaup",
+    "category": "Soups & Salads",
+    "ingredients": [
+      "1 pkg. lime jello",
+      "15 lg. marshmallows",
+      "15 oz tin crushed pineapple",
+      "1 cup creamed cottage cheese",
+      "1 cup whipping cream"
+    ],
+    "directions": [
+      "Dissolve jello & marshmallows in 1 cup boiling water.",
+      "Drain 1 cup pineapple juice from crushed pineapple & combine with dissolved marshmallows & jello & leave to partially set.",
+      "Whip cream, add cottage cheese & pineapple. Beat all together on med. beaters till combined.",
+      "(Can be made"
+    ],
+    "notes": ["(Mrs. Kaup)", "Text runs off bottom of card mid-sentence '(Can be made'; the next photo (539) is a different card, so the back was not photographed"],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Lime Jello Salad.  (Mrs. Kaup)\n1 pkg. lime jello            1 cup creamed cottage\n15 lg. marshmallows.                        cheese.\n15 oz tin crushed pineapple  1 cup whipping cream.\n\nDissolve jello & marshmallows in 1 cup boiling water\nDrain 1 cup pineapple juice from crushed pineapple\n& combine with dissolved marshmallows & jello &\nleave to partially set.\nWhip cream, add cottage cheese & pineapple. beat\nall together on med. beaters till combined. (Can be made",
+    "confidence": "high"
+  },
+  {
+    "photo": 539,
+    "kind": "recipe",
+    "title": "Cranberry Sour Cream Salad",
+    "attribution": "Ann MacDonell",
+    "category": "Soups & Salads",
+    "ingredients": [
+      "2 pkg. cherry gelatin",
+      "2 cups boiling water",
+      "1 can whole cranberry sauce",
+      "1 pt. sour cream",
+      "1 c chopped celery",
+      "1 c chopped pecans"
+    ],
+    "directions": [
+      "Dissolve jello in boiling water.",
+      "Stir in cranberry sauce.",
+      "Cool thoroughly before folding in cream.",
+      "Add 1 c chopped celery, 1 c chopped pecans."
+    ],
+    "notes": ["from Ann MacDonell", "Preprinted 'A PURR-FECT RECIPE' card with cat illustration"],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Cranberry Sour Cream Salad.\nA PURR-FECT RECIPE\n2 pkg. cherry gelatin\n2 cups boiling water.\n1 can whole cranberry sauce.\n1 pt. sour cream.\nDissolve jello in boiling water.\nStir in cranberry sauce.\nCool thoroughly before folding in\ncream.\nAdd 1 c. chopped celery.          from\n1 c. chopped pecans.              Ann MacDonell",
+    "confidence": "high"
+  }
+]

@@ -1,0 +1,514 @@
+[
+ {
+  "photo": 0,
+  "kind": "photo-of-box",
+  "title": null,
+  "attribution": null,
+  "category": "Other",
+  "ingredients": [],
+  "directions": [],
+  "notes": [
+   "Photo of the green metal recipe box, open, showing yellow tab dividers: Soups & Stews, Sandwiches, Sauces, Salads & Dressings, Preserves & ..., Frostings & Fillings, Foreign Dishes, Eggs & Cheese, Fish & Seafoods, Canning & Freezing, Casseroles, Pies & Pastries, Cakes & Cookies, Breads (handwritten tab), Appetizers & Dips; a 'Heritage' booklet at the back; the front card visible is 'Cinnamon Buns - breadmaker' (photo 001) with a 'Children's craft' card behind it."
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "[Photo of the recipe box itself; tab dividers visible: SOUPS & STEWS / SANDWICHES / SAUCES / SALADS & [DRESSINGS] / PRESERVES & [?] / FROSTINGS & FILLINGS / [?] / FOREIGN DISHES / EGGS & CHEESE / FISH & SEAFOODS / CANNING & FREEZING / CASSEROLES / PIES & PASTRIES / CAKES & COOKIES / BREADS / APPETIZERS & DIPS. Front card reads: Cinnamon Buns - breadmaker - / Warm water 1c + 2 tbsp. / Egg 1 / Margarine 2 tbsp. / Cinnamon Paste: Egg 1 / Sugar 1/2 c ... Card behind: Children's craft]",
+  "confidence": "high"
+ },
+ {
+  "photo": 1,
+  "kind": "recipe",
+  "title": "Cinnamon Buns - breadmaker",
+  "attribution": null,
+  "category": "Breads & Buns",
+  "ingredients": [
+   "1 c + 2 tbsp warm water",
+   "1 egg",
+   "2 tbsp margarine",
+   "1/4 c sugar",
+   "2 tbsp milk pwd.",
+   "1 tsp salt",
+   "3 1/2 c bread flour",
+   "1 tbsp yeast",
+   "— Cinnamon Paste —",
+   "1 egg",
+   "1/2 c sugar",
+   "1/2 c icing sugar",
+   "2 tbsp flour",
+   "1/2 c margarine",
+   "1 tbsp corn syrup",
+   "raisins"
+  ],
+  "directions": [
+   "Place all ingred. in pan. - Dough cycle - start. - At end, turn onto floured counter. - Spread dough into a rectangle"
+  ],
+  "notes": [
+   "Continues on next photo (back of card)."
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Cinnamon Buns - breadmaker -\nWarm water - 1c + 2 tbsp.        Cinnamon Paste:\nEgg -             1                    Egg.        1.\nMargarine -   2 tbsp.               Sugar.      1/2 c\nsugar        -   1/4 c                 Icing sugar. 1/2 c\nmilk pwd.   -   2 tbsp.               Flour       2 tbsp.\nsalt          -   1 tsp.                Margarine.  1/2 c\nBread flour -  3 1/2 c               Corn syrup. 1 tbsp.\nYeast        -   1 tbsp.               raisins  -\nPlace all ingred. in pan. - Dough cycle - start. - At end.\nturn onto floured counter. - Spread dough into a rectangle",
+  "confidence": "high"
+ },
+ {
+  "photo": 2,
+  "kind": "continuation",
+  "title": "Cinnamon Buns - breadmaker",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "spread c̄ cinnamon paste. - Beg. @ the long end, roll up jelly-roll fashion. Cut into 15 buns. - arrange these in a greased 2 L. (9\" x 13\") pan. Let rise until dbl.",
+   "Bake @ 350° - for 35-40 mins."
+  ],
+  "notes": [
+   "Yield: 15 buns"
+  ],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "spread c̄ cinnamon paste. - Beg. @ the long end, roll\nup jelly-roll fashion. Cut into 15 buns. - arrange these\nin a greased. 2 L. (9\" x 13\" -) pan. Let rise until dbl.\nBake @ 350° - for 35-40 mins.",
+  "confidence": "high"
+ },
+ {
+  "photo": 3,
+  "kind": "recipe",
+  "title": "Fruit Salad",
+  "attribution": "Jean Lavender",
+  "category": "Soups & Salads",
+  "ingredients": [
+   "Tin fruit salad",
+   "fresh fruits to suit taste",
+   "toasted almonds, chopped",
+   "1/2 c whipped cream, sweetened",
+   "2-3 tbsp salad dressing"
+  ],
+  "directions": [
+   "Tin fruit salad. - add fresh fruits to suit taste.",
+   "Toast almonds - chop & add.",
+   "1/2 c whipped cream, sweetened, - add 2-3 tbsp salad dressing.",
+   "serve on lettuce - with buns."
+  ],
+  "notes": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Fruit Salad. (Jean Lavender).\nTin fruit salad. - add fresh fruits to suit\ntaste.\nToast almonds - Chop & add.\n1/2 c. whipped cream, sweetened, - add - 2-3 tbsp.\nsalad dressing.\nserve on lettuce - with buns.",
+  "confidence": "high"
+ },
+ {
+  "photo": 4,
+  "kind": "recipe",
+  "title": "Fresh Mint Tea",
+  "attribution": null,
+  "category": "Beverages",
+  "ingredients": [
+   "4 tea bags",
+   "12 large fresh mint leaves",
+   "3 cups boiling water",
+   "1 cup orange juice",
+   "1/4 cup lemon juice",
+   "1 cup sugar",
+   "6 cups water",
+   "Sprigs of mint",
+   "Orange slices"
+  ],
+  "directions": [
+   "Place tea bags and mint leaves in a 3 quart pitcher. Add 3 cups boiling water and steep until cool. Discard tea bags and mint leaves."
+  ],
+  "notes": [
+   "Written on folded notepaper, not a card; different handwriting (not Grandma's usual hand). Continues on next photo."
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Fresh Mint Tea\n4 tea bags\n12 large fresh mint leaves\n3 cups boiling water\n1 cup orange juice\n1/4 cup lemon juice\n1 cup sugar\n6 cups water\nSprigs of mint\nOrange slices\n\nPlace tea bags and mint\nleaves in a 3 quart pitcher.\nAdd 3 cups boiling water\nand steep until cool. Discard\ntea bags and mint leaves.",
+  "confidence": "high"
+ },
+ {
+  "photo": 5,
+  "kind": "continuation",
+  "title": "Fresh Mint Tea",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "Add orange & lemon juices, sugar and 6 cups of water to tea mixture, stirring until sugar is dissolved. Serve over ice and garnish with mint sprigs and orange slices."
+  ],
+  "notes": [],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Add orange & lemon juices, sugar\nand 6 cups of water to tea\nmixture, stirring until sugar\nis dissolved. Serve over ice\nand garnish with mint\nsprigs and orange slices.",
+  "confidence": "high"
+ },
+ {
+  "photo": 6,
+  "kind": "recipe",
+  "title": "To cook fresh Prawns",
+  "attribution": "Joe Harris",
+  "category": "Main Dishes",
+  "ingredients": [
+   "fresh prawns (if frozen, thaw somewhat)",
+   "coarse salt (a palmful)",
+   "boiling water"
+  ],
+  "directions": [
+   "If frozen - thaw somewhat.",
+   "Boil water -",
+   "Place coarse salt in palm of hand - add to water",
+   "Place Prawns in boiling H2O -",
+   "When returns to boil - cook for 7 min."
+  ],
+  "notes": [
+   "Title written in pencil, steps in blue ink; 'somewhat' and '7 min' underlined/emphasized. Attribution written as 're Joe Harris' (in quotes)."
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "To cook fresh Prawns - re \"Joe Harris\"\n- If frozen - thaw somewhat.\n- Boil water -\n- Place - coarse salt in palm of hand - add to water\n- Place Prawns in boiling H2O -\n- When returns to boil - cook for 7 min.",
+  "confidence": "high"
+ },
+ {
+  "photo": 7,
+  "kind": "non-recipe",
+  "title": "Children's crafts - Goofy goggles / Paper cup / Zip Lock bag",
+  "attribution": null,
+  "category": "Kids' Crafts & Fun",
+  "ingredients": [
+   "— Goofy goggles —",
+   "egg ctns. & pipe cleaners",
+   "— Paper cup —",
+   "paper cup",
+   "— Zip Lock bag —",
+   "zip lock bag",
+   "paint"
+  ],
+  "directions": [
+   "Goofy goggles: egg ctns. & pipe cleaners",
+   "Paper cup - make a face on - cut out mouth - & let play in H2O.",
+   "Zip Lock bag - paint inside & seal. let children push bag around"
+  ],
+  "notes": [
+   "Three small craft ideas on one card under heading 'Children's crafts'."
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Children's crafts\nGoofy goggles.\negg ctns. & pipe cleaners\n\nPaper cup - make a face on -\ncut out mouth - & let play in H2O.\n\nZip Lock bag\npaint inside & seal.\nlet children push bag around",
+  "confidence": "high"
+ },
+ {
+  "photo": 8,
+  "kind": "non-recipe",
+  "title": "Children's Crafts - Bubbles",
+  "attribution": null,
+  "category": "Kids' Crafts & Fun",
+  "ingredients": [
+   "6 tbsp glycerine",
+   "2 c warm H2O",
+   "6 tbsp liquid soap - Joy",
+   "dash of sugar"
+  ],
+  "directions": [
+   "Beat c̄ wire whisk",
+   "Can use toilet tissue rolls to blow (tape end c̄ waterproof tape)",
+   "- straws (tape tog."
+  ],
+  "notes": [
+   "'over' written at bottom right - next photo (Children's game) appears to be the back of this card."
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Children's Crafts\nBubbles\nglycerine - 6 tbsp.\n2c warm H2O.\n6 tbsp. - liquid soap - Joy.\ndash of sugar\nBeat c̄ wire whisk\nCan use toilet tissue rolls to blow (tape end c̄ waterproof tape)\n- straws (tape tog.\n                                                        over",
+  "confidence": "high"
+ },
+ {
+  "photo": 9,
+  "kind": "non-recipe",
+  "title": "Children's game",
+  "attribution": null,
+  "category": "Kids' Crafts & Fun",
+  "ingredients": [
+   "buttons",
+   "egg carton"
+  ],
+  "directions": [
+   "Glue buttons in egg carton -",
+   "1. - can have a duplicate of ea. button in ctn. & flip into - same one in ctn.",
+   "2. -"
+  ],
+  "notes": [
+   "Appears to be the back of the Bubbles card (previous photo says 'over'), but is a separate item. Item 2 is left blank."
+  ],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Children's game\nGlue buttons in egg carton -\n- 1. - can have a duplicate of ea. button in ctn.\n     & flip into - same one in ctn.\n- 2. -",
+  "confidence": "high"
+ },
+ {
+  "photo": 10,
+  "kind": "non-recipe",
+  "title": "Children's Crafts - Stamp glue / mosaics / Prints",
+  "attribution": null,
+  "category": "Kids' Crafts & Fun",
+  "ingredients": [],
+  "directions": [
+   "Stamp glue.",
+   "mosaics, bean, rice",
+   "Prints - cabbage, corn on cob, marshmallows, onion, gr. pepper, sponges."
+  ],
+  "notes": [
+   "List of craft ideas."
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Children's Crafts.\nStamp glue.\nmosaics, bean rice\nPrints - cabbage.\n            corn on cob\n            marshmallows\n            onion\n            gr. pepper\n            sponges.",
+  "confidence": "high"
+ },
+ {
+  "photo": 11,
+  "kind": "non-recipe",
+  "title": "Playdough - Very Good (our Cathy)",
+  "attribution": "our Cathy",
+  "category": "Kids' Crafts & Fun",
+  "ingredients": [
+   "1 c white flour",
+   "1/4 c salt",
+   "2 tbsp cream of tartar",
+   "1 c water",
+   "2 tsp food coloring",
+   "1 tbsp oil"
+  ],
+  "directions": [
+   "Combine (flour, salt, cream of tartar) & add: 1 c water, 2 tsp food coloring, 1 tbsp oil",
+   "Cook over med heat 3-5 min.",
+   "(Look like globby mess - but it will turn out)"
+  ],
+  "notes": [
+   "Rated 'Very Good' (underlined). Written in pencil."
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Playdough - Very Good. (our Cathy)\n1c white flour\n1/4 c salt\n2 tbsp. cream of tartar\nCombine & add:\n1c water\n2 tsp. food coloring\n1 tbsp. oil\nCook over med heat 3-5 min.\n(Look like globby mess - but it will turn out)",
+  "confidence": "high"
+ },
+ {
+  "photo": 12,
+  "kind": "non-recipe",
+  "title": "Playdough (Jenn.)",
+  "attribution": "Jenn.",
+  "category": "Kids' Crafts & Fun",
+  "ingredients": [
+   "1 cup & 2 Tbsp flour",
+   "1/2 cup salt",
+   "1 Tsp cream of tartar",
+   "2 Tbsp cooking oil",
+   "3/4 cup boiling water",
+   "food coloring, Koolaide"
+  ],
+  "directions": [
+   "Mix first 4 ingre. then water & coloring",
+   "gent knead well."
+  ],
+  "notes": [
+   "No title written on card; it's a playdough recipe in a different (younger, printed) hand marked '(Jenn.)'."
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "                                                    (Jenn.)\n1 cup & 2 Tbsp Flour\n1/2 cup        Salt.\n1 Tsp        Cream of tartar\n2 Tbsp      cooking oil\n3/4 cup      Boiling water\nfood coloring, Koolaide.\nmix first 4. ingre. then Water & coloring\ngent kneed well.",
+  "confidence": "high"
+ },
+ {
+  "photo": 13,
+  "kind": "recipe",
+  "title": "Popped Corn c̄ Syrup",
+  "attribution": "Margaret F.",
+  "category": "Candy & Treats",
+  "ingredients": [
+   "15 c popped popcorn (need hot air popper)",
+   "1/2 c butter or marg.",
+   "1 c br. sugar",
+   "1/4 c corn syrup",
+   "1/2 tsp salt",
+   "1/2 tsp bk. soda"
+  ],
+  "directions": [
+   "add 1/2 tsp bk. soda. stir - Pour over popped corn",
+   "stir until all popcorn is (coated) - Bake @ 200° for 1 hr",
+   "stir every 15 min."
+  ],
+  "notes": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "                                                Margaret F.\nPopped Corn c̄ Syrup.\n15 c    popped popcorn (need hot air popper)\n1/2 c   butter or marg.\n1c      br. sugar.\n1/4 c   corn syrup.\n1/2 tsp. salt.\nadd 1/2 tsp. bk. soda. stir - Pour over popped corn\nstir until all popcorn is (coated) - Bake @ 200° for 1 hr\nstir every 15 min.",
+  "confidence": "high"
+ },
+ {
+  "photo": 14,
+  "kind": "recipe",
+  "title": "Overnight Raisin Oatmeal Pancakes",
+  "attribution": null,
+  "category": "Breakfast",
+  "ingredients": [
+   "2 c quick cooking oats",
+   "2 c buttermilk",
+   "2 eggs beaten",
+   "1/4 c butter softened",
+   "1/3 c raisins",
+   "1/2 c flour",
+   "2 tbsp white sugar",
+   "1 tsp bk. powder",
+   "1 tsp bk. soda",
+   "1/2 tsp cinnamon",
+   "1/2 tsp salt"
+  ],
+  "directions": [
+   "Mix together the oatmeal & buttermilk. Cover & refrigerate overnight.",
+   "The next morning, add eggs, butter & raisins. Mix well.",
+   "sift tog. flour, sugar, bk. pwd. soda, cinnamon & salt. Add. →"
+  ],
+  "notes": [
+   "Green card. Arrow at end indicates continues on back (next photo)."
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Overnight Raisin Oatmeal Pancakes.\n2c quick cooking oats          2 tbsp. white sugar.\n2c buttermilk                    1 tsp. bk. powder.\n2 eggs beaten                    1 tsp.  \"  soda.\n1/4 c butter softened            1/2 \" cinnamon\n1/3 c raisins                      1/2 \" salt.\n1/2 c flour\nMix together the oatmeal & buttermilk. Cover &\nrefrigerate overnight.\nThe next morning, add eggs, butter & raisins. Mix well.\nsift tog. flour, sugar, bk. pwd. soda, cinnamon & salt. Add. →",
+  "confidence": "high"
+ },
+ {
+  "photo": 15,
+  "kind": "continuation",
+  "title": "Overnight Raisin Oatmeal Pancakes",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "oatmeal mixture & stir to moisten. Allow batter to sit 20 min. before cooking.",
+   "Pour 1/4 c batter on hot griddle for ea. cake. If batter is too thick add buttermilk, 1 tbsp at a time. - Cook cakes until bubbles on top. - turn to brown."
+  ],
+  "notes": [],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "oatmeal mixture & stir to moisten. Allow batter to\nsit 20 min. before cooking.\nPour 1/4 c batter on hot griddle for ea. cake. If batter is too\nthick add buttermilk, 1 tbsp. at a time. - Cook cakes until\nbubbles on top. - turn to brown.",
+  "confidence": "high"
+ },
+ {
+  "photo": 16,
+  "kind": "recipe",
+  "title": "Chipricki Dough (Meat filled)",
+  "attribution": "Sask. paper",
+  "category": "Main Dishes",
+  "ingredients": [
+   "— Dough —",
+   "4 c flour",
+   "2 eggs",
+   "2 tsp salt",
+   "1 c cream or canned milk",
+   "another 1/2 c milk (to make a nice handling dough)",
+   "— Meat mix —",
+   "1/2 lb ground beef",
+   "1/2 lb ground pork",
+   "1 med. onion",
+   "1/2 tsp salt",
+   "1/4 tsp pepper"
+  ],
+  "directions": [
+   "Add 1 c cream or canned milk. add another 1/2 c milk to make a nice handling dough.",
+   "Meat mix: Mix meat, onion, salt, pepper. before putting into dough"
+  ],
+  "notes": [
+   "Marginal note: 'good pre-cooked meat.'",
+   "Title spelling uncertain: 'Chipricki' [Chipricki?] (possibly Chiburekki/Chebureki). Source noted as '(Sask. paper)'.",
+   "Continues on next photo."
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Chipricki[?] Dough. (Meat filled).          (Sask. paper)\n4 c flour\n2 eggs                          good\n2 tsp. salt.                     pre-cooked\n                                   meat.\nadd. 1c cream or canned milk. add another 1/2 c milk\nto make a nice handling dough.\nMeat mix.\n1/2 lb ground beef          1/2 tsp. salt\n1/2  \"      \"    pork          1/4  \"  pepper.\n1 med. onion.\nMix meat, onion, salt, pepper. before putting into dough",
+  "confidence": "high"
+ },
+ {
+  "photo": 17,
+  "kind": "continuation",
+  "title": "Chipricki Dough (Meat filled)",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "add a little warm H2O to make meat soft.",
+   "Mix dough & roll 1/4\" thick, then cut in squares. put meat on & fold in half. Press edges closed c̄ fingers - Deep fry them."
+  ],
+  "notes": [],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "add a little warm H2O to make meat soft.\nMix dough & roll 1/4\" thick, then cut in squares.\nput meat on & fold in half. Press edges closed c̄\nfingers - Deep fry them.",
+  "confidence": "high"
+ },
+ {
+  "photo": 18,
+  "kind": "recipe",
+  "title": "Easy Meal - Dinner",
+  "attribution": null,
+  "category": "Main Dishes",
+  "ingredients": [
+   "1 lg steak, cut into stew size pieces",
+   "a little garlic",
+   "1 pkg. Knorr Veg. Soup mix",
+   "noodles"
+  ],
+  "directions": [
+   "cut up a lg steak into stew size pieces -",
+   "put in pan c̄ a little garlic & a pkg. of Knorr Veg. Soup mix -",
+   "- served over noodles - V.G."
+  ],
+  "notes": [
+   "Rated V.G."
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Easy Meal - Dinner -\ncut ↑ a lg steak into stew size pieces -\nput in pan c̄ a little garlic & a pkg. of\nKnorr. Veg. Soup mix -\n- served over noodles -   V.G.",
+  "confidence": "high"
+ },
+ {
+  "photo": 19,
+  "kind": "non-recipe",
+  "title": "Tips - cooking - re Patricia Surrae",
+  "attribution": "Patricia Surrae",
+  "category": "Household Hints & Remedies",
+  "ingredients": [
+   "— Cake or muffins —",
+   "1 c white cake mix",
+   "1 tin cherry or blueberry pie filling",
+   "— Potatoes —",
+   "potatoes, cut into sm. wedges",
+   "olive oil",
+   "Balsamic vinegar",
+   "salt/pepper"
+  ],
+  "directions": [
+   "Cake or muffins: 1 c white cake mix - mix as directed but leave out oil - add 1 tin cherry or blueberry pie filling - bake as directed.",
+   "Potatoes: cut into sm. wedges - parboil - place on cookie sheet, sprinkle c̄ olive oil & Balsamic vinegar, salt/pepper - place ↓ broiler till brown."
+  ],
+  "notes": [
+   "Two quick cooking tips on one card. Surname reading uncertain: Surrae [Surrae?]."
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Tips - cooking - re Patricia Surrae[?].\nCake or muffins:\n1c white cake mix - mix as directed but leave out\noil - add 1 tin cherry or blueberry pie filling - bake\nas directed.\nPotatoes:\ncut into sm. wedges - parboil - place on cookie sheet\nsprinkle c̄ olive oil & Balsamic vinegar, salt/pepper -\nplace ↓ broiler till brown.",
+  "confidence": "high"
+ }
+]

@@ -1,0 +1,590 @@
+[
+ {
+  "photo": 500,
+  "kind": "continuation",
+  "title": "Zucchini Relish",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "Bring to boil & boil 15 min.",
+   "Put in sterile jars & seal."
+  ],
+  "notes": [
+   "Back of Zucchini Relish card (photo 499)"
+  ],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Bring to boil & boil 15 min\nPut in steril jars & seal.",
+  "confidence": "high"
+ },
+ {
+  "photo": 501,
+  "kind": "recipe",
+  "title": "Sweet Dill Pickles",
+  "attribution": "Mike's Mom",
+  "category": "Preserves, Pickles & Sauces",
+  "ingredients": [
+   "dill",
+   "cukes",
+   "1 tbsp salt to each qt",
+   "a pinch of alum",
+   "— Liquid —",
+   "4 c vinegar",
+   "2 c sugar",
+   "garlic"
+  ],
+  "directions": [
+   "Place dill at bottom, fill jar with cukes. Add 1 tbsp salt to each qt, a pinch of alum.",
+   "Liquid: 4 c vinegar - 2 c sugar - boil - Put 1 cup of liquid in ea. qt & fill with the rest with boiling water - add garlic & seal."
+  ],
+  "notes": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Sweet Dill Pickles (Mike's Mom)\nPlace dill at bottom, fill jar c cukes. add\n1 tbsp. salt to each qt, a pinch of alum.\nLiquid\n4c vinegar - 2c sugar - boil - Put 1 cup of\nliquid in ea. qt. & fill c the rest c boiling\nwater. - add garlic & seal.",
+  "confidence": "high"
+ },
+ {
+  "photo": 502,
+  "kind": "photo-of-box",
+  "title": "SALADS & DRESSINGS",
+  "attribution": null,
+  "category": "Other",
+  "ingredients": [],
+  "directions": [],
+  "notes": [
+   "Blank yellow-tabbed divider card labelled SALADS & DRESSINGS; no recipe text"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "SALADS &\nDRESSINGS",
+  "confidence": "high"
+ },
+ {
+  "photo": 503,
+  "kind": "recipe",
+  "title": "Chinese Cabbage Salad",
+  "attribution": "Marg. F.",
+  "category": "Soups & Salads",
+  "ingredients": [
+   "grated cabbage",
+   "sliced mushrooms",
+   "bean sprouts",
+   "green onions",
+   "1 pkg Ichiban noodles",
+   "toasted sliced almonds",
+   "sesame seeds - toasted",
+   "chow mein noodles",
+   "— Dressing —",
+   "1/2 c oil",
+   "3 tbsp soya sauce",
+   "dash of vinegar",
+   "seasoning from Ichiban noodles",
+   "1 tbsp sugar"
+  ],
+  "directions": [
+   "Toss. - make drsg. 1/2 c oil, 3 tbsp soya sauce, dash of vinegar, seasoning from Ichiban noodles, 1 tbsp sugar - mix & pour over & serve."
+  ],
+  "notes": [
+   "Re Marg. F."
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Chinese cabbage salad:  Re Marg. F.\nGrater cabbage\nsliced mushrooms\nbean sprouts\ngreen onions\nIchiban noodles 1 pkg.\ntoasted sliced almonds.\nsesame seeds - toasted.\nChow mein noodles.\nToss. - make drsg. 1/2 c oil 3 tbsp soya sauce, dash of vinegar\nseasoning from Ichiban noodles 1 tbsp sugar - mix & pour over & serve",
+  "confidence": "high"
+ },
+ {
+  "photo": 504,
+  "kind": "recipe",
+  "title": "Japanese Cabbage Salad",
+  "attribution": "Donna Coldham",
+  "category": "Soups & Salads",
+  "ingredients": [
+   "6 c shred. cabbage",
+   "2 c bean sprouts",
+   "2 green onions",
+   "1/2 c sliced roasted almonds",
+   "1/4 c roasted sesame seeds",
+   "2 c sliced mushrooms",
+   "1/2 c sunflower seeds",
+   "1 pkg noodles from Ichiban soup - crunch & add",
+   "— Dressing —",
+   "1/2 c oil",
+   "2-3 tbsp vinegar",
+   "2-4 tbsp soya sauce",
+   "1 tsp salt",
+   "1/2 tsp pepper",
+   "1 tsp sugar",
+   "soup base from beef or chicken soup"
+  ],
+  "directions": [
+   "Dressing: 1/2 c oil, 2-3 tbsp vinegar, 2-4 tbsp soya sauce - shake well. 1 tsp salt, 1/2 tsp pepper, 1 tsp sugar, soup base from beef or chicken soup."
+  ],
+  "notes": [
+   "re Donna Coldham"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Japanese Cabbage Salad - re Donna Coldham.\n6c shred. cabbage.\n2c bean sprouts\n2 green onions\n1/2 c sliced roasted almonds\n1/4 \" \" sesame seeds.\n2c \" mushrooms.\n1/2 c sunflower seeds.\n1 pkg. noodles fm Ichiban soup - crunch & add.\nDressing  1/2 c oil  } shake well.   1 tsp salt.  1 tsp sugar.\n  2-3 tbsp vinegar }              1/2 \" pepper.  soup base from beef or chicken soup.\n  2-4 \" soya sauce }",
+  "confidence": "high"
+ },
+ {
+  "photo": 505,
+  "kind": "recipe",
+  "title": "Potato Salad",
+  "attribution": null,
+  "category": "Soups & Salads",
+  "ingredients": [
+   "1 lb of potatoes - grated after cooked",
+   "1/4 tsp salt",
+   "1/4 tsp celery seed",
+   "3/8 c milk",
+   "1/2 c miracle whip",
+   "3 radishes",
+   "2 tbsp chopped chives",
+   "3 eggs - hard boiled & chopped",
+   "paprika"
+  ],
+  "directions": [
+   "Combine salt & celery seed with potatoes.",
+   "Mix milk & miracle whip & add to potatoes.",
+   "Sprinkle top with paprika."
+  ],
+  "notes": [
+   "Different handwriting (printed) than most cards"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Potato Salad\n1 lb of potatos - grated after cooked\n1/4 tsp salt        } combine\n1/4 tsp celery seed } c potatos\n3/8 c milk          } mix &\n1/2 c miracle whip  } add to potatos\n3 radishes\n2 tbsp chopped chives\n3 eggs - hard boiled & chopped\nSprinkle top c Paprika.",
+  "confidence": "high"
+ },
+ {
+  "photo": 506,
+  "kind": "recipe",
+  "title": "Tomato Salad",
+  "attribution": "Marg. Tompkins",
+  "category": "Soups & Salads",
+  "ingredients": [
+   "chop tomatoes - (not too fine or goes slushy)",
+   "chop onion (coarse - Walla Walla or sweet)",
+   "can add a garlic clove",
+   "salt & pepper",
+   "1/2 tsp - 1 tbsp apple cider vinegar",
+   "cayenne pepper - a little",
+   "1 tbsp olive oil - (can use 1 to 2 tbsp - but no more)"
+  ],
+  "directions": [
+   "Make this salad 1-2 hrs. before needing.",
+   "Toss well before serving.",
+   "P.S. Can add zucchini & or green peppers."
+  ],
+  "notes": [
+   "re: Marg. Tompkins"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Tomato Salad: re: Marg. Tompkins.\n- chop tomatoes - (not too fine or goes slushy)\n- \" onion (course - Walla Walla or sweet)\n- can add a garlic clove.\n- salt & pepper.\n1/2 tsp - 1 tbsp. apple cider vinegar\ncayenne pepper - a little.\n1 tbsp. olive oil - (can use 1 to 2 tbsp. - but no more.\n- Make this salad 1 - 2 hrs. before needing.\n- Toss well before serving.\nP.S. Can add zuccini & or green peppers.",
+  "confidence": "high"
+ },
+ {
+  "photo": 507,
+  "kind": "recipe",
+  "title": "Pistachio Salad",
+  "attribution": null,
+  "category": "Soups & Salads",
+  "ingredients": [
+   "1 pkg. pistachio pudding mix (large)",
+   "1 pkg. dream whip (mix it up)",
+   "1 cup miniature marshmallows",
+   "1 sm. can pineapple tidbits or crushed pineapple (put in juice too)"
+  ],
+  "directions": [
+   "Mix up whip cream, add rest & blend well. Sets in about 1/2 hr."
+  ],
+  "notes": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Pistachio Salad\n1 pkg. pistachio pudding mix (large)\n1 pkg. dream whip (mix it up)\n1 cup miniature marshmellows\n1 sm. can pineapple tidbits or crushed\npineapple (put in juice too)\nMix up whip cream, add rest &\nblend well. Sets in about 1/2 hr.",
+  "confidence": "high"
+ },
+ {
+  "photo": 508,
+  "kind": "clipping",
+  "title": "Make Ahead Caesar Dressing",
+  "attribution": "Victoria Times Colonist",
+  "category": "Soups & Salads",
+  "ingredients": [
+   "2 garlic cloves, crushed",
+   "2 teaspoons (10 mL) Dijon mustard",
+   "1/2 teaspoon (2 mL) sugar",
+   "1 cup (250 mL) mayonnaise",
+   "3 tablespoons (50 mL) extra virgin olive oil",
+   "2 teaspoons (10 mL) anchovy paste, or to taste",
+   "1 tablespoon (15 mL) red wine vinegar",
+   "2 tablespoons (25 mL) lemon juice",
+   "2 tablespoons (25 mL) water",
+   "1 teaspoon (5 mL) Worcestershire sauce",
+   "1/2 teaspoon (2 mL) Tabasco sauce",
+   "fresh cracked black pepper to taste (be generous)"
+  ],
+  "directions": [
+   "Place all ingredients in a bowl and whisk well to combine. Store in a tight-sealed jar in the fridge until needed."
+  ],
+  "notes": [
+   "Makes: 1 1/2 cups (375 mL)",
+   "Preparation time: 10 minutes; Cook time: None",
+   "This dressing, if kept in a tight-sealed jar in the fridge, will keep up to two weeks and offers a quick way to dress a Caesar salad. It also makes a great dip for raw vegetables or a spread for a grilled chicken breast sandwich.",
+   "Title highlighted in yellow"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Make Ahead Caesar Dressing\nMakes: 1 1/2 cups (375 mL)\nThis dressing, if kept in a tight-sealed jar in the fridge, will keep up to two weeks and offers a quick way to dress a Caesar salad. It also makes a great dip for raw vegetables or a spread for a grilled chicken breast sandwich.\nPreparation time: 10 minutes\nCook time: None\n2 garlic cloves, crushed\n2 teaspoons (10 mL) Dijon mustard\n1/2 teaspoon (2 mL) sugar\n1 cup (250 mL) mayonnaise\n3 tablespoons (50 mL) extra virgin olive oil\n2 teaspoons (10 mL) anchovy paste, or to taste\n1 tablespoon (15 mL) red wine vinegar\n2 tablespoons (25 mL) lemon juice\n2 tablespoons (25 mL) water\n1 teaspoon (5 mL) Worcestershire sauce\n1/2 teaspoon (2 mL) Tabasco sauce\nfresh cracked black pepper to taste (be generous)\nPlace all ingredients in a bowl and whisk well to combine. Store in a tight-sealed jar in the fridge until needed.\nVictoria Times Colonist",
+  "confidence": "high"
+ },
+ {
+  "photo": 509,
+  "kind": "recipe",
+  "title": "Japanese Cabbage Salad",
+  "attribution": "Donna Coldham",
+  "category": "Soups & Salads",
+  "ingredients": [
+   "6 c shredded cabbage",
+   "2 c bean sprouts",
+   "2 green onions",
+   "1/2 c slivered toasted almonds",
+   "1/4 c roasted sesame seeds",
+   "2 c sliced mushrooms",
+   "1/2 c sunflower seeds",
+   "1 pkg. nip noodles chicken or beef",
+   "— Dressing —",
+   "1/2 c oil",
+   "2-3 tbsp vinegar",
+   "2-4 tbsp soya sauce",
+   "1 tsp salt",
+   "1/2 tsp pepper",
+   "1 tsp sugar",
+   "pkg of chicken or beef base (from above)"
+  ],
+  "directions": [
+   "Dressing: mix together & shake well - add just before serving."
+  ],
+  "notes": [
+   "re: Donna Coldham",
+   "Second copy of the Japanese Cabbage Salad on photo 504"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Japanese Cabbage salad  re: Donna Coldham\n6c shredded cabbage        1/4 c roasted sesame seeds.\n2c bean sprouts            2c sliced mushrooms.\n2 green onions             1/2 c sunflower seeds.\n1/2 c slivered toasted almonds   1 pkg. nip noodles chicken or beef\nDressing:\n1/2 c oil          1 tsp. salt    } mix together &\n2-3 tbsp. vinegar  1/2 \" pepper   } shake well - add\n2-4 \" soya sauce   1 tsp. sugar   } just before serving\n- pkg of chicken or beef base (from above) }",
+  "confidence": "high"
+ },
+ {
+  "photo": 510,
+  "kind": "recipe",
+  "title": "Fresh Vegetable Salad",
+  "attribution": null,
+  "category": "Soups & Salads",
+  "ingredients": [
+   "2 c broccoli florets",
+   "2 c cauliflowerets",
+   "1/2 c chopped celery",
+   "1/2 c chopped green pepper",
+   "1/2 c chopped onion",
+   "1/4 c grated carrot",
+   "1 c mayonnaise or salad dressing",
+   "1/4 c sugar",
+   "3 tbsp grated parmesan cheese",
+   "2 bacon strips cooked & crumbled"
+  ],
+  "directions": [
+   "Toss vegetables in a lg salad bowl. In a sm. bowl combine mayonnaise, sugar, parmesan, pour over vegetables, toss to coat.",
+   "Cover & chill. Sprinkle with bacon just before serving. (8 servings)"
+  ],
+  "notes": [
+   "8 servings"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Fresh Vegetable salad.\n2c broccoli florets        1/4 c grated carrot\n2c cauliflowerets          1c mayonnaise or salad dressing\n1/2 c chopped celery       1/4 c sugar\n1/2 c \" green pepper       3 tbsp. grated parmesan cheese.\n1/2 c \" onion              2 bacon strips cooked & crumbled\nToss vegetables in a lg salad bowl. In a sm. bowl combine\nmayonnaise, sugar, parmesan, pour over vegetables, toss to coat.\nCover & chill. Sprinkle c bacon just be serving. (8 servings)",
+  "confidence": "high"
+ },
+ {
+  "photo": 511,
+  "kind": "recipe",
+  "title": "California Salad",
+  "attribution": "Mary Ann",
+  "category": "Soups & Salads",
+  "ingredients": [
+   "— Drsg. —",
+   "1/2 c oil - (1/4 olive & 1/4 veg.)",
+   "4 tsp white wine vinegar (or red)",
+   "2 tbsp honey",
+   "pinch salt",
+   "— Salad —",
+   "spinach",
+   "mandarin orange segments",
+   "green, yellow, red peppers",
+   "mixed nuts",
+   "mushrooms"
+  ],
+  "directions": [],
+  "notes": [
+   "(Mary Ann)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "California Salad.  (Mary Ann)\nDrsg.\n  1/2 c oil - (1/4 olive & 1/4 veg.)\n  4 tsp. - white wine vinegar (or red)\n  2 tbsp. honey.\n  pinch salt.\nSpinach.\n- mandarin orange segments\n- green, yellow, red peppers.\n- mixed nuts. - mushrooms.",
+  "confidence": "high"
+ },
+ {
+  "photo": 512,
+  "kind": "clipping",
+  "title": "Colorful Rotini Pasta Salad",
+  "attribution": "Mary Ann",
+  "category": "Soups & Salads",
+  "ingredients": [
+   "2 1/2 cups rotini pasta cooked in salted boiling water. Drain; run under cold water and cool.",
+   "Vegetables - Use any or all. Dice small or large. English cucumber, seeded tomatoes, celery, carrots, small broccoli flowers and peeled stems, green onions, zucchini, and small peas.",
+   "2 Tablespoons Parmesan cheese",
+   "— Dressing —",
+   "3/4 cup Italian dressing",
+   "3 Tablespoons mayonnaise",
+   "1 Tablespoon lemon juice",
+   "If too thick, thin with a little vinegar"
+  ],
+  "directions": [
+   "1. Beat together well and pour over pasta and veggies. Let stand for several hours before serving. Will hold up in fridge for several days.",
+   "2. Or use Ranch Dressing to which you have added 2 Tablespoons lemon juice with lemon and herb seasoning to taste."
+  ],
+  "notes": [
+   "Handwritten at top: From Mary Ann - good",
+   "Page number 38 (from a cookbook/photocopy)",
+   "Printed intro: I love this twisted pasta because each little twist holds a taste of the dressing. I use white with a little green bought in bulk bins. I like this better than the many colors.",
+   "( I found different brands of dressing gave me different results but they were all good)",
+   "Check mark in margin beside dressing"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "From Mary Ann\ngood\n38\nColorful Rotini Pasta Salad\nI love this twisted pasta because each little twist holds a taste of the dressing. I use white with a little green bought in bulk bins. I like this better than the many colors.\n2 1/2 cups rotini pasta cooked in salted boiling water. Drain; run under cold water and cool.\nVegetables- Use any or all. Dice small or large. English cucumber, seeded tomatoes, celery, carrots, small broccoli flowers and peeled stems, green onions, zucchini, and small peas.\n2 Tablespoons Parmesan cheese\nDressing\n3/4 cup Italian dressing\n3 Tablespoons mayonnaise\n1 Tablespoon lemon juice\nIf too thick, thin with a little vinegar\n( I found different brands of dressing gave me different results but they were all good)\n1. Beat together well and pour over pasta and veggies. Let stand for several hours before serving. Will hold up in fridge for several days.\n2. Or use Ranch Dressing to which you have added 2 Tablespoons lemon juice with lemon and herb seasoning to taste.",
+  "confidence": "high"
+ },
+ {
+  "photo": 513,
+  "kind": "recipe",
+  "title": "Papaya Salad Dressing",
+  "attribution": "Mary Ann",
+  "category": "Soups & Salads",
+  "ingredients": [
+   "1/2 c oil",
+   "1/2 c white vinegar",
+   "2 tbsp papaya seed - grind",
+   "1/2 tsp dry mustard",
+   "1/4 c sugar",
+   "(1 avocado & 1 papaya in salad)"
+  ],
+  "directions": [
+   "All ingred. in blender.",
+   "Use butter lettuce."
+  ],
+  "notes": [
+   "re Mary Ann",
+   "Written on folded lined notepaper",
+   "The word after 'papaya seed =' is struck through, looks like 'grind'"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Papaya salad dressing: re Mary Ann's\n1/2 c oil                     all ingred. in blender\n1/2 c white vinegar\n2 tbsp papaya seed = [grind - struck out?] -\n1/2 tsp dry mustard\n1/4 c sugar.\n(1 avocado. & 1 papaya in salad) - c\nuse butter lettuce.",
+  "confidence": "medium"
+ },
+ {
+  "photo": 514,
+  "kind": "clipping",
+  "title": "Broccoli Mandarin Salad",
+  "attribution": null,
+  "category": "Soups & Salads",
+  "ingredients": [
+   "— Dressing —",
+   "2 eggs",
+   "1/2 cup sugar (125 mL)",
+   "1 tsp. cornstarch (5 mL)",
+   "1 tsp. dry mustard (5 mL)",
+   "1/4 cup white wine vinegar (60 mL)",
+   "1/4 cup water (60 mL)",
+   "1/2 cup mayonnaise (125 mL)",
+   "— Salad —",
+   "4 cups fresh broccoli florets (1 L)",
+   "1/2 cup raisins (125 mL)",
+   "8 slices bacon, cooked & chopped",
+   "2 cups sliced fresh mushrooms (500 mL)",
+   "1/2 cup slivered toasted almonds (125 mL)",
+   "10 oz. can mandarin oranges, drained (284 mL)",
+   "1/2 red onion, sliced"
+  ],
+  "directions": [
+   "To make dressing: In a saucepan, whisk together eggs, sugar, cornstarch and dry mustard. Add vinegar and water and cook slowly until thickened. Remove from heat and stir in mayonnaise. Cool.",
+   "To make salad: Marinate broccoli in dressing for several hours. Add remaining ingredients and toss well. Serves 6. (See picture - page 53.)"
+  ],
+  "notes": [
+   "Even George will like this!",
+   "Serves 6",
+   "Printed page torn from a spiral-bound cookbook"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "BROCCOLI MANDARIN SALAD\nEVEN GEORGE WILL LIKE THIS!\nDRESSING\n2 EGGS\n1/2 CUP SUGAR  125 mL\n1 TSP. CORNSTARCH  5 mL\n1 TSP. DRY MUSTARD  5 mL\n1/4 CUP WHITE WINE VINEGAR  60 mL\n1/4 CUP WATER  60 mL\n1/2 CUP MAYONNAISE  125 mL\nSALAD\n4 CUPS FRESH BROCCOLI FLORETS  1 L\n1/2 CUP RAISINS  125 mL\n8 SLICES BACON, COOKED & CHOPPED\n2 CUPS SLICED FRESH MUSHROOMS  500 mL\n1/2 CUP SLIVERED TOASTED ALMONDS  125 mL\n10 OZ. CAN MANDARIN ORANGES, DRAINED  284 mL\n1/2 RED ONION, SLICED\nTO MAKE DRESSING: IN A SAUCEPAN, WHISK TOGETHER EGGS, SUGAR, CORNSTARCH AND DRY MUSTARD. ADD VINEGAR AND WATER AND COOK SLOWLY UNTIL THICKENED. REMOVE FROM HEAT AND STIR IN MAYONNAISE. COOL.\nTO MAKE SALAD: MARINATE BROCCOLI IN DRESSING FOR SEVERAL HOURS. ADD REMAINING INGREDIENTS AND TOSS WELL. SERVES 6. (SEE PICTURE - PAGE 53.)",
+  "confidence": "high"
+ },
+ {
+  "photo": 515,
+  "kind": "recipe",
+  "title": "Pineapple Souffle",
+  "attribution": "Mrs. Evans",
+  "category": "Desserts & Sweets",
+  "ingredients": [
+   "1 small tin crushed pineapple",
+   "1/2 lb. marshmallows cut up a bit",
+   "1/4 pt. whipping cream"
+  ],
+  "directions": [
+   "Juice in pineapple. Pour pineapple over marshmallows. Let stand till marshmallows melt away.",
+   "1/4 pt. whipping cream, beat well, beat into marshmallows and pineapple. (Serves 3)."
+  ],
+  "notes": [
+   "(Mrs. Evans)",
+   "Serves 3"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Pineapple Souffle. (Mrs. Evans).\n1 small tin crushed pineapple\n1/2 lb. marshmallows cut up a bit\njuice in pineapple. Pour pineapple\nover marshmallows. Let stand till\nmarshmallows melt away.\n1/4 pt. whipping cream, beat\nwell, beat into marshmallows\nand pineapple. (Serves 3).",
+  "confidence": "high"
+ },
+ {
+  "photo": 516,
+  "kind": "recipe",
+  "title": "Broccoli Salad",
+  "attribution": "Gen. Fahlman",
+  "category": "Soups & Salads",
+  "ingredients": [
+   "4-5 c broccoli - chopped into flowers",
+   "1 c raisins",
+   "1 c sunflower seeds",
+   "1 c bacon bits (imitation)",
+   "1/4 c chopped red onion",
+   "— Drsg —",
+   "1/2 c mayo",
+   "2 tbsp sugar",
+   "2 tsp vinegar",
+   "1/4 tsp salt"
+  ],
+  "directions": [
+   "Drsg: mix together & pour over - above."
+  ],
+  "notes": [
+   "re Gen. Fahlman"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Broccoli Salad -  re Gen. Fahlman\n4-5c broccoli - chopped into flowers.\n1c raisins\n1c sunflower seeds\n1c bacon bits (imitation)\n1/4 c chopped red onion\nDrsg:\n1/2 c mayo      }\n2 tbsp. sugar   } mix together & pour over - above.\n2 tsp. vinegar  }\n1/4 \" salt      }",
+  "confidence": "high"
+ },
+ {
+  "photo": 517,
+  "kind": "recipe",
+  "title": "Potato Salad",
+  "attribution": "Mary Ann",
+  "category": "Soups & Salads",
+  "ingredients": [
+   "1 lb. potatoes",
+   "1/4 tsp salt",
+   "1/4 tsp celery seed",
+   "3/8 c milk",
+   "1/2 c Miracle Whip light",
+   "3 radishes (more or less)",
+   "2 tbsp chives - (to taste)",
+   "3 eggs hard boiled & chopped"
+  ],
+  "directions": [
+   "Peel/boil potatoes until tender. Grate. Combine with salt & celery seed. Mix milk & salad dressing - add to potatoes"
+  ],
+  "notes": [
+   "(re Mary Ann)",
+   "good",
+   "continues on back (photo 518)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Potato Salad - (re Mary Ann)   good.\n1 lb. potatoes.\n1/4 tsp. salt\n1/4 \" celery seed.\n3/8 c milk\n1/2 c Miracle Whip. light.\n3 radishes (more or less)\n2 tbsp chives - (to taste)\n3 eggs hard boiled & chopped.\nPeel/boil potatoes until tender. Grate. Combine c salt\n& celery seed. Mix milk & salad dressing - add to potatoes",
+  "confidence": "high"
+ },
+ {
+  "photo": 518,
+  "kind": "continuation",
+  "title": "Potato Salad",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "add sliced radishes, chopped chives & eggs & combine.",
+   "Sprinkle top of salad with paprika, if desired."
+  ],
+  "notes": [
+   "Back of Potato Salad (re Mary Ann) card, photo 517"
+  ],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "add sliced radishes, chopped chives & eggs & combine.\nSprinkle top of salad c paprika, if desired.",
+  "confidence": "high"
+ },
+ {
+  "photo": 519,
+  "kind": "recipe",
+  "title": "Old Fashioned Potato Salad",
+  "attribution": "Readers Digest",
+  "category": "Soups & Salads",
+  "ingredients": [
+   "1 1/2 lbs new or small red potatoes, halved or quartered",
+   "2 eggs",
+   "2 stalks celery - diced",
+   "1 sm. cucumber, peeled, seeded, diced",
+   "4 scallions sliced",
+   "— Dressing —",
+   "1/2 c plain yogurt",
+   "1/4 c low fat sour cream",
+   "1/4 c low fat mayo",
+   "2 tbsp red wine vinegar",
+   "1 tbsp Dijon mustard",
+   "1/8 tsp salt, pepper",
+   "2 tbsp chopped parsley"
+  ],
+  "directions": [
+   "Steam potatoes 10-15 min - tender. Transfer to a large bowl. Boil eggs 8 min. - chill, peel, coarsely chop - add to potatoes along with celery, cucumber, & scallions. Make dressing (see over)"
+  ],
+  "notes": [
+   "re: readers digest",
+   "(see over) - continues on photo 520"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Old Fashioned Potato Salad - re: readers digest.\n1 1/2 lbs - new or small red potatoes      1/2 c plain yogurt\n  halved or quartered                      1/4 low fat sour cream\n2 eggs                                     1/4 \" \" mayo\n2 stalks celery - diced                    2 tbsp. red wine vinegar\n1 sm. cucumber, peeled, seeded, diced.     1 \" Dijon mustard\n4 scallions sliced                         1/8 tsp - salt, pepper\nDirections:                                2 tbsp. chopped parsley\nsteam potatoes 10-15 min - tender. Transfer to a large bowl. Boil\neggs. 8 min. - chill, peel, coarsely chop. - add to potatoes along\nc celery, cucumber, & scallions. Make dressing  (see over)",
+  "confidence": "high"
+ }
+]

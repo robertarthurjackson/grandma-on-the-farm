@@ -1,0 +1,567 @@
+[
+  {
+    "photo": 200,
+    "kind": "continuation",
+    "title": "Cinnamon Loaf",
+    "attribution": "Judy F.",
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "remaining cinnamon on top.",
+      "Bake @ 350° for 1 hr."
+    ],
+    "notes": [
+      "Back of the Cinnamon Loaf (Judy F.) card from photo 199; only one line of text at the top of the card."
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "remaining cinnamon on top. Bake @ 350° for 1 hr.",
+    "confidence": "high"
+  },
+  {
+    "photo": 201,
+    "kind": "recipe",
+    "title": "Cheese Sticks",
+    "attribution": null,
+    "category": "Breads & Buns",
+    "ingredients": [
+      "Grated cheese",
+      "1 c flour",
+      "1 1/2 tsp bk. pwd.",
+      "1/2 tsp salt",
+      "(sift flour, bk. pwd. & salt together)",
+      "2 tbsp marg or shortening",
+      "1/2 c or more cheese, grated",
+      "1/3 c milk or water"
+    ],
+    "directions": [
+      "Sift flour, bk. pwd. & salt.",
+      "Cut in 2 tbsp marg or shortening, add 1/2 c or more cheese grated.",
+      "1/3 c milk or water.",
+      "Roll - between hands.",
+      "Bake @ 425° - 8-10 min."
+    ],
+    "notes": [
+      "Bake time 8-10 min is underlined."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Cheese Sticks\nGrated cheese.\n1 c flour\n1 1/2 tsp. bk. pwd.  } sift\n1/2 \" salt\n\nCut in 2 tbsp. marg or shortening add 1/2 c or\nmore cheese grated\n1/3 c milk or water\nroll - between hands -          Bake @ 425° - 8-10 min",
+    "confidence": "high"
+  },
+  {
+    "photo": 202,
+    "kind": "recipe",
+    "title": "Bread (Candy Watson's recipe)",
+    "attribution": "Candy Watson",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "— First group (bracketed) —",
+      "1 1/2 c cracked wheat",
+      "1/4 c oil",
+      "1/4 c molasses or honey",
+      "1 tbsp salt",
+      "1 1/2 c boiling water",
+      "+ 1 c cold water",
+      "— Flour —",
+      "4 c white flour",
+      "2 c whole wheat",
+      "more white flour if needed, to about 1 c",
+      "— Yeast —",
+      "1 c warm water",
+      "1 tsp sugar",
+      "1 1/2 tbsp yeast"
+    ],
+    "directions": [
+      "Bake @ 350° - 40 min to 1 hour, or @ 400° - for 40 min."
+    ],
+    "notes": [
+      "(Recipe dbld. makes 5 loaves.)",
+      "OVER - continues on back (photo 203) with variations."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Bread   (Candy Watson's recipe)\n{ 1 1/2 c cracked wheat          4 c white flour\n{ 1/4 c oil                      2 c whole wheat\n{ 1/4 c molasses or honey        more white flour if needed\n{ 1 tbsp. salt                        to about 1 c.\n{ 1 1/2 c boiling water\n  + 1 c cold water\n\n1 c warm water          Bake @ 350° - 40 min to 1 hour.\n1 tsp sugar               or @ 400° - for 40 min.\n1 1/2 tbsp. yeast   (Recipe dbld. makes 5 loaves.)   OVER",
+    "confidence": "high"
+  },
+  {
+    "photo": 203,
+    "kind": "continuation",
+    "title": "Bread (Candy Watson's recipe)",
+    "attribution": "Candy Watson",
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Can try 1 c cracked wheat or 1 c (or more) porridge.",
+      "- use some bran, wheat germ, soya flour - for variety uncooked oatmeal too.",
+      "1 egg beaten & added - softer texture."
+    ],
+    "notes": [
+      "Back of Candy Watson's Bread card (photo 202): variation ideas."
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Can try 1 c cracked wheat or\n        1 c (or more) porridge\n\n- use some bran          soya flour - for variety uncooked\n        wheat germ.              oatmeal too.\n\n1 egg beaten & added - softer texture.",
+    "confidence": "high"
+  },
+  {
+    "photo": 204,
+    "kind": "recipe",
+    "title": "Cinnamon Buns",
+    "attribution": "Sask. paper",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "2 c boiled milk - cooled",
+      "2 c boiled H2O - cooled",
+      "(or in microwave - heat 125-130° instead)",
+      "1/2 c marg. or oil",
+      "5 whole beaten eggs",
+      "1 tbsp salt",
+      "1 c sugar",
+      "2 pkgs yeast",
+      "1/2 c H2O + 1 tbsp sugar (for old way - see above)",
+      "Flour to make soft dough - approx 11-12 c"
+    ],
+    "directions": [
+      "Dissolve yeast in the 1/2 c H2O - which has been mixed c sugar. Let stand 10 min."
+    ],
+    "notes": [
+      "V.G.",
+      "From a Sask. (Saskatchewan) paper.",
+      "Continues on back (photo 205)."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Cinnamon Buns.   (Sask. paper)   V.G.\n2 c boiled milk - cooled    } in microwave - heat 125-130\n2 c   \"    H2O    \"                 instead\n1/2 c marg. or oil\n5 whole beaten eggs\n1 tbsp salt\n1 c sugar\n2 pkgs yeast\n1/2 c H2O & 1 tbsp. sugar (for old way - see above)\nFlour to make soft dough. approx 11-12 c. Dissolve yeast in\nthe 1/2 c H2O - which has been mixed c sugar. Let stand 10 min.",
+    "confidence": "high"
+  },
+  {
+    "photo": 205,
+    "kind": "continuation",
+    "title": "Cinnamon Buns",
+    "attribution": "Sask. paper",
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "add all the liquids in order - then flour to make a soft dough.",
+      "Let rise 1 hour & knead. Let rise again till dbl.",
+      "Roll out, spread c soft butter & sprinkle c yellow sugar & cinnamon. Roll like jelly roll.",
+      "Raisins or mixed fruit may be added before rolling.",
+      "Cut in 1\" slices. Let rise. Bake @ 325° till done."
+    ],
+    "notes": [
+      "Back of Cinnamon Buns (Sask. paper) card, photo 204."
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "add all the liquids in order - then flour to make a\nsoft dough. Let rise 1 hour & knead. Let rise again\ntill dbl. Roll out, spread c soft butter & sprinkle\nc yellow sugar & cinnamon. Roll like jelly roll.\nRaisins or mixed fruit may be added before rolling.\nCut in 1\" slices. Let rise. Bake @ 325° till done.",
+    "confidence": "high"
+  },
+  {
+    "photo": 206,
+    "kind": "clipping",
+    "title": "German Dark Rye Bread",
+    "attribution": "Purity Cookbook (newspaper clipping)",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "2 cups hot strong coffee (500 mL)",
+      "1/4 cup shortening (50 mL)",
+      "2/3 cup molasses (150 mL)",
+      "1 Tbsp. salt (15 mL)",
+      "2 tsp. sugar (10 mL)",
+      "1 cup lukewarm water (250 mL)",
+      "2 Tbsp. active dry yeast (25 mL)",
+      "5 cups flour (1250 mL)",
+      "4 cups dry rye flour (1 L)",
+      "1/4 cup oat bran (50 mL)"
+    ],
+    "directions": [
+      "In a large mixing bowl pour in hot coffee. Stir in shortening, molasses and salt and continue stirring until shortening melts.",
+      "In a smaller bowl pour in lukewarm water. Sprinkle yeast over water and let stand 10 minutes. Stir with a fork and add to coffee mixture.",
+      "Beat in by hand or with an electric mixer 3 cups (750 mL) flour and 2 cups (500 mL) rye flour. Then by hand add remaining flours, working the last portion in with a rotating motion of the hand.",
+      "Turn dough onto a floured surface and knead 8 to 10 minutes. Shape into a smooth ball and place in a deep greased bowl, rotating ball to cover with grease. Cover with a damp cloth and in a warm place allow to rise 1 1/2 times original size (about 1 1/2 hours).",
+      "Punch down, shape into 3 round loaves. Roll each loaf in oat bran to garnish the top. Place on greased cookie sheets, cover and allow to rise again 1 1/2 times in volume (about 1 hour).",
+      "Bake in a 400° F (200° C) oven for 30 minutes or until hollow sounding when tapped."
+    ],
+    "notes": [
+      "Printed newspaper clipping with holly decoration (Christmas issue). Intro: 'From the Purity Cookbook this round loaf is a warm accompaniment to our savory oyster stew.'"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "GERMAN DARK RYE BREAD\nFrom the Purity Cookbook this round loaf is a warm accompaniment to our savory oyster stew.\n2 cups  hot strong coffee  500 mL\n1/4 cup  shortening  50 mL\n2/3 cup  molasses  150 mL\n1 Tbsp.  salt  15 mL\n2 tsp.  sugar  10 mL\n1 cup  lukewarm water  250 mL\n2 Tbsp.  active dry yeast  25 mL\n5 cups  flour  1250 mL\n4 cups  dry rye flour  1 L\n1/4 cup  oat bran  50 mL\nIn a large mixing bowl pour in hot coffee. Stir in shortening, molasses and salt and continue stirring until shortening melts.\nIn a smaller bowl pour in lukewarm water. Sprinkle yeast over water and let stand 10 minutes. Stir with a fork and add to coffee mixture.\nBeat in by hand or with and electric mixer 3 cups (750 mL) flour and 2 cups (500 mL) rye flour. Then by hand add remaining flours, working the last portion in with a rotating motion of the hand.\nTurn dough onto a floured surface and knead 8 to 10 minutes. Shape into a smooth ball and place in a deep greased bowl, rotating ball to cover with grease. Cover with a damp cloth and in a warm place allow to rise 1 1/2 times original size (about 1 1/2 hours). Punch down, shape into 3 round loaves. Roll each loaf in oat bran to garnish the top. Place on greased cookie sheets, cover and allow to rise again 1 1/2 times in volume (about 1 hour). Bake in a 400° F (200° C) oven for 30 minutes or until hollow sounding when tapped.",
+    "confidence": "high"
+  },
+  {
+    "photo": 207,
+    "kind": "recipe",
+    "title": "Potato Zucchini Pancakes",
+    "attribution": null,
+    "category": "Vegetables & Sides",
+    "ingredients": [
+      "2 lg. zucchini, grated (about 3 cups)",
+      "1 tsp salt (divided)",
+      "3 lg. potatoes",
+      "2 eggs, light beaten",
+      "1 onion - chopped fine",
+      "1 tsp dried rosemary, crushed",
+      "1/4 tsp pepper",
+      "1/3 c flour",
+      "oil to fry"
+    ],
+    "directions": [
+      "Shred zucchini - & place in colander, sprinkle c 1/2 tsp salt. Place colander on lg. plate. Let stand 30 min.",
+      "Place zucchini in clean lg. dish towel - squeeze dry. - Put zucchini in bowl - shred potatoes & squeeze dry - add to zucchini.",
+      "Add eggs, onion, rosemary, remaining 1/2 tsp salt, pepper, stir well. - Add flour.",
+      "Heat oil - add about 1/4 c - flatten. Cook till golden - serve c [?]"
+    ],
+    "notes": [
+      "'over' written at bottom left - the back of the card (photo 208) is Horseradish Sauce, likely to serve with these.",
+      "Last line partly cut off at bottom of photo: 'cook till golden - serve c [sour cream? / horseradish sauce?]'.",
+      "'divided' after 1 tsp salt appears crossed out; 'grated' inserted above 'zucchini'."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Potato Zucchini Pancakes\n                    grated\n2 lg. zucchini ^ (about 3 cups).   | Shred zucchini - & place in colander,\n1 tsp. salt. (divided)             | sprinkle c 1/2 tsp salt. Place\n3 lg. potatoes                     | colander on lg. plate. Let stand\n2 eggs light beaten                | 30 min. - Place zucchini in clean\n1 onion - chopped fine             | lg. dish towel - squeeze dry. - Put\n1 tsp. dried rosemary crushed      | zucchini in bowl - shred potatoes &\n1/4 \" pepper                       | squeeze dry. - add to zucchini.\n1/3 c flour.                       | Add eggs, onion, rosemary, remaining\n- oil to fry.                      | 1/2 tsp salt, pepper, stir well. - Add\n           over                    | flour. - Heat oil - add about 1/4 c. - flatten\n                                   | cook till golden - serve c [?]",
+    "confidence": "medium"
+  },
+  {
+    "photo": 208,
+    "kind": "recipe",
+    "title": "Horseradish Sauce",
+    "attribution": null,
+    "category": "Preserves, Pickles & Sauces",
+    "ingredients": [
+      "[1/2?] c sour cream",
+      "[1?] tbsp prep. horseradish",
+      "[?] tbsp milk",
+      "[1/2?] tsp Dijon-style mustard",
+      "[1/4?] tsp Worcestershire sauce",
+      "[1/8?] tsp sugar",
+      "[1/8?] tsp salt",
+      "pinch pepper"
+    ],
+    "directions": [
+      "Stir tog. cream, horseradish, milk, mustard, Worcestershire sauce, sugar, salt, pepper. Cover & chill."
+    ],
+    "notes": [
+      "Back of the Potato Zucchini Pancakes card (photo 207 said 'over'); presumably served with the pancakes.",
+      "Left edge of card is cut off in the photo, so quantities are partly missing / uncertain."
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Horseradish Sauce\n[1/2?] c sour cream\n[1?] tbsp. prep. horseradish\n[?] \" milk\n[1/2?] tsp. Dijon-style mustard\n[1/4?] \" Worcestershire sauce\n[1/8?] \" sugar\n[1/8?] \" salt\npinch pepper.\nStir tog. cream, horseradish, milk, mustard, Worcestershire sauce,\nsugar, salt, pepper. - Cover & chill.",
+    "confidence": "medium"
+  },
+  {
+    "photo": 209,
+    "kind": "recipe",
+    "title": "Hot Cross Buns",
+    "attribution": null,
+    "category": "Breads & Buns",
+    "ingredients": [
+      "2 pkg. dry yeast",
+      "1/2 c sugar",
+      "3/4 tsp salt",
+      "3/4 tsp ground allspice",
+      "about 6 c flour",
+      "1 1/2 c milk",
+      "6 tbsp marg or butter",
+      "1 1/2 tsp gr. orange peel",
+      "4 lg eggs",
+      "1 c dark raisins",
+      "3/4 c confectioners sugar"
+    ],
+    "directions": [],
+    "notes": [
+      "'over' - directions on back (photo 210).",
+      "Left edge slightly cropped; '6 tbsp' and 'about 6 c' inferred from partly visible digits."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Hot Cross Buns.\n2 pkg. dry yeast\n1/2 c. sugar            3/4 c confectioners sugar.\n3/4 tsp. salt\n3/4 \" ground allspice\nabout 6 c flour\n1 1/2 c milk                    over\n6 tbsp. marg or butter\n1 1/2 tsp gr. orange peel.\n4 lg eggs.\n1 c dark raisins",
+    "confidence": "high"
+  },
+  {
+    "photo": 210,
+    "kind": "continuation",
+    "title": "Hot Cross Buns",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Combine 1st 4 ingred & 2 c flour. In saucepan heat milk & marg to 120-130°.",
+      "With mixer on low beat liquid into dry ingred. At med. speed beat 2 min. Beat in peel, 3 eggs, 1 1/2 c flour, beat 2 min.",
+      "Stir in raisins & 2 c flour. On floured surface, knead dough till smooth & elastic, working in 1/2 c flour.",
+      "Shape into ball, place in greased bowl. Cover let rise. Punch down. Cut into 24 pcs. Cover let rest 15 min.",
+      "Grease 13x9\" bk pan. Shape into balls place in pan. Cover, let rise. Beat remaining egg. Cut cross in bun brush c egg.",
+      "Bake @ 375° for 20-25 min. Cool in pan - In bowl mix confec. sugar & 1 tbsp H2O - pipe across each bun."
+    ],
+    "notes": [
+      "Back of Hot Cross Buns card (photo 209)."
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Combine 1st 4 ingred & 2 c flour. In saucepan heat\nmilk & marg to 120-130°. With mixer on low\nbeat liquid into dry ingred. At med. speed. beat\n2 min. Beat in peel, 3 eggs, 1 1/2 c flour, beat 2 min.\nStir in raisins & 2 c flour. On floured surface, knead\ndough till smooth & elastic, working in 1/2 c flour. Shape\ninto ball, place in greased bowl. Cover let rise. Punch down.\nCut into 24 pcs. Cover let rest 15 min. Grease 13x9\" bk pan.\nShape into balls place in pan. Cover, let rise. Beat remaining\negg. Cut cross in bun brush c egg. Bake @ 375° for 20-25 min.\nCool in pan - In bowl mix confec. sugar & 1 tbsp. H2O - pipe across\n                                                        each bun.",
+    "confidence": "high"
+  },
+  {
+    "photo": 211,
+    "kind": "recipe",
+    "title": "English Muffin Cheese Loaf",
+    "attribution": null,
+    "category": "Breads & Buns",
+    "ingredients": [
+      "1 tsp sugar",
+      "1/4 c lukewarm water",
+      "1 Tbsp. yeast",
+      "1 c milk",
+      "1 tsp. salt",
+      "2 1/2 c flour",
+      "1 tsp. dry mustard",
+      "1/4 tsp. baking soda",
+      "3/4 c grated cheddar cheese",
+      "2 Tbsp. cornmeal"
+    ],
+    "directions": [],
+    "notes": [
+      "Different handwriting (printed, not Grandma's cursive). Directions on back (photo 212)."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "ENGLISH MUFFIN CHEESE LOAF\n1 tsp Sugar\n1/4 c lukewarm water\n1 Tbsp. yeast\n1 c milk\n1 tsp. Salt\n2 1/2 c flour\n1 tsp. dry mustard\n1/4 tsp. baking soda\n3/4 c grated cheddar cheese\n2 Tbsp. cornmeal",
+    "confidence": "high"
+  },
+  {
+    "photo": 212,
+    "kind": "continuation",
+    "title": "English Muffin Cheese Loaf",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "In lrg. bowl, dissolve sugar in water. Sprinkle yeast over & let stand 10 min.",
+      "In saucepan combine milk & salt. Scald & let cool to lukewarm. Add to dissolved yeast.",
+      "Add 1 c flour, mustard, baking soda & cheese; mix until smooth. Stir in remaining flour.",
+      "Grease 8x4\" loaf pan & dust c cornmeal. Place dough in pan & sprinkle with cornmeal. Cover & let rise in warm place for aprox. 45 min.",
+      "Bake in 400° oven for 25 min. Remove from pan & cool on rack."
+    ],
+    "notes": [
+      "- recipe may be doubled."
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "In lrg. bowl, dissolve sugar in water. Sprinkle yeast over &\nlet stand 10 min.  In saucepan combine milk & salt.\nScald & let cool to lukewarm. Add to dissolved yeast.\nAdd 1 c flour, mustard, baking soda & cheese; mix\nuntil smooth. Stir in remaining flour.\n   Grease 8x4\" loaf pan & dust c cornmeal. Place\ndough in pan & sprinkle with cornmeal. Cover & let rise\nin warm place for aprox. 45 min.\n   Bake in 400° oven for 25 min. Remove from pan\n& cool on rack.\n   - recipe may be doubled.",
+    "confidence": "high"
+  },
+  {
+    "photo": 213,
+    "kind": "recipe",
+    "title": "Zucchini Cheese Pie",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "1/2 c cheddar cheese, grated",
+      "3 c shredded zucchini",
+      "1 c biscuit mix",
+      "1/2 c oil",
+      "1 tbsp chopped parsley",
+      "4 eggs",
+      "salt & pepper to taste"
+    ],
+    "directions": [
+      "Mix cheese, zucchini, biscuit mix, oil & parsley together.",
+      "In a bowl beat eggs, salt, pepper, & mix c other ingred.",
+      "Pour into 9\" pie plate & bake @ 375° for 40 min."
+    ],
+    "notes": [
+      "note: Try adding a little onion & a little more cheese - (sharp) - Can sprinkle top c Parmesan",
+      "Written sideways in right margin: 'cut in wedges & serve c salad'."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Zucchini Cheese Pie.                 note:\n1/2 c cheddar cheese grated.        Try adding a little\n3 c shredded zucchini               onion & a little more\n1 c biscuit mix                      cheese - (sharp -\n1/2 c oil                            Can sprinkle top c\n1 tbsp. chopped parsley.             Parmesan\n4 eggs                                        [sideways: cut in wedges & serve c salad]\nsalt & pepper to taste\nMix cheese, zucchini, biscuit mix, oil & parsley together.\nIn a bowl beat eggs, salt, pepper, & mix c other\ningred. Pour into 9\" pie plate & bake @ 375° for 40 min.",
+    "confidence": "high"
+  },
+  {
+    "photo": 214,
+    "kind": "recipe",
+    "title": "Medugorje Bread",
+    "attribution": "recipe from Medugorje",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "1 1/2 c oatmeal",
+      "1/2 c raw bran",
+      "2 c flour",
+      "2 tsp bk. soda",
+      "1 tsp salt",
+      "3 tbsp liquid honey or molasses",
+      "2 1/2 c yogurt - plain",
+      "3/4 c sunflower seeds (optional) - for added flavour",
+      "2 bread pans - greased"
+    ],
+    "directions": [
+      "Mix well. Spread in 2 bread pans about 2\" thick.",
+      "Bake @ 400° for 30-45 min.",
+      "Remember this bread will not rise."
+    ],
+    "notes": [
+      "N.B. Instead of yogurt, you can use 1 1/2 - 2 c milk."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Medugorje Bread. (recipe from Medugorje)\n1 1/2 c oatmeal          1 tsp. salt\n1/2 c raw bran           3 tbsp. liquid honey or molasses\n2 c flour                2 1/2 c yogurt - plain.\n2 tsp. bk. soda.         3/4 c sunflower seeds - (optional) -\n2 bread pans - greased        for added flavour.\nMix well. spread in 2 bread pans about\n2\" thick. Bake @ 400° for 30-45 min. Remember\nthis bread will not rise.\nN.B. Instead of yogurt, you can use 1 1/2 - 2 c milk.",
+    "confidence": "high"
+  },
+  {
+    "photo": 215,
+    "kind": "recipe",
+    "title": "Coffee Cake Muffins",
+    "attribution": null,
+    "category": "Breads & Buns",
+    "ingredients": [
+      "1 1/2 c flour",
+      "2 tsp bk. pwd.",
+      "1/2 tsp salt",
+      "1/4 c margarine",
+      "1/2 c sugar",
+      "1 egg",
+      "3/4 c milk",
+      "1/2 tsp vanilla",
+      "— Spice Mix - top —",
+      "1/2 c packed brown sugar",
+      "2 tbsp flour",
+      "1 tsp cinnamon"
+    ],
+    "directions": [
+      "Bake @ 400° - 20-25 min.",
+      "Put flour, bk. pwd. & salt in bowl. - make well -"
+    ],
+    "notes": [
+      "Continues on back (photo 216)."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Coffee Cake Muffins - Bake @ 400° - 20-25 min\n1 1/2 c flour            1/2 c sugar\n2 tsp. bk. pwd.          1 egg\n1/2 \" salt               3/4 c milk\n1/4 c margarine          1/2 tsp. vanilla\n   Spice Mix - top -\n1/2 c packed brown sugar\n2 tbsp. flour\n1 tsp. cinnamon\nPut flour, bk. pwd. & salt in bowl. - make well -",
+    "confidence": "high"
+  },
+  {
+    "photo": 216,
+    "kind": "continuation",
+    "title": "Coffee Cake Muffins",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Beat margarine, sugar & egg tog. Mix in milk & vanilla. Pour into well. Stir to moisten.",
+      "Spoon 1/2 of batter into greased pans, 1/3 full - sprinkle spice on top - batter, - & top c spice mix."
+    ],
+    "notes": [
+      "Back of Coffee Cake Muffins card (photo 215)."
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Beat margarine, sugar & egg tog. Mix in milk &\nvanilla. Pour into well. Stir to moisten - Spoon\n1/2 of batter into greased pans. 1/3 full - sprinkle\nspice on top - batter, - & top c spice mix.",
+    "confidence": "high"
+  },
+  {
+    "photo": 217,
+    "kind": "recipe",
+    "title": "Evie's Bread (Porridge)",
+    "attribution": "Evie",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "1 c warm water",
+      "2 tbsp yeast",
+      "1 tsp sugar",
+      "(let yeast rise)",
+      "1/2 - 1\" lard",
+      "1 palm full of salt",
+      "about 3-4 swirls of molasses",
+      "2 dumps of Sunny Boy",
+      "about same amount of oatmeal",
+      "handful (lg) of brown sugar",
+      "3 cups boiling water",
+      "3 cups cold water",
+      "ice-cream pail of flour"
+    ],
+    "directions": [
+      "Put 1/2 - 1\" lard in large bowl. Add 1 palm full of salt. - about 3-4 swirls of molasses.",
+      "Add 2 dumps of Sunny Boy. - about same amount of oatmeal. Add handful (lg) of brown sugar.",
+      "Add 3 cups of boiling water (to melt lard). Add 3 cups of cold water - add yeast - stir. Add"
+    ],
+    "notes": [
+      "Continues on back (photo 218).",
+      "Sunny Boy = Sunny Boy cereal (a Canadian hot cereal mix)."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Evie's Bread (Porridge)\n1 c warm water    }\n2 tbsp. yeast     } let yeast rise.\n1 tsp. sugar      }\n\nPut 1/2 - 1\" lard in large bowl. add 1 palm full of\nsalt. - about 3-4 swirls of molasses. Add 2\ndumps of sunny boy. - about same amount of\noatmeal. Add handful (lg) of brown sugar.\nAdd 3 cups of boiling water (to melt lard). Add\n3 cups of cold water - add yeast - stir. Add",
+    "confidence": "high"
+  },
+  {
+    "photo": 218,
+    "kind": "continuation",
+    "title": "Evie's Bread (Porridge)",
+    "attribution": "Evie",
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "ice-cream pail of flour - a little at a time. - Knead for 10 min. - let rise till double - Punch down twice -",
+      "Divide into 5 pieces - roll out each piece - & roll up & pinch all around - bread pans. Let rise.",
+      "Bake - 375° - 45-50 min."
+    ],
+    "notes": [
+      "Back of Evie's Bread card (photo 217)."
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "ice-cream pail of flour - a little at a\ntime. - Knead for 10 min. - let rise till\ndouble - Punch down twice - Divide into\n5 pieces - roll out each piece. - & roll up &\npinch all around - bread pans. let rise\nBake - 375° - 45-50 min.",
+    "confidence": "high"
+  },
+  {
+    "photo": 219,
+    "kind": "recipe",
+    "title": "Pizza Topping (own)",
+    "attribution": "own",
+    "category": "Main Dishes",
+    "ingredients": [
+      "tomato sauce",
+      "Ground beef",
+      "onions",
+      "seasoning - oregano",
+      "mozzarella cheese - grated"
+    ],
+    "directions": [
+      "Break up ground beef, & fry in pan. - slice onion & fry slightly - season c salt, pepper.",
+      "Spread tomato sauce on shell, sprinkle c oregano, add meat, onion, & cheese.",
+      "Bake @ 475° - 12-15 min"
+    ],
+    "notes": [
+      "'(own)' = Grandma's own recipe."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Pizza Topping (own)\ntomato sauce\nGround beef.            seasoning - oregano\nonions -                mozzarella cheese - grated\n\n- break up ground beef, & fry in pan. - slice onion\n& fry slightly - season c salt, pepper.\n\n- Spread tomato sauce on shell, sprinkle c oregano\n- add meat, onion, & cheese.\n                          Bake @ 475° - 12-15 min",
+    "confidence": "high"
+  }
+]

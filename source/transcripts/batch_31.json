@@ -1,0 +1,405 @@
+[
+  {
+    "photo": 620,
+    "kind": "recipe",
+    "title": "Zucchini or Pumpkin",
+    "attribution": "Jeana",
+    "category": "Vegetables & Sides",
+    "ingredients": [
+      "pumpkin (or zucchini), when green",
+      "salt",
+      "onion",
+      "garlic",
+      "pepper",
+      "parsley",
+      "tomatoes"
+    ],
+    "directions": [
+      "Cut pumpkin, remove seeds & skin, sprinkle with salt. Leave 1/2 hr. – squeeze out H2O.",
+      "Fry onion, add garlic & pepper & parsley. – add cut up pumpkin – fry.",
+      "Add tomatoes. Serve –"
+    ],
+    "notes": [
+      "(Jeana) (when green)",
+      "\"or\" is underlined twice — zucchini or pumpkin"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Zucchini or\nPumpkin — (Jeana) (when green)\nCut pumpkin, remove seeds & skin\nsprinkle with salt. Leave 1/2 hr. –\nsqueeze out H2O.\nFry onion, add garlic, & pepper &\nparsley. – add cut up pumpkin – fry\nadd tomatoes.\nServe –",
+    "confidence": "high"
+  },
+  {
+    "photo": 621,
+    "kind": "recipe",
+    "title": "Nice Drink at Christmas",
+    "attribution": "Margaret Pattle[?]",
+    "category": "Beverages",
+    "ingredients": [
+      "1 - 48 oz Cranberry Juice (co-op)",
+      "lemon juice",
+      "1 bottle ginger ale"
+    ],
+    "directions": [
+      "Can mix to taste."
+    ],
+    "notes": [
+      "(co-op) written beside the cranberry juice",
+      "attribution at top right partly cut off: Margaret Patt[le?]"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Nice Drink at Christmas — Margaret Patt[le?]\n1 - 48 oz Cranberry Juice (co-op)\n- lemon juice\n1 - bottle ginger ale.\nCan mix to taste.",
+    "confidence": "high"
+  },
+  {
+    "photo": 622,
+    "kind": "recipe",
+    "title": "Bean (Pepper, Onion) Mustard",
+    "attribution": "Nabob",
+    "category": "Preserves, Pickles & Sauces",
+    "ingredients": [
+      "8 cups beans cooked",
+      "4 small onions, chopped finely",
+      "2 green peppers, chopped finely",
+      "1/4 cup pickling salt",
+      "2 cups brown sugar",
+      "1/4 cup flour",
+      "1/2 cup prepared mustard – I used a little less.",
+      "4 tsp celery seed",
+      "2 tsp turmeric",
+      "3 cups vinegar } I made this 2 cups vinegar",
+      "1 cup water } 2 cups water"
+    ],
+    "directions": [
+      "Cook and drain beans. Sprinkle onions, green pepper with salt and let stand.",
+      "Combine leftovers and boil, stirring"
+    ],
+    "notes": [
+      "Typed card headed NABOB. (Bean Pepper Onion Mustard)",
+      "Handwritten in pen: \"I used a little less\" beside the mustard; \"I made this a 2 cup vinegar / 2 \" water\" beside vinegar/water",
+      "runs off bottom of card, continues on next photo"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "BEAN (Pepper, Onion) MUSTARD)   NABOB.\n8 cups beans cooked\n4 small onions, chopped finely\n2 green peppers, chopped finely\n1/4 cup pickling salt\n2 cups brown sugar\n1/4 cup flour\n1/2 cup prepared mustard – I used a little less.\n4 tsp. celery seed\n2 tsp tumeric\n3 cups vinegar }  I made this a 2 cup. vinegar\n1 cup water.   }              2  \"  water\nCook and drain beans. Sprinkle onions, green pepper\nwith salt and let stand.\nCombine leftovers and boil, stirring",
+    "confidence": "high"
+  },
+  {
+    "photo": 623,
+    "kind": "continuation",
+    "title": "Bean (Pepper, Onion) Mustard",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "constantly. Drain and rinse onions and peppers.",
+      "Add to sauce with cooked beans.",
+      "Bring to boil.",
+      "Pack into hot, sterile jars."
+    ],
+    "notes": [
+      "5 pints."
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "constantly. Drain and rinse onions and peppers\nAdd to sauce with cooked beans.\nBring to boil.\nPack into hot, eterile jars.\n5 pints.",
+    "confidence": "high"
+  },
+  {
+    "photo": 624,
+    "kind": "recipe",
+    "title": "Peanut B. Fudge",
+    "attribution": null,
+    "category": "Candy & Treats",
+    "ingredients": [
+      "2 lbs br. sugar",
+      "1 c peanut b. (smooth)",
+      "1/4 c flour",
+      "1 c milk (plain)"
+    ],
+    "directions": [
+      "Cook until soft ball. Beat it. Put in pan. Cut then when cold"
+    ],
+    "notes": [],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Peanut B. Fudge\n2 lbs. br. sugar\n1 c. peanut b. (smooth)\n1/4 c. flour\n1 c. milk (plain)\nCook until soft ball\nBeat it. Put in\npan. Cut then\nwhen cold",
+    "confidence": "high"
+  },
+  {
+    "photo": 625,
+    "kind": "recipe",
+    "title": "Russian Tea",
+    "attribution": null,
+    "category": "Beverages",
+    "ingredients": [
+      "48 oz Tang – orange",
+      "24 oz Lemon – Swing",
+      "3 c sugar",
+      "3/4 tsp cloves",
+      "1 1/2 tsp cinnamon",
+      "1/2 c Nestea"
+    ],
+    "directions": [
+      "Use – 3 tsp per cup."
+    ],
+    "notes": [],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Russian Tea.\n48 oz. Tang – orange\n24 oz. Lemon – Swing –\n3 c sugar.\n3/4 tsp. cloves.\n1 1/2 \" cinnamon\n1/2 c Nestea.\nuse – 3 tsp per cup.",
+    "confidence": "high"
+  },
+  {
+    "photo": 626,
+    "kind": "recipe",
+    "title": "Knox Blox",
+    "attribution": "Margaret",
+    "category": "Desserts & Sweets",
+    "ingredients": [
+      "4 envelopes Knox unflavored gelatin",
+      "3 pkg (3 oz ea) flavored gelatin",
+      "4 c boiling H2O"
+    ],
+    "directions": [
+      "In lg. bowl mix unflavored with flavored gelatin, add boil H2O & stir till completely dissolved.",
+      "Pour into 9x13 pan & chill till firm –"
+    ],
+    "notes": [
+      "– from Margaret",
+      "continues on back (next photo)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Knox Blox                – from Margaret\n4 Envelopes Knox unflavored gelatin\n3 pkg. (3 oz ea) flavored gelatin\n4 c boiling H2O.\nIn lg. bowl mix unflavored c̄ flavored\ngelatin add boil H2O & stir till\ncompletely dissolved.\nPour into 9x13 pan & chill till firm –",
+    "confidence": "high"
+  },
+  {
+    "photo": 627,
+    "kind": "continuation",
+    "title": "Knox Blox",
+    "attribution": null,
+    "category": null,
+    "ingredients": [
+      "=== Second recipe: Fruit Juice Knox Block ===",
+      "4 envelopes Knox unflavored gelatin (omit flavored gelatin & H2O)",
+      "2 c cold fruit juice",
+      "2 c fruit juice heated to boiling",
+      "sweeten to taste"
+    ],
+    "directions": [
+      "To serve – Cut into 1\" sqs – Makes 1 doz. blocks.",
+      "=== Second recipe: Fruit Juice Knox Block ===",
+      "Omit flavored gelatin & H2O. Sprinkle Knox unflavored gelatin over 2 c cold fruit juice, let stand 1 minute.",
+      "Add 2 c fruit juice that has been heated to boiling, stir till gelatin comp. dissolved. Sweeten to taste & chill."
+    ],
+    "notes": [
+      "Makes 1 doz. blocks",
+      "Back of Knox Blox card; below a dividing line is a variation, Fruit Juice Knox Block"
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "To serve –\nCut into 1\" sqs – Makes 1 doz. blocks.\n————————————\nFruit Juice Knox Block.\nomit flavored Gelatin & H2O. Sprinkle Knox\nunflavored gelatin over 2 c cold fruit juice\nlet stand 1 minute. add 2 c fruit\njuice that has been heated to boiling\nstir till gelatin comp. dissolved. Sweeten\nto taste & chill.",
+    "confidence": "high"
+  },
+  {
+    "photo": 628,
+    "kind": "recipe",
+    "title": "Sweetened Condensed Milk Substitute (microwave) / Toast Coconut/Almonds",
+    "attribution": null,
+    "category": "Other",
+    "ingredients": [
+      "1 1/2 c w. sugar",
+      "2/3 c H2O",
+      "2/3 c margarine",
+      "2 c skim milk",
+      "=== Second recipe: Toast Coconut/Almonds ===",
+      "1/2 c coconut or almonds"
+    ],
+    "directions": [
+      "Microwave uncovered on high 15–20 min or until thick.",
+      "=== Second recipe: Toast Coconut/Almonds ===",
+      "Microwave 1/2 c – spread out for 3/4 – 1 min uncovered on High. – will brown –"
+    ],
+    "notes": [
+      "Two microwave tips on one slip, separated by a line"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": true,
+    "raw_text": "Sweetened Condensed milk\nSubstitute – (microwave)\n1 1/2 c w. sugar.\n2/3 c H2O\n2/3 c margarine\n2 c skim milk.\nMicrowave uncovered on\nhigh 15–20 min or until thick.\n————————————\nToast coconut/almonds\nmicrowave 1/2 c – spread out\nfor 3/4 – 1 min uncovered on High.\n– will brown –",
+    "confidence": "high"
+  },
+  {
+    "photo": 629,
+    "kind": "recipe",
+    "title": "Caesar Salad",
+    "attribution": "Channel 4 CTV (award winning)",
+    "category": "Soups & Salads",
+    "ingredients": [
+      "olive oil (Italian)",
+      "mustard (dijon)",
+      "anchovies (paste)",
+      "croutons (own) – butter, mustard, worcestershire, soya sauce, herbs (dill, parsley) – [soak?]-dry oven & heat stale bread",
+      "bacon bits (own)",
+      "garlic",
+      "egg",
+      "tabasco – dash[?]",
+      "vinegar",
+      "drsg (dressing)",
+      "Romaine lettuce",
+      "parmesan cheese – lot."
+    ],
+    "directions": [
+      "add parmesan cheese – lot.",
+      "fold salad – (not mix)"
+    ],
+    "notes": [
+      "Channel 4 CTV – (award winning)",
+      "Pencil, heavily smudged/erased in the middle; \"anchovi paste\" and \"garlic\" crossed out at right",
+      "A small printed slip at bottom reads \"Form 64 (86/12)\""
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Caesar Salad   Channel 4 (award winning)\n               CTV –\nolive oil (Italian)\nmustard (dijon)\nanchovies (paste)\ncroutons (own) } butter          – [soak?]-dry oven\nbacon bits – (own) } mustard, worchestershire  & heat\ngarlic          } soya sauce        stale bread\n                } herbs, dill, parsley    drsg\negg                              ~~anchovi paste~~\ntabasco – dash[?]   vinegar        ~~garlic~~\n[?] – [?]\nRomaine lettuce\nadd parmesan cheese – lot.\n[fold salad – (not mix)] (erased/rewritten)\nfold salad – (not mix)\n\nForm 64 (86/12)",
+    "confidence": "medium"
+  },
+  {
+    "photo": 630,
+    "kind": "recipe",
+    "title": "Certo Crystals = Liquid Certo",
+    "attribution": "Gas. Co. (pg 47 – booklet)",
+    "category": "Preserves, Pickles & Sauces",
+    "ingredients": [
+      "1 box Certo crystals",
+      "3/4 c H2O"
+    ],
+    "directions": [
+      "Combine 1 box crystals & 3/4 c H2O – bring to a boil & boil for 1 minute.",
+      "Use in place of 1/2 a bottle of liquid pectin in a recipe."
+    ],
+    "notes": [
+      "(Gas. Co.) pg 47 – booklet"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Certo Crystals = liquid certo   (Gas. Co.)\n                                 pg 47 – booklet\nCombine 1 box crystals & 3/4 c H2O – bring to a\nboil & boil for 1 minute.\nUse in place of 1/2 a bottle of liquid pectin\nin a recipe.",
+    "confidence": "high"
+  },
+  {
+    "photo": 631,
+    "kind": "recipe",
+    "title": "Boston Cream Pie",
+    "attribution": null,
+    "category": "Cakes & Frostings",
+    "ingredients": [
+      "1 cup cake flour (1 cup – 2 tbsp all purpose flour)",
+      "3/4 cup sugar",
+      "1/3 cup milk",
+      "6 tablespoons softened margarine",
+      "1 1/2 teaspoons baking powder",
+      "1 1/2 teaspoons vanilla",
+      "1/4 teaspoon salt",
+      "1/4 teaspoon baking soda",
+      "2 eggs",
+      "— Creamy Custard Filling —",
+      "2 cups milk",
+      "1/4 cup sugar",
+      "3 tablespoons cornstarch",
+      "1/4 teaspoon salt",
+      "2 egg yolks"
+    ],
+    "directions": [
+      "1. Preheat oven to 375°. Grease one 9\" round cake pan. Measure above ingredients in a large bowl. Mix ingredients then beat for 2 minutes with mixer on high. Scrape sides of bowl. Bake 25 minutes. Cool cake in pan 10 minutes on wire rack. Remove from pan & cool completely.",
+      "2. Prepare custard filling, cover & refrigerate until cool but not set (about 30 minutes).",
+      "3. Prepare chocolate icing. With serrated knife cut cake horizontally to form 2 layers. Spread cooled custard on half the cake. Top with second layer, press down gently but firmly. Frost top of cake with chocolate icing. Refrigerate until serving time.",
+      "— Creamy Custard Filling —",
+      "In 2 quart pan stir 2 cups milk, 1/4 cup sugar, 3 tablespoons cornstarch, 1/4 teaspoon salt, & 2 egg yolks until well blended. Cook over medium"
+    ],
+    "notes": [
+      "Written on lined notebook paper; continues on the back (next photo)"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Boston Cream Pie\n1 cup cake flour (1 cup – 2 tbsp. all purpose flour)\n3/4 cup sugar\n1/3 cup milk\n6 tablespoons softened margarine\n1 1/2 teaspoons baking powder\n1 1/2 teaspoons vanilla\n1/4 teaspoon salt\n1/4 teaspoon baking soda\n2 eggs\n1. Preheat oven to 375°. Grease one 9\" round cake pan.\nmeasure above ingredients in a large bowl.\nMix ingredients then beat for 2 minutes with\nmixer on high. Scrape sides of bowl.\nBake 25 minutes. Cool cake in pan 10 minutes\non wire rack. Remove from pan & cool completely.\n2. Prepare custard filling, cover & refrigerate\nuntil cool but not set (about 30 minutes)\n3. Prepare chocolate icing. With serrated knife\ncut cake horizontally to form 2 layers.\nSpread cooled custard on half the cake.\nTop with second layer press down gently but firmly.\nFrost top of cake with chocolate icing.\nRefrigerate until serving time.\nCreamy Custard Filling\nIn 2 quart pan stir 2 cups milk, 1/4 cup sugar\n3 tablespoons cornstarch, 1/4 teaspoon salt, & 2\negg yolks until well blended. Cook over medium",
+    "confidence": "high"
+  },
+  {
+    "photo": 632,
+    "kind": "continuation",
+    "title": "Boston Cream Pie",
+    "attribution": null,
+    "category": null,
+    "ingredients": [
+      "— Chocolate Icing —",
+      "2 squares semi sweet chocolate",
+      "1 tablespoon margarine or butter",
+      "1/2 cup icing sugar",
+      "2–3 tablespoons milk"
+    ],
+    "directions": [
+      "heat until mixture thickens & boils, (about 20 minutes) boil 1 minute. Remove pan from heat & stir in 1 teaspoon vanilla.",
+      "— Chocolate Icing —",
+      "In a 1 quart pan over low heat melt 2 squares semi sweet chocolate & 1 tablespoon margarine or butter. Remove pan from heat. With a wire whisk or fork beat in 1/2 cup icing sugar and 2–3 tablespoons milk until smooth & spreading consistency."
+    ],
+    "notes": [],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "heat until mixture thickens & boils, (about 20\nminutes) boil 1 minute. Remove pan from heat\n& stir in 1 teaspoon Vanilla.\nChocolate Icing\nIn a 1 quart pan over low heat melt\n2 squares semi sweet chocolate & 1 tablespoon\nmargarine or butter. Remove pan from heat.\nWith a wire wisk or fork beat in 1/2 cup\nicing sugar and 2–3 tablespoons milk\nuntil smooth & spreading consistency.",
+    "confidence": "high"
+  },
+  {
+    "photo": 633,
+    "kind": "recipe",
+    "title": "Meat Sauce / Veal Cutlets",
+    "attribution": "Mary Finch",
+    "category": "Main Dishes",
+    "ingredients": [
+      "— Meat Sauce —",
+      "1 lb or so of hamb.",
+      "1 clove garlic",
+      "S & P",
+      "1 onion chopped",
+      "2 Tbsp or more Italian seasoning",
+      "1 sm. tom. paste",
+      "3 cans H2O",
+      "fresh or 1 can mushrooms",
+      "— Veal Cutlets —",
+      "veal",
+      "flour, egg & crumbs",
+      "Mozzarella cheese",
+      "Parmesan"
+    ],
+    "directions": [
+      "— Meat Sauce —",
+      "Brown 1 lb or so of hamb. Add 1 clove garlic, S & P, 1 onion chopped, Italian seasoning – 2 Tbsp or more, 1 sm. tom. paste, 3 cans H2O, fresh or 1 can mushrooms.",
+      "Simmer for 1–2 hrs.",
+      "— Veal Cutlets —",
+      "Dip veal in flour, egg & crumbs, brown well.",
+      "Put layer sauce in pan. Put in veal. Cover veal with more sauce. Layer of Mozzarella cheese. More sauce. Sprinkle with Parmesan.",
+      "Cover with foil & Bake @ 350° 1 hr.",
+      "Serve with noodles & Caesar salad."
+    ],
+    "notes": [
+      "From Mary Finch",
+      "\"Veal Cutlets\" circled at right; the veal directions are below a dividing line",
+      "serve with noodles & Caesar salad"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": true,
+    "raw_text": "Meat Sauce – From\n              Mary Finch\nbrown 1 lb or so of hamb.\n1 clove garlic      S & P.\n1 onion chopped.\nItalian seasoning – 2 Tbsp. or more.\n1 sm. Tom. paste\n3 cans H2O\nfresh or 1 can mushrooms.     (Veal Cutlets)\nSimmer for 1–2 hrs.\n————————————\nDip veal in flour, egg & crumbs, brown well.\nPut layer sauce in pan\nPut in veal.\nCover veal c̄ more sauce.\nLayer of Mozarella cheese.\nMore sauce.\nSprinkle c̄ Parmesan\nCover c̄ foil & Bake @ 350° 1 hr.\n            serve c̄ noodles\n            &\n            Caesar salad.",
+    "confidence": "high"
+  }
+]

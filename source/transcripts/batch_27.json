@@ -1,0 +1,506 @@
+[
+ {
+  "photo": 540,
+  "kind": "recipe",
+  "title": "Spinach Salad c Sour Cream Dressing",
+  "attribution": null,
+  "category": "Soups & Salads",
+  "ingredients": [
+   "1/2 c mayo",
+   "1/2 c sour cream",
+   "2 tbsp gr. onion",
+   "2 tbsp parsley",
+   "1 tbsp vinegar",
+   "2 tbsp lemon juice",
+   "1-2 garlic cloves crushed",
+   "1 c mushrooms"
+  ],
+  "directions": [
+   "In blender combine mayo, sour cream, onion, parsley, vinegar, lemon juice & garlic.",
+   "Toss spinach & mushrooms c dressing & serve."
+  ],
+  "notes": [
+   "Written on a folded sheet of lined notepaper"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Spinach Salad c Sour\nCream Dressing\n1/2 c. mayo\n1/2 c. sour cream\n2 tbsp. gr. onion\n2 tbsp. parsley\n1 tbsp. vinegar\n2 tbsp. lemon juice\n1-2 garlic cloves crushed\n1 c. mushrooms\n\nIn blender combine mayo, sour\ncream, onion, parsley, vinegar, lemon\njuice & garlic. Toss spinach &\nmushrooms c dressing & serve.",
+  "confidence": "high"
+ },
+ {
+  "photo": 541,
+  "kind": "recipe",
+  "title": "Jellied Salad",
+  "attribution": null,
+  "category": "Soups & Salads",
+  "ingredients": [
+   "1 - 8 1/4 oz can pineapple (smaller)",
+   "1 - 3 oz rasp. jello",
+   "16 oz cranberry sauce (whole)",
+   "1 tsp orange peel - fine",
+   "11 oz mandarin oranges drained - save juice",
+   "1 c whip cream"
+  ],
+  "directions": [
+   "Dr. pineapple save syrup add boiling H2O - to [?] to make 1 cup - Dissolve jello in liquid stir in sauce & peel.",
+   "Chill till part set.",
+   "Add oranges & pineapple - whip cr & fold in.",
+   "Pour in 6 c mold chill till set.",
+   "Garnish c frosted fruit - fresh green grapes in clusters - whole cranberries - 1/2 lb. - dip into beaten egg white - drain - dip in sugar - on rack to dry."
+  ],
+  "notes": [
+   "V.G.",
+   "'on rack to dry' written sideways in the right margin",
+   "Written in pencil on a folded sheet of paper"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Jellied salad\n1 - 8 1/4 oz can pineapple (smaller)\n1 - 3 oz rasp. jello\n16-oz cranberry sauce (whole)\n1 tsp orange peel - fine\n11 oz: Mandarin oranges drained - save juice\n1 c whip cream.\nDr pineapple save syrup add\nboiling H2O - to [?] to make\n1 cup - Dissolve jello in liquid\nstir in sauce & peel.\nChill till part set.        V.G.\nAdd oranges & pineapple -\nwhip cr & fold in.\nPour in 6 c mold chill till\nset.\ngarnish c frosted fruit - fresh\ngreen grapes in clusters - whole\ncranberries - 1/2 lb. - dip into beaten\negg white - drain - dip in sugar\n[sideways:] on rack to dry",
+  "confidence": "medium"
+ },
+ {
+  "photo": 542,
+  "kind": "recipe",
+  "title": "Orange Jello Salad",
+  "attribution": null,
+  "category": "Soups & Salads",
+  "ingredients": [
+   "1 pkg. orange jello",
+   "__ cup sugar (amount left blank)",
+   "1 1/2 c boiling water",
+   "1 pt. cottage cheese",
+   "1 sm. can crushed pineapple juice & all",
+   "1/2 pt. whip. cream"
+  ],
+  "directions": [
+   "1 1/2 c boiling water - Let cool. add 1 pt. cottage cheese - add 1 sm. can crushed pineapple juice & all, 1/2 pt. whip cream.",
+   "Fold all together. - refrige."
+  ],
+  "notes": [
+   "Sugar quantity is a blank line on the card (photo 549 'Orange Jello' gives 1/3 c sugar for the same recipe)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Orange jello salad.\n1 pkg. orange jello\n__ cup sugar.\n1 1/2 c boiling water. - Let cool. add.\n1 pt. cottage cheese. - add.\n1 sm. can crushed pineapple juice & all.\n1/2 pt. whip. cream\nFold all together. - refrige.",
+  "confidence": "high"
+ },
+ {
+  "photo": 543,
+  "kind": "recipe",
+  "title": "To Serve Fruit Salad",
+  "attribution": null,
+  "category": "Soups & Salads",
+  "ingredients": [
+   "1/2 a watermelon",
+   "assorted fruits - melon balls from cantelope & melon"
+  ],
+  "directions": [
+   "Take 1/2 a watermelon.",
+   "Take a slice off bottom so it sits flat.",
+   "Scoop out all the inside c a melon baller & fill c assorted fruits - melon balls from cantelope & melon - look nice."
+  ],
+  "notes": [
+   "Small drawing of a watermelon basket with zig-zag cut edge"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "To Serve Fruit Salad\nTake 1/2 a watermelon [drawing of watermelon bowl with zig-zag edge]\nTake a slice off bottom so it sits flat.\nscoop out - all the inside c a melon\nballer. & fill c assorted fruits - melon balls\nfrom cantelope & melon - look nice.",
+  "confidence": "high"
+ },
+ {
+  "photo": 544,
+  "kind": "recipe",
+  "title": "Potato Salad",
+  "attribution": null,
+  "category": "Soups & Salads",
+  "ingredients": [
+   "3 med. potatoes",
+   "1 tsp. sugar",
+   "1 tsp vinegar",
+   "1/2 c sliced celery",
+   "1/3 c finely chopped celery",
+   "1/3 c finely chopped onion",
+   "1/4 c chopped sweet pickle",
+   "1 tsp. salt",
+   "1 tsp celery seed",
+   "3/4 c mayonnaise or salad drsg.",
+   "2 hard boiled eggs"
+  ],
+  "directions": [],
+  "notes": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Potato Salad.\n3 med. potatoes\n1 tsp. sugar.\n1 \" vinegar\n1/2 c sliced celery\n1/3 \" finely chopped celery.\n1/3 \" \" \" onion\n1/4 c chopped sweet pickle\n1 tsp. salt.\n1 \" celery seed.\n3/4 c mayonnaise or salad drsg. -    2 hard boiled eggs",
+  "confidence": "high"
+ },
+ {
+  "photo": 545,
+  "kind": "recipe",
+  "title": "Cucumber Salad",
+  "attribution": "Helen Sunderland",
+  "category": "Soups & Salads",
+  "ingredients": [
+   "2 pkgs. of lime jello",
+   "3 c boiling H2O",
+   "1 c salad drsg.",
+   "1 sm. onion, grated",
+   "1 sm. cuke, grated"
+  ],
+  "directions": [
+   "2 pkgs. of lime jello, 3 c boiling H2O. Let part. set.",
+   "Add 1 c salad drsg.",
+   "Grate - 1 sm. onion, 1 sm. cuke - squeeze out all H2O - add to jello & let set."
+  ],
+  "notes": [
+   "(Re: Helen Sunderland)",
+   "good",
+   "'over' written at bottom - the back of this card does not appear in the next photo"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Cucumber Salad.          (Re: Helen Sunderland)\n2 pkgs. of lime jello\n3 c boiling H2O\nLet part. set.\nadd 1 c salad drsg. }\nGrate - 1 sm. onion } squeeze out all H2O\n      - 1 \" cuke. }\n- add to Jello & let set.\n                good\n        over",
+  "confidence": "high"
+ },
+ {
+  "photo": 546,
+  "kind": "recipe",
+  "title": "Lasagna",
+  "attribution": null,
+  "category": "Main Dishes",
+  "ingredients": [
+   "1 onion - finely chopped",
+   "2 cloves garlic crushed - fry in oil",
+   "1 lb. hamburger - fry",
+   "1 tin mushroom pieces & liquid",
+   "1 - 7 1/2 oz tin tom. sauce",
+   "1 - 5 1/2 oz tin tom. paste",
+   "1 tsp salt",
+   "2 tsp oregano",
+   "parsley",
+   "pepper",
+   "dash worcestershire",
+   "3/4 c H2O"
+  ],
+  "directions": [
+   "1 onion finely chopped, 2 cloves garlic crushed - fry in oil. 1 lb. hamburger - fry.",
+   "In a bowl mix 1 tin mushroom pieces & liquid, 1 - 7 1/2 oz tin tom. sauce, 1 - 5 1/2 oz tin tom. paste, 1 tsp salt, 2 tsp oregano, parsley, pepper, dash worcestershire.",
+   "Add 3/4 c H2O add to beef - Cook 20-30 min."
+  ],
+  "notes": [
+   "Can add celery to take edge off. (written in right margin)",
+   "Card ends at sauce - no assembly directions on this side"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Lasagna -\n1 onion - finely chopped\n2 cloves garlic crushed. - fry in oil\n1 lb. hamburger - fry.\nIn a bowl mix\n1 tin mushroom pieces & liquid\n1 - 7 1/2 oz tin tom. sauce\n1 - 5 1/2 \" \" \" paste\n1 tsp salt      dash worcestershire\n2 \" oregano    add 3/4 c H2O add to beef - Cook 20-30 min.\nparsley.\npepper\n[right margin:] Can add celery to take edge off.",
+  "confidence": "high"
+ },
+ {
+  "photo": 547,
+  "kind": "recipe",
+  "title": "Lobster Salad",
+  "attribution": null,
+  "category": "Soups & Salads",
+  "ingredients": [
+   "1 1/4 c. flaked canned lobster (1 5 oz. can)",
+   "2/3 c. chopped celery",
+   "1/3 c diced cucumber",
+   "2 hard-cooked eggs, chopped",
+   "1/4 tsp. salt",
+   "Dash of pepper",
+   "2 tbsp. lemon juice",
+   "Salad Dressing"
+  ],
+  "directions": [],
+  "notes": [
+   "Directions continue on the back (photo 548)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Lobster Salad\n1 1/4 c. flaked canned lobster (1 5 oz. can)\n2/3 c. chopped celery\n1/3 c diced cucumber\n2 hard-cooked eggs, chopped\n1/4 tsp. salt\nDash of pepper\n2 tbsp. lemon juice\nSalad Dressing.",
+  "confidence": "high"
+ },
+ {
+  "photo": 548,
+  "kind": "continuation",
+  "title": "Lobster Salad",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "Combine first six ingredients. Sprinkle with the lemon juice & add mayonnaise to moisten.",
+   "Chill."
+  ],
+  "notes": [],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Combine first six ingredients\nSprinkle with the lemon juice\n& add mayonnaise to moisten.\nChill.",
+  "confidence": "high"
+ },
+ {
+  "photo": 549,
+  "kind": "recipe",
+  "title": "Orange Jello",
+  "attribution": null,
+  "category": "Soups & Salads",
+  "ingredients": [
+   "1 pkg orange jello",
+   "1/3 c sugar",
+   "1 1/2 c boiling H2O",
+   "1 pt. cottage cheese",
+   "1 small can crushed pineapple, juice & all",
+   "1/2 pt. whipping cream"
+  ],
+  "directions": [
+   "1 pkg orange jello, 1/3 c sugar, 1 1/2 c boiling H2O. Let cool. Add 1 pt. cottage cheese, 1 small can crushed pineapple juice & all, 1/2 pt. whipping cream.",
+   "Fold all together."
+  ],
+  "notes": [
+   "Same recipe as 'Orange jello salad' on photo 542"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Orange Jello.\n1 pkg orange jello\n1/3 c sugar.\n1 1/2 c boiling H2O. Let cool. add 1 pt. cottage cheese.\n1 small can crushed pineapple. juice & all.\n1/2 pt. whipping cream.\nFold all together.",
+  "confidence": "high"
+ },
+ {
+  "photo": 550,
+  "kind": "recipe",
+  "title": "Triple Orange Ambrosial Salad",
+  "attribution": "Ruth",
+  "category": "Soups & Salads",
+  "ingredients": [
+   "2 c. boiling liquid (fruit syrup or water)",
+   "1 - 6 oz pkg. orange flavored gelatin",
+   "1 pint orange sherbet",
+   "2 cans (11 oz ea.) mandarin orange segments drained",
+   "1 can (13 1/2 oz) pineapple chunks drained",
+   "1 cup flaked coconut",
+   "1 cup miniature marshmallows (white)"
+  ],
+  "directions": [],
+  "notes": [
+   "Ruth (top right)",
+   "over"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "                                Ruth.\nTriple Orange Ambrosial Salad.\n2 c. boiling liquid (fruit syrup or water)\n1 - 6 oz pkg. orange flavored gelatin.\n1 pint orange sherbet.\n2 cans. (11 oz ea.) mandarin orange segments\ndrained.\n1 can (13 1/2 oz) pineapple chunks drained.\n1 cup flaked coconut\n1 \" miniature marshmallows (white) over",
+  "confidence": "high"
+ },
+ {
+  "photo": 551,
+  "kind": "continuation",
+  "title": "Triple Orange Ambrosial Salad",
+  "attribution": null,
+  "category": null,
+  "ingredients": [
+   "1 cup dairy sour cream, or 1/2 c whipping cream whipped (or dream whip)"
+  ],
+  "directions": [
+   "Pour boiling liquid over gelatin; stir until gelatin is dissolved. Add orange sherbet - stir until melted - stir in 1 can of orange seg. Pour into 6 cup ring mold. Chill till firm.",
+   "Combine rem. orange seg. - pineapple, coconut, marsh. Fold in sour cream. Chill 3 hrs. - fill centre of unmolded ring with fruit mixture."
+  ],
+  "notes": [],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "1 cup dairy sour cream. or 1/2 c\n  whipping cream whipped (or dream whip)\nPour boiling liquid over gelatin;\nstir until gelatin is dissolved. add\norange sherbet - stir until melted - stir in\n1 can of orange seg. pour into 6 cup ring\nmold. chill till firm. Combine rem.\norange seg. - pineapple, coconut, marsh. fold\nin sour cream. chill 3 hrs. - fill centre of unmolded ring with fruit mixture.",
+  "confidence": "high"
+ },
+ {
+  "photo": 552,
+  "kind": "photo-of-box",
+  "title": "SANDWICHES",
+  "attribution": null,
+  "category": "Other",
+  "ingredients": [],
+  "directions": [],
+  "notes": [
+   "Blank tabbed divider card with orange tab labeled SANDWICHES"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "SANDWICHES",
+  "confidence": "high"
+ },
+ {
+  "photo": 553,
+  "kind": "recipe",
+  "title": "Dilly Roast Beef Sandwich",
+  "attribution": null,
+  "category": "Main Dishes",
+  "ingredients": [
+   "3 tbsp. cream cheese softened",
+   "Pinch each dill weed, garlic pwd. & pepper",
+   "2 slices bread",
+   "2 slices cooked roast beef",
+   "3 tomato slices",
+   "Alfalfa sprouts"
+  ],
+  "directions": [],
+  "notes": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Dilly Roast beef sandwich\n3 tbsp. cream cheese softened\nPinch each dill weed, garlic pwd. & pepper.\n2 slices bread.\n2 \" cooked roast beef.\n3 tomato slices\nAlfalfa sprouts.",
+  "confidence": "high"
+ },
+ {
+  "photo": 554,
+  "kind": "recipe",
+  "title": "Sandwich Filling",
+  "attribution": "our Margaret",
+  "category": "Main Dishes",
+  "ingredients": [
+   "shrimp",
+   "cream cheese"
+  ],
+  "directions": [
+   "Put on bread or in croissants c sprouts. (can be used without [arrow to sprouts])"
+  ],
+  "notes": [
+   "V.G.",
+   "re: our Margaret",
+   "Faint reversed pencil show-through at bottom of card (unreadable, appears to include the word 'crackers')"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Sandwich filling      V.G.  re: our Margaret\nshrimp      }\ncream cheese }\n\nput on bread or in croissants c sprouts.\n(can be used without  --> [arrow pointing to 'sprouts']\n[faint reversed show-through at bottom: ... crackers ... ?]",
+  "confidence": "high"
+ },
+ {
+  "photo": 555,
+  "kind": "photo-of-box",
+  "title": "SAUCES",
+  "attribution": null,
+  "category": "Other",
+  "ingredients": [],
+  "directions": [],
+  "notes": [
+   "Blank tabbed divider card with orange tab labeled SAUCES"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "SAUCES",
+  "confidence": "high"
+ },
+ {
+  "photo": 556,
+  "kind": "recipe",
+  "title": "Lemon Sauce",
+  "attribution": null,
+  "category": "Preserves, Pickles & Sauces",
+  "ingredients": [
+   "1/2 c sugar",
+   "1 tbsp. cornstarch",
+   "1/8 tsp. salt",
+   "1 c boiling water",
+   "2 tbsp. butter",
+   "2 tbsp lemon juice",
+   "1 egg yolk"
+  ],
+  "directions": [
+   "Mix sugar, cornstarch, salt. Add boiling water slowly, stirring constantly. Boil for 5 min.",
+   "Take from heat, add butter, lemon juice & beaten egg yolk."
+  ],
+  "notes": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Lemon Sauce.\n1/2 c sugar.        2 tbsp. butter\n1 tbsp. cornstarch  2 \" lemon juice\n1/8 tsp. salt.      1 egg yolk.\n1 c boiling water\nMix sugar, cornstarch, salt. Add boiling water\nslowly, stirring constantly. Boil for 5 min. Take\nfrom heat, add butter, lemon juice & beaten egg yolk.",
+  "confidence": "high"
+ },
+ {
+  "photo": 557,
+  "kind": "recipe",
+  "title": "Blueberry Sauce",
+  "attribution": null,
+  "category": "Preserves, Pickles & Sauces",
+  "ingredients": [
+   "1/4 c sugar",
+   "1/4 c orange juice",
+   "2 tsp. cornstarch + 2 tbsp. water",
+   "1 c. blueberries"
+  ],
+  "directions": [
+   "In sm. pan bring sugar & juice to boil, stirring to dissolve the sugar.",
+   "Blend cornstarch c 2 tbsp water. Stir into pan c berries.",
+   "Cook stirring for 2 min or until boiling & thickened. (Makes about 1 cup)",
+   "Use - on pancakes, or on white cake etc."
+  ],
+  "notes": [
+   "Makes about 1 cup"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Blueberry Sauce.\n1/4 c sugar\n1/4 c orange juice\n2 tsp. cornstarch + 2 tbsp. water\n1 c. blueberries\nIn sm. pan bring sugar & juice to boil, stirring to\ndissolve the sugar. Blend cornstarch c 2 tbsp water.\nstir into pan c berries. Cook stirring for 2 min or\nuntil boiling & thickened. (Makes about 1 cup)\nUse - on pancakes, or on white cake etc..",
+  "confidence": "high"
+ },
+ {
+  "photo": 558,
+  "kind": "recipe",
+  "title": "Dressing - Salads (Pappy's Restaurant - Vernon)",
+  "attribution": "Pappy's Restaurant - Vernon (Joe's friend Art - Musical Ride)",
+  "category": "Preserves, Pickles & Sauces",
+  "ingredients": [
+   "Mayonnaise",
+   "Sour cream",
+   "dill",
+   "+ other ingred not known - try cr. cheese, seasonings or plain yogurt"
+  ],
+  "directions": [
+   "- secret ingred. - know there is Mayonnaise, Sour cream, dill. + other ingred not known.",
+   "try - cr. cheese, seasonings or plain yogurt."
+  ],
+  "notes": [
+   "V.G.",
+   "(Joe's friend Art - Musical Ride)",
+   "(Pappy's Restaurant - Vernon)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "              V.G.      (Joe's friend Art - Musical Ride)\nDressing - salads -   (Pappy's Restaurant - Vernon)\n- secret ingred. -\nknow there is\nMayonnaise\nsour cream\ndill.\n+ other ingred not known\ntry - cr. cheese, seasonings or plain yogurt.",
+  "confidence": "high"
+ },
+ {
+  "photo": 559,
+  "kind": "recipe",
+  "title": "Gina's Fetuccini or Tortellini Sauce",
+  "attribution": "Gina",
+  "category": "Preserves, Pickles & Sauces",
+  "ingredients": [
+   "whipping cream",
+   "flour",
+   "butter",
+   "salt / pepper",
+   "- wine just at serving -",
+   "- parmesan cheese -"
+  ],
+  "directions": [],
+  "notes": [
+   "No quantities given"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Gina's Fetuccini or Tortellini Sauce.\nwhipping cream.\nflour\nbutter\nsalt / pepper.\n- wine just a[t?] serving -\n- parmesan cheese. -",
+  "confidence": "high"
+ }
+]

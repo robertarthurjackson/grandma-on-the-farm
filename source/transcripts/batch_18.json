@@ -1,0 +1,592 @@
+[
+  {
+    "photo": 360,
+    "kind": "recipe",
+    "title": "Yorkshire Pudding",
+    "attribution": "Mrs. Donaleshen",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "7/8 c flour - scant",
+      "4 eggs",
+      "1/4 tsp salt",
+      "1 c milk",
+      "2 tbsp oil from roast"
+    ],
+    "directions": [
+      "Let eggs & milk sit @ room temperature (beat now & then).",
+      "Heat pan (approx 9 1/2 x 11).",
+      "Sift salt & flour into bowl. In separate bowl beat eggs until thick - add milk.",
+      "Make hollow in flour mixture - add egg mixture & butter (melted) - beat hard 1 min."
+    ],
+    "notes": [
+      "This photo is a closer re-shot of the same card front as photo 359 (Yorkshire Pudding, Mrs. Donaleshen).",
+      "Continues on the back of the card (photos 361/362)."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Yorkshire Pudding. (Mrs Donaleshen)\n7/8 c flour - scant          1 c milk\n4 eggs                       2 tbsp. oil from roast.\n1/4 tsp. salt.\nLet eggs & milk sit @ room temperature. (beat now\n& then)\n- heat pan (approx 9 1/2 x 11)\n- sift salt & flour into bowl. In separate bowl beat\neggs until thick - add milk. Make hollow in flour\nmixture - add egg mixture & butter (melted) - beat hard 1 min.",
+    "confidence": "high"
+  },
+  {
+    "photo": 361,
+    "kind": "continuation",
+    "title": "Yorkshire Pudding",
+    "attribution": "Mrs. Donaleshen",
+    "category": null,
+    "ingredients": [
+      "— Dbl. —",
+      "1 3/4 c flour (scant)"
+    ],
+    "directions": [
+      "using rotary beaters. Put Mazola in shallow pan & heat.",
+      "Cook @ 400° about 20 min."
+    ],
+    "notes": [
+      "Back of the Yorkshire Pudding card; continues 'beat hard 1 min.' from the front.",
+      "Dbl. (doubling note): 1 3/4 c flour (scant).",
+      "Photo 362 is a full re-shot of this same card back."
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "using rotary beaters. Put Mazola in shallow pan &\nheat.\n   Cook @ 400° about 20 min.\n\n\nDbl.\n1 3/4 c flour (scant)",
+    "confidence": "high"
+  },
+  {
+    "photo": 362,
+    "kind": "continuation",
+    "title": "Yorkshire Pudding",
+    "attribution": "Mrs. Donaleshen",
+    "category": null,
+    "ingredients": [
+      "— Dbl. —",
+      "1 3/4 c flour (scant)"
+    ],
+    "directions": [
+      "using rotary beaters. Put Mazola in shallow pan & heat.",
+      "Cook @ 400° about 20 min."
+    ],
+    "notes": [
+      "Duplicate (full-card) photo of the same card back shown in photo 361; back of the Yorkshire Pudding card.",
+      "Dbl. (doubling note): 1 3/4 c flour (scant)."
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "using rotary beaters. Put Mazola in shallow pan &\nheat.\n   Cook @ 400° about 20 min.\n\n\nDbl.\n1 3/4 c flour (scant)",
+    "confidence": "high"
+  },
+  {
+    "photo": 363,
+    "kind": "recipe",
+    "title": "Ham & Cheese Ball",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "1 tin ham flakes",
+      "1 - 8 oz pkg. cream cheese",
+      "2 tsp horseradish",
+      "1/4 tsp dry mustard",
+      "2 tsp minced onion",
+      "2 tsp mayonnaise",
+      "1 tsp parsley",
+      "walnuts to roll cheese ball in"
+    ],
+    "directions": [],
+    "notes": [
+      "Written in red ink on a stained lined card; no directions given beyond 'walnuts to roll cheese ball in'.",
+      "Small mark/tick at bottom left of card.",
+      "Photo 364 is a closer re-shot of this same card."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Ham & Cheese Ball.\n1 tin ham flakes                    1 tsp. Parsley.\n1 - 8 oz pkg. cream cheese\n2 tsp - Horseradish\n1/4 tsp - dry mustard\n2 tsp - minced onion\n2 tsp - mayonaise\nwalnuts to roll cheese ball in.\n\n  ✓",
+    "confidence": "high"
+  },
+  {
+    "photo": 364,
+    "kind": "recipe",
+    "title": "Ham & Cheese Ball",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "1 tin ham flakes",
+      "1 - 8 oz pkg. cream cheese",
+      "2 tsp horseradish",
+      "1/4 tsp dry mustard",
+      "2 tsp minced onion",
+      "2 tsp mayonnaise",
+      "1 tsp parsley",
+      "walnuts to roll cheese ball in"
+    ],
+    "directions": [],
+    "notes": [
+      "Duplicate (closer) photo of the same Ham & Cheese Ball card as photo 363."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Ham & Cheese Ball.\n1 tin ham flakes                    1 tsp. Parsley.\n1 - 8 oz pkg. cream cheese\n2 tsp - Horseradish\n1/4 tsp - dry mustard\n2 tsp - minced onion\n2 tsp - mayonaise\nwalnuts to roll cheese ball in.\n\n  ✓",
+    "confidence": "high"
+  },
+  {
+    "photo": 365,
+    "kind": "recipe",
+    "title": "Yorkshire Pudding",
+    "attribution": "Mrs. Donaleshen Sr.",
+    "category": "Breads & Buns",
+    "ingredients": [
+      "7/8 c flour - scant",
+      "4 eggs",
+      "1/4 tsp salt",
+      "1 c milk",
+      "2 tbsp oil from roast or (Ma just uses oil)"
+    ],
+    "directions": [
+      "Let eggs & milk & oil sit @ room temp (beat now & then).",
+      "Sift flour, salt into bowl. In separate bowl - beat eggs until thick c̄ milk.",
+      "Make hollow in flour mixture, add egg mixture & beat hard 1 min.",
+      "Spray muffin pans c̄ Pam - Cook @ 400° for 20 min."
+    ],
+    "notes": [
+      "A second, rewritten copy (blue ink, lined card) of the Yorkshire Pudding recipe from photos 359-362, with changes: 'or Ma just uses oil', '& oil' inserted after milk, 'muffin' inserted above 'pans'.",
+      "Attribution written as 'Mrs. Donaleshen - Sr.'"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Yorkshire Pudding.          Mrs. Donaleshen - Sr.\n7/8 c flour - scant          1 c milk\n4 eggs.                      2 tbsp oil from roast or\n1/4 tsp. salt                Ma just uses oil.\n                    & oil\nlet eggs & milk ^ sit @ room temp (beat now & then)\n- .\nsift flour, salt into bowl. In separate bowl -\nbeat eggs until thick c̄ milk - Make hollow in\nflour mixture, add egg mixture & Beat hard 1 min.\n      muffin\nSpray ^ pans c̄ Pam - Cook @ 400° for 20 min.",
+    "confidence": "high"
+  },
+  {
+    "photo": 366,
+    "kind": "recipe",
+    "title": "Ham/bacon - cheese, egger",
+    "attribution": null,
+    "category": "Breakfast",
+    "ingredients": [
+      "1 lg bun",
+      "butter",
+      "bacon or ham",
+      "cheese",
+      "egg"
+    ],
+    "directions": [
+      "On lg bun - butter, place bacon or ham, cheese.",
+      "Place egg in bottom of marg. container, beat for a second or 2. - place egg in microwave - when done - add to bun.",
+      "Can heat whole bun & contents for 30 sec. in microwave."
+    ],
+    "notes": [
+      "Microwave breakfast sandwich; no quantities given beyond '1 lg bun'."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Ham/bacon - cheese, egger.\n\non lg bun - butter, place bacon or ham, cheese\nplace egg in bottom of marg. container, beat for\na second or 2. - place egg in microwave -\nwhen done - add to bun.\n\nCan heat whole bun & contents for 30 sec.\n   in microwave.",
+    "confidence": "high"
+  },
+  {
+    "photo": 367,
+    "kind": "recipe",
+    "title": "Oven Scrambled Eggs",
+    "attribution": null,
+    "category": "Breakfast",
+    "ingredients": [
+      "2 c butter melted",
+      "100 eggs, beaten",
+      "3 tbsp salt",
+      "2 1/2 qts. milk"
+    ],
+    "directions": [
+      "Divide butter among 4 - 13\" x 9\" x 2\" bk. dishes; Combine eggs & salt; mix well.",
+      "Gradually stir in milk. Pour evenly into bk. dishes.",
+      "Bake, uncovered @ 350° for 10 min; stir. Bake 10-15 min. more until eggs are set. Serve immediately."
+    ],
+    "notes": [
+      "Marked 'lg. quantity recipe' at top right.",
+      "Yield 100 servings.",
+      "Photo 368 is a full re-shot of this same card."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "                                        lg. quantity recipe\nOven scrambled eggs.\n2 c butter melted\n100 eggs, beaten\n3 tbsp. salt.\n2 1/2 qts. milk.\nDivide butter among 4 - 13\" x 9\" x 2\" bk. dishes; Combine eggs\n& salt; mix well. Gradually stir in milk. Pour evenly\ninto bk. dishes. Bake, uncovered @ 350° for 10 min; stir. Bake\n10-15 min. more until eggs are set. Serve immediately.\n                                   Yield 100 servings.",
+    "confidence": "high"
+  },
+  {
+    "photo": 368,
+    "kind": "recipe",
+    "title": "Oven Scrambled Eggs",
+    "attribution": null,
+    "category": "Breakfast",
+    "ingredients": [
+      "2 c butter melted",
+      "100 eggs, beaten",
+      "3 tbsp salt",
+      "2 1/2 qts. milk"
+    ],
+    "directions": [
+      "Divide butter among 4 - 13\" x 9\" x 2\" bk. dishes; Combine eggs & salt; mix well.",
+      "Gradually stir in milk. Pour evenly into bk. dishes.",
+      "Bake, uncovered @ 350° for 10 min; stir. Bake 10-15 min. more until eggs are set. Serve immediately."
+    ],
+    "notes": [
+      "Duplicate (full-card) photo of the same Oven Scrambled Eggs card as photo 367.",
+      "Marked 'lg. quantity recipe' at top right.",
+      "Yield 100 servings."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "                                        lg. quantity recipe\nOven scrambled eggs.\n2 c butter melted\n100 eggs, beaten\n3 tbsp. salt.\n2 1/2 qts. milk.\nDivide butter among 4 - 13\" x 9\" x 2\" bk. dishes; Combine eggs\n& salt; mix well. Gradually stir in milk. Pour evenly\ninto bk. dishes. Bake, uncovered @ 350° for 10 min; stir. Bake\n10-15 min. more until eggs are set. Serve immediately.\n                                   Yield 100 servings.",
+    "confidence": "high"
+  },
+  {
+    "photo": 369,
+    "kind": "recipe",
+    "title": "Cinderella's Fantasy Crepes (Turkey or Chicken)",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "— Crepe batter —",
+      "3 beaten eggs",
+      "2/3 c flour",
+      "1/2 tsp salt",
+      "1 c milk",
+      "— Filling —",
+      "2 c sliced mushrooms",
+      "1/4 c margarine",
+      "3 tbsp flour",
+      "1/2 tsp salt, pepper",
+      "1 c milk",
+      "2 1/2 c grated cheese",
+      "1 1/2 c cooked chicken"
+    ],
+    "directions": [
+      "Comb. eggs, flour, salt, milk. Beat till smooth. Let stand 30 min.",
+      "For ea. crepe pour 1/4 c batter into hot lightly greased 8\" skillet. Cook till underside is light brown.",
+      "Filling: Saute veggies in marg. Blend flour & seasonings. Grad. add milk; cook, stir constantly until thick. Add 1 1/2 c cheese, stir till melted.",
+      "Chop the cooked chicken into bite size pieces & add to sauce. Fill ea. crepe c̄ about 1/4 cup of"
+    ],
+    "notes": [
+      "Written on a printed 'RECIPE ... from the kitchen of' card (Saffron floral design, Stylecraft 1981, 75-909).",
+      "'Turkey or Chicken' written above the title.",
+      "Serves 4.",
+      "Continues on back (photo 371). Photo 370 is a closer re-shot of this same front."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "Turkey or Chicken.\nRECIPE  Cinderella's Fantasy Crepes\nCrepe batter          Filling:                    serves 4\n  3 beaten eggs       2 c sliced mushrooms\n  2/3 c flour         1/4 c margarine\n  1/2 tsp salt        3 Tbsp. flour.    1/2 tsp. salt, pepper\n  1 c milk            1 c milk\n                      2 1/2 c grated cheese.\n                      1 1/2 c cooked chicken\nComb. eggs, flour, salt, milk. Beat till smooth. Let\nstand 30 min. For ea. crepe pour 1/4 c batter into hot lightly\ngreased 8\" skillet. Cook till underside is light brown.\nFilling: Saute veggies in marg. Blend flour & seasonings\nGrad. add milk; cook, stir constantly until thick. Add 1 1/2 c\ncheese, stir till melted. Chop the cooked\nfrom the kitchen of\nchicken into bite size pieces & add to sauce. Fill ea. crepe c̄ about 1/4 cup of\nSAFFRON   75-909   © 1981 STYLECRAFT, BALTIMORE, MD. 21230  PRINTED IN U.S.A.",
+    "confidence": "high"
+  },
+  {
+    "photo": 370,
+    "kind": "recipe",
+    "title": "Cinderella's Fantasy Crepes (Turkey or Chicken)",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "— Crepe batter —",
+      "3 beaten eggs",
+      "2/3 c flour",
+      "1/2 tsp salt",
+      "1 c milk",
+      "— Filling —",
+      "2 c sliced mushrooms",
+      "1/4 c margarine",
+      "3 tbsp flour",
+      "1/2 tsp salt, pepper",
+      "1 c milk",
+      "2 1/2 c grated cheese",
+      "1 1/2 c cooked chicken"
+    ],
+    "directions": [
+      "Comb. eggs, flour, salt, milk. Beat till smooth. Let stand 30 min.",
+      "For ea. crepe pour 1/4 c batter into hot lightly greased 8\" skillet. Cook till underside is light brown.",
+      "Filling: Saute veggies in marg. Blend flour & seasonings. Grad. add milk; cook, stir constantly until thick. Add 1 1/2 c cheese, stir till melted.",
+      "Chop the cooked chicken into bite size pieces & add to sauce. Fill ea. crepe c̄ about 1/4 cup of"
+    ],
+    "notes": [
+      "Duplicate (closer) photo of the same Cinderella's Fantasy Crepes card front as photo 369; the 'Turkey or Chicken' line above the title is cut off at the top edge in this shot.",
+      "Serves 4.",
+      "Continues on back (photo 371)."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "[Turkey or Chicken. - cut off at top]\nRECIPE  Cinderella's Fantasy Crepes\nCrepe batter          Filling:                    serves 4\n  3 beaten eggs       2 c sliced mushrooms\n  2/3 c flour         1/4 c margarine\n  1/2 tsp salt        3 Tbsp. flour.    1/2 tsp. salt, pepper\n  1 c milk            1 c milk\n                      2 1/2 c grated cheese.\n                      1 1/2 c cooked chicken\nComb. eggs, flour, salt, milk. Beat till smooth. Let\nstand 30 min. For ea. crepe pour 1/4 c batter into hot lightly\ngreased 8\" skillet. Cook till underside is light brown.\nFilling: Saute veggies in marg. Blend flour & seasonings\nGrad. add milk; cook, stir constantly until thick. Add 1 1/2 c\ncheese, stir till melted. Chop the cooked\nfrom the kitchen of\nchicken into bite size pieces & add to sauce. Fill ea. crepe c̄ about 1/4 cup of\nSAFFRON   75-909   © 1981 STYLECRAFT, BALTIMORE, MD. 21230",
+    "confidence": "high"
+  },
+  {
+    "photo": 371,
+    "kind": "continuation",
+    "title": "Cinderella's Fantasy Crepes (Turkey or Chicken)",
+    "attribution": "Diamond Dishes - Alta. Power Bd.",
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "the filling & roll up. Place crepes in a 8 x 12\" baking dish.",
+      "Bake @ 350°F. for 20 min. Top c̄ remain. cheese & continue baking until cheese is melted."
+    ],
+    "notes": [
+      "Back of the Cinderella's Fantasy Crepes card; continues 'Fill ea. crepe c̄ about 1/4 cup of' from the front.",
+      "Source written at bottom: 'Diamond Dishes - Alta. Power Bd.' (Alberta Power Board cookbook)."
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "the filling & roll up. Place crepes in a 8 x 12\" baking dish. Bake @\n350°F. for 20 min. Top c̄ remain. cheese & continue baking until\ncheese is melted.\n\n\nDiamond Dishes - Alta. Power Bd.",
+    "confidence": "high"
+  },
+  {
+    "photo": 372,
+    "kind": "non-recipe",
+    "title": "FISH & SEAFOODS (divider tab)",
+    "attribution": null,
+    "category": "Other",
+    "ingredients": [],
+    "directions": [],
+    "notes": [
+      "Blank recipe-box divider card with a yellow tab reading 'FISH & SEAFOODS'. Marks the start of the fish & seafood section."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "FISH &\nSEAFOODS",
+    "confidence": "high"
+  },
+  {
+    "photo": 373,
+    "kind": "recipe",
+    "title": "Smoked Salmon Cheese Ball",
+    "attribution": "from staff party",
+    "category": "Main Dishes",
+    "ingredients": [
+      "1 - 7 oz. can sockeye salmon drained & flaked",
+      "1 - 4 oz. pkg. cream cheese",
+      "1/2 tbsp lemon juice",
+      "1 tbsp horseradish",
+      "1/4 tsp salt",
+      "1/2 tsp liquid smoke",
+      "1 tbsp grated onion",
+      "chopped parsley & pecans"
+    ],
+    "directions": [
+      "Combine all ingredients except parsley & pecans. Mix well.",
+      "Form into a ball. Chill.",
+      "Roll in parsley & chopped pecans."
+    ],
+    "notes": [
+      "'from staff party' written in pencil at top right.",
+      "Written on a folded sheet of paper rather than a card."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Smoked Salmon Cheese Ball\n                                  from staff party\n1 - 7 oz. can sockeye salmon drained\n        & flaked.\n1 - 4 oz. pkg. cream cheese.\n1/2 tbsp. lemon juice\n1 tbsp. horseradish\n1/4 tsp. salt.\n1/2 tsp. liquid smoke.\n1 tbsp. grated onion\nChopped parsley & pecans.\nCombine all ingredients except\nparsley & pecans. Mix well.\nForm into a ball. Chill.\nRoll in parsley & chopped pecans.",
+    "confidence": "high"
+  },
+  {
+    "photo": 374,
+    "kind": "recipe",
+    "title": "New England Clam Chowder",
+    "attribution": null,
+    "category": "Soups & Salads",
+    "ingredients": [
+      "1 can Ocean brand baby clams",
+      "375 ml - 1 1/2 c diced potato",
+      "284 ml - 10 oz can clam nectar (used nectar from clams & added H2O)",
+      "3 slices bacon diced",
+      "1/2 c diced onion",
+      "4 tbsp butter or margarine",
+      "4 tbsp flour",
+      "500 ml - 2 cups light cream or milk - used cereal cr. & milk",
+      "1/2 tsp thyme",
+      "1/2 tsp minced parsley"
+    ],
+    "directions": [],
+    "notes": [
+      "'over' at bottom right - continues on back (photo 375).",
+      "Card is stained (coffee/tea ring) at top; ink somewhat faded.",
+      "The 4 \" flour line uses ditto marks meaning 4 tbsp; the 1/2 \" minced parsley line uses ditto marks meaning 1/2 tsp."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": true,
+    "multiple_cards": false,
+    "raw_text": "New England Clam Chowder.\n1 can Ocean brand baby clams.\n375 ml. - 1 1/2 c diced potato\n284 ml - 10 oz can clam nectar - (used nectar from clams\n                                        & added H2O)\n3 slices bacon diced\n1/2 c diced onion\n4 tbsp butter or margarine\n4 \"  flour\n500 ml - 2 cups light cream or milk - used cereal cr. & milk\n1/2 tsp thyme\n1/2 \"  minced parsley                    over",
+    "confidence": "high"
+  },
+  {
+    "photo": 375,
+    "kind": "continuation",
+    "title": "New England Clam Chowder",
+    "attribution": null,
+    "category": null,
+    "ingredients": [],
+    "directions": [
+      "Drain clams - reserve liquid - Parcook potatoes in reserved clam liquid (add thyme & parsley).",
+      "In med pan - butter & bacon, add onions - stir in flour until smooth. - Add potato mixture & cream/milk -",
+      "Can be made a day ahead."
+    ],
+    "notes": [
+      "Back of the New England Clam Chowder card.",
+      "'add thyme & parsley' inserted above the line after 'reserved clam liquid'.",
+      "'may' crossed out and replaced with 'can' in 'can be made a day ahead'.",
+      "Stained at top edge; ink faded."
+    ],
+    "continues_from_previous": true,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Drain clams - reserve liquid - Parcook potatoes in\n                    add thyme & parsley\nreserved clam liquid ^. In med pan - butter & bacon\nadd onions, - stir in flour until smooth. - Add potato\nmixture & cream/milk - [may - crossed out] can be made a day ahead.",
+    "confidence": "medium"
+  },
+  {
+    "photo": 376,
+    "kind": "recipe",
+    "title": "Seafood Chowder",
+    "attribution": null,
+    "category": "Soups & Salads",
+    "ingredients": [
+      "1 1/2 lbs. fish",
+      "1/4 lb diced bacon",
+      "1/2 - 3/4 c chopped onion",
+      "2-3 potatoes cubed",
+      "1 1/2 c water",
+      "1 1/2 tsp salt",
+      "1/4 tsp pepper",
+      "1 tsp Worcestershire sauce",
+      "1 - 13 oz can evaporated milk",
+      "1 pkg. Knorr veg. soup mix (can use in place of veggies above & bacon)"
+    ],
+    "directions": [
+      "Saute bacon & onion - add other ingred.",
+      "Can add diced carrots, celery, parsley -",
+      "- Can use in place of veggies above & bacon: 1 pkg. Knorr veg. soup mix.",
+      "- add fish - after above is cooked",
+      "- add milk - last.",
+      "(Can use 2-3 diff types of fish or seafood)"
+    ],
+    "notes": [
+      "Blue ink on a lined card; the right edge is cut off in the photo so some words at line ends are partially cropped ('above', 'cooked', 'seafood').",
+      "Newer, rewritten copy of the older Seafood Chowder recipe shown in photo 377.",
+      "'1/4 \"' after fish uses ditto marks - reads as 1/4 lb diced bacon."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Seafood Chowder.\n1 1/2 lbs. fish                    saute bacon & onion -\n1/4 \" diced bacon                  - add other ingred.\n1/2 - 3/4 c chopped onion          Can add diced carrots, celery\n2-3 potatoes cubed.                  parsley -\n1 1/2 c water                      - Can use in place of veggies abov[e]\n1 1/2 tsp. salt                      & bacon\n1/4 \" pepper                         1 pkg. Knorr veg. soup mix.\n1 tsp. Worchester sauce.           - add fish - after above is cooke[d]\n1 - 13 oz. can evaporated milk.    - \" milk - last.\n                                   (Can use 2-3 diff types of fish or seafo[od]",
+    "confidence": "high"
+  },
+  {
+    "photo": 377,
+    "kind": "recipe",
+    "title": "Seafood Chowder",
+    "attribution": null,
+    "category": "Soups & Salads",
+    "ingredients": [
+      "1 1/2 lbs fish",
+      "1/4 lb bacon diced",
+      "1/2 - 3/4 cup chopped onion",
+      "2 to 3 potatoes cubed",
+      "1 1/2 cups water",
+      "1 1/2 teaspoons salt",
+      "1/4 teaspoon pepper",
+      "1 - 13 oz can evaporated milk",
+      "1 teaspoon Worc. sauce"
+    ],
+    "directions": [
+      "Saute bacon & onion before adding ingred. except milk.",
+      "Add milk for last minutes of cooking.",
+      "Could add - diced carrots - celery - parsley -"
+    ],
+    "notes": [
+      "Older original of the Seafood Chowder recipe (photo 376 is the rewritten copy). Written on a strip of lined paper, heavily water-stained with the blue ink run/blurred; a hole-punch at left.",
+      "Sideways note in left margin (in pen): '* 1 vegetable soup mix in place of bacon.'",
+      "The 1/4 line has a check/ditto mark meaning 1/4 lb bacon diced.",
+      "Right edge of the photo is cropped so 'ingred[ients]' and 'las[t]' are cut off."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "[sideways in left margin:] * 1 vegetable soup mix in place of bacon.\nSeafood Chowder\n1 1/2 lbs fish                      saute bacon & onion\n1/4 ✓ Bacon diced                   before adding ingred[ients]\n1/2 - 3/4 Cup chopped onion         except milk\n2 to 3 potatoes cubed               add milk for las[t]\n1 1/2 cups water                    minutes of cooking\n1 1/2 teaspoons salt                could add - diced\n1/4 \" pepper                        carrots - celery\n1 - 13 oz can evaporated milk -     parsley -\n                                    teaspoon of Worc[?]\n                                    sauce",
+    "confidence": "medium"
+  },
+  {
+    "photo": 378,
+    "kind": "clipping",
+    "title": "Oyster Stew",
+    "attribution": "Mme. Benoit (published clipping)",
+    "category": "Soups & Salads",
+    "ingredients": [
+      "1/2 cup (125 mL) unsalted butter",
+      "1 cup (250 mL) celery very finely diced",
+      "2 carrots, shredded",
+      "6-8 green onions, finely minced",
+      "1 leek, thinly sliced",
+      "1/4 cup (50 mL) unsalted butter",
+      "1/2 cup (125 mL) flour",
+      "2 cups (500 mL) 2% milk",
+      "2 cups (500 mL) cereal cream",
+      "Salt and pepper to taste",
+      "1 can (5 oz./142 mL) clams, minced",
+      "2 cups (500 mL) fresh oysters",
+      "1/2 cup (125 mL) white wine or dry sherry",
+      "Paprika"
+    ],
+    "directions": [
+      "In a large saucepan melt 1/2 cup butter, add vegetables, stir until vegetables are well coated with butter. Cover, simmer 20 minutes over very low heat, stirring once or twice.",
+      "In a saucepan over medium heat melt 1/4 cup (50 mL) butter, add flour, stir cook for 1 minute. Add milk and cream, stir until smooth and creamy. Add sauce to vegetables. Salt and pepper to taste. Mix thoroughly and set aside.",
+      "Bring to boil minced clams in their juice. Add oysters to clams, then add wine or sherry. Cook over low heat for 10 minutes. DO NOT BOIL. When very hot pour into creamed vegetable mixture. Stir over low heat. DO NOT BOIL.",
+      "Serve soup in a deep plate or soup bowl. Sprinkle with paprika."
+    ],
+    "notes": [
+      "Printed newspaper/magazine clipping with holly decoration (Christmas feature).",
+      "Intro text: 'Several years ago Mme. Benoit published this recipe from Canadian Pacific's inaugural transcontinental train journey. It was served to John A. MacDonald's guests on that historic run.'"
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "OYSTER STEW\nSeveral years ago Mme. Benoit published this recipe from\nCanadian Pacific's inaugural transcontinental train journey. It was\nserved to John A. MacDonald's guests on that historic run.\n1/2 cup    unsalted butter                    125 mL\n1 cup      celery very finely diced           250 mL\n2          carrots, shredded                  2\n6-8        green onions, finely minced        6-8\n1          leek, thinly sliced                1\n1/4 cup    unsalted butter                    50 mL\n1/2 cup    flour                              125 mL\n2 cups     2% milk                            500 mL\n2 cups     cereal cream                       500 mL\n           Salt and pepper to taste\n1          can (5 oz./142 mL) clams, minced   1\n2 cups     fresh oysters                      500 mL\n1/2 cup    white wine or dry sherry           125 mL\n           Paprika\nIn a large saucepan melt 1/2 cup butter, add vegetables, stir until vegetables are well coated with butter. Cover, simmer 20 minutes over very low heat, stirring once or twice.\nIn a saucepan over medium heat melt 1/4 cup (50 mL) butter, add flour, stir cook for 1 minute. Add milk and cream, stir until smooth and creamy. Add sauce to vegetables.\nSalt and pepper to taste. Mix thoroughly and set aside.\nBring to boil minced clams in their juice. Add oysters to clams, then add wine or sherry. Cook over low heat for 10 minutes. DO NOT BOIL. When very hot pour into creamed vegetable mixture. Stir over low heat. DO NOT BOIL.\nServe soup in a deep plate or soup bowl. Sprinkle with paprika.",
+    "confidence": "high"
+  },
+  {
+    "photo": 379,
+    "kind": "recipe",
+    "title": "Salmon Loaf",
+    "attribution": null,
+    "category": "Main Dishes",
+    "ingredients": [
+      "1 tbsp gelatin",
+      "1/2 c cold water",
+      "1 loaf French bread",
+      "1 1/2 c soft bread crumbs",
+      "2 x 7 1/2 oz. tins salmon",
+      "4 oz. cream cheese",
+      "3 tbsp ketchup",
+      "3 tbsp mayonnaise",
+      "1/4 tsp pepper",
+      "1/4 tsp dry mustard",
+      "3 tbsp pimento",
+      "1/2 c sweet pickle"
+    ],
+    "directions": [
+      "Dissolve gelatin in water.",
+      "Cut French bread in half & hollow out the middle for your bread crumbs, leaving 1 1/2\" crust.",
+      "Combine gelatin, salmon, cheese, ketchup, mayonnaise, pepper, mustard, pimento, pickle, & bread crumbs & mix well.",
+      "Fill the French loaf c̄ the salmon mixture. Chill in fridge before slicing.",
+      "This loaf freezes well."
+    ],
+    "notes": [
+      "Written on a sheet of paper (not a card); a stuffed French-bread salmon loaf served chilled and sliced.",
+      "Ditto marks: '3 \" mayonnaise' = 3 tbsp; '1/4 \" dry mustard' = 1/4 tsp."
+    ],
+    "continues_from_previous": false,
+    "continues_to_next": false,
+    "multiple_cards": false,
+    "raw_text": "Salmon Loaf.                  3 tbsp. ketchup.\n1 tbsp gelatin                3 \"  mayonnaise\n1/2 c cold water              1/4 tsp. pepper\n1 loaf French bread.          1/4 \"  dry mustard\n1 1/2 c. soft bread crumbs.   3 tbsp. pimento\n2 x 7 1/2 oz. tins salmon     1/2 c sweet pickle.\n4 oz. cream cheese.\nDissolve gelatin in water. Cut French bread\nin half & hollow out the middle for your bread\ncrumbs, leaving 1 1/2\" crust. Combine gelatin,\nsalmon, cheese, ketchup, mayonnaise, pepper,\nmustard, pimento, pickle, & bread crumbs &\nmix well. Fill the French loaf c̄ the salmon\nmixture. Chill in fridge before slicing.\nThis loaf freezes well.",
+    "confidence": "high"
+  }
+]

@@ -1,0 +1,534 @@
+[
+ {
+  "photo": 20,
+  "kind": "non-recipe",
+  "title": "Play Dough",
+  "attribution": "Pat Jeffray",
+  "category": "Kids' Crafts & Fun",
+  "ingredients": [
+   "— Mixture I —",
+   "2 c flour",
+   "1 c salt",
+   "4 tsp cream of tartar",
+   "Mix well",
+   "— Mixture II —",
+   "2 c water",
+   "2 tbsp oil",
+   "food coloring",
+   "Mix well"
+  ],
+  "directions": [
+   "Put mixture II into mixture I.",
+   "Cook until mixture comes away from sides of pan (4-5 min.)",
+   "Knead dough on wax paper."
+  ],
+  "notes": [
+   "Written on lined notepaper, stained"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Play Dough - Pat Jeffray\nMixture I\n2 c flour\n1 c salt\n4 tsp. cream of tartar\nMix well\nMixture II\n2 c. water\n2 tbsp. oil\nfood coloring\nMix well\nPut mixture II into mixture I. Cook\nuntil mixture comes away from sides of\npan (4-5 min.) Knead dough on wax\npaper.",
+  "confidence": "high"
+ },
+ {
+  "photo": 21,
+  "kind": "recipe",
+  "title": "Gingerbread House",
+  "attribution": "Judy Kersch",
+  "category": "Cookies & Bars",
+  "ingredients": [
+   "7 c flour (3 1/2 written in margin)",
+   "4 tsp ginger (2 in margin)",
+   "4 tsp cinnamon (2 in margin)",
+   "1 tsp baking soda (1/2 in margin)",
+   "2 cups butter",
+   "2 cups brown sugar",
+   "1 cup molasses",
+   "— Candy (for windows) —",
+   "icing sugar + water for candy",
+   "— Dec. icing —",
+   "icing sugar + egg white",
+   "4 c icing sugar",
+   "2 egg whites + 1/2 tsp [cream of tartar?]"
+  ],
+  "directions": [
+   "Combine 1st four ingredients, cream butter & brown sugar. Add molasses"
+  ],
+  "notes": [
+   "From Judy Kersch",
+   "Small pencil numbers in left margin (3 1/2, 2, 2, 1/2) appear to be halved amounts of the flour, ginger, cinnamon and soda",
+   "Right column boxed off: icing sugar + water for candy; dec. icing: icing sugar + egg white; 4 c. icing sug[ar], 2 egg whites + 1/2 tsp (cut off at edge)",
+   "Text runs off bottom of photo; continues on next photo"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "From Judy Kersch\nGingerbread House | icing sugar\n | + water for\n | candy.\n3 1/2 | 7 c flour | dec. icing.\n2 | 4 tsp. ginger | icing sugar\n2 | 4 tsp. cinnamon | + egg\n | white.\n1/2 | 1 tsp. Baking soda | 4 c. icing sug[ar]\n | 2 egg whites +\n | 1/2 tsp. [cut off]\n2 cups butter\n2 cups brown sugar\n1 cup molasses\nCombine 1st. four ingredients, cream\nbutter & brown sugar. Add molas[ses]",
+  "confidence": "high"
+ },
+ {
+  "photo": 22,
+  "kind": "continuation",
+  "title": "Gingerbread House",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "& gradually add first four items.",
+   "Roll in pan 1/4\" thick, chill & bake in 350° 12-15 min.",
+   "ROOF - 2: 7\" - 11\" rec.",
+   "WALLS - 2: 4\" - 8\" rec.",
+   "END WALLS - 2: 4\" - 6\" rec. at mid point of 4\" side extend a line 5\" up & join sides",
+   "Chimney 4 - 1 1/2\" x 4\" rec. - on 2 of the rec. cut 1\" V."
+  ],
+  "notes": [
+   "Back of Gingerbread House card: house piece dimensions (rec. = rectangle)"
+  ],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "& gradually add first four\nitems.\nRoll in pan 1/4\" thick, chill &\nBake in 350° 12-15 min.\n\nROOF - 2      7\"-11\" Rec.\nWALLS - 2     4\"-8\" rec.\nEND WALLS 2   4\"-6\" rec. at mid\npoint of 4\" side extend a line 5\" up\n& join sides\nChimney 4 - 1 1/2\" x 4\" rec. - on 2 of the\nrec. cut 1\" V.",
+  "confidence": "high"
+ },
+ {
+  "photo": 23,
+  "kind": "recipe",
+  "title": "Dressings: Garlic / Island Dressing",
+  "attribution": null,
+  "category": "Soups & Salads",
+  "ingredients": [
+   "=== First card: Dressings: Garlic ===",
+   "1/4 c mayonnaise",
+   "1 tsp milk",
+   "1 tsp vinegar",
+   "pinch garlic pwd.",
+   "dried parsley",
+   "=== Second card: Island Dressing ===",
+   "3 tbsp mayonnaise",
+   "1 tbsp ketchup",
+   "1 tsp relish"
+  ],
+  "directions": [],
+  "notes": [
+   "Two dressing recipes side by side on one card, separated by a dashed line",
+   "Ditto marks (\") used for repeated units"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": true,
+  "raw_text": "Dressings: Garlic.        |  Island Dressing\n1/4 c mayonnaise          |  3 tbsp. mayonnaise\n1 tsp. milk               |  1  \"   ketchup\n1  \"  vinegar             |  1 tsp. relish.\npinch garlic pwd.\ndried parsley.",
+  "confidence": "high"
+ },
+ {
+  "photo": 24,
+  "kind": "recipe",
+  "title": "Tossed Salad / Seafood Salad",
+  "attribution": null,
+  "category": "Soups & Salads",
+  "ingredients": [
+   "=== First card: Tossed Salad ===",
+   "1/2 lettuce",
+   "2 green onions",
+   "8 cherry tomatoes",
+   "2 tbsp bacon bits",
+   "1 cup croutons",
+   "=== Second card: Seafood Salad ===",
+   "1 can tuna, shrimp or crab",
+   "1/2 c chopped celery",
+   "2 tbsp chopped gr. onion",
+   "1/2 c mayonnaise",
+   "1/4 tsp salt",
+   "1/4 tsp pepper"
+  ],
+  "directions": [],
+  "notes": [
+   "Two salad recipes side by side on one card, quantities written in a right-hand column"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": true,
+  "raw_text": "Tossed Salad              |  Seafood Salad\nlettuce         1/2       |  tuna, shrimp or crab.   1 can\ngreen onions    2         |  chopped celery.         1/2 c\nCherry tomatoes 8         |    \"     gr. onion       2 tbsp.\nbacon bits      2 tbsp.   |  mayonnaise              1/2 c\ncroutons        1 cup.    |  salt                    1/4 tsp.\n                          |  pepper.                 1/4 \"",
+  "confidence": "high"
+ },
+ {
+  "photo": 25,
+  "kind": "recipe",
+  "title": "Chip type snack",
+  "attribution": "re: Stage West",
+  "category": "Other",
+  "ingredients": [
+   "pita bread",
+   "garlic butter"
+  ],
+  "directions": [
+   "Take pita bread - break up in pieces.",
+   "dip in garlic butter.",
+   "crisp up in oven."
+  ],
+  "notes": [
+   "\"type\" inserted above the title with a caret: \"Chip type snack\"",
+   "(re: Stage West)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "        type\nChip ^ snack.      (re: Stage West)\nTake pita bread - break up in pieces.\n  dip in garlic butter.\n  crisp up in oven.",
+  "confidence": "high"
+ },
+ {
+  "photo": 26,
+  "kind": "recipe",
+  "title": "Taco Spread",
+  "attribution": "best of bridge",
+  "category": "Other",
+  "ingredients": [
+   "1 pkg cream cheese 8 oz.",
+   "1/3 c mayonnaise",
+   "1/2 c sour cream",
+   "2 tins broken shrimp",
+   "1 green pepper cut up small",
+   "1 tomato cut up small",
+   "3 green onions cut up small",
+   "1 cup seafood sauce (added in pencil)"
+  ],
+  "directions": [
+   "Mix tog. cream cheese, mayo & sour cream - put on bottom [of dish]",
+   "then add shrimp, then cut up vegies tog. - let chill in fridge."
+  ],
+  "notes": [
+   "V.G. (top left corner)",
+   "(best of bridge) - yellow/black book",
+   "\"1 cup seafood sauce\" added later in pencil beside the ingredient list",
+   "Left edge of card is cropped so leading fractions are partly cut off (1/3 c mayonnaise, 1/2 c sour cream read from context)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "V.G.\nTaco Spread   (best of bridge) - yellow/black bo[ok]\n1 pkg cream cheese 8 oz.\n[1/]3 c mayonnaise\n1/2 c sour cream.\n2 tins broken shrimp          1 cup seafood\n1 green pepper cut up small.       sauce\n1 tomato cut up small\n3 green onions  \"   \"   \"\nMix tog. cream cheese, mayo & sour cream - put on botto[m]\nthen add shrimp, then cut up vegies tog. - let chill in fridge.",
+  "confidence": "high"
+ },
+ {
+  "photo": 27,
+  "kind": "non-recipe",
+  "title": "Cupcakes (decorating ideas)",
+  "attribution": null,
+  "category": "Kids' Crafts & Fun",
+  "ingredients": [],
+  "directions": [
+   "baby bear: chocolate; brown sprinkle; chocolate; eyes, mouth, nose - black licorice",
+   "ring-a-ling: black licorice; red licorice; marshmallows; lg. silver candies; candy",
+   "rascal rabbit: marshmallow c̄ pink around edge; licorice (black)",
+   "sparky: red c̄ coconut on top; black licorice; red candy c̄ black \" on top; black licorice"
+  ],
+  "notes": [
+   "Sheet of sketched decorated cupcake faces with labelled parts (baby bear, ring-a-ling, rascal rabbit, sparky)",
+   "\"marshmallows\" crossed out on rascal rabbit",
+   "c̄ = with",
+   "\"over\" written bottom right; continues on next photo"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Cupcakes:\n[sketch] baby bear. - chocolate. / brown sprinkle / chocolate / eyes, mouth, nose / black licorice\n[sketch] ring-a-ling - black licorice / red licorice / marshmallows. / lg. silver candies / candy\n[sketch] rascal rabbit - ~~marshmallows~~ / marshmallow c̄ pink around edge. / licorice (black)\n[sketch] sparky - red c̄ coconut on top. / black licorice / red candy c̄ black \" on top / black licorice\nover",
+  "confidence": "high"
+ },
+ {
+  "photo": 28,
+  "kind": "continuation",
+  "title": "Cupcakes (decorating ideas)",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "spring basket: jelly beans; black licorice; green c̄ coconut on top; marshmallow centre; green candy leaves",
+   "pinky piglet: marshmallows (pink); pink candies; marshmallow; licorice",
+   "smiley: cone; long coconut; lg. candy; licorice; pink; white; red",
+   "Kim Koala: potato chips; black; red; grey"
+  ],
+  "notes": [
+   "Back of the Cupcakes sheet: four more sketched cupcake faces (spring basket, pinky piglet, smiley, Kim Koala)"
+  ],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "[sketch] spring basket - jelly beans / black licorice / green c̄ coconut on top / marshmallow centre / green candy leaves.\n[sketch] pinky piglet - marshmallows (pink) / pink candies / marshmallow / licorice\n[sketch] smiley - cone / long coconut / lg. candy / licorice / pink / white / red.\n[sketch] Kim Koala - potato chips / black / red. / grey.",
+  "confidence": "high"
+ },
+ {
+  "photo": 29,
+  "kind": "recipe",
+  "title": "Breakfast",
+  "attribution": null,
+  "category": "Breakfast",
+  "ingredients": [
+   "Ham/bacon or ham, cheese on[?] bun",
+   "1 egg"
+  ],
+  "directions": [
+   "Ham/bacon or ham, cheese on[?] bun - lightly mix 1 egg - place in micro-wave for 1 min or less - assemble -",
+   "- French toast - fruit",
+   "Cereal - toast -",
+   "Pancakes -",
+   "Porridge -",
+   "Bacon & eggs -"
+  ],
+  "notes": [
+   "Pencil; a breakfast menu/ideas list with one quick microwave egg-sandwich method",
+   "Right edge cropped: \"or bu[n]\""
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Breakfast:  Ham/bacon or ham, cheese on[?] bu[n]\n     lightly mix 1 egg - place in micro-\nwave for 1 min or less - assemble -\n\n- French toast - fruit\n\nCereal - toast -          Pancakes -\n\nPorridge -\n\nBacon & eggs -",
+  "confidence": "medium"
+ },
+ {
+  "photo": 30,
+  "kind": "recipe",
+  "title": "Old Fashioned Rice Pudding",
+  "attribution": null,
+  "category": "Desserts & Sweets",
+  "ingredients": [
+   "2 eggs",
+   "2 cups milk",
+   "1 1/2 cups cooked rice",
+   "1 cup raisins (1/2 cup)",
+   "1/2 cup sugar (1/3 \")",
+   "1/8 tsp salt",
+   "1 tsp vanilla",
+   "dash nutmeg",
+   "cinnamon"
+  ],
+  "directions": [
+   "350°."
+  ],
+  "notes": [
+   "Title \"Old Fashioned Rice Pudding\" written at top left, partly cut off, with a large arrow pointing down to the ingredients",
+   "Reduced amounts in brackets: raisins (1/2 cup), sugar (1/3 \")",
+   "Written diagonally on a scrap of paper; text shows through from the back",
+   "Directions continue on next photo (back of scrap)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Old Fashioned\nRice Pudding  [arrow]\n2 eggs\n2 cups milk\n1 1/2 cups cooked rice\n1 cup raisins (1/2 cup)\n1/2 cup sugar (1/3 \")\n1/8 tsp salt.\n1 tsp. vanilla\ndash nutmeg\ncinnamon.\n350°.",
+  "confidence": "high"
+ },
+ {
+  "photo": 31,
+  "kind": "continuation",
+  "title": "Old Fashioned Rice Pudding",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "Beat eggs till light add to milk & rice.",
+   "Add other ingred. lightly.",
+   "Place in buttered casserole or shallow baking dish.",
+   "Bake uncovered in pan of H2O 1 hr.",
+   "Serves 6[?]"
+  ],
+  "notes": [
+   "Back of the rice pudding scrap, written diagonally",
+   "\"Serves\" number is scribbled over (looks like 6 or 8)"
+  ],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Beat eggs\ntill light\nadd to milk & rice.\nAdd other ingred.\nlightly.\nPlace in buttered casserole or\nbaking dish in shallow\nBake uncovered\npan of H2O\n1 hr.\nserves [6?]",
+  "confidence": "high"
+ },
+ {
+  "photo": 32,
+  "kind": "recipe",
+  "title": "Scrambled Eggs",
+  "attribution": null,
+  "category": "Breakfast",
+  "ingredients": [
+   "Worcestershire sauce"
+  ],
+  "directions": [
+   "add a little - Worcestershire sauce - improves the flavor."
+  ],
+  "notes": [
+   "Pencil; a tip rather than a full recipe"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Scrambled Eggs\nadd a little - Worcestershire sauce -\n  improves the flavor.",
+  "confidence": "high"
+ },
+ {
+  "photo": 33,
+  "kind": "recipe",
+  "title": "Cheese topping for buns",
+  "attribution": null,
+  "category": "Breads & Buns",
+  "ingredients": [
+   "12 strips bacon",
+   "cheese - grated, med/old best",
+   "1 tbsp green onion",
+   "1 tsp Worcestershire sauce",
+   "1/2 c flaked almonds (crumble in hands)",
+   "1 cup mayonnaise",
+   "Kaiser buns"
+  ],
+  "directions": [
+   "cut bacon very small pcs. fry till crisp - add 2-3 green onions - sauce, grated cheese, almonds & mayo.",
+   "cut buns in 1/2 spread c̄ topping. & broil 2-3 min."
+  ],
+  "notes": [
+   "(lost original recipe - from memory, not sure if 100% but tastes O.K.)",
+   "Something crossed out at top (\"[Rosemel?]\") above the bracketed note",
+   "\"over\" written sideways at right; continues on next photo",
+   "Left edge cropped; card is water-stained",
+   "c̄ = with"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "                                    ~~[Rosemel?]~~\nCheese topping for buns.  (lost original recipe - from\n12 strips bacon.                memory, not sure if 100%\ncheese - grated med/old best.   but tastes O.K.\ngreen onion    1 tbsp.\nWorchestershire sauce.  1 tsp.\nflaked almonds. 1/2 c. (crumble in hands)\nmayonnaise. 1 cup                              over\nKaiser buns.\ncut bacon very small pcs. fry till crisp - add\n2-3 green onions - sauce. grated cheese, almonds &\nmayo. - cut buns in 1/2 spread c̄ topping. & broil 2-3 mi[n]",
+  "confidence": "high"
+ },
+ {
+  "photo": 34,
+  "kind": "continuation",
+  "title": "Cheese topping for buns",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "freeze 1/2 buns on cookie sheets - then put in plastic bag."
+  ],
+  "notes": [
+   "Back of the Cheese topping for buns card; rest of card blank (ink stains)"
+  ],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "freeze 1/2 buns on cookie sheets -\nthen put in plastic bag.",
+  "confidence": "high"
+ },
+ {
+  "photo": 35,
+  "kind": "recipe",
+  "title": "Irish Cream",
+  "attribution": "from staff party",
+  "category": "Beverages",
+  "ingredients": [
+   "5 eggs",
+   "1 can Eagle Brand condensed milk",
+   "2 tbsp chocolate syrup",
+   "1/8 tsp coconut extract",
+   "13 oz. rye or scotch"
+  ],
+  "directions": [
+   "Blend all in blender about 3-5 mins.",
+   "Bottle in brown bottle.",
+   "Store in fridge x 2 weeks to mellow.",
+   "lasts about a month longer."
+  ],
+  "notes": [
+   "\"from staff party\" written in pencil beside title",
+   "\"Eagle Brand\" inserted above \"condensed milk\"",
+   "Written on a folded sheet of paper"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Irish Cream.  from staff party\n5 eggs.\n      Eagle Brand\n1 can condensed milk -\n2 tbsp. chocolate syrup.\n1/8 tsp. coconut extract\n13 oz. rye. or scotch.\nBlend all in blender about\n3-5 mins. Bottle in brown bottle.\nStore in fridge x 2 weeks to mellow.\nlasts about a month longer.",
+  "confidence": "high"
+ },
+ {
+  "photo": 36,
+  "kind": "non-recipe",
+  "title": "Remedies (Red Pepper / Potatoes / Banana / Arthritis)",
+  "attribution": null,
+  "category": "Household Hints & Remedies",
+  "ingredients": [],
+  "directions": [
+   "Red Pepper - rub on arthritis pain",
+   "Potatoes - slice & put/rub on warts (removes them re Sid Pawlowski)",
+   "Banana (inside skin) - rub on rash",
+   "both remedies apparently give relief.",
+   "Arthritis: white raisins soak in Gin for 7 days - eat 9 raisins a day & throw out Gin. (re Paul Harvey - CKXL-1140 radio) Mar 4/94"
+  ],
+  "notes": [
+   "Mixed pencil and blue ink",
+   "re Sid Pawlowski (warts remedy)",
+   "re Paul Harvey - CKXL-1140 radio, Mar 4/94",
+   "Left edge slightly cropped"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Red Pepper - rub on arthritis pain\nPotatoes - slice & put/rub on warts (removes them\n                                     re Sid Pawlowski)\nBanana (Inside skin) - rub on rash\n\n     both remedies apparently give relief.\nArthritis:\nwhite raisins soak in Gin for 7 days - eat 9 raisins a day\n& throw out Gin. (re Paul Harvey - CKXL-1140 radio)\n                                          Mar 4/94",
+  "confidence": "high"
+ },
+ {
+  "photo": 37,
+  "kind": "non-recipe",
+  "title": "Wasp sting",
+  "attribution": "re Fr. Frank",
+  "category": "Household Hints & Remedies",
+  "ingredients": [],
+  "directions": [
+   "Wasp sting - use a sliced onion on - re Fr. Frank."
+  ],
+  "notes": [
+   "Single line at top of an otherwise blank card; possibly the back of the remedies card (photo 036)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Wasp sting - use a sliced onion on - re Fr. Frank.",
+  "confidence": "high"
+ },
+ {
+  "photo": 38,
+  "kind": "clipping",
+  "title": "Quick tips for lamb",
+  "attribution": "CP (newspaper clipping)",
+  "category": "Main Dishes",
+  "ingredients": [
+   "Herbs: Rosemary, lemon thyme, oregano, marjoram, basil, tarragon, mint.",
+   "Spices: Curry powder, cumin, ginger, caraway, paprika.",
+   "Flavorings: Garlic, grated rind and juice of orange and lemon, red currant jelly, olive oil, soy sauce, wine, port, Madeira."
+  ],
+  "directions": [
+   "Make shallow cuts in skin of lamb roast and insert slivers of peeled garlic. Rub surface with mixture of salt, pepper and powdered rosemary. Sprinkle with a little olive oil and lemon juice."
+  ],
+  "notes": [
+   "Newspaper clipping taped to a lined card",
+   "Handwritten sideways in red at right: LAMB - FLAVORINGS"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Quick tips\nfor lamb\nHere are some flavor combinations that enhance lamb, along with techniques for applying them:\n■ Herbs: Rosemary, lemon thyme, oregano, marjoram, basil, tarragon, mint.\n■ Spices: Curry powder, cumin, ginger, caraway, paprika.\n■ Flavorings: Garlic, grated rind and juice of orange and lemon, red currant jelly, olive oil, soy sauce, wine, port, Madeira.\n■ Make shallow cuts in skin of lamb roast and insert slivers of peeled garlic. Rub surface with mixture of salt, pepper and powdered rosemary. Sprinkle with a little olive oil and lemon juice.\n— CP\n[handwritten sideways in red:] LAMB - FLAVORINGS",
+  "confidence": "high"
+ },
+ {
+  "photo": 39,
+  "kind": "non-recipe",
+  "title": "Hints",
+  "attribution": null,
+  "category": "Household Hints & Remedies",
+  "ingredients": [],
+  "directions": [
+   "To keep meat from sticking, salt pan before using",
+   "Lemon juice or vinegar will reduce salty taste",
+   "To keep thermos bottles from smelling musty when not in use - put a little sugar in them"
+  ],
+  "notes": [
+   "Pencil; three hints separated by ruled lines"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Hints:\nTo keep meat from sticking, salt pan\nbefore using\n\nLemon juice or vinegar will reduce salty taste\n\nTo keep thermos bottles from smelling musty\nwhen not in use - put a little sugar in them",
+  "confidence": "high"
+ }
+]

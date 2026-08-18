@@ -1,0 +1,663 @@
+[
+ {
+  "photo": 160,
+  "kind": "recipe",
+  "title": "White Bread",
+  "attribution": "Mennonite cook book, M.A.",
+  "category": "Breads & Buns",
+  "ingredients": [
+   "1 pkg. yeast, prepared as directed",
+   "6 c water",
+   "1 tbsp. salt",
+   "12 tbsp. lard",
+   "12-15 c flour"
+  ],
+  "directions": [
+   "Prepare 1 pkg. of yeast as directed.",
+   "Add yeast to rest of ingred., adding flour & beat until smooth.",
+   "Knead enough flour into mixture to make a stiff smooth dough.",
+   "Place in greased bowl. Cover, let rise until double.",
+   "Punch down & let rise again, until double.",
+   "Form into loaves & set into a warm place to rise.",
+   "Bake @ 375° for 1 hour."
+  ],
+  "notes": [
+   "Mennonite cook book. M.A. (top right)",
+   "over — Brown bread (Brown Bread recipe is on the back, photo 161)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Mennonite cook book. M.A.\nWhite Bread.\nPrepare 1 pkg. of yeast as directed\n6 c water                    12 tbsp. lard\n1 tbsp. salt                 12-15 c flour.\nAdd yeast to rest of ingred., adding flour & beat until\nsmooth. Knead enough flour into mixture to make a stiff\nsmooth dough. Place in greased bowl. Cover, let rise until\ndouble. Punch down & let rise again, until double. Form\ninto loaves & set into a warm place to rise. Bake @\n375° for 1 hour.\n                                        over\n                                        Brown bread",
+  "confidence": "high"
+ },
+ {
+  "photo": 161,
+  "kind": "recipe",
+  "title": "Brown Bread",
+  "attribution": "Mennonite cook book, M.A.",
+  "category": "Breads & Buns",
+  "ingredients": [
+   "1 tbsp. yeast",
+   "3 c water",
+   "4 tbsp. lard",
+   "3 tbsp. brown sugar",
+   "3 1/2 c whole wheat flour",
+   "3 c white flour",
+   "1 1/2 c rye flour",
+   "4 tsp. salt"
+  ],
+  "directions": [
+   "Mix in usual method & let rise 3/4 hr.",
+   "Knead down & let rise 30 min.",
+   "Put on pans to rise for 1 hour.",
+   "Bake @ 375° for 1 hour."
+  ],
+  "notes": [
+   "Written on the back of the White Bread card (photo 160), which says 'over — Brown bread'; attribution inferred from front of card"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Brown bread.\n1 tbsp. yeast            3 1/2 c whole wheat flour\n3 c water                3 c white flour.\n4 tbsp. lard             1 1/2 c rye flour\n3 tbsp. brown sugar      4 tsp. salt.\nMix in usual method & let rise 3/4 hr. Knead down &\nlet rise 30 min. Put on pans to rise for 1 hour. Bake @ 375°\n                                                for 1 hour.",
+  "confidence": "high"
+ },
+ {
+  "photo": 162,
+  "kind": "recipe",
+  "title": "Foundation Sweet Dough",
+  "attribution": "Mennonite cook book, M.A.",
+  "category": "Breads & Buns",
+  "ingredients": [
+   "1 c scalded milk",
+   "1 c lukewarm water",
+   "2 pkgs. yeast",
+   "1/2 c shortening",
+   "1/2 c sugar",
+   "1 1/2 tsp. salt",
+   "2 eggs, beaten",
+   "7 c flour",
+   "1/2 tsp nutmeg or 1/2 lemon, rind & juice may be added"
+  ],
+  "directions": [
+   "Scald milk, pour over sugar, salt & shortening.",
+   "Dissolve yeast in lukewarm water.",
+   "Add beaten eggs.",
+   "Add yeast & beaten eggs to lukewarm milk. Beat well.",
+   "Add flour grad. Knead lightly. Let rise till double in bulk.",
+   "Make into cinnamon or butterscotch rolls or buns."
+  ],
+  "notes": [
+   "Mennonite cook book M.A. (top right)",
+   "'Let rise till double in bulk.' squeezed in at bottom"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Mennonite cook book M.A.\nFoundation Sweet Dough.\n1 c scalded milk           1 1/2 tsp. salt\n1 c lukewarm water         2 eggs beaten\n2 pkgs. yeast              7 c flour\n1/2 c shortening           1/2 tsp nutmeg or 1/2 lemon, rind & juice\n1/2 c sugar                may be added.\nScald milk, pour over sugar, salt & shortening\nDissolve yeast in lukewarm water.\nAdd beaten eggs\nAdd yeast & beaten eggs to lukewarm milk. Beat well. Add flour\ngrad. Knead lightly. Make into cinnamon or butterscotch rolls or buns.\n                  Let rise till double in bulk.",
+  "confidence": "high"
+ },
+ {
+  "photo": 163,
+  "kind": "recipe",
+  "title": "Cinnamon Loaf",
+  "attribution": "Mennonite cookbook, M.A.",
+  "category": "Breads & Buns",
+  "ingredients": [
+   "1/2 c butter or marg.",
+   "4 eggs",
+   "2 tsp. bk. pwd.",
+   "3/4 tsp salt",
+   "2 c white sugar",
+   "2 c sour cream or buttermilk",
+   "3 c flour",
+   "— Topping —",
+   "1 c dessicated coconut",
+   "1 c brown sugar",
+   "2 tbsp. cinnamon"
+  ],
+  "directions": [
+   "Grease 2 pans. Put 1/4 c of topping in each pan.",
+   "Put 1/4 c batter in ea. pan. Sprinkle with a good amt of topping.",
+   "Divide remaining batter for other pan. Marbelize & sprinkle rest over top.",
+   "Bake @ 350° 50-60 min."
+  ],
+  "notes": [
+   "Mennonite cookbook M.A. (top right)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Mennonite cookbook M.A.\nCinnamon Loaf.\n1/2 c butter or marg.        2 c white sugar.\n4 eggs.                      2 c sour cream or buttermilk.\n2 tsp. bk. Pwd.              3 c flour.\n3/4 \" salt.\nTopping:\n1 c dessicated coconut, 1 c brown sugar, 2 tbsp. cinnamon\nGrease 2 pans. Put 1/4 c of topping in each pan. Put 1/4 c batter in\nea. pan. Sprinkle c̄ a good amt of topping. Divide remaining\nbatter for other pan. Marbelize & sprinkle rest over top. Bake @ 350° 50-60 min",
+  "confidence": "high"
+ },
+ {
+  "photo": 164,
+  "kind": "clipping",
+  "title": "Irish Soda Bread",
+  "attribution": null,
+  "category": "Breads & Buns",
+  "ingredients": [
+   "2 1/2 cups flour (625 mL)",
+   "2 Tbsp. sugar (25 mL)",
+   "1 tsp. baking soda (5 mL)",
+   "2 tsp. baking powder (10 mL)",
+   "1/2 tsp. salt (2 mL)",
+   "1/4 cup butter or margarine (50 mL)",
+   "1/4 cup currants (50 mL)",
+   "1 cup buttermilk (250 mL)"
+  ],
+  "directions": [
+   "Preheat oven to 350° F (180° C).",
+   "In a bowl, combine flour, sugar, baking soda, baking powder and salt.",
+   "Cut in butter until mixture resembles fine crumbs.",
+   "Stir in currants and buttermilk to make a soft dough.",
+   "Turn onto a lightly floured surface and knead for 1 minute.",
+   "Shape into a round loaf, about 7\" (18 cm) in diameter. Place on a greased baking sheet.",
+   "Cut an \"x\" in the centre of the loaf.",
+   "Bake for 45 minutes until golden brown."
+  ],
+  "notes": [
+   "Printed clipping; title 'IRISH SODA BREAD' also handwritten in blue ink on the clipping",
+   "Intro: In the old days, this Irish favourite was baked in an iron pot over a fire. This hearty bread is marked with an 'X' so it breaks easily into four farls (old Irish word for 'quarter')."
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "IRISH SODA BREAD\nIn the old days, this Irish favourite was baked in an iron pot over a fire.\nThis hearty bread is marked with an \"X\" so it breaks easily into four\nfarls (old Irish word for \"quarter\").          IRISH SODA BREAD [handwritten]\n2 1/2 cups   flour                     625 mL\n2 Tbsp.      sugar                      25 mL\n1 tsp.       baking soda                 5 mL\n2 tsp.       baking powder              10 mL\n1/2 tsp.     salt                        2 mL\n1/4 cup      butter or margarine        50 mL\n1/4 cup      currants                   50 mL\n1 cup        buttermilk                250 mL\nPreheat oven to 350° F (180° C).\nIn a bowl, combine flour, sugar, baking soda, baking powder and salt.\nCut in butter until mixture resembles fine crumbs. Stir in currants and\nbuttermilk to make a soft dough. Turn onto a lightly floured surface\nand knead for 1 minute. Shape into a round loaf, about 7\" (18 cm) in\ndiameter. Place on a greased baking sheet. Cut an \"x\" in the centre of\nthe loaf. Bake for 45 minutes until golden brown.",
+  "confidence": "high"
+ },
+ {
+  "photo": 165,
+  "kind": "clipping",
+  "title": "Blueberry Pumpkin Muffins — Homemade with Love",
+  "attribution": "Libby's / Carnation package",
+  "category": "Breads & Buns",
+  "ingredients": [
+   "1 2/3 cups flour",
+   "1 teaspoon baking soda",
+   "1/2 teaspoon baking powder",
+   "1/2 teaspoon salt",
+   "1 teaspoon cinnamon",
+   "1/2 teaspoon allspice",
+   "1 cup Libby's Solid Pack Pumpkin",
+   "1/4 cup undiluted Carnation Evaporated Milk",
+   "1/3 cup shortening",
+   "1 cup firmly packed light brown sugar",
+   "1 egg",
+   "1 cup blueberries",
+   "1 tablespoon flour",
+   "Streusel",
+   "— Streusel —",
+   "2 tablespoons flour",
+   "2 tablespoons sugar",
+   "1/4 teaspoon cinnamon",
+   "1 tablespoon butter"
+  ],
+  "directions": [
+   "Combine first six ingredients. Combine pumpkin and evaporated milk until blended.",
+   "Cream shortening and sugar in large mixer bowl. Add egg; beat until mixture is fluffy.",
+   "Add flour mixture alternately with pumpkin mixture, beating well after each addition.",
+   "Combine blueberries and flour. Gently stir into batter.",
+   "Fill 18 paper-lined muffin tins 3/4 full. Sprinkle Streusel over top of muffins.",
+   "Bake in moderate oven (350° F.) 40 minutes or until toothpick inserted in center comes out clean.",
+   "Streusel: Combine 2 tablespoons flour, 2 tablespoons sugar, and 1/4 teaspoon cinnamon. Cut in 1 tablespoon butter until mixture is crumbly."
+  ],
+  "notes": [
+   "Note: For larger muffins, use 12 paper-lined muffin tins.",
+   "Package clipping with Libby's Solid Pack Pumpkin can pictured; the word 'Blueberry' at top is partly cut off"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "[BLUEBERRY — cut off]\nPumpkin Muffins\nHomemade with Love\n1 2/3 cups flour              1/4 cup undiluted\n1 teaspoon baking               Carnation®\n  soda                          Evaporated Milk\n1/2 teaspoon baking           1/3 cup shortening\n  powder                      1 cup firmly packed\n1/2 teaspoon salt               light brown sugar\n1 teaspoon cinnamon           1 egg\n1/2 teaspoon allspice         1 cup blueberries\n1 cup Libby's® Solid          1 tablespoon flour\n  Pack Pumpkin                Streusel\nCombine first six ingredients. Combine\npumpkin and evaporated milk until blended.\nCream shortening and sugar in large mixer\nbowl. Add egg; beat until mixture is fluffy.\nAdd flour mixture alternately with pumpkin\nmixture, beating well after each addition.\nCombine blueberries and flour. Gently stir\ninto batter. Fill 18 paper-lined muffin tins 3/4\nfull. Sprinkle Streusel over top of muffins.\nBake in moderate oven (350° F.) 40 minutes\nor until toothpick inserted in center comes\nout clean.\nNote: For larger muffins, use\n12 paper-lined muffin tins.\nStreusel: Combine 2\ntablespoons flour, 2\ntablespoons sugar, and 1/4\nteaspoon cinnamon. Cut\nin 1 tablespoon butter\nuntil mixture is crumbly.\n[Libby's Solid Pack Pumpkin 100% Natural can pictured]",
+  "confidence": "high"
+ },
+ {
+  "photo": 166,
+  "kind": "recipe",
+  "title": "Pancakes",
+  "attribution": "Marg. F.",
+  "category": "Breakfast",
+  "ingredients": [
+   "1 egg",
+   "1 c flour",
+   "3/4 c milk",
+   "2 tbsp. oil",
+   "1 tbsp. sugar",
+   "3 tsp. bk. powder",
+   "1/2 tsp. salt"
+  ],
+  "directions": [
+   "Beat egg with hand beater till fluffy; then add remaining ingred. just until smooth.",
+   "For thinner pancakes add 1/4 c extra milk.",
+   "Blueberry: stir in 1/2 c fresh or frozen berries drained & thawed.",
+   "Banana: add 1 med. banana cut into 1/4\" pieces & sprinkle of ground nutmeg."
+  ],
+  "notes": [
+   "V.G. (top left)",
+   "Marg. F. (top right)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "VG        Pancakes                              Marg. F.\n1 egg                     1 tbsp. sugar\n1 c flour                 3 tsp. bk. powder\n3/4 c milk                1/2 tsp. salt\n2 tbsp. oil\nBeat egg c̄ hand beater till fluffy; then add\nremaining ingred. just until smooth. For thinner pancakes\nadd 1/4 c extra milk.\nBlueberry: stir in 1/2 c fresh or frozen berries drained & thawed.\nBanana: add 1 med. banana cut into 1/4\" pieces & sprinkle of ground\n                                                        nutmeg.",
+  "confidence": "high"
+ },
+ {
+  "photo": 167,
+  "kind": "recipe",
+  "title": "Banana Bread (Best — bridge)",
+  "attribution": null,
+  "category": "Breads & Buns",
+  "ingredients": [
+   "2 c sugar",
+   "1 c butter",
+   "6 ripe bananas (mashed — 3 c)",
+   "4 eggs, well beaten",
+   "2 1/2 c cake flour",
+   "2 tsp. bk. soda",
+   "1 tsp. salt"
+  ],
+  "directions": [
+   "With electric beater cream butter & sugar until light & fluffy.",
+   "Add bananas & eggs & beat until well mixed.",
+   "Sift dry ingredients 3 times — blend with banana mixture — do not overmix.",
+   "Pour into 2 greased loaf pans.",
+   "Bake @ 350° for 45 min – 1 hour. Cool 10 min before removing from pan."
+  ],
+  "notes": [
+   "V.G.",
+   "(Best — bridge)",
+   "Freezes well"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Banana Bread — (Best — bridge)        V.G.)\n2 c sugar.\n1 c butter                        2 1/2 c cake flour\n6 ripe bananas (mashed — 3 c)     2 tsp. bk. soda.\n4 eggs, well beaten               1 tsp. salt\nWith electric beater cream butter & sugar until light & fluffy.\nAdd bananas & eggs & beat until well mixed. Sift\ndry ingredients 3 times — blend c̄ banana mixture — do\nnot overmix. Pour into 2 greased loaf pans. Bake @ 350°\nfor 45 min — 1 hour. Cool — 10 min before removing from pan.   Freezes\n                                                                well",
+  "confidence": "high"
+ },
+ {
+  "photo": 168,
+  "kind": "recipe",
+  "title": "Muesli Bread (Harrowsmith)",
+  "attribution": "Harrowsmith",
+  "category": "Breads & Buns",
+  "ingredients": [
+   "2 1/2 c warm H2O (105°-115°)",
+   "1/4 c honey",
+   "2 tbsp yeast",
+   "1 1/2 c whole wheat flour",
+   "1 c oats",
+   "1/4 c raisins",
+   "1/4 c veg. oil",
+   "1/4 c sunflower seeds",
+   "2 tbsp. ea. millet, sesame, poppy & flax seeds",
+   "1 tbsp. molasses",
+   "1 tbsp salt",
+   "3 1/2 – 4 c flour",
+   "1 egg",
+   "1 tbsp. milk",
+   "(extra seeds & oatmeal for top)"
+  ],
+  "directions": [
+   "Combine warm H2O & honey in a lg. bowl. Sprinkle yeast on top & let stand approx 10 min.",
+   "Combine flour, oats, raisins, oil, sunflower, millet, sesame & poppy & flax seeds, molasses, salt & 2 c flour — add the H2O & yeast mix — stir well. — add"
+  ],
+  "notes": [
+   "Written in red ink",
+   "Continues on back (photo 169)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "\"Muesli\" Bread — (Harrowsmith).\n2 1/2 c warm H2O — (105°-115°)          1 tbsp salt.\n1/4 c honey.                            3 1/2 – 4 c flour\n2 tbsp yeast.                           1 egg\n1 1/2 c whole wheat flour               1 tbsp. milk\n1 c oats                                (extra seeds & oatmeal for top).\n1/4 c raisins\n1/4 c veg. oil                Combine warm H2O & honey in a lg.\n1/4 c sunflower seeds.        bowl. sprinkle yeast on top & let stand\n2 tbsp. ea. millet, sesame,   approx 10 min.\n     poppy & flax seeds.      Combine. flour, oats, raisins, oil, sun-\n1 tbsp. molasses.             flower, millet, sesame & poppy & flax seeds,\n                              molasses, salt & 2 c flour — add the\n                              H2O & yeast mix — stir well. — add",
+  "confidence": "high"
+ },
+ {
+  "photo": 169,
+  "kind": "continuation",
+  "title": "Muesli Bread (Harrowsmith)",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "...remaining flour, to make a stiff dough.",
+   "Turn onto floured surface & knead till smooth & elastic 7-10 min.",
+   "Place in lightly oiled bowl — cover with saran & damp towel — leave to rise — dbl. — 1 1/2 – 2 hrs. — Punch down.",
+   "Place in greased 4\" x 8\" loaf pans — let rise till dbl. approx [1 hr?]",
+   "To make a decorative topping — mix the egg & milk tog. & brush lightly over loaves & sprinkle with a mixture of seeds & oatmeal.",
+   "Bake @ 350° — 30-35 min. — till brown & sound hollow [when tapped?]"
+  ],
+  "notes": [
+   "Back of Muesli Bread card; right edge of several lines is cut off in the photo",
+   "Red ink"
+  ],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "remaining flour, to make a stiff dough.\n— turn onto floured surface & knead till smooth & elas[tic]\n7-10 min. — Place in lightly oiled bowl — cover c̄ saran [&]\ndamp towel — leave to rise — dbl. — 1 1/2 – 2 hrs. — Punch [down]\nPlace in greased 4\" x 8\" loaf pans — let rise till dbl. appro[x ...]\nTo make a decorative topping — mix the egg & milk tog[. &]\nbrush lightly over loaves & sprinkle c̄ a mixture of seeds & o[atmeal]\n— Bake @ 350° — 30-35 min. — till brown & sound hollow [...]",
+  "confidence": "medium"
+ },
+ {
+  "photo": 170,
+  "kind": "recipe",
+  "title": "Potato Pancakes",
+  "attribution": "back of Hutterian Treasury of Recipes (yellow book)",
+  "category": "Breakfast",
+  "ingredients": [
+   "2 c grated raw potato",
+   "3/4 c Aunt Jemima Pancake mix",
+   "1/2 c water",
+   "salt & pepper"
+  ],
+  "directions": [
+   "— added egg & onion & processed in blender —"
+  ],
+  "notes": [
+   "good.",
+   "(yellow book)",
+   "(back of Hutterian Treasury of recipes)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "                    good.        (yellow book)\nPotato Pancakes.        (back of Hutterian Treasury of recipes)\n2 c grated raw potato\n3/4 c Aunt Jemima Pancake mix.\n1/2 c water\nsalt & pepper\n— added egg & onion & processed in blender —",
+  "confidence": "high"
+ },
+ {
+  "photo": 171,
+  "kind": "recipe",
+  "title": "Pizza Crust",
+  "attribution": "Maria's recipe, kindness of our Jennifer",
+  "category": "Main Dishes",
+  "ingredients": [
+   "— Soften together —",
+   "1 package instant yeast",
+   "1/4 C lukewarm water",
+   "— Add —",
+   "1 C of milk",
+   "1 Tbsp oil",
+   "1 Tbsp sugar",
+   "1 tsp salt",
+   "2 3/4 C flour"
+  ],
+  "directions": [
+   "Soften together 1 package instant yeast and 1/4 C lukewarm water.",
+   "Milk, oil, sugar, salt: place in microwave a few min till bubbles around edge, then add — above & flour.",
+   "(Knead lightly.)",
+   "375° 20 mins."
+  ],
+  "notes": [
+   "Maria's recipe, kindness of our Jennifer — (red ink, top right)",
+   "375° 20 mins.",
+   "Card written in black ink by another hand (Jennifer/Maria); Grandma's additions in red ink"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "                                   Maria's recipe kindness of\n                                        our Jennifer —\n     Pizza Crust                   375°   20 mins.\nSoften together\n 1 package instant yeast\n 1/4 C lukewarm water\nAdd  1 C of milk    }  place in microwave a few\n     1 Tbsp oil     }  min till bubbles around edge\n     1 Tbsp sugar   }  then add — above & flour.\n     1 tsp salt     }\n     2 3/4 C flour        (knead lightly.)",
+  "confidence": "high"
+ },
+ {
+  "photo": 172,
+  "kind": "recipe",
+  "title": "Potato Pancakes",
+  "attribution": null,
+  "category": "Breakfast",
+  "ingredients": [
+   "4 med. potatoes (about 500 g.)",
+   "1 sm. onion, peeled & quartered",
+   "2 eggs",
+   "1/2 c flour",
+   "1 tsp. bk. pwd.",
+   "3/4 tsp salt",
+   "1/8 tsp pepper",
+   "veg. oil for frying"
+  ],
+  "directions": [
+   "1. In a food processor, dice or shred potatoes & onion briefly until med. fine. Add eggs & process a bit more, then add flour, bk. pwd, seasonings & process to make a batter.",
+   "2. Heat oil in lg fry pan. (sm. ones are crispier) Brown on each side, turning once — drain on paper towel.",
+   "3. Serve with sour cream & applesauce on side."
+  ],
+  "notes": [
+   "good. (top left, checkmark)",
+   "good (top right, blue)",
+   "recommend red-skin potatoes or Potomac or Yukon Gold."
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "good.  Potato Pancakes.       recommend red-skin potatoes or\n                                    Potomac or Yukon Gold.\n4 med. potatoes (about 500 g.)            good.\n1 sm. onion peeled & quartered\n2 eggs.                 1. In a food processor, dice or shred.\n1/2 c flour                potatoes & onion briefly until med. fine.\n1 tsp. bk. pwd.            Add eggs & process a bit more, then\n3/4 \" salt.                add flour, bk. pwd, seasonings & process\n1/8 \" pepper.              to make a batter.\nveg. oil for frying.    2. Heat oil in lg fry pan. (sm. ones are crispier)\n                           Brown on each side, turning once — drain\n                           on paper towel.\n                        3. Serve c̄ sour cream & applesauce on side.",
+  "confidence": "high"
+ },
+ {
+  "photo": 173,
+  "kind": "recipe",
+  "title": "Zucchini Chip Loaf (Woman's World)",
+  "attribution": "Woman's World",
+  "category": "Breads & Buns",
+  "ingredients": [
+   "2 1/2 c flour",
+   "1 c sugar",
+   "1 tsp. bk. pwd.",
+   "1 tsp soda",
+   "1 tsp cinnamon",
+   "1/2 tsp nutmeg",
+   "1/4 tsp allspice",
+   "1/4 tsp salt",
+   "2 med. zucchini, shredded (about 2 1/2 c)",
+   "1 c semisweet choc. chips",
+   "1 c chopped walnuts",
+   "3 eggs",
+   "1/2 c buttermilk",
+   "1/2 c veg. oil",
+   "1 tsp vanilla"
+  ],
+  "directions": [
+   "Grease/flour 2 loaf pans.",
+   "Stir tog. flour, sugar, bk pwd, soda, cinnamon, nutmeg, allspice, salt, zucchini, choc chips & walnuts."
+  ],
+  "notes": [
+   "V.G.",
+   "Bake @ 350° — 45-55 min",
+   "Continues on back (photo 175); photo 174 is a duplicate closer shot of this same card"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Zuccini Chip loaf — (Womans world)  V.G.\n                                   Bake @ 350° — 45-55 min\n2 1/2 c flour          2 med. zuccini shredded — (about 2 1/2 c)\n1 c sugar              1 c semisweet choc. chips\n1 tsp. bk. pwd.        1 c chopped walnuts\n1 \" soda.              3 eggs\n1 \" cinnamon           1/2 c buttermilk\n1/2 \" nutmeg           1/2 c veg. oil\n1/4 \" allspice         1 tsp vanilla\n1/4 \" salt.\nGrease/flour 2 loaf pans. Stir tog. flour, sugar, bk pwd, soda,\ncinnamon, nutmeg, allspice, salt, zuccini, choc chips & walnuts.",
+  "confidence": "high"
+ },
+ {
+  "photo": 174,
+  "kind": "recipe",
+  "title": "Zucchini Chip Loaf (Woman's World)",
+  "attribution": "Woman's World",
+  "category": "Breads & Buns",
+  "ingredients": [
+   "2 1/2 c flour",
+   "1 c sugar",
+   "1 tsp. bk. pwd.",
+   "1 tsp soda",
+   "1 tsp cinnamon",
+   "1/2 tsp nutmeg",
+   "1/4 tsp allspice",
+   "1/4 tsp salt",
+   "2 med. zucchini, shredded (about 2 1/2 c)",
+   "1 c semisweet choc. chips",
+   "1 c chopped walnuts",
+   "3 eggs",
+   "1/2 c buttermilk",
+   "1/2 c veg. oil",
+   "1 tsp vanilla"
+  ],
+  "directions": [
+   "Grease/flour 2 loaf pans.",
+   "Stir tog. flour, sugar, bk pwd, soda, cinnamon, nutmeg, allspice, salt, zucchini, choc chips & walnuts."
+  ],
+  "notes": [
+   "DUPLICATE: closer re-photograph of the same card as photo 173 (identical text)",
+   "V.G.",
+   "Bake @ 350° — 45-55 min",
+   "Continues on back (photo 175)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Zuccini Chip loaf — (Womans world)  V.G.\n                                   Bake @ 350° — 45-55 min\n2 1/2 c flour          2 med. zuccini shredded — (about 2 1/2 c)\n1 c sugar              1 c semisweet choc. chips\n1 tsp. bk. pwd.        1 c chopped walnuts\n1 \" soda.              3 eggs\n1 \" cinnamon           1/2 c buttermilk\n1/2 \" nutmeg           1/2 c veg. oil\n1/4 \" allspice         1 tsp vanilla\n1/4 \" salt.\nGrease/flour 2 loaf pans. Stir tog. flour, sugar, bk pwd, soda,\ncinnamon, nutmeg, allspice, salt, zuccini, choc chips & walnuts.",
+  "confidence": "high"
+ },
+ {
+  "photo": 175,
+  "kind": "continuation",
+  "title": "Zucchini Chip Loaf (Woman's World)",
+  "attribution": null,
+  "category": null,
+  "ingredients": [],
+  "directions": [
+   "In another bowl — whisk tog. eggs, buttermilk, oil & vanilla.",
+   "Stir liquid ingred. into flour mixture just until blended.",
+   "Cook — cool in pan on rack for 10 min. Remove pan & cool."
+  ],
+  "notes": [
+   "Back of the Zucchini Chip Loaf card (photos 173/174); rest of card blank"
+  ],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "In another bowl — whisk tog. eggs, buttermilk, oil & vanilla.\nStir liquid ingred. into flour mixture just until blended.\nCook — cool in pan on rack for 10 min. Remove pan & cool.",
+  "confidence": "high"
+ },
+ {
+  "photo": 176,
+  "kind": "recipe",
+  "title": "The Best Blueberry Muffins",
+  "attribution": "Jennifer P.",
+  "category": "Breads & Buns",
+  "ingredients": [
+   "1/2 c margarine",
+   "1 c sugar or less",
+   "2 lg. eggs",
+   "1 tsp. vanilla",
+   "2 tsp bk. pwd.",
+   "1/4 tsp. salt",
+   "2 1/2 c blueberries",
+   "2 c flour",
+   "1/2 c milk"
+  ],
+  "directions": [
+   "Beat marg. till creamy. Add sugar & beat. Add eggs 1 at a time.",
+   "Beat in vanilla, bkg. pwd. & salt.",
+   "With a spatula fold in 1/2 flour, then 1/2 the milk. Repeat — fold in blueberries.",
+   "Bake @ 375° for 25-30 min.",
+   "Makes 18 reg. size."
+  ],
+  "notes": [
+   "Printed card: 'Recipe: ... from the kitchen of: Jennifer P.  Yield:' with sunflower border",
+   "Last steps written sideways up the right margin: 'Repeat — fold in blueberries. Bake @ 375° for 25-30 min. Makes 18 reg. size.'"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Recipe: The Best Blueberry Muffins.        Yield:\nfrom the kitchen of: Jennifer P.\n1/2 c margarine            1/4 tsp. salt\n1 c sugar or less          2 1/2 c blueberries\n2 lg. eggs                 2 c flour\n1 tsp. vanilla             1/2 c milk\n2 \" bk. pwd.\nBeat marg. till creamy. Add sugar & beat. Add eggs 1 at a time.\nBeat in vanilla, bkg. pwd. & salt. c̄ a spatula fold in 1/2 flour, then 1/2 the milk.\n[sideways, right margin:] Repeat — fold in blueberries.\nBake @ 375° for 25-30 min.\nMakes 18 reg. size.",
+  "confidence": "high"
+ },
+ {
+  "photo": 177,
+  "kind": "recipe",
+  "title": "Sour Cream Banana Loaf",
+  "attribution": "re Mary Ann",
+  "category": "Breads & Buns",
+  "ingredients": [
+   "1/2 c marg.",
+   "1 1/2 c sugar",
+   "1 1/2 c sour cream",
+   "1 1/2 c mashed bananas",
+   "3 eggs",
+   "3 c flour",
+   "3 tsp. bkg. powder",
+   "1 1/2 tsp bkg. soda",
+   "1/4 tsp. salt",
+   "1 tsp. vanilla",
+   "3/4 c nuts (optional)"
+  ],
+  "directions": [
+   "Mix & bake in 350° oven in loaf pan — for 70 mins."
+  ],
+  "notes": [
+   "re Mary Ann (top right)"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Sour Cream Banana Loaf              re Mary Ann\n1/2 c marg.                  3 c flour\n1 1/2 c sugar                3 tsp. bkg. powder\n1 1/2 c sour cream.          1 1/2 tsp \" soda.\n1 1/2 c mashed bananas.      1/4 tsp. salt.\n3 eggs.                      1 tsp. vanilla\n                             3/4 c nuts (optional)\nMix & bake in 350° oven in loaf pan — for 70 mins.",
+  "confidence": "high"
+ },
+ {
+  "photo": 178,
+  "kind": "recipe",
+  "title": "Banana Bread",
+  "attribution": null,
+  "category": "Breads & Buns",
+  "ingredients": [
+   "1/2 c butter",
+   "1 1/2 c sugar",
+   "3/4 c sour cream",
+   "3/4 c milk",
+   "1 1/2 c mashed bananas",
+   "3 eggs",
+   "3 c flour",
+   "3 tsp. bk. powder",
+   "1 1/2 tsp soda",
+   "1/4 tsp salt",
+   "1 tsp vanilla",
+   "3/4 – 1 c nuts — optional"
+  ],
+  "directions": [
+   "Mix tog. & bake in 350° oven for 45-55 min.",
+   "(3 loaves) in blue enamel pans."
+  ],
+  "notes": [
+   "'(3 loaves)' — the 3 is written over another number; 'in blue enamel pans' added in a different pen",
+   "Ingredient '3/4 c \" milk' uses ditto marks for 'c'"
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "multiple_cards": false,
+  "raw_text": "Banana Bread.\n1/2 c butter                 3 c flour\n1 1/2 c sugar.               3 tsp. bk. powder\n3/4 c sour cream             1 1/2 \" soda\n3/4 c \" milk.                1/4 \" salt\n1 1/2 c mashed bananas       1 \" vanilla\n3 eggs.                      3/4 – 1 c nuts — optional —\nMix tog. & bake in 350° oven for 45-55 min.\n                              (3 loaves.) in blue\n                        enamel pans.",
+  "confidence": "high"
+ },
+ {
+  "photo": 179,
+  "kind": "recipe",
+  "title": "Cinnamon Buns (Quick)",
+  "attribution": "re Mary Ann",
+  "category": "Breads & Buns",
+  "ingredients": [
+   "3 loaves frozen bread dough (thaw for 20 min.)",
+   "1/2 pkg. butterscotch or caramel pudding (not instant)",
+   "cinnamon",
+   "raisins",
+   "nuts"
+  ],
+  "directions": [
+   "Thaw dough for 20 min. Cut in 3/4\" slices.",
+   "Spray Bundt pan or angel food. (2 pans)",
+   "Put slices around bottom of ea pan.",
+   "Sprinkle 1/2 pkg. butterscotch or caramel (not instant) pudding over slices.",
+   "Sprinkle cinnamon, raisins, nuts.",
+   "Top with remaining bread slices & put in..."
+  ],
+  "notes": [
+   "delicious — re Mary Ann (top right, written diagonally)",
+   "'instant' is crossed out before 'pudding'",
+   "Continues on back (photo 180): cold oven overnight ..."
+  ],
+  "continues_from_previous": false,
+  "continues_to_next": true,
+  "multiple_cards": false,
+  "raw_text": "Cinnamon Buns (Quick)              delicious\n                                   re Mary Ann\n3 loaves frozen bread dough\n(Thaw for 20 min.)\nCut in 3/4\" slices.\nspray Bundt pan or angel food. (2 pans)\nput slices around bottom of ea pan.\nsprinkle 1/2 pkg. butterscotch or caramel\n~~instant~~ pudding over slices.\nsprinkle cinnamon, raisins, nuts.\nTop c̄ remaining bread slices & put in",
+  "confidence": "high"
+ }
+]
