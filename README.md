@@ -3,7 +3,7 @@
 A family cookbook made from every card, slip and clipping in Grandma Harris's recipe box — 446 recipes,
 transcribed exactly as she wrote them, each printed beside a photograph of the original handwritten card.
 
-**Read it online:** https://robertarthurjackson.github.io/grandma-on-the-farm/
+**Read it online:** https://grandmaonthefarm.com/
 
 **Download the book (PDF, 346 pages, 79 MB):** see the [latest release](../../releases/latest) —
 `Grandma-on-the-Farm.pdf` is the whole book (with covers) for reading; the `print-files` are for sending to a
